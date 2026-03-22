@@ -46,7 +46,11 @@
     "question_number": 4,
     "question": "Age structure in Nigeria is such that the working age-group is in the years",
     "options": {
-      "A": "1-15 B. 15-65 C. 30-40 D. 40-65E. 65 and above"
+      "A": "1-15",
+      "B": "15-65",
+      "C": "30-40",
+      "D": "40-65",
+      "E": "65 and above"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -153,8 +157,10 @@
     "question_number": 12,
     "question": "The table below shows the market schedule for semovita. QUANTITY QUANTITY PRICE DEMANDED SUPPLIED per 5 kg bag in bags in bags N3.00 15,000 1,500 N4.00 13,000 3,000 N5.00 10,000 6,000 N6.00 7,000 7,000 N7.00 5,000 9,000 N8.00 4,000 12,000 N9.00 2,000 14,000 What is the market equilibrium price?",
     "options": {
-      "A": ".N5.00B. N8.00 C. N9.00",
-      "D": "N7.00 E. N6.00"
+      "A": ".N5.00",
+      "B": "N8.00 C. N9.00",
+      "D": "N7.00",
+      "E": "N6.00"
     },
     "has_diagram": true,
     "diagram_image": "page_03_diagram.png"
@@ -206,8 +212,10 @@
     "question_number": 23,
     "question": "Which of the following are direct taxes",
     "options": {
-      "A": "Sales taxes B. Excise duties",
-      "C": "Income and company taxes D. Tariff duties",
+      "A": "Sales taxes",
+      "B": "Excise duties",
+      "C": "Income and company taxes",
+      "D": "Tariff duties",
       "E": "Commodity taxes"
     },
     "has_diagram": false,
@@ -410,8 +418,10 @@
     "question_number": 39,
     "question": "The monetary system that requires double coincidence of wants is known as",
     "options": {
-      "A": "The gold standard B.Barter",
-      "C": "The commodity syste D.The gold exchange standard",
+      "A": "The gold standard",
+      "B": "Barter",
+      "C": "The commodity syste",
+      "D": "The gold exchange standard",
       "E": "The cheque system"
     },
     "has_diagram": false,
@@ -435,8 +445,10 @@
     "question_number": 41,
     "question": "Money performs a number of functions. ONE of these functions makes it possible for any person to provide for old age. Because of that particular function, money is regarded as a",
     "options": {
-      "A": "Medium of exchangeB. Measure of value",
-      "C": "Unit of account D.Store of value",
+      "A": "Medium of exchange",
+      "B": "Measure of value",
+      "C": "Unit of account",
+      "D": "Store of value",
       "E": "Standard for deferred payments."
     },
     "has_diagram": false,
@@ -447,8 +459,10 @@
     "question_number": 1,
     "question": "The main economic objective behind the production of goods and services in any economy is to",
     "options": {
-      "A": "Maximize profitsB. Satisfy human wants",
-      "C": "Become self-reliant D.Create job opportunities",
+      "A": "Maximize profits",
+      "B": "Satisfy human wants",
+      "C": "Become self-reliant",
+      "D": "Create job opportunities",
       "E": "Make people wealthy."
     },
     "has_diagram": true,
@@ -473,8 +487,10 @@
     "question_number": 3,
     "question": "Division of labour is limited by",
     "options": {
-      "A": "The size of the market B. The productivity of capit",
-      "C": "Cost of production D. The factors of production",
+      "A": "The size of the market",
+      "B": "The productivity of capit",
+      "C": "Cost of production",
+      "D": "The factors of production",
       "E": "Government policy"
     },
     "has_diagram": true,
@@ -485,8 +501,10 @@
     "question_number": 4,
     "question": "The production within the domestic territory of a country is called the",
     "options": {
-      "A": "Net national product B. Gross domestic product",
-      "C": "Net income D. Disposable income",
+      "A": "Net national product",
+      "B": "Gross domestic product",
+      "C": "Net income",
+      "D": "Disposable income",
       "E": "Gross national product"
     },
     "has_diagram": true,
@@ -525,8 +543,10 @@
     "question_number": 7,
     "question": "Fixed Variable Total Marginal Average Quantity Cost Cost Cost Cost Cost N N N N N 1 750 200 950 - 950 2 750 560 1310 360 655 3 750 900 1650 ? 550 The above table shows the short-run costs of a firm. What is the firm’s marginal cost for the third item produced?",
     "options": {
-      "A": "N350.00 B.N349.00C. N360.00",
-      "D": "N370.50 E. N505.00 cs 1984"
+      "A": "N350.00",
+      "B": "N349.00C. N360.00",
+      "D": "N370.50",
+      "E": "N505.00 cs 1984"
     },
     "has_diagram": true,
     "diagram_image": "page_06_diagram.png"
@@ -536,8 +556,10 @@
     "question_number": 8,
     "question": "The advantages that accrue to a firm as the size of the firm increases are known as",
     "options": {
-      "A": "External diseconomiesB.Internal returnes to scale",
-      "C": "Internal economies D.Internal diseconomies",
+      "A": "External diseconomies",
+      "B": "Internal returnes to scale",
+      "C": "Internal economies",
+      "D": "Internal diseconomies",
       "E": "Constant returns to scale."
     },
     "has_diagram": true,
@@ -562,9 +584,11 @@
     "question_number": 10,
     "question": "Which of the following is NOT an obstacle to economic development?",
     "options": {
-      "A": "Low level of investmentB. Lack of modern technology",
+      "A": "Low level of investment",
+      "B": "Lack of modern technology",
       "C": "High rate of population growth",
-      "D": "Low productivity E. Dedicated leadership"
+      "D": "Low productivity",
+      "E": "Dedicated leadership"
     },
     "has_diagram": true,
     "diagram_image": "page_06_diagram.png"
@@ -659,8 +683,10 @@
     "question": "For two substitute goods, the cross elasticity of demand is",
     "options": {
       "A": "Greater than one but less than two",
-      "B": "Zero C. Negative",
-      "D": "Positive E. Infinity"
+      "B": "Zero",
+      "C": "Negative",
+      "D": "Positive",
+      "E": "Infinity"
     },
     "has_diagram": true,
     "diagram_image": "page_07_diagram.png"
@@ -670,8 +696,10 @@
     "question_number": 18,
     "question": "The control of prices by legislation usually produces a number of consequences. Which of the following is NOT an associated problem of maximum price control?",
     "options": {
-      "A": "Excess supply B. Favouritism",
-      "C": "Bribery and corruptionD. Black marketing",
+      "A": "Excess supply",
+      "B": "Favouritism",
+      "C": "Bribery and corruption",
+      "D": "Black marketing",
       "E": "Hoarding"
     },
     "has_diagram": true,
@@ -749,8 +777,10 @@
     "question_number": 31,
     "question": "The most important characteristic of money is",
     "options": {
-      "A": "Portability B. Intrinsic value",
-      "C": "Acceptability D. Usefulness",
+      "A": "Portability",
+      "B": "Intrinsic value",
+      "C": "Acceptability",
+      "D": "Usefulness",
       "E": "Beauty"
     },
     "has_diagram": true,
@@ -844,8 +874,10 @@
     "question_number": 38,
     "question": "Public expenditure on services, such as education and health, is known as expenditure on",
     "options": {
-      "A": "General services B. Community services",
-      "C": "Social services D. Economic services",
+      "A": "General services",
+      "B": "Community services",
+      "C": "Social services",
+      "D": "Economic services",
       "E": "Administrative services Questions 39 and 40 are based o the table below: The international production set for Nigeria and Austria is: Product Nigeria Austria Cocoa 20 tonnes 12 tonnes Lace 10 metres 8 metres de"
     },
     "has_diagram": true,
@@ -856,8 +888,10 @@
     "question_number": 39,
     "question": "The opportunity cost ratio for cocoa and lace for Austria and Nigeria is",
     "options": {
-      "A": "2, 2 B. 2, 1, 5 C. 1, 5, 4",
-      "D": "1, 5, 2 E. 0.5, 1,5"
+      "A": "2, 2",
+      "B": "2, 1, 5 C. 1, 5, 4",
+      "D": "1, 5, 2",
+      "E": "0.5, 1,5"
     },
     "has_diagram": true,
     "diagram_image": "page_08_diagram.png"
@@ -1228,8 +1262,10 @@
     "question_number": 32,
     "question": "Which of the following is NOT among the canons of taxation as set out by Adam Smith?",
     "options": {
-      "A": "Equality B. Security C. Certainty",
-      "D": "ConvenienceE. Economy"
+      "A": "Equality",
+      "B": "Security C. Certainty",
+      "D": "Convenience",
+      "E": "Economy"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -1253,8 +1289,10 @@
     "question_number": 34,
     "question": "Tax which is levied on goods manufactured, sold or used within the country is",
     "options": {
-      "A": "Sales tax B. Excise tax C. Direct tax",
-      "D": "Income tax E. Poll tax"
+      "A": "Sales tax",
+      "B": "Excise tax C. Direct tax",
+      "D": "Income tax",
+      "E": "Poll tax"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -1328,7 +1366,11 @@
     "question_number": 40,
     "question": "How many National Development Plans did Nigeria have between 1960 and 1984?",
     "options": {
-      "A": "One B. Two C. Four D.Five E. Six"
+      "A": "One",
+      "B": "Two",
+      "C": "Four",
+      "D": "Five",
+      "E": "Six"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -1366,8 +1408,10 @@
     "question_number": 43,
     "question": "Which of the following items does NOT belong to a country’s current account in the balance of payments account?",
     "options": {
-      "A": "Merchandise exports B. Merchandise imports",
-      "C": "Travel D. Foreign currencies E.Insurance services"
+      "A": "Merchandise exports",
+      "B": "Merchandise imports",
+      "C": "Travel",
+      "D": "Foreign currencies E.Insurance services"
     },
     "has_diagram": true,
     "diagram_image": "page_09_diagram.png"
@@ -1418,8 +1462,10 @@
     "question_number": 2,
     "question": "Which of these is the real cost of satisfying any want in the sense of the alternative that has to be foregone?",
     "options": {
-      "A": "Variable cost B. Opportunity cost",
-      "C": "Total cost D. Prime cost"
+      "A": "Variable cost",
+      "B": "Opportunity cost",
+      "C": "Total cost",
+      "D": "Prime cost"
     },
     "has_diagram": true,
     "diagram_image": "page_13_diagram.png"
@@ -1492,8 +1538,10 @@
     "question_number": 8,
     "question": "The table below illustrates the law of diminishing returns on a farm. Fixed Unit Variable Total Marginal Of land Unit of Output Product (Hectares) Labour (TO) (MP) 5 1 10 10 5 2 25 15 5 3 X 21 5 4 60 14 5 5 73 13 5 6 82 Y Which pair of the following answers is appropriate for the missing information in the spaces marked X and Y?",
     "options": {
-      "A": "X = 20, Y = 6 B. X = 38, Y = 9",
-      "C": "X = 46, Y = 9 D. X = 46, Y = 14",
+      "A": "X = 20, Y = 6",
+      "B": "X = 38, Y = 9",
+      "C": "X = 46, Y = 9",
+      "D": "X = 46, Y = 14",
       "E": "X = 10, Y = 10"
     },
     "has_diagram": true,
@@ -1605,7 +1653,8 @@
     "question_number": 18,
     "question": "The revenue accruing to the seller of commodity X as a result of a fall in price will",
     "options": {
-      "A": "Increase B. Fall",
+      "A": "Increase",
+      "B": "Fall",
       "C": "First fall but will increase later",
       "D": "Remain unchanged"
     },
@@ -1810,8 +1859,10 @@
     "question_number": 47,
     "question": "Output Total Cost (N) 1 20 2 56 3 96 4 144 5 160 In the table above, the marginal cost when output is two units is,",
     "options": {
-      "A": "N16.00 B. N20.00 C.N36.00",
-      "D": "N40.00 E. N48.00 Economi"
+      "A": "N16.00",
+      "B": "N20.00 C.N36.00",
+      "D": "N40.00",
+      "E": "N48.00 Economi"
     },
     "has_diagram": true,
     "diagram_image": "page_13_diagram.png"
@@ -1930,8 +1981,10 @@
     "question_number": 10,
     "question": "In the history of Economic Thought, the concept of Division of Labour is usually associated with",
     "options": {
-      "A": "David Richardo B. J. M. Keynes",
-      "C": "Adam Smith D. Karl Marx"
+      "A": "David Richardo",
+      "B": "J. M. Keynes",
+      "C": "Adam Smith",
+      "D": "Karl Marx"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -1941,8 +1994,10 @@
     "question_number": 11,
     "question": "The form of capital which is usually consumed or transformed into finished goods and services in the production process is called",
     "options": {
-      "A": "Industrial capitalB. Social capital",
-      "C": "Fixed captal D. Circulating capital"
+      "A": "Industrial capital",
+      "B": "Social capital",
+      "C": "Fixed captal",
+      "D": "Circulating capital"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -2038,8 +2093,10 @@
     "question_number": 28,
     "question": "To which of the following sectors do services belong?",
     "options": {
-      "A": "Indeterminable B. Unlimited",
-      "C": "Transferable D. Limited"
+      "A": "Indeterminable",
+      "B": "Unlimited",
+      "C": "Transferable",
+      "D": "Limited"
     },
     "has_diagram": true,
     "diagram_image": "page_18_diagram.png"
@@ -2049,8 +2106,10 @@
     "question_number": 30,
     "question": "Which of the following is NOT a type of business ownership",
     "options": {
-      "A": "Debenture holding B. Private company",
-      "C": "Partnership D. Joint stock venture"
+      "A": "Debenture holding",
+      "B": "Private company",
+      "C": "Partnership",
+      "D": "Joint stock venture"
     },
     "has_diagram": true,
     "diagram_image": "page_18_diagram.png"
@@ -2073,8 +2132,10 @@
     "question_number": 32,
     "question": "A limited liability company is usually owned by",
     "options": {
-      "A": "An individual B. A government",
-      "C": "Share-holders D. Two or more partners"
+      "A": "An individual",
+      "B": "A government",
+      "C": "Share-holders",
+      "D": "Two or more partners"
     },
     "has_diagram": true,
     "diagram_image": "page_18_diagram.png"
@@ -2228,7 +2289,8 @@
     "options": {
       "A": "Comparative political advantage over other countries not in the region",
       "B": "A large market for their products",
-      "C": "Military superiority over countries not in the region h D. Lower the transportation cost of goods within the region"
+      "C": "Military superiority over countries not in the region h",
+      "D": "Lower the transportation cost of goods within the region"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -2550,8 +2612,10 @@
     "question_number": 23,
     "question": "Which of the following is TRUE at the quantity of output where Average Cost (AC) per unit has reached its minimum level?",
     "options": {
-      "A": "AVC = FC B. MC = AC",
-      "C": "MC = AC D. AC = AFC"
+      "A": "AVC = FC",
+      "B": "MC = AC",
+      "C": "MC = AC",
+      "D": "AC = AFC"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -2600,8 +2664,10 @@
     "question_number": 27,
     "question": "In a public company, entrepreneurial functions are performed by the",
     "options": {
-      "A": "Workers B. Shareholders",
-      "C": "General managerD. Board of directors"
+      "A": "Workers",
+      "B": "Shareholders",
+      "C": "General manager",
+      "D": "Board of directors"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -2635,8 +2701,10 @@
     "question_number": 39,
     "question": "A budget with a projected revenue in excess of its expenditure is said to be",
     "options": {
-      "A": "Balanced B. Surplus",
-      "C": "Deficit D. Inflationary"
+      "A": "Balanced",
+      "B": "Surplus",
+      "C": "Deficit",
+      "D": "Inflationary"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -2793,7 +2861,8 @@
     "question_number": 8,
     "question": "Given perfect competition in the capital market, the opportunity cost of capital is adequately reflected by the",
     "options": {
-      "A": "Interest rate B. Returns on capital",
+      "A": "Interest rate",
+      "B": "Returns on capital",
       "C": "Alternative capital foregone",
       "D": "Shadow rice of foreign exchange"
     },
@@ -2916,8 +2985,10 @@
     "question_number": 24,
     "question": "The type of business finance that entitles the holder to a fixed rate of dividend is",
     "options": {
-      "A": "Preferred stock B. Common stock",
-      "C": "Debenture D. Bank loan"
+      "A": "Preferred stock",
+      "B": "Common stock",
+      "C": "Debenture",
+      "D": "Bank loan"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -2927,8 +2998,10 @@
     "question_number": 25,
     "question": "Which of the business organizations listed below is characterized by limited authority and liability of the individual owners?",
     "options": {
-      "A": "Sole proprietorship B. Partnership",
-      "C": "Joint Stock companyD. Co-operative society"
+      "A": "Sole proprietorship",
+      "B": "Partnership",
+      "C": "Joint Stock company",
+      "D": "Co-operative society"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -2964,7 +3037,8 @@
     "question_number": 29,
     "question": "A major factor affecting the value of money is the",
     "options": {
-      "A": "Price level ight B. Banking habit",
+      "A": "Price level ight",
+      "B": "Banking habit",
       "C": "Transaction motive",
       "D": "Divisible nature of money y"
     },
@@ -3066,8 +3140,10 @@
     "question_number": 37,
     "question": "Which of the following is a direct tax?",
     "options": {
-      "A": "Excise tax B. Corporate income tax",
-      "C": "Property tax D. Highway-"
+      "A": "Excise tax",
+      "B": "Corporate income tax",
+      "C": "Property tax",
+      "D": "Highway-"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -3090,8 +3166,10 @@
     "question_number": 39,
     "question": "Which of the following is a good example of invisible item on balance of payments account?",
     "options": {
-      "A": "Shipping an aviation B. Export and import",
-      "C": "Merchandise D. Bullion"
+      "A": "Shipping an aviation",
+      "B": "Export and import",
+      "C": "Merchandise",
+      "D": "Bullion"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -3101,8 +3179,10 @@
     "question_number": 40,
     "question": "Deficit financing is mostly facilitated by the existence",
     "options": {
-      "A": "Stock exchange market B. Commercial ba",
-      "C": "Central bank D. Capital market"
+      "A": "Stock exchange market",
+      "B": "Commercial ba",
+      "C": "Central bank",
+      "D": "Capital market"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -3208,8 +3288,10 @@
     "question_number": 50,
     "question": "The group of unemployed members of a community who are physically handicapped or disabled, is generally classfied under unemployment as.",
     "options": {
-      "A": "Frictional B. Cyclical",
-      "C": "Residual D. Hidden ics 1989"
+      "A": "Frictional",
+      "B": "Cyclical",
+      "C": "Residual",
+      "D": "Hidden ics 1989"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -3219,8 +3301,10 @@
     "question_number": 1,
     "question": "If one orange costs 20k and one kilogram of beef costs N10.00, the opportunity cost of one kilogram of beef is",
     "options": {
-      "A": "50 orange B. 10 orange",
-      "C": "5 orange D. N9.80"
+      "A": "50 orange",
+      "B": "10 orange",
+      "C": "5 orange",
+      "D": "N9.80"
     },
     "has_diagram": true,
     "diagram_image": "page_26_diagram.png"
@@ -3243,8 +3327,10 @@
     "question_number": 3,
     "question": "The flow labelled Y refers to",
     "options": {
-      "A": "Real income B. Factor payments",
-      "C": "Factors input D. National income"
+      "A": "Real income",
+      "B": "Factor payments",
+      "C": "Factors input",
+      "D": "National income"
     },
     "has_diagram": true,
     "diagram_image": "page_26_diagram.png"
@@ -3327,7 +3413,8 @@
     "question_number": 10,
     "question": "A Situation in which all inputs are doubled and output also doubles is known as",
     "options": {
-      "A": "Constant proportion B. Constant returns",
+      "A": "Constant proportion",
+      "B": "Constant returns",
       "C": "Increasing returns to scale",
       "D": "Constant returns to scale"
     },
@@ -3375,8 +3462,10 @@
     "question_number": 14,
     "question": "If an increase in income induces a reduction the demand for beans, beans can be referred to as",
     "options": {
-      "A": "A normal good B. An inferior good",
-      "C": "A substitute D. A giffen good"
+      "A": "A normal good",
+      "B": "An inferior good",
+      "C": "A substitute",
+      "D": "A giffen good"
     },
     "has_diagram": true,
     "diagram_image": "page_27_diagram.png"
@@ -3503,8 +3592,10 @@
     "question_number": 30,
     "question": "Which of the following is like to be inflationary?",
     "options": {
-      "A": "Tax increaseB. Increase in unemployment",
-      "C": "Budget surplus D. Wage increases"
+      "A": "Tax increase",
+      "B": "Increase in unemployment",
+      "C": "Budget surplus",
+      "D": "Wage increases"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -3574,7 +3665,8 @@
     "question_number": 36,
     "question": "The relationship between tax rate and income which i relevant to a proportional tax is depicted by",
     "options": {
-      "A": "Curves Z and Y B. Curve X",
+      "A": "Curves Z and Y",
+      "B": "Curve X",
       "C": "Curve Z",
       "D": "Curve Y"
     },
@@ -3612,8 +3704,10 @@
     "question_number": 39,
     "question": "Which of the following is likely to reduce a surplus in the balance of payments of a country?",
     "options": {
-      "A": "DevaluationB. Increased tarrif on imports",
-      "C": "Export promotion D. Currency appreciation"
+      "A": "Devaluation",
+      "B": "Increased tarrif on imports",
+      "C": "Export promotion",
+      "D": "Currency appreciation"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -3636,8 +3730,10 @@
     "question_number": 41,
     "question": "Taxes and government expenditures are instruments of",
     "options": {
-      "A": "Monetary policyB. Tax policy",
-      "C": "Economy policy D. Fiscal policy"
+      "A": "Monetary policy",
+      "B": "Tax policy",
+      "C": "Economy policy",
+      "D": "Fiscal policy"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -3671,8 +3767,10 @@
     "question_number": 44,
     "question": "If the government invests the sum of N1 000.00 and the marginal propensity to consume is 0.75, what it the change in income?",
     "options": {
-      "A": "N 1000 000.00 B. N4 000 000.00",
-      "C": "6 000 000.00 D. N14 000 000.00"
+      "A": "N 1000 000.00",
+      "B": "N4 000 000.00",
+      "C": "6 000 000.00",
+      "D": "N14 000 000.00"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -3682,7 +3780,8 @@
     "question_number": 45,
     "question": "The system of measurement of national income as the sum of all final demands is called",
     "options": {
-      "A": "Income approach B. Expenditure approach",
+      "A": "Income approach",
+      "B": "Expenditure approach",
       "C": "Is payable tot he disabled members of the community",
       "D": "Accrues tot he environmental sanitation authorities for refuse"
     },
@@ -3782,7 +3881,8 @@
     "options": {
       "A": "The five naira she spent on the book",
       "B": "Five naira real cash value",
-      "C": "The mirror D. The book"
+      "C": "The mirror",
+      "D": "The book"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -3926,7 +4026,8 @@
     "options": {
       "A": "Marginal revenue",
       "B": "Average variable cost",
-      "C": "Marginal cost D. Total cost"
+      "C": "Marginal cost",
+      "D": "Total cost"
     },
     "has_diagram": true,
     "diagram_image": "page_30_diagram.png"
@@ -3986,8 +4087,10 @@
     "question_number": 21,
     "question": "Demand is relatively inelastic",
     "options": {
-      "A": "At P2 range B. In the P2 P4 price range",
-      "C": "At P3 only D. At any prices below P2"
+      "A": "At P2 range",
+      "B": "In the P2 P4 price range",
+      "C": "At P3 only",
+      "D": "At any prices below P2"
     },
     "has_diagram": true,
     "diagram_image": "page_30_diagram.png"
@@ -4114,7 +4217,8 @@
     "question_number": 31,
     "question": "To perform its function as a store of wealth and standard for deferred payment, money must be",
     "options": {
-      "A": "PortableB. In attractive form",
+      "A": "Portable",
+      "B": "In attractive form",
       "C": "Stable in value",
       "D": "Spent more on capital goods than on consumer goods"
     },
@@ -4139,8 +4243,10 @@
     "question_number": 47,
     "question": "In equilibrium, injections are equal to",
     "options": {
-      "A": "Withdrawals B.Surplus of imports over exports",
-      "C": "Government spending D. Wages"
+      "A": "Withdrawals",
+      "B": "Surplus of imports over exports",
+      "C": "Government spending",
+      "D": "Wages"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -4150,7 +4256,8 @@
     "question_number": 48,
     "question": "Social overhead capital refers to",
     "options": {
-      "A": "Balanced growthB. Gross investment",
+      "A": "Balanced growth",
+      "B": "Gross investment",
       "C": "The building of infrastructures",
       "D": "Capital formation Economi"
     },
@@ -4611,7 +4718,8 @@
     "options": {
       "A": "All final goods and services produced in a country during the year",
       "B": "All assets of a country in a particular year",
-      "C": "Exports net of total value of imports ted by D. All receipts."
+      "C": "Exports net of total value of imports ted by",
+      "D": "All receipts."
     },
     "has_diagram": false,
     "diagram_image": null
@@ -4631,8 +4739,10 @@
     "question_number": 48,
     "question": "If W stands for wages/salaries, P for profit, R for interest and Z for rent on land and real estate, then national income is",
     "options": {
-      "A": "W - P - R - Z B. W + P + Z - R",
-      "C": "P - R - Z + W D. W + P + R + Z"
+      "A": "W - P - R - Z",
+      "B": "W + P + Z - R",
+      "C": "P - R - Z + W",
+      "D": "W + P + R + Z"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -4775,8 +4885,10 @@
     "question_number": 10,
     "question": "In the theory of production and cost, the average total cost of a firm is minimized when the marginal cost curve cuts the average total cost at its.",
     "options": {
-      "A": "Lowest point B. Middle point",
-      "C": "Maximum point D. Downward slopping section"
+      "A": "Lowest point",
+      "B": "Middle point",
+      "C": "Maximum point",
+      "D": "Downward slopping section"
     },
     "has_diagram": true,
     "diagram_image": "page_36_diagram.png"
@@ -4799,8 +4911,10 @@
     "question_number": 12,
     "question": "If labour productivity in the cement industry is as increasing output of cement is expanded, then the amount of labour perfect competition is that in the former",
     "options": {
-      "A": "Less than zero B. Decreasing",
-      "C": "Constant D. Increasing"
+      "A": "Less than zero",
+      "B": "Decreasing",
+      "C": "Constant",
+      "D": "Increasing"
     },
     "has_diagram": true,
     "diagram_image": "page_37_diagram.png"
@@ -4903,7 +5017,8 @@
     "options": {
       "A": "Debenture holders",
       "B": "Ordinary shareholders",
-      "C": "Preference shareholders D. Creditors"
+      "C": "Preference shareholders",
+      "D": "Creditors"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -4913,8 +5028,10 @@
     "question_number": 27,
     "question": "Wheat grows best in",
     "options": {
-      "A": "Tropical climate B. Temperate climate",
-      "C": "Equatorial climateD. Hot desert"
+      "A": "Tropical climate",
+      "B": "Temperate climate",
+      "C": "Equatorial climate",
+      "D": "Hot desert"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -4924,8 +5041,10 @@
     "question_number": 28,
     "question": "On the basis of the contribution to employment, the most important economic sector in West Africa is",
     "options": {
-      "A": "Industry B. Agriculture",
-      "C": "Construction D. Commerce"
+      "A": "Industry",
+      "B": "Agriculture",
+      "C": "Construction",
+      "D": "Commerce"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -4935,7 +5054,8 @@
     "question_number": 29,
     "question": "The most popularly adopted industrialization strategy in West Africa is",
     "options": {
-      "A": "Import substitution B. Export promotion",
+      "A": "Import substitution",
+      "B": "Export promotion",
       "C": "Ports development",
       "D": "Infant industries protection"
     },
@@ -4960,7 +5080,8 @@
     "question_number": 31,
     "question": "Since the mid-1980s, the most disturbing developmen in the industrial sector in Nigeria is",
     "options": {
-      "A": "Labour intensityB. Capital intensity",
+      "A": "Labour intensity",
+      "B": "Capital intensity",
       "C": "Poor technology",
       "D": "Capacity under-utilization"
     },
@@ -5122,8 +5243,10 @@
     "question_number": 8,
     "question": "From which of the following does Nigeria derive trade concessions?",
     "options": {
-      "A": "I. M. F. B. World Bank",
-      "C": "A. D. BD. E.E.C."
+      "A": "I. M. F.",
+      "B": "World Bank",
+      "D": "BD.",
+      "E": "E.C."
     },
     "has_diagram": true,
     "diagram_image": "page_39_diagram.png"
@@ -5185,8 +5308,10 @@
     "question_number": 43,
     "question": "Below equilibrium, the gap between aggregate demand an the full employment lev4el of income is called the",
     "options": {
-      "A": "Inflationary gap B. Income gap",
-      "C": "Unemployment D. Deflationary gap"
+      "A": "Inflationary gap",
+      "B": "Income gap",
+      "C": "Unemployment",
+      "D": "Deflationary gap"
     },
     "has_diagram": true,
     "diagram_image": "page_39_diagram.png"
@@ -5196,8 +5321,10 @@
     "question_number": 44,
     "question": "Which of the following are the advantages of Nigeria’s membership of ECOWAS? I. A greater opportunity for trade according to comparative cost advantage II. A larger market for industries producing under conditions of decreasing cost III. Competition for home based monopol firms",
     "options": {
-      "A": "I and II only B. I and III only",
-      "C": "II and III only D. I, II and III"
+      "A": "I and II only",
+      "B": "I and III only",
+      "C": "II and III only",
+      "D": "I, II and III"
     },
     "has_diagram": true,
     "diagram_image": "page_39_diagram.png"
@@ -5316,8 +5443,10 @@
     "question_number": 15,
     "question": "The opportunity cost of the use of productive resources which a producer owns and so does not pay for, constitutes",
     "options": {
-      "A": "a fixed cost B. an implicit cost",
-      "C": "a variable cost D. a prime cost"
+      "A": "a fixed cost",
+      "B": "an implicit cost",
+      "C": "a variable cost",
+      "D": "a prime cost"
     },
     "has_diagram": true,
     "diagram_image": "page_44_diagram.png"
@@ -5353,8 +5482,10 @@
     "question_number": 18,
     "question": "In a free market economy, available resources are mor efficiently allocated by complete reliance on",
     "options": {
-      "A": "development planning B. strategic planning",
-      "C": "capital budgeting D. price system"
+      "A": "development planning",
+      "B": "strategic planning",
+      "C": "capital budgeting",
+      "D": "price system"
     },
     "has_diagram": true,
     "diagram_image": "page_44_diagram.png"
@@ -5408,8 +5539,10 @@
     "question_number": 24,
     "question": "Stocking small quantities of a variety of goods is a function of the",
     "options": {
-      "A": "manufacturer B. wholesaler",
-      "C": "retailer D. consumer"
+      "A": "manufacturer",
+      "B": "wholesaler",
+      "C": "retailer",
+      "D": "consumer"
     },
     "has_diagram": true,
     "diagram_image": "page_44_diagram.png"
@@ -5505,8 +5638,10 @@
     "question_number": 32,
     "question": "The crucial factors which determine the location of petroleum refineries in Nigeria are availability of raw materials and",
     "options": {
-      "A": "capital B. political consideration",
-      "C": "nearness to source of power D. labour"
+      "A": "capital",
+      "B": "political consideration",
+      "C": "nearness to source of power",
+      "D": "labour"
     },
     "has_diagram": true,
     "diagram_image": "page_45_diagram.png"
@@ -5542,8 +5677,10 @@
     "question_number": 35,
     "question": "The major source of Nigeria’s foreign exchange is the export of",
     "options": {
-      "A": "skilled manpower B. palm-kernel and cocoa",
-      "C": "crude oil D. groundnuts and cotton"
+      "A": "skilled manpower",
+      "B": "palm-kernel and cocoa",
+      "C": "crude oil",
+      "D": "groundnuts and cotton"
     },
     "has_diagram": true,
     "diagram_image": "page_45_diagram.png"
@@ -5592,8 +5729,10 @@
     "question_number": 2,
     "question": "Ike’s scale of preference reveals that he prefers bananas to pawpaw, pawpaw to oranges and oranges to bananas. Ike’s preferences are therefore",
     "options": {
-      "A": "inconsistent B. consistent",
-      "C": "transitive D. rational"
+      "A": "inconsistent",
+      "B": "consistent",
+      "C": "transitive",
+      "D": "rational"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -5639,7 +5778,8 @@
     "question_number": 6,
     "question": "When a country’s population is experiencing increas ing returns, that country is said to be",
     "options": {
-      "A": "overpopulated B. economically poor",
+      "A": "overpopulated",
+      "B": "economically poor",
       "C": "over producing goods and services",
       "D": "underpopulated"
     },
@@ -5672,7 +5812,8 @@
     "question_number": 9,
     "question": "Labour productivity is the ratio of",
     "options": {
-      "A": "Labour to output B.Man-hours to output",
+      "A": "Labour to output",
+      "B": "Man-hours to output",
       "C": "Output to man-hours",
       "D": "Average products to man-hours"
     },
@@ -5684,8 +5825,10 @@
     "question_number": 10,
     "question": "The type of cost which has to be covered for a firm to continue production in the short-run is the",
     "options": {
-      "A": "Overhead cost B. Fixed cost",
-      "C": "Marginal cost D. Average variable cost Use the diagram below to answer question 11 and 12 Consumer goods II I Capital goods The current stage of the economy is depicted in curve I"
+      "A": "Overhead cost",
+      "B": "Fixed cost",
+      "C": "Marginal cost",
+      "D": "Average variable cost Use the diagram below to answer question 11 and 12 Consumer goods II I Capital goods The current stage of the economy is depicted in curve I"
     },
     "has_diagram": true,
     "diagram_image": "page_47_diagram.png"
@@ -5744,7 +5887,8 @@
     "question_number": 22,
     "question": "A form of business organization which is character ized by limited authority and liability of the individual owners is the",
     "options": {
-      "A": "sole proprietorship B. partnership",
+      "A": "sole proprietorship",
+      "B": "partnership",
       "C": "joint stock company",
       "D": "co-operative society"
     },
@@ -5808,8 +5952,10 @@
     "question_number": 27,
     "question": "Plywood industries are often located near the source of",
     "options": {
-      "A": "financeB. labour",
-      "C": "power D. raw materials"
+      "A": "finance",
+      "B": "labour",
+      "C": "power",
+      "D": "raw materials"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -5871,8 +6017,10 @@
     "question_number": 32,
     "question": "The most important attribute of money is",
     "options": {
-      "A": "homogeneity B. relative scarcity",
-      "C": "divisibility D. general acceptability"
+      "A": "homogeneity",
+      "B": "relative scarcity",
+      "C": "divisibility",
+      "D": "general acceptability"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -5929,8 +6077,10 @@
     "question_number": 37,
     "question": "The use of legally permissible means to reduce tax liabilities is known as tax",
     "options": {
-      "A": "evasionB. avoidance",
-      "C": "relief D. exemption"
+      "A": "evasion",
+      "B": "avoidance",
+      "C": "relief",
+      "D": "exemption"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -6011,8 +6161,10 @@
     "question_number": 44,
     "question": "The total tax revenue is represented by",
     "options": {
-      "A": "PEHP B. PHQPO 1 0 0",
-      "C": "PEQO D. PEDP 1 0 1 1 0"
+      "A": "PEHP",
+      "B": "PHQPO 1 0 0",
+      "C": "PEQO",
+      "D": "PEDP 1 0 1 1 0"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -6035,8 +6187,10 @@
     "question_number": 46,
     "question": "Ajanka, a medical student entitled to an annual allowance of N6 000, decides to leave the university to take up a job where he earns N7 000 per annum. By this singular act, the national income level will.",
     "options": {
-      "A": "increase by N1 000 B. decrease by N7 000",
-      "C": "increase by N7 000 D. increase by N13 000"
+      "A": "increase by N1 000",
+      "B": "decrease by N7 000",
+      "C": "increase by N7 000",
+      "D": "increase by N13 000"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -6072,8 +6226,10 @@
     "question_number": 49,
     "question": "Foreign exchange rate in a free market economy is determined by",
     "options": {
-      "A": "The government B. The Central Bank",
-      "C": "Demand and supply D. Commercial banks"
+      "A": "The government",
+      "B": "The Central Bank",
+      "C": "Demand and supply",
+      "D": "Commercial banks"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -6146,8 +6302,10 @@
     "question_number": 5,
     "question": "Given that B = Births X = Emigrants D = Deaths M = Immigrants The population of a country over a period of time will rise if",
     "options": {
-      "A": "A = D and X > m B. B-D =O and M >",
-      "C": "D -B =O and m = x D. X > M and D > B Use the table below to answer question 6 and 7 .Population Statistics of a Country Age range in % of population years 1960 1990 60 and above 35 38 18 - 59 40 42 1 - 17 25 20 ics 1998"
+      "A": "A = D and X > m",
+      "B": "B-D =O and M >",
+      "C": "D -B =O and m = x",
+      "D": "X > M and D > B Use the table below to answer question 6 and 7 .Population Statistics of a Country Age range in % of population years 1960 1990 60 and above 35 38 18 - 59 40 42 1 - 17 25 20 ics 1998"
     },
     "has_diagram": true,
     "diagram_image": "page_50_diagram.png"
@@ -6157,8 +6315,10 @@
     "question_number": 6,
     "question": "The dependency ratio between 1960 and 1990 is",
     "options": {
-      "A": "Increased by 5% B. Increased by 2%",
-      "C": "Decreased by 2% D.Decreased by 5%"
+      "A": "Increased by 5%",
+      "B": "Increased by 2%",
+      "C": "Decreased by 2%",
+      "D": "Decreased by 5%"
     },
     "has_diagram": true,
     "diagram_image": "page_50_diagram.png"
@@ -6240,8 +6400,10 @@
     "question_number": 13,
     "question": "P P S P2 P1 S P Q Q In the diagram above, the price P2 in price control situation, is referred to as",
     "options": {
-      "A": "Minimum price B. Mark -up price",
-      "C": "Maximum price D. Mark-down price"
+      "A": "Minimum price",
+      "B": "Mark -up price",
+      "C": "Maximum price",
+      "D": "Mark-down price"
     },
     "has_diagram": true,
     "diagram_image": "page_51_diagram.png"
@@ -6251,8 +6413,10 @@
     "question_number": 14,
     "question": "P D P 1 D Q Q Q 1 The shaded triangle in the diagram above is known as",
     "options": {
-      "A": "Excess supply B. Consumer surplus",
-      "C": "Excess consumption D.Producer surplus S 1"
+      "A": "Excess supply",
+      "B": "Consumer surplus",
+      "C": "Excess consumption",
+      "D": "Producer surplus S 1"
     },
     "has_diagram": true,
     "diagram_image": "page_51_diagram.png"
@@ -6344,8 +6508,10 @@
     "question_number": 30,
     "question": "Crude petroleum is a good example of a",
     "options": {
-      "A": "Lasting asset B. Wasting asset",
-      "C": "Synthetic product D. Costless resource"
+      "A": "Lasting asset",
+      "B": "Wasting asset",
+      "C": "Synthetic product",
+      "D": "Costless resource"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -6390,8 +6556,10 @@
     "question_number": 34,
     "question": "An issue of bank-notes not backed by gold but by government securities is known as",
     "options": {
-      "A": "Fiduciary issue B. Guaranteed money",
-      "C": "Seigniorage D. Legal tender"
+      "A": "Fiduciary issue",
+      "B": "Guaranteed money",
+      "C": "Seigniorage",
+      "D": "Legal tender"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -6428,7 +6596,8 @@
     "question": "When an indirect tax is levied on the producer of a good, the burden on the consumer will depend largely on the",
     "options": {
       "A": "Elasticity of demand for the good",
-      "B": "Proportion of the consumer’s income spent on the goods e C. Elasticity of demand and supply of the commodity",
+      "B": "Proportion of the consumer’s income spent on the goods e",
+      "C": "Elasticity of demand and supply of the commodity",
       "D": "Availability of substitutes for the commodity"
     },
     "has_diagram": false,
@@ -6509,8 +6678,10 @@
     "question_number": 1,
     "question": "In a firm three employees earn N5,500 each, four earn 6 N3,300 each, two earn N5,000 each and one earns N7,000. The mean income of the employees is",
     "options": {
-      "A": "N5,200 B. N4,760",
-      "C": "N4,670 D. N2,080"
+      "A": "N5,200",
+      "B": "N4,760",
+      "C": "N4,670",
+      "D": "N2,080"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -6567,8 +6738,10 @@
     "question_number": 6,
     "question": "Profits 1500 From the table above calculate the national income.",
     "options": {
-      "A": "N18,500 m B. N19,OOO m",
-      "C": "N19,500 m D. N20,500m"
+      "A": "N18,500 m",
+      "B": "N19,OOO m",
+      "C": "N19,500 m",
+      "D": "N20,500m"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -6578,8 +6751,10 @@
     "question_number": 7,
     "question": "Inflation which is caused mainly by increases in the prices of factors of production is described as",
     "options": {
-      "A": "cost-push inflation B. demand-pull inflation",
-      "C": "crawling infla tion D. spiral inflation."
+      "A": "cost-push inflation",
+      "B": "demand-pull inflation",
+      "C": "crawling infla tion",
+      "D": "spiral inflation."
     },
     "has_diagram": false,
     "diagram_image": null
@@ -6667,8 +6842,10 @@
     "question_number": 16,
     "question": "S/No. Sector No. of People I Agnculture, foreslry and fishing 10, 050 ll. Mining and quarrying 1, 500 III. Transport and communication 2, 000 000 IV. Manufacturing 1, 750, 000 V. Basic construction 750,000 VI. Distributive 3,000,000 Vll. Administration 1,250,000 Calculate the total number of people engaged in, tertiary production from the data above.",
     "options": {
-      "A": "5 000 000 B. 6250000",
-      "C": "11 750 000 D. 12250000"
+      "A": "5 000 000",
+      "B": "6250000",
+      "C": "11 750 000",
+      "D": "12250000"
     },
     "has_diagram": true,
     "diagram_image": "page_54_diagram.png"
@@ -6714,8 +6891,10 @@
     "question_number": 20,
     "question": "Given that the total fixed cost is HI 000, lotal variable cost N2 500 and the output, 100 unit Find the so averagelotal cost of producing one unit.",
     "options": {
-      "A": "N60 B. N45",
-      "C": "N35 D. N30"
+      "A": "N60",
+      "B": "N45",
+      "C": "N35",
+      "D": "N30"
     },
     "has_diagram": true,
     "diagram_image": "page_54_diagram.png"
@@ -6725,8 +6904,10 @@
     "question_number": 21,
     "question": "Which of the following falis continuously as output expands?",
     "options": {
-      "A": ". A verage fixed cost. it B. Marginal cost.",
-      "C": "Average variable cost D. Averagc cost"
+      "A": ". A verage fixed cost. it",
+      "B": "Marginal cost.",
+      "C": "Average variable cost",
+      "D": "Averagc cost"
     },
     "has_diagram": true,
     "diagram_image": "page_54_diagram.png"
@@ -6785,8 +6966,10 @@
     "question_number": 26,
     "question": "The first petroleum exploring company to discover crude petroleum in Nigeria was",
     "options": {
-      "A": "Mobil B. Texaco",
-      "C": "Agip D. Shell-BP."
+      "A": "Mobil",
+      "B": "Texaco",
+      "C": "Agip",
+      "D": "Shell-BP."
     },
     "has_diagram": false,
     "diagram_image": null
@@ -6796,8 +6979,10 @@
     "question_number": 27,
     "question": "Concentrating industries in one place is advantageous because there are gains in terms of",
     "options": {
-      "A": "external economies B. internal economies",
-      "C": "economies of scale D. cost economies."
+      "A": "external economies",
+      "B": "internal economies",
+      "C": "economies of scale",
+      "D": "cost economies."
     },
     "has_diagram": false,
     "diagram_image": null
@@ -6820,7 +7005,8 @@
     "question_number": 29,
     "question": "An entrepreneur will continue to employ labour up to a point where",
     "options": {
-      "A": "costs are minimized B. maximum efficiency is attained",
+      "A": "costs are minimized",
+      "B": "maximum efficiency is attained",
       "C": "wages are equal to marginal product of labour",
       "D": "marginal product of labour is equal to zero."
     },
@@ -6845,8 +7031,10 @@
     "question_number": 31,
     "question": "When a worker earns more than the wage just sufficient to keep him in his job the excess income is called",
     "options": {
-      "A": "an opportunity cost B. an economic rent",
-      "C": "transfer eamings D. surplus value"
+      "A": "an opportunity cost",
+      "B": "an economic rent",
+      "C": "transfer eamings",
+      "D": "surplus value"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -7011,8 +7199,10 @@
     "question_number": 8,
     "question": "The two commodities can be classified as",
     "options": {
-      "A": "substitutes B. durable and non-durable",
-      "C": "intermediate and final D. complements."
+      "A": "substitutes",
+      "B": "durable and non-durable",
+      "C": "intermediate and final",
+      "D": "complements."
     },
     "has_diagram": true,
     "diagram_image": "page_57_diagram.png"
@@ -7105,8 +7295,10 @@
     "question_number": 24,
     "question": "A distinguishing characteristic of cooperative societies is that voting power depends on the",
     "options": {
-      "A": "number of shares heldB. status of the member",
-      "C": "equality of members D. management's decision."
+      "A": "number of shares held",
+      "B": "status of the member",
+      "C": "equality of members",
+      "D": "management's decision."
     },
     "has_diagram": true,
     "diagram_image": "page_58_diagram.png"
@@ -7116,8 +7308,10 @@
     "question_number": 25,
     "question": "The concept of privatization presupposes",
     "options": {
-      "A": "efficiency B. market price",
-      "C": "indigenization D. foreign trade."
+      "A": "efficiency",
+      "B": "market price",
+      "C": "indigenization",
+      "D": "foreign trade."
     },
     "has_diagram": true,
     "diagram_image": "page_58_diagram.png"
@@ -7199,8 +7393,10 @@
     "question_number": 32,
     "question": "As a producers' association, the OPEC expects its members to maintain produc- tion wh'ere marginal cost is",
     "options": {
-      "A": "greater than price B. less than price",
-      "C": "equal to price D. equal to average cost."
+      "A": "greater than price",
+      "B": "less than price",
+      "C": "equal to price",
+      "D": "equal to average cost."
     },
     "has_diagram": true,
     "diagram_image": "page_58_diagram.png"
@@ -7225,7 +7421,8 @@
     "options": {
       "A": "ratio of the de- pendent to the working group",
       "B": "total age of all working class adults",
-      "C": "male fe male ratio D. percentage of married women."
+      "C": "male fe male ratio",
+      "D": "percentage of married women."
     },
     "has_diagram": true,
     "diagram_image": "page_58_diagram.png"
@@ -7248,8 +7445,10 @@
     "question_number": 37,
     "question": "A major effect of a long distribution chain is",
     "options": {
-      "A": "high retail prices B. scarcity of commodities",
-      "C": "low retail prices D. low producer earnings."
+      "A": "high retail prices",
+      "B": "scarcity of commodities",
+      "C": "low retail prices",
+      "D": "low producer earnings."
     },
     "has_diagram": true,
     "diagram_image": "page_58_diagram.png"
@@ -7259,7 +7458,8 @@
     "question_number": 38,
     "question": "The major function of the wholesaler to his customers is",
     "options": {
-      "A": "breaking of bulk B.offering personal services",
+      "A": "breaking of bulk",
+      "B": "offering personal services",
       "C": "stocking a variety of goods",
       "D": "providing trans- port facilities."
     },
@@ -7297,7 +7497,8 @@
     "question_number": 44,
     "question": "Economic development may be defined as economic growth",
     "options": {
-      "A": "in a given country B. over a long period",
+      "A": "in a given country",
+      "B": "over a long period",
       "C": "and improved health facilities",
       "D": "and improved distribution of wealth."
     },
@@ -7309,7 +7510,8 @@
     "question_number": 45,
     "question": "The price of a good will not be affected by the imposition of a sales tax on it if the",
     "options": {
-      "A": "supply is inelastic B. demand is inelastic",
+      "A": "supply is inelastic",
+      "B": "demand is inelastic",
       "C": "supply is perfectly elastic",
       "D": "demand is perfectly elastic."
     },
@@ -7371,8 +7573,10 @@
     "question_number": 1,
     "question": "If the pice elasticity of demand for a good isO.43, an increase in the price of the good will result in ;",
     "options": {
-      "A": "an increase in profit by 43% B. a net gain",
-      "C": "a decrease in profit by 43% D. a net loss"
+      "A": "an increase in profit by 43%",
+      "B": "a net gain",
+      "C": "a decrease in profit by 43%",
+      "D": "a net loss"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -7408,8 +7612,10 @@
     "question_number": 5,
     "question": "An aspect of taxation that involves normative economics is the",
     "options": {
-      "A": "tax rateB. effect on incentive to work",
-      "C": "fairness of the tax D. tax burden."
+      "A": "tax rate",
+      "B": "effect on incentive to work",
+      "C": "fairness of the tax",
+      "D": "tax burden."
     },
     "has_diagram": false,
     "diagram_image": null
@@ -7432,8 +7638,10 @@
     "question_number": 7,
     "question": "A country exporting mainly primary products and with l a hign percentage of her labourforce in agriculture is said to be",
     "options": {
-      "A": "developing B. developed",
-      "C": "poor D.underdeveloped:"
+      "A": "developing",
+      "B": "developed",
+      "C": "poor",
+      "D": "underdeveloped:"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -7510,8 +7718,10 @@
     "question_number": 14,
     "question": "The fixing of the price of an item above or below the equilibrium price is mostlikely to take place in a",
     "options": {
-      "A": "centrally planned economy B. free market econom",
-      "C": "developed economy D. mixed economy."
+      "A": "centrally planned economy",
+      "B": "free market econom",
+      "C": "developed economy",
+      "D": "mixed economy."
     },
     "has_diagram": true,
     "diagram_image": "page_60_diagram.png"
@@ -7535,7 +7745,8 @@
     "question": "A firm’s shut-down point is reached when the average revenue fails to cover the",
     "options": {
       "A": "average variable cost",
-      "B": "marginal cost C. average total cost",
+      "B": "marginal cost",
+      "C": "average total cost",
       "D": "average fixed cost"
     },
     "has_diagram": true,
@@ -7558,8 +7769,10 @@
     "question_number": 18,
     "question": "In the long- run a monopolist maximizes his profit when the marginal cost equals",
     "options": {
-      "A": "total revenue B. marginal revenue",
-      "C": "average cost D. price."
+      "A": "total revenue",
+      "B": "marginal revenue",
+      "C": "average cost",
+      "D": "price."
     },
     "has_diagram": true,
     "diagram_image": "page_60_diagram.png"
@@ -7621,8 +7834,10 @@
     "question_number": 23,
     "question": "A production function relates",
     "options": {
-      "A": "cost to output B. wage to profit",
-      "C": "cost to input D. oulput to input."
+      "A": "cost to output",
+      "B": "wage to profit",
+      "C": "cost to input",
+      "D": "oulput to input."
     },
     "has_diagram": true,
     "diagram_image": "page_60_diagram.png"
@@ -7653,8 +7868,10 @@
     "question_number": 26,
     "question": "Which of lhe following is an example of a fixed cost?",
     "options": {
-      "A": "Fuel cost. B. Electricity bill.",
-      "C": "Rent on building. D. Transportation cost."
+      "A": "Fuel cost.",
+      "B": "Electricity bill.",
+      "C": "Rent on building.",
+      "D": "Transportation cost."
     },
     "has_diagram": false,
     "diagram_image": null
@@ -7729,8 +7946,10 @@
     "question_number": 32,
     "question": "The raising of funds by selling stocks to the public is called",
     "options": {
-      "A": "equity financingB. stock financing",
-      "C": "debt financing D. loan financing."
+      "A": "equity financing",
+      "B": "stock financing",
+      "C": "debt financing",
+      "D": "loan financing."
     },
     "has_diagram": false,
     "diagram_image": null
@@ -7740,8 +7959,10 @@
     "question_number": 33,
     "question": "A tax that increases at a higher percentage as income increases is called",
     "options": {
-      "A": "a proportional taxB. a regressive tax",
-      "C": "a progressive taxD. an income tax."
+      "A": "a proportional tax",
+      "B": "a regressive tax",
+      "C": "a progressive tax",
+      "D": "an income tax."
     },
     "has_diagram": false,
     "diagram_image": null
@@ -7788,8 +8009,10 @@
     "question_number": 41,
     "question": "An increase in money supply, other things being equal, wi",
     "options": {
-      "A": "lower interest rates B. reduce income",
-      "C": "ensure trade balance D. increase money demand."
+      "A": "lower interest rates",
+      "B": "reduce income",
+      "C": "ensure trade balance",
+      "D": "increase money demand."
     },
     "has_diagram": false,
     "diagram_image": null
@@ -7862,8 +8085,10 @@
     "question_number": 3,
     "question": "The elasticity of supply of perishable goods is",
     "options": {
-      "A": "2880 B. 1440 C. 900 D. 720",
-      "C": "inelastic D. unitary 4. Children 40% 25% 35% Men Women In the pie chart above, the percentage for children is equivalent to"
+      "A": "2880",
+      "B": "1440",
+      "C": "900",
+      "D": "unitary 4. Children 40% 25% 35% Men Women In the pie chart above, the percentage for children is equivalent to"
     },
     "has_diagram": true,
     "diagram_image": "page_62_diagram.png"
@@ -7909,8 +8134,10 @@
     "question_number": 7,
     "question": "In a centrally planned economy. the economic problemof deciding what to produce is dependent on",
     "options": {
-      "A": "state command B. relative prices",
-      "C": "average cost D. average profit."
+      "A": "state command",
+      "B": "relative prices",
+      "C": "average cost",
+      "D": "average profit."
     },
     "has_diagram": true,
     "diagram_image": "page_62_diagram.png"
@@ -7946,8 +8173,10 @@
     "question_number": 10,
     "question": "A student as N30.00 willl which to buy a ruler costing N18.00 and an exercise book costing N25.00. If he buys the exercise book.His opportunity cost is",
     "options": {
-      "A": "the exercise book B. N25.00",
-      "C": "N18.00 D. the ruler."
+      "A": "the exercise book",
+      "B": "N25.00",
+      "C": "N18.00",
+      "D": "the ruler."
     },
     "has_diagram": true,
     "diagram_image": "page_63_diagram.png"
@@ -8008,8 +8237,10 @@
     "question_number": 15,
     "question": "The types sources and uses of government income are mainly concerned with",
     "options": {
-      "A": "public budget B. public finance",
-      "C": "public expenditure D. public revenue"
+      "A": "public budget",
+      "B": "public finance",
+      "C": "public expenditure",
+      "D": "public revenue"
     },
     "has_diagram": true,
     "diagram_image": "page_63_diagram.png"
@@ -8045,8 +8276,10 @@
     "question_number": 26,
     "question": "Which of the following yields more revenue to Nigeria?",
     "options": {
-      "A": "Value added tax B.Royalties",
-      "C": "Direct tax D.Indirect tax"
+      "A": "Value added tax",
+      "B": "Royalties",
+      "C": "Direct tax",
+      "D": "Indirect tax"
     },
     "has_diagram": true,
     "diagram_image": "page_64_diagram.png"
@@ -8056,8 +8289,10 @@
     "question_number": 27,
     "question": "In the short run a firm's marginal cost curve above the point of shut-down in it's",
     "options": {
-      "A": "supply curve B. revenue curve",
-      "C": "demand curve D. cost curve"
+      "A": "supply curve",
+      "B": "revenue curve",
+      "C": "demand curve",
+      "D": "cost curve"
     },
     "has_diagram": true,
     "diagram_image": "page_64_diagram.png"
@@ -8118,8 +8353,10 @@
     "question_number": 32,
     "question": "Under conditions of perfect competition a firm's supply curve is determined by it's",
     "options": {
-      "A": "fixed cost curve B. variable curve cost",
-      "C": "total cost curve D. marginal cost curve"
+      "A": "fixed cost curve",
+      "B": "variable curve cost",
+      "C": "total cost curve",
+      "D": "marginal cost curve"
     },
     "has_diagram": true,
     "diagram_image": "page_64_diagram.png"
@@ -8168,8 +8405,10 @@
     "question_number": 38,
     "question": "The Malthusian theory of population growth is often said to be",
     "options": {
-      "A": "oversimplified B. ambiguous",
-      "C": "optimistic D.pessimistic"
+      "A": "oversimplified",
+      "B": "ambiguous",
+      "C": "optimistic",
+      "D": "pessimistic"
     },
     "has_diagram": true,
     "diagram_image": "page_64_diagram.png"
@@ -8243,8 +8482,10 @@
     "question_number": 46,
     "question": "If the laboul force in a given community is 2,000,000, in the wage employment 200,000 and the unemployed are 80,000, what is the unemployment rate in the community?",
     "options": {
-      "A": "0.4% B. 40.0%",
-      "C": "10.0% D. 0.4.0%"
+      "A": "0.4%",
+      "B": "40.0%",
+      "C": "10.0%",
+      "D": "0.4.0%"
     },
     "has_diagram": true,
     "diagram_image": "page_62_diagram.png"
@@ -8254,8 +8495,10 @@
     "question_number": 47,
     "question": "GNP is not a good measure of social welfare because there are unrecorded",
     "options": {
-      "A": "indirect taxes B. social costs",
-      "C": "government subsidies D. transfer payments Econo"
+      "A": "indirect taxes",
+      "B": "social costs",
+      "C": "government subsidies",
+      "D": "transfer payments Econo"
     },
     "has_diagram": true,
     "diagram_image": "page_62_diagram.png"
@@ -8330,8 +8573,10 @@
     "question_number": 3,
     "question": "Utility is the satisfaction derived from",
     "options": {
-      "A": "production B. distribution",
-      "C": "consumption D. demand"
+      "A": "production",
+      "B": "distribution",
+      "C": "consumption",
+      "D": "demand"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -8341,7 +8586,8 @@
     "question_number": 4,
     "question": "If there is and increase in demand without a corresponding increase in supply, there will be",
     "options": {
-      "A": "fall in price B. rise in price",
+      "A": "fall in price",
+      "B": "rise in price",
       "C": "shift in supply curve to the right",
       "D": "shift in demand curve to the left Use the production possibility curve of a country represented in the diagram below to answer questions 5 and 6"
     },
@@ -8376,8 +8622,10 @@
     "question_number": 8,
     "question": "Insurance companies invest mainly in instruments traded on the",
     "options": {
-      "A": "commodity market B. open market",
-      "C": "capital market D. money market"
+      "A": "commodity market",
+      "B": "open market",
+      "C": "capital market",
+      "D": "money market"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -8452,8 +8700,10 @@
     "question_number": 14,
     "question": "Short-run period in production is a period for a firm to be able to change its",
     "options": {
-      "A": "variable inputs B. total outputs",
-      "C": "total revenue D. scale of operation Use the table below to answer questions 15 and 16 Output produced Fixed cost Total cost per day (unit) per day (N) per day (N) 20 60 100 30 60 120 40 60 130 50 60 135 60 60 150 70 60 170 80 60 190"
+      "A": "variable inputs",
+      "B": "total outputs",
+      "C": "total revenue",
+      "D": "scale of operation Use the table below to answer questions 15 and 16 Output produced Fixed cost Total cost per day (unit) per day (N) per day (N) 20 60 100 30 60 120 40 60 130 50 60 135 60 60 150 70 60 170 80 60 190"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -8508,8 +8758,10 @@
     "question_number": 19,
     "question": "The best method of production in an under-populated country is",
     "options": {
-      "A": "labour-extensiveB. land-intensive",
-      "C": "capital-intensiveD. labour-intensive"
+      "A": "labour-extensive",
+      "B": "land-intensive",
+      "C": "capital-intensive",
+      "D": "labour-intensive"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -8558,7 +8810,8 @@
     "question": "The commercial banks differ from non-bank financial institutions because they",
     "options": {
       "A": "accept deposits withdrawable by cheque",
-      "B": "mobilize savingsC. invest surplus plus",
+      "B": "mobilize savings",
+      "C": "invest surplus plus",
       "D": "contribute to economic development"
     },
     "has_diagram": false,
@@ -8654,8 +8907,10 @@
     "question_number": 1,
     "question": "By advertising, a monopolistic competitive firm tries to",
     "options": {
-      "A": "supply curve to the right B. demand curve to the rig",
-      "C": "supply curve to the left D. demand curve to the left"
+      "A": "supply curve to the right",
+      "B": "demand curve to the rig",
+      "C": "supply curve to the left",
+      "D": "demand curve to the left"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -8719,8 +8974,10 @@
     "question_number": 7,
     "question": "The excess of aggregate expenditure over full emploment level of output is referred to as",
     "options": {
-      "A": "GNP gap B. Deflationary gap",
-      "C": "Inflationary gap D. recessionary gap"
+      "A": "GNP gap",
+      "B": "Deflationary gap",
+      "C": "Inflationary gap",
+      "D": "recessionary gap"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -8730,7 +8987,8 @@
     "question_number": 8,
     "question": "The capital market provides business firm with the avenue to",
     "options": {
-      "A": "lease capital equipment B. obtain long-term funds",
+      "A": "lease capital equipment",
+      "B": "obtain long-term funds",
       "C": "the size of the population is greater than the annual budget",
       "D": "the resources are inadequate to cater for the population"
     },
@@ -8790,8 +9048,10 @@
     "question_number": 13,
     "question": "The movement of goods and services from the products to the consumers is refereed to as",
     "options": {
-      "A": "external trade B. the distribution chain",
-      "C": "the circular flowD. consumption"
+      "A": "external trade",
+      "B": "the distribution chain",
+      "C": "the circular flow",
+      "D": "consumption"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -8814,8 +9074,10 @@
     "question_number": 15,
     "question": "A major cause of the slow pace of industrialization in Nigeria is inadequate",
     "options": {
-      "A": "raw materials B. landmass",
-      "C": "skilled labour D. communal labour t"
+      "A": "raw materials",
+      "B": "landmass",
+      "C": "skilled labour",
+      "D": "communal labour t"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -8945,8 +9207,10 @@
     "question_number": 26,
     "question": "When the importation of a commodity is limited to a definite quantity, the trade control means used isknown as",
     "options": {
-      "A": "exchange control B. tax relief",
-      "C": "devaluation D. quotas"
+      "A": "exchange control",
+      "B": "tax relief",
+      "C": "devaluation",
+      "D": "quotas"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -9006,8 +9270,10 @@
     "question_number": 42,
     "question": "Given the cost function C = 160 + 36Q, what is teh average cost at 20 units of output?",
     "options": {
-      "A": "N720 B. N216.00",
-      "C": "N44.00 D. N880.00"
+      "A": "N720",
+      "B": "N216.00",
+      "C": "N44.00",
+      "D": "N880.00"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -9017,8 +9283,10 @@
     "question_number": 43,
     "question": "If an increase in the p rice of good X leads to an increase in the supply of good Y, X and Y are said to be",
     "options": {
-      "A": "E B. E 3 1",
-      "C": "E D. E 4 2"
+      "A": "E",
+      "B": "E 3 1",
+      "C": "E",
+      "D": "E 4 2"
     },
     "has_diagram": false,
     "diagram_image": null
@@ -9072,8 +9340,10 @@
     "question_number": 49,
     "question": "When a union is composed of workers with same skill, it is called",
     "options": {
-      "A": "an industrial union B. a workers’ union",
-      "C": "a craft iunion D. a technical union"
+      "A": "an industrial union",
+      "B": "a workers’ union",
+      "C": "a craft iunion",
+      "D": "a technical union"
     },
     "has_diagram": false,
     "diagram_image": null
