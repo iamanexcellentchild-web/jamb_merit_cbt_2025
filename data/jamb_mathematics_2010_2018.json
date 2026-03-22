@@ -1725,7 +1725,7 @@
           "D. (P∪Q) ∪ (P∪R)"
         ],
         "answer": "A",
-        "diagram": "2014_Q10_venn_POD.png"
+        "diagram": "2014_Q10_venn_PQR.png"
       },
       {
         "q": "If gt\\(^2\\) − k − w = 0, make g the subject of the formula",
@@ -1876,7 +1876,7 @@
           "D. 37°"
         ],
         "answer": "B",
-        "diagram": "2014_Q25_triangle_KLM.png"
+        "diagram": "2014_Q25_triangle_KLMN.png"
       },
       {
         "q": "[See diagram] From the figure, what is the value of p? (q° and 30° and (p+2q)°)",
@@ -1959,7 +1959,7 @@
           "D. y = x − 5"
         ],
         "answer": "C",
-        "diagram": "2014_Q33_line_y_minus5.png"
+        "diagram": "2014_Q33_line_graph_xy.png"
       },
       {
         "q": "Calculate the mid-point of the line segment y − 4x + 3 = 0, which lies between the x-axis and y-axis.",
