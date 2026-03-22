@@ -1,0 +1,4371 @@
+{
+  "subject": "Chemistry",
+  "source": "JAMB Past Questions 2010-2018",
+  "years": [
+    {
+      "year": 2010,
+      "questions": [
+        {
+          "question": "Which of the following is an example of a mixture?",
+          "options": {
+            "A": "Common salt",
+            "B": "Blood",
+            "C": "Sand",
+            "D": "Washing soda"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Calculate the percentage by mass of nitrogen in calcium trioxonitrate(V). [Ca=40, N=14, O=16]",
+          "options": {
+            "A": "8.5%",
+            "B": "13.1%",
+            "C": "17.1%",
+            "D": "27.6%"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The droplets of water observed around a bottle of milk taken out of the refrigerator is due to the fact that the",
+          "options": {
+            "A": "water vapour in the ground around the bottle gains some energy from the bottle",
+            "B": "temperature of the milk drops as it loses heat into the surrounding",
+            "C": "saturated vapour pressure of the milk is equal to the atmospheric pressure",
+            "D": "water vapour in the air around the bottle loses some of its energy to the bottle"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The volume of a given gas is V cm³ at P mmHg. What is the new volume of the gas if the pressure is reduced to half at constant temperature?",
+          "options": {
+            "A": "4 cm³",
+            "B": "2V cm³",
+            "C": "V/2 cm³",
+            "D": "V cm³"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Moving from left to right across a period, the general rise in the first ionization energy can be attributed to the",
+          "options": {
+            "A": "decrease in nuclear charge",
+            "B": "increase in nuclear charge",
+            "C": "decrease in screening effect",
+            "D": "increase in screening effect"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "How many unpaired electron(s) are there in the nitrogen sub-levels?",
+          "options": {
+            "A": "3",
+            "B": "2",
+            "C": "1",
+            "D": "none"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The stability of the noble gases is due to the fact that they",
+          "options": {
+            "A": "have no electron in their outermost shells",
+            "B": "have duplet or octet electron configurations",
+            "C": "belong to group zero of the periodic table",
+            "D": "are volatile in nature"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The maximum number of electrons in the L shell of an atom is",
+          "options": {
+            "A": "2",
+            "B": "8",
+            "C": "18",
+            "D": "32"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Elements in the same period in the periodic table have the same",
+          "options": {
+            "A": "number of shells",
+            "B": "atomic number",
+            "C": "chemical properties",
+            "D": "physical properties"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "²₁D + ³₁T → ⁴₂He + ¹₀n + energy. The reaction illustrates;",
+          "options": {
+            "A": "alpha decay",
+            "B": "artificial transmutation",
+            "C": "nuclear fusion",
+            "D": "nuclear fission"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "A noble gas with a high power of fog penetration used in aerodrome beacons is",
+          "options": {
+            "A": "krypton",
+            "B": "argon",
+            "C": "helium",
+            "D": "neon"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Permanent hardness of water can be removed by",
+          "options": {
+            "A": "filtration",
+            "B": "adding slaked lime",
+            "C": "adding caustic soda",
+            "D": "boiling"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Substances employed as drying agents are usually",
+          "options": {
+            "A": "amphoteric",
+            "B": "hygroscopic",
+            "C": "efflorescent",
+            "D": "acidic"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Calculate the solubility in mol dm⁻³ of 40 g of CuSO₄ dissolved in 100 g of water at 120°C. [Cu=64, S=32, O=16]",
+          "options": {
+            "A": "4.00",
+            "B": "2.50",
+            "C": "0.40",
+            "D": "0.25"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Coffee stains can best be removed by",
+          "options": {
+            "A": "kerosene",
+            "B": "turpentine",
+            "C": "a solution of borax in water",
+            "D": "ammonia solution"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Carbon(II) oxide is considered dangerous if inhaled mainly because it",
+          "options": {
+            "A": "can cause injury to the nervous system",
+            "B": "competes with oxygen in the blood",
+            "C": "competes with carbon(IV) oxide in the blood",
+            "D": "can cause lung cancer"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The acid that is used to remove rust is",
+          "options": {
+            "A": "boric",
+            "B": "hydrochloric",
+            "C": "trioxonitrate(V)",
+            "D": "tetraoxosulphate(VI)"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Calculate the volume of 0.5 mol dm⁻³ H₂SO₄ that is neutralized by 25 cm³ of 0.1 mol dm⁻³ NaOH.",
+          "options": {
+            "A": "5.0 cm³",
+            "B": "2.5 cm³",
+            "C": "0.4 cm³",
+            "D": "0.1 cm³"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The colour of methyl orange in alkaline medium is",
+          "options": {
+            "A": "yellow",
+            "B": "pink",
+            "C": "orange",
+            "D": "red"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which of the following salts is slightly soluble in water?",
+          "options": {
+            "A": "AgCl",
+            "B": "CaSO₄",
+            "C": "Na₂CO₃",
+            "D": "PbCl₂"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "6AgNO₃(aq) + PH₃(g) + 3H₂O(l) → 6Ag(s) + H₃PO₃(g) + 6HNO₃(aq). In the above reaction, the reducing agent is",
+          "options": {
+            "A": "HNO₃(aq)",
+            "B": "H₂O(l)",
+            "C": "PH₃(g)",
+            "D": "AgNO₃(aq)"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The IUPAC nomenclature of the compound LiAlH₄ is",
+          "options": {
+            "A": "lithium tetrahydridoaluminate(III)",
+            "B": "aluminium tetrahydrido lithium",
+            "C": "tetrahydrido lithium aluminate(III)",
+            "D": "lithium aluminium hydride"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Iron can be protected from corrosion by coating the surface with",
+          "options": {
+            "A": "gold",
+            "B": "silver",
+            "C": "copper",
+            "D": "zinc"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "What quantity of aluminium is deposited when a current of 10 A is passed through a solution of an aluminium salt for 1930 s? [Al=27, F=96500 C mol⁻¹]",
+          "options": {
+            "A": "0.2 g",
+            "B": "1.8 g",
+            "C": "5.4 g",
+            "D": "14.2 g"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "In which of the following is the entropy change positive?",
+          "options": {
+            "A": "Thermal dissociation of ammonium chloride",
+            "B": "Reaction between an acid and a base",
+            "C": "Addition of concentrated acid to water",
+            "D": "Dissolution of sodium metal in water"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "If a reaction is exothermic and there is a great disorder, it means that",
+          "options": {
+            "A": "the reaction is static",
+            "B": "the reaction is in a state of equilibrium",
+            "C": "there will be a large increase in free energy",
+            "D": "there will be a large decrease in free energy"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "In the preparation of oxygen by heating KClO₃ in the presence of MnO₂, only moderate heat is needed because the catalyst acts by",
+          "options": {
+            "A": "lowering the pressure of the reaction",
+            "B": "increasing the surface area of the reactant",
+            "C": "increasing the rate of the reaction",
+            "D": "lowering the energy barrier of the reaction"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The graph above demonstrates the effect of [graph shows mass of CO₂ vs time for powdered marble vs marble chips]",
+          "options": {
+            "A": "surface area on the rate of reaction",
+            "B": "catalyst on the rate of reaction",
+            "C": "pressure on the rate of reaction",
+            "D": "concentration on the rate of reaction"
+          },
+          "answer": "A",
+          "has_diagram": true,
+          "image_url": "/static/chem_diagrams/2010_Q28.png"
+        },
+        {
+          "question": "2H₂(g) + O₂(g) ⇌ 2H₂O(g) ΔH = −ve. What happens to the equilibrium constant of the reaction above if the temperature is increased?",
+          "options": {
+            "A": "it is unaffected",
+            "B": "it becomes zero",
+            "C": "it decreases",
+            "D": "it increases"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "To a solution of an unknown compound, a little dilute tetraoxosulphate(VI) acid was added with freshly prepared iron(II) tetraoxosulphate(VI) solution. The brown ring observed after adding a stream of concentrated tetraoxosulphate(VI) acid confirmed the presence of",
+          "options": {
+            "A": "CO",
+            "B": "Cl⁻",
+            "C": "SO",
+            "D": "NO₃⁻"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "In the diagram above [copper turnings + 50% HNO₃ setup], the gas produced is",
+          "options": {
+            "A": "NO",
+            "B": "NO₂",
+            "C": "N₂O",
+            "D": "N₂O₄"
+          },
+          "answer": "A",
+          "has_diagram": true,
+          "image_url": "/static/chem_diagrams/2010_Q31.png"
+        },
+        {
+          "question": "Which of the following is used in rocket fuels?",
+          "options": {
+            "A": "HNO₃",
+            "B": "CH₃COOH",
+            "C": "H₂SO₄",
+            "D": "HCl"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "In the diagram shown [Contact process setup with platinized asbestos], the purpose of the asbestos is to",
+          "options": {
+            "A": "absorb impurities",
+            "B": "catalyse the reaction",
+            "C": "solidify the gas",
+            "D": "dry the gas"
+          },
+          "answer": "B",
+          "has_diagram": true,
+          "image_url": "/static/chem_diagrams/2010_Q33.png"
+        },
+        {
+          "question": "A constituent common to bronze and solder is",
+          "options": {
+            "A": "lead",
+            "B": "silver",
+            "C": "copper",
+            "D": "tin"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "When iron is exposed to moist air, it gradually rusts. This is due to the formation of",
+          "options": {
+            "A": "hydrated iron(III) oxide",
+            "B": "anhydrous iron(III) oxide",
+            "C": "anhydrous iron(II) oxide",
+            "D": "hydrated iron(II) oxide"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "A compound gives an orange-red colour to non-luminous flame. This compound is likely to contain",
+          "options": {
+            "A": "Na⁺",
+            "B": "Ca²⁺",
+            "C": "Fe³⁺",
+            "D": "Fe²⁺"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Stainless steel is used for making",
+          "options": {
+            "A": "magnets",
+            "B": "tools",
+            "C": "coins and medals",
+            "D": "moving parts of clocks"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The residual solids from the fractional distillation of petroleum are used as",
+          "options": {
+            "A": "coatings of pipes",
+            "B": "raw materials for the cracking process",
+            "C": "fuel for driving tractors",
+            "D": "fuel for jet engines"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The IUPAC nomenclature of the compound CH₃(CH₂)₃CHC₂H₅ (with C₃H₇ substituent) is",
+          "options": {
+            "A": "4-ethyloctane",
+            "B": "5-ethyloctane",
+            "C": "5-propylheptane",
+            "D": "3-propylheptane"
+          },
+          "answer": "D",
+          "has_diagram": true,
+          "image_url": "/static/chem_diagrams/2010_Q39.png"
+        },
+        {
+          "question": "Which of the following is used as fuel in miners' lamp?",
+          "options": {
+            "A": "Ethanal",
+            "B": "Ethyne",
+            "C": "Ethene",
+            "D": "Ethane"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "questions": [
+        {
+          "question": "What is the concentration of a solution containing 2 g of NaOH in 100 cm³ of solution? [Na=23, O=16, H=1]",
+          "options": {
+            "A": "0.40 mol dm⁻³",
+            "B": "0.50 mol dm⁻³",
+            "C": "0.05 mol dm⁻³",
+            "D": "0.30 mol dm⁻³"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which of the following properties is NOT peculiar to matter?",
+          "options": {
+            "A": "Kinetic energy of particles increases from solid to gas",
+            "B": "Random motion of particles can be represented by increases from liquid to gas",
+            "C": "Orderliness of particles increases from gas to liquid",
+            "D": "Random motion of particles increases from gas to solid"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The principle of column chromatography is based on the ability of the constituents to",
+          "options": {
+            "A": "move at different speeds in the column",
+            "B": "dissolve in each other in the column",
+            "C": "react with the solvent in the column",
+            "D": "react with each other in the column"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "From the diagram shown [PV vs P graph with curves K, L, M, N], an ideal gas is represented by",
+          "options": {
+            "A": "M",
+            "B": "N",
+            "C": "K",
+            "D": "L"
+          },
+          "answer": "B",
+          "has_diagram": true,
+          "image_url": "/static/chem_diagrams/2011_Q04.png"
+        },
+        {
+          "question": "Which of the following statements is correct about the periodic table?",
+          "options": {
+            "A": "The non-metallic properties of the elements tend to decrease across each period",
+            "B": "The valence electrons of the elements increase progressively across the period",
+            "C": "Elements in the same group have the same number of electron shells",
+            "D": "Elements in the same period have the same number of valence electrons"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "How many unpaired electron(s) are there in the nitrogen sub-levels?",
+          "options": {
+            "A": "3",
+            "B": "2",
+            "C": "1",
+            "D": "none"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "An isotope has an atomic number of 15 and a mass number of 31. The number of protons it contains is",
+          "options": {
+            "A": "16",
+            "B": "15",
+            "C": "46",
+            "D": "31"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The molecular lattice of iodine is held together by",
+          "options": {
+            "A": "dative bond",
+            "B": "metallic bond",
+            "C": "hydrogen bond",
+            "D": "van der Waal's forces"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The arrangement of particles in crystal lattices can be studied using",
+          "options": {
+            "A": "X-rays",
+            "B": "γ-rays",
+            "C": "α-rays",
+            "D": "β-rays"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "From the diagram above [solubility graph: moles of solute vs temperature], find the amount of solute deposited when 200 cm³ of the solution is cooled from 55°C to 40°C.",
+          "options": {
+            "A": "0.10 mole",
+            "B": "0.20 mole",
+            "C": "0.01 mole",
+            "D": "0.02 mole"
+          },
+          "answer": "B",
+          "has_diagram": true,
+          "image_url": "/static/chem_diagrams/2011_Q10.png"
+        },
+        {
+          "question": "The importance of sodium aluminate(III) in the treatment of water is to",
+          "options": {
+            "A": "cause coagulation",
+            "B": "neutralize acidity",
+            "C": "prevent goitre and tooth decay",
+            "D": "kill germs"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "What type of bond exists between an element X with atomic number 12 and Y with atomic number 17?",
+          "options": {
+            "A": "Electrovalent",
+            "B": "Metallic",
+            "C": "Covalent",
+            "D": "Dative"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Hardness of water is mainly due to the presence of",
+          "options": {
+            "A": "calcium hydroxide or magnesium hydroxide",
+            "B": "calcium trioxocarbonate(IV) or calcium tetraoxosulphate(VI)",
+            "C": "sodium hydroxide or magnesium hydroxide",
+            "D": "calcium chloride or sodium chloride salts"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "A suitable solvent for iodine and naphthalene is",
+          "options": {
+            "A": "carbon(IV) sulphide",
+            "B": "ethanol",
+            "C": "water",
+            "D": "benzene"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which of the following noble gases is commonly found in the atmosphere?",
+          "options": {
+            "A": "Xenon",
+            "B": "Neon",
+            "C": "Helium",
+            "D": "Argon"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "N₂O₄(g) ⇌ 2NO₂(g) ΔH = +ve. In the reaction above, an increase in temperature will",
+          "options": {
+            "A": "increase the value of the equilibrium constant",
+            "B": "decrease the value of the equilibrium constant",
+            "C": "increase in the reactant production",
+            "D": "shift the equilibrium to the left"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "CH₃COOH(aq) + OH⁻ ⇌ CH₃COO⁻(aq) + H₂O(l). In the reaction above, CH₃COO⁻(aq) is",
+          "options": {
+            "A": "conjugate base",
+            "B": "acid",
+            "C": "base",
+            "D": "conjugate acid"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "How many cations will be produced from a solution of potassium aluminium tetraoxosulphate(VI)?",
+          "options": {
+            "A": "3",
+            "B": "4",
+            "C": "1",
+            "D": "2"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which of the following is NOT an alkali?",
+          "options": {
+            "A": "NH₃",
+            "B": "Mg(OH)₂",
+            "C": "Ca(OH)₂",
+            "D": "NaOH"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "An effect of thermal pollution on water bodies is that the",
+          "options": {
+            "A": "volume of water reduces",
+            "B": "volume of chemical waste increases",
+            "C": "level of oxides of nitrogen increases",
+            "D": "level of oxygen reduces"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which of the following is a deliquescent compound?",
+          "options": {
+            "A": "Na₂CO₃",
+            "B": "CaCl₂",
+            "C": "CuO",
+            "D": "Na₂CO₃·10H₂O"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "A chemical reaction in which the hydration energy is greater than the lattice energy is referred to as",
+          "options": {
+            "A": "a spontaneous reaction",
+            "B": "an endothermic reaction",
+            "C": "an exothermic reaction",
+            "D": "a reversible reaction"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The function of zinc electrode in a galvanic cell is that it",
+          "options": {
+            "A": "undergoes reduction",
+            "B": "serves as the positive electrode",
+            "C": "produces electrons",
+            "D": "uses up electrons"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "CH₄(g) + Cl₂(g) → CH₃Cl(s) + HCl(g). The major factor that influences the rate of the reaction above is",
+          "options": {
+            "A": "catalyst",
+            "B": "temperature",
+            "C": "concentration",
+            "D": "light"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The condition required for corrosion to take place is the presence of",
+          "options": {
+            "A": "water and carbon(IV) oxide",
+            "B": "water, carbon(IV) oxide and oxygen",
+            "C": "oxygen and carbon(IV) oxide",
+            "D": "water and oxygen"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "In the diagram above [energy profile diagram with reactants, transition state X, products], X is the",
+          "options": {
+            "A": "enthalpy",
+            "B": "enthalpy change",
+            "C": "activation energy",
+            "D": "activated complex"
+          },
+          "answer": "B",
+          "has_diagram": true,
+          "image_url": "/static/chem_diagrams/2011_Q26.png"
+        },
+        {
+          "question": "The diagram best illustrates the effect of decrease in [rate of reaction vs time, rate falls sharply]",
+          "options": {
+            "A": "concentration",
+            "B": "temperature",
+            "C": "surface area",
+            "D": "pressure"
+          },
+          "answer": "A",
+          "has_diagram": true,
+          "image_url": "/static/chem_diagrams/2011_Q27.png"
+        },
+        {
+          "question": "MnO₄⁻(aq) + Y + 5Fe²⁺(aq) → Mn²⁺(aq) + 5Fe³⁺(aq) + 4H₂O(l). In the equation above, Y is",
+          "options": {
+            "A": "5H⁺(aq)",
+            "B": "4H⁺(aq)",
+            "C": "10H⁺(aq)",
+            "D": "8H⁺(aq)"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Given that M is the mass of a substance deposited during electrolysis and Q is the quantity of electricity consumed, then Faraday's first law can be written as [Electrochemical equivalent = E]",
+          "options": {
+            "A": "M = E/Q",
+            "B": "M = EQ",
+            "C": "M = Q/E",
+            "D": "M = E/2Q"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The impurities formed during the laboratory preparation of chlorine gas are removed by",
+          "options": {
+            "A": "H₂O",
+            "B": "NH₃",
+            "C": "H₂SO₄",
+            "D": "HCl"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The effect of the presence of impurities such as carbon and sulphur on iron is that they",
+          "options": {
+            "A": "give it high tensile strength",
+            "B": "make it malleable and ductile",
+            "C": "increase its melting point",
+            "D": "lower its melting point"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "A few drops of concentrated HNO₃ is added to an unknown solution and boiled. If this produces a brown solution, the cation present is likely to be",
+          "options": {
+            "A": "Pb²⁺",
+            "B": "Cu²⁺",
+            "C": "Fe³⁺",
+            "D": "Fe²⁺"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The bleaching action of chlorine gas is effective due to the presence of",
+          "options": {
+            "A": "hydrogen chloride",
+            "B": "water",
+            "C": "air",
+            "D": "oxygen"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "In the laboratory preparation of oxygen, dried oxygen is usually collected over",
+          "options": {
+            "A": "hydrochloric acid",
+            "B": "mercury",
+            "C": "calcium chloride",
+            "D": "tetraoxosulphate(VI) acid"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The property of concentrated H₂SO₄ that makes it suitable for preparing HNO₃ is its",
+          "options": {
+            "A": "boiling point",
+            "B": "density",
+            "C": "oxidizing properties",
+            "D": "dehydrating properties"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Bronze is preferred to copper in the making of medals because it",
+          "options": {
+            "A": "is stronger",
+            "B": "can withstand low temperature",
+            "C": "is lighter",
+            "D": "has low tensile strength"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The constituent of baking powder that makes the dough rise is",
+          "options": {
+            "A": "NaHCO₃",
+            "B": "NaOH",
+            "C": "Na₂CO₃",
+            "D": "NaCl"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which of the following compounds is used as a gaseous fuel?",
+          "options": {
+            "A": "CH₃–C≡CH",
+            "B": "CH₃–CH₂–CH₃ with –OH group",
+            "C": "CH₃–CH₂–CH₂–COOH",
+            "D": "CH₃–CH₂–CH₂–CH₃"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The ability of carbon to form long chains is referred to as",
+          "options": {
+            "A": "alkylation",
+            "B": "acylation",
+            "C": "catenation",
+            "D": "carbonation"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which of the following compounds will undergo polymerization reaction?",
+          "options": {
+            "A": "C₂H₄",
+            "B": "C₂H₅COOH",
+            "C": "C₂H₆",
+            "D": "C₂H₅OH"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "questions": [
+        {
+          "question": "Which of the following methods can be used to obtain pure water from a mixture of sand, water and methanoic acid?",
+          "options": {
+            "A": "neutralization with NaOH followed by filtration",
+            "B": "neutralization with NaOH followed by distillation",
+            "C": "fractional distillation",
+            "D": "filtration followed by distillation"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "How many atoms are present in 6.0 g of magnesium? [Mg=24, Nₐ=6.02×10²³ mol⁻¹]",
+          "options": {
+            "A": "1.20×10²³",
+            "B": "2.41×10²³",
+            "C": "1.51×10²³",
+            "D": "3.02×10²³"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "50 cm³ of gas was collected over water at 10°C and 760 mmHg. Calculate the volume of the gas at s.t.p. if the saturated vapour pressure of water at 10°C is 5 mmHg.",
+          "options": {
+            "A": "49.19 cm³",
+            "B": "48.87 cm³",
+            "C": "48.55 cm³",
+            "D": "48.23 cm³"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "An increase in the pressure exerted on a gas at constant temperature results in",
+          "options": {
+            "A": "a decrease in the number of effective collisions",
+            "B": "a decrease in volume",
+            "C": "an increase in the average intermolecular distance",
+            "D": "an increase in volume"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "2H₂(g) + O₂(g) → 2H₂O(g). In the reaction above, what volume of hydrogen would be left over when 300 cm³ of oxygen and 1000 cm³ of hydrogen are exploded in a sealed tube?",
+          "options": {
+            "A": "200 cm³",
+            "B": "400 cm³",
+            "C": "600 cm³",
+            "D": "700 cm³"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which of the following can correctly be listed as evidences for the particulate nature of matter? I. Evaporation  II. Sublimation  III. Diffusion  IV. Brownian motion",
+          "options": {
+            "A": "I and III only",
+            "B": "II and IV only",
+            "C": "I, II and III only",
+            "D": "I, II, III and IV"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "If the elements X and Y have atomic numbers 11 and 17 respectively, what type of bond can they form?",
+          "options": {
+            "A": "Dative",
+            "B": "Covalent",
+            "C": "Ionic",
+            "D": "Metallic"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "A hydrogen atom which has lost an electron contains",
+          "options": {
+            "A": "one proton only",
+            "B": "one neutron only",
+            "C": "one proton and one neutron",
+            "D": "one proton, one electron and one neutron"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The electronic configuration of Mg²⁺ is",
+          "options": {
+            "A": "1s² 2s² 2p⁶ 3s² 3p²",
+            "B": "1s² 2s² 2p⁶ 3s²",
+            "C": "1s² 2s² 2p⁶",
+            "D": "1s² 2s² 2p⁴"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Group VII elements are",
+          "options": {
+            "A": "monoatomic",
+            "B": "good oxidizing agents",
+            "C": "highly electropositive",
+            "D": "electron donors"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which of the following is used to study the arrangement of particles in crystal lattices?",
+          "options": {
+            "A": "Alpha-particles",
+            "B": "Beta-particles",
+            "C": "Gamma-rays",
+            "D": "X-rays"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "I. It has a varied composition from one place to another.  II. Its constituents can be separated by physical means.  III. It contains unreactive noble gases. Which of the above shows that air is a mixture?",
+          "options": {
+            "A": "I and II only",
+            "B": "II and III only",
+            "C": "I and III only",
+            "D": "I, II and III"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The chemicals used to soften hard water involve the addition of",
+          "options": {
+            "A": "insoluble sodium compounds which form soluble solutions of calcium and magnesium",
+            "B": "soluble sodium compounds which form soluble solutions of calcium and magnesium ions",
+            "C": "soluble sodium compounds which form insoluble precipitates of calcium and magnesium ions",
+            "D": "insoluble precipitates of calcium and magnesium ions"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Chlorination of water for town supply is carried out to",
+          "options": {
+            "A": "make the water colourless",
+            "B": "remove germs from the water",
+            "C": "make the water tasteful",
+            "D": "remove odour from the water"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The solubilities of different solutes in a given solvent can be compared by",
+          "options": {
+            "A": "plotting their solubility curves on separate axes",
+            "B": "plotting their solubility curves on the same axes",
+            "C": "plotting some of the solubility curves on the x-axis and others on the y-axis",
+            "D": "plotting their solubility curves on the x-axis only"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Potassium trioxochlorate(V) has a solubility of 1.5 mol dm⁻³ at 45°C. On cooling this solution to 20°C, the solubility was 0.5 mol dm⁻³. What mass of KClO₃ was crystallized out? [K=39, Cl=35.5, O=16]",
+          "options": {
+            "A": "1.00 g",
+            "B": "10.00 g",
+            "C": "12.25 g",
+            "D": "122.50 g"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which of the following pollutants is associated with brain damage?",
+          "options": {
+            "A": "Carbon(II) oxide",
+            "B": "Radioactive fallout",
+            "C": "Biodegradable waste",
+            "D": "Sulphur(IV) oxide"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which of the following will produce a solution with pH less than 7 at the equivalence point?",
+          "options": {
+            "A": "HNO₃ + NaOH",
+            "B": "H₂SO₄ + KOH",
+            "C": "HCl + Mg(OH)₂",
+            "D": "HNO₃ + KOH"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The number of hydroxonium ions produced by one molecule of an acid in aqueous solution is its",
+          "options": {
+            "A": "basicity",
+            "B": "acid strength",
+            "C": "pH",
+            "D": "concentration"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "During a titration experiment, 0.05 moles of carbon(IV) oxide is liberated. What is the volume of gas liberated?",
+          "options": {
+            "A": "22.40 dm³",
+            "B": "11.20 dm³",
+            "C": "2.24 dm³",
+            "D": "1.12 dm³"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "A major factor considered in selecting a suitable method for preparing a simple salt is its",
+          "options": {
+            "A": "crystalline form",
+            "B": "melting point",
+            "C": "reactivity with dilute acids",
+            "D": "solubility in water"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The oxidation number of boron in NaBH₄ is",
+          "options": {
+            "A": "−3",
+            "B": "−1",
+            "C": "+1",
+            "D": "+3"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "2Na₂O₂(s) + 2H₂O(l) → 4NaOH(aq) + O₂(g). The substance that is oxidized in the reaction above is",
+          "options": {
+            "A": "2Na₂O₂(s)",
+            "B": "NaOH(aq)",
+            "C": "H₂O(l)",
+            "D": "O₂(g)"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "What number of moles of Cu²⁺ will be deposited by 360 coulombs of electricity? [F=96500 C mol⁻¹]",
+          "options": {
+            "A": "5.36×10⁻⁴ mole",
+            "B": "1.87×10⁻³ mole",
+            "C": "9.35×10⁻⁴ mole",
+            "D": "3.73×10⁻³ mole"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "A metal M displaces zinc from ZnCl₂ solution. This shows that",
+          "options": {
+            "A": "electrons flow from zinc to M",
+            "B": "M is more electropositive than zinc",
+            "C": "M is more electronegative than zinc",
+            "D": "zinc is more electropositive than M"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "CO(g) + H₂O(g) → CO₂(g) + H₂(g). Calculate the standard heat change of the reaction above, if the standard enthalpies of formation of CO₂(g), H₂O(g) and CO(g) in kJ mol⁻¹ are −394, −242 and −110 respectively.",
+          "options": {
+            "A": "+262 kJ mol⁻¹",
+            "B": "−262 kJ mol⁻¹",
+            "C": "+42 kJ mol⁻¹",
+            "D": "−42 kJ mol⁻¹"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "An increase in entropy can best be illustrated by",
+          "options": {
+            "A": "mixing of gases",
+            "B": "freezing of water",
+            "C": "the condensation of vapour",
+            "D": "solidifying candle wax"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The highest rate of production of carbon(IV) oxide can be achieved using",
+          "options": {
+            "A": "0.05 mol dm⁻³ HCl and 5 g powdered CaCO₃",
+            "B": "0.05 mol dm⁻³ HCl and 5 g lump of CaCO₃",
+            "C": "0.10 mol dm⁻³ HCl and 5 g powdered CaCO₃",
+            "D": "0.025 mol dm⁻³ HCl and 5 g powdered CaCO₃"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Given that M is the mass of a substance deposited during electrolysis and Q is the quantity of electricity consumed, then Faraday's first law can be written as [Electrochemical equivalent = E]",
+          "options": {
+            "A": "M = E/Q",
+            "B": "M = EQ",
+            "C": "M = Q/E",
+            "D": "M = E/2Q"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "2CO(g) + O₂(g) ⇌ 2CO₂(g). In the reaction above, high pressure will favour the forward reaction because",
+          "options": {
+            "A": "high pressure favours gas formation",
+            "B": "the reaction is in dynamic equilibrium",
+            "C": "the reaction is exothermic",
+            "D": "the process occurs with a decrease in volume"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "A piece of filter paper moistened with lead(II) ethanoate solution turns black when the paper is dropped into a gas. The gas is likely to be",
+          "options": {
+            "A": "sulphur(VI) oxide",
+            "B": "hydrogen chloride",
+            "C": "sulphur(IV) oxide",
+            "D": "hydrogen sulphide"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which of the following gases has a characteristic pungent smell, turns red litmus paper blue and forms dense white fumes with hydrogen chloride gas?",
+          "options": {
+            "A": "N₂",
+            "B": "N₂O",
+            "C": "Cl₂",
+            "D": "NH₃"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Commercial bleaching can be carried out using",
+          "options": {
+            "A": "sulphur(IV) oxide and ammonia",
+            "B": "hydrogen sulphide and chlorine",
+            "C": "chlorine and sulphur(IV) oxide",
+            "D": "ammonia and chlorine"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Mineral acids are usually added to commercial hydrogen peroxide to",
+          "options": {
+            "A": "oxidize it",
+            "B": "decompose it",
+            "C": "minimize its decomposition",
+            "D": "reduce it to water and oxygen"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which of the following compounds will burn with a brick-red colour in a non-luminous Bunsen flame?",
+          "options": {
+            "A": "LiCl",
+            "B": "NaCl",
+            "C": "CaCl₂",
+            "D": "MgCl₂"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The purest form of iron which contains only about 0.1% carbon is",
+          "options": {
+            "A": "pig iron",
+            "B": "wrought iron",
+            "C": "cast iron",
+            "D": "iron pyrite"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "A common characteristic between zinc and the other transition elements is the ability to",
+          "options": {
+            "A": "have variable oxidation states",
+            "B": "form complex ions",
+            "C": "act as a catalyst",
+            "D": "form coloured ions"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which of the following metals is the least reactive?",
+          "options": {
+            "A": "Pb",
+            "B": "Sn",
+            "C": "Hg",
+            "D": "Au"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Geometric isomerism can exist in",
+          "options": {
+            "A": "hex-3-ene",
+            "B": "hexane",
+            "C": "prop-1-ene",
+            "D": "3-methylbut-1-ene"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Alkanals can be distinguished from alkanones by the reaction with",
+          "options": {
+            "A": "Sudan III stain",
+            "B": "starch iodide paper",
+            "C": "lithium tetrahydridoaluminate(III)",
+            "D": "Fehling's solution"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "questions": [
+        {
+          "question": "The presence of an impurity in a substance will cause the melting point to",
+          "options": {
+            "A": "be zero",
+            "B": "reduce",
+            "C": "increase",
+            "D": "be stable"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "What volume of carbon(II) oxide is produced by reacting excess carbon with 10 dm³ of oxygen?",
+          "options": {
+            "A": "5 dm³",
+            "B": "20 dm³",
+            "C": "15 dm³",
+            "D": "10 dm³"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "From the diagram above [PV vs P graph with curves K, L, M, N], an ideal gas is represented by",
+          "options": {
+            "A": "M",
+            "B": "N",
+            "C": "K",
+            "D": "L"
+          },
+          "answer": "A",
+          "has_diagram": true,
+          "image_url": "/static/chem_diagrams/2013_Q03.png"
+        },
+        {
+          "question": "The rate of diffusion of a gas Y is twice that of Z. If the relative molecular mass of Y is 64 and the two gases diffuse under the same conditions, find the relative molecular mass of Z.",
+          "options": {
+            "A": "32",
+            "B": "4",
+            "C": "8",
+            "D": "16"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The radioisotope used in industrial radiography for the rapid checking of faults in welds and casting is",
+          "options": {
+            "A": "Carbon-14",
+            "B": "Phosphorus-32",
+            "C": "Cobalt-60",
+            "D": "Iodine-131"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "How many unpaired electrons are in the p-orbitals of a fluorine atom?",
+          "options": {
+            "A": "3",
+            "B": "0",
+            "C": "1",
+            "D": "2"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The radioactive emission with the least ionization power is",
+          "options": {
+            "A": "α-particles",
+            "B": "X-rays",
+            "C": "γ-rays",
+            "D": "β-particles"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The shape of the carbon(IV) oxide molecule is",
+          "options": {
+            "A": "pyramidal",
+            "B": "linear",
+            "C": "angular",
+            "D": "tetrahedral"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which of the following molecules is held together by hydrogen bond?",
+          "options": {
+            "A": "CH₄",
+            "B": "HBr",
+            "C": "H₂SO₄",
+            "D": "HF"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The bond formed between two elements with electron configurations 1s² 2s² 2p⁶ 3s² and 1s² 2s² 2p⁴ is",
+          "options": {
+            "A": "metallic",
+            "B": "covalent",
+            "C": "dative",
+            "D": "ionic"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The constituent of air that acts as a diluent is",
+          "options": {
+            "A": "nitrogen",
+            "B": "carbon(IV) oxide",
+            "C": "noble gases",
+            "D": "oxygen"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Steam changes the colour of anhydrous cobalt(II) chloride from",
+          "options": {
+            "A": "white to red",
+            "B": "blue to white",
+            "C": "blue to pink",
+            "D": "white to blue"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "An example of a hygroscopic substance is",
+          "options": {
+            "A": "CuO(s)",
+            "B": "MgCl₂(s)",
+            "C": "CaCl₂(s)",
+            "D": "NaOH(s)"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "If 24.4 g of lead(II) trioxonitrate(V) were dissolved in 42 g of distilled water at 20°C, calculate the solubility of the solute in g dm⁻³.",
+          "options": {
+            "A": "581.000",
+            "B": "0.581",
+            "C": "5.810",
+            "D": "58.100"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The solvent used for removing grease stain is",
+          "options": {
+            "A": "turpentine",
+            "B": "ammonia solution",
+            "C": "ethanol",
+            "D": "solution of borax in water"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "In a water body, too much sewage leads to",
+          "options": {
+            "A": "a decrease in the temperature of the water which causes death of aquatic animals",
+            "B": "an increase in the number of aquatic animals in the water",
+            "C": "an increase in the bacterial population which reduces the level of oxygen in the water",
+            "D": "a decrease in the bacterial population which increases the level of oxygen in the water"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "10.0 dm³ of water was added to 2.0 mol dm⁻³ of 2.5 dm³ solution of HCl. What is the concentration of the final solution in mol dm⁻³?",
+          "options": {
+            "A": "0.4",
+            "B": "8.0",
+            "C": "2.0",
+            "D": "0.5"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Three drops of a 1.0 mol dm⁻³ solution of HCl was added to 20 cm³ of a solution of pH 6.4. The pH of the resulting solution will be",
+          "options": {
+            "A": "close to that of pure water",
+            "B": "less than 6.4",
+            "C": "greater than 6.4",
+            "D": "unaltered"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which of the following substances is not a salt?",
+          "options": {
+            "A": "Aluminium oxide",
+            "B": "Sodium hydrogen trioxosulphate(V)",
+            "C": "Sodium trioxocarbonate(V)",
+            "D": "Zinc chloride"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "An insoluble salt can be prepared by",
+          "options": {
+            "A": "the reaction of trioxocarbonate(V) with an acid",
+            "B": "double decomposition",
+            "C": "the action of dilute acid on an insoluble base",
+            "D": "the reaction of metals with an acid"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "2H₂O(l) + 2F₂(g) → 4HF(aq) + O₂(g). In the reaction above, the substance that is being reduced is",
+          "options": {
+            "A": "O₂(g)",
+            "B": "H₂O(l)",
+            "C": "F₂(g)",
+            "D": "HF(aq)"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Zn(s) + CuSO₄(aq) → ZnSO₄(aq) + Cu(s). In the reaction above, the oxidizing agent is",
+          "options": {
+            "A": "CuSO₄(aq)",
+            "B": "ZnSO₄(aq)",
+            "C": "Cu(s)",
+            "D": "Zn(s)"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "In an electrochemical cell, polarization is caused by",
+          "options": {
+            "A": "chlorine",
+            "B": "oxygen",
+            "C": "tetraoxosulphate(VI) acid",
+            "D": "hydrogen"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Calculate the volume in cm³ of oxygen evolved at s.t.p. when a current of 5 A is passed through acidified water for 193 s. [F=96500 C mol⁻¹, molar volume at s.t.p.=22.4 dm³]",
+          "options": {
+            "A": "224.000 dm³",
+            "B": "0.056 dm³",
+            "C": "0.224 dm³",
+            "D": "56.000 dm³"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "In an endothermic reaction, if there is a loss in entropy the reaction will",
+          "options": {
+            "A": "be indeterminate",
+            "B": "be spontaneous",
+            "C": "not be spontaneous",
+            "D": "be at equilibrium"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "2SO₂(g) + O₂(g) ⇌ 2SO₃(g) ΔH = −395.7 kJ mol⁻¹. In the reaction above, the concentration of SO₃(g) can be increased by",
+          "options": {
+            "A": "decreasing the pressure",
+            "B": "decreasing the temperature",
+            "C": "increasing the temperature",
+            "D": "the addition of catalyst"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The minimum amount of energy required for a reaction to take place is",
+          "options": {
+            "A": "lattice energy",
+            "B": "ionization energy",
+            "C": "activation energy",
+            "D": "kinetic energy"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "In the graph above [energy profile with and without catalyst], the activation energy of the catalyzed reaction is",
+          "options": {
+            "A": "100 kJ",
+            "B": "300 kJ",
+            "C": "250 kJ",
+            "D": "200 kJ"
+          },
+          "answer": "A",
+          "has_diagram": true,
+          "image_url": "/static/chem_diagrams/2013_Q28.png"
+        },
+        {
+          "question": "3Fe(s) + 4H₂O(g) ⇌ Fe₃O₄(s) + 4H₂(g). The equilibrium constant K of the reaction above is represented as",
+          "options": {
+            "A": "[Fe₃O₄][H₂] / [Fe][H₂O]",
+            "B": "[H₂O]⁴ / [H₂]⁴",
+            "C": "[H₂]⁴ / [H₂O]⁴",
+            "D": "[Fe₃O₄][H₂]⁴ / [Fe]³[H₂O]⁴"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which of the following compounds is a neutral oxide?",
+          "options": {
+            "A": "Carbon(IV) oxide",
+            "B": "Sulphur(VI) oxide",
+            "C": "Sulphur(IV) oxide",
+            "D": "Carbon(II) oxide"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "In the laboratory preparation of ammonia, the flask is placed in a slanting position so as to",
+          "options": {
+            "A": "prevent condensed water from breaking the reaction flask",
+            "B": "enable the proper mixing of the reactants in the flask",
+            "C": "enhance the speed of the reaction",
+            "D": "prevent formation of precipitate"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which of the gases is employed as an anaesthetic?",
+          "options": {
+            "A": "N₂O",
+            "B": "NO₂",
+            "C": "NH₃",
+            "D": "NO"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Sulphur(IV) oxide is a strong reducing agent in the presence of water due to the formation of",
+          "options": {
+            "A": "hydroxide ion",
+            "B": "sulphur(VI) oxide",
+            "C": "hydrogen sulphide",
+            "D": "trioxosulphate(IV) salt"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "A metal that forms soluble trioxosulphate(IV) ion is",
+          "options": {
+            "A": "barium",
+            "B": "potassium",
+            "C": "manganese",
+            "D": "aluminium"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Copper is displaced from the solution of its salts by most metals because it",
+          "options": {
+            "A": "is a transition element",
+            "B": "is at the bottom of the activity series",
+            "C": "is very reactive",
+            "D": "has completely filled 3d-orbitals"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The coloured nature of transition metal ions are associated with their partially filled",
+          "options": {
+            "A": "f-orbital",
+            "B": "s-orbital",
+            "C": "p-orbital",
+            "D": "d-orbital"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Aluminium containers are frequently used to transport trioxonitrate(V) acid because aluminium",
+          "options": {
+            "A": "has a silvery-white appearance",
+            "B": "has a low density",
+            "C": "does not react with the acid",
+            "D": "does not corrode"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "2-methylbutan-2-ol is an example of a",
+          "options": {
+            "A": "dihydric alkanol",
+            "B": "tertiary alkanol",
+            "C": "secondary alkanol",
+            "D": "primary alkanol"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The reaction between ammonia and ethyl ethanoate produces",
+          "options": {
+            "A": "propanol and ethanamide",
+            "B": "propanol and propanamide",
+            "C": "ethanol and propanamide",
+            "D": "ethanol and ethanamide"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The decarboxylation of ethanoic acid will produce carbon(IV) oxide and",
+          "options": {
+            "A": "methane",
+            "B": "ethane",
+            "C": "propane",
+            "D": "butane"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "questions": [
+        {
+          "question": "A mixture is different from a compound because",
+          "options": {
+            "A": "the properties of a compound are those of its individual constituents while those of a mixture differ from its constituents",
+            "B": "a mixture is always homogeneous while a compound is not",
+            "C": "the constituents of a compound are chemically bound together while those of a mixture are not",
+            "D": "a mixture can be represented by a chemical formula while a compound cannot"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "What is the percentage of sulphur in sulphur(IV) oxide?",
+          "options": {
+            "A": "66%",
+            "B": "25%",
+            "C": "40%",
+            "D": "50%"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "A gas X diffuses twice as fast as gas Y. If the relative molecular mass of X is 32, calculate the relative molecular mass of Y.",
+          "options": {
+            "A": "128",
+            "B": "8",
+            "C": "16",
+            "D": "64"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "200 cm³ of a gas at 25°C exerts a pressure of 700 mmHg. Calculate its pressure if its volume increases to 350 cm³ at 75°C.",
+          "options": {
+            "A": "342.53 mmHg",
+            "B": "1430.54 mmHg",
+            "C": "467.11 mmHg",
+            "D": "400.00 mmHg"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "An element X has electron configuration 1s² 2s² 2p⁶ 3s² 3p⁵. Which of the following statements is correct about the element?",
+          "options": {
+            "A": "It has a completely filled p-orbital",
+            "B": "It has 5 electrons in its outermost shell",
+            "C": "It belongs to group II on the periodic table",
+            "D": "It is a halogen"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Beryllium and aluminium have similar properties because they",
+          "options": {
+            "A": "are both metals",
+            "B": "belong to the same group",
+            "C": "belong to the same period",
+            "D": "are positioned diagonally to each other"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "If the difference in electronegativity of elements P and Q is 3.0, the bond that will be formed between them is",
+          "options": {
+            "A": "metallic",
+            "B": "covalent",
+            "C": "co-ordinate",
+            "D": "ionic"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "How many protons, neutrons and electrons respectively are present in the element ⁶⁰₂₇Co?",
+          "options": {
+            "A": "27, 33 and 33",
+            "B": "33, 27 and 27",
+            "C": "27, 33 and 27",
+            "D": "60, 33 and 60"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The radioactive radiation used in studying the arrangement of particles in giant organic molecules is",
+          "options": {
+            "A": "γ-rays",
+            "B": "α-particles",
+            "C": "X-rays",
+            "D": "β-particles"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "A silicon-containing ore has 92% ²⁸Si, 5% ²⁹Si and 3% ³⁰Si. Calculate the relative atomic mass of silicon.",
+          "options": {
+            "A": "14.00",
+            "B": "29.00",
+            "C": "28.11",
+            "D": "28.00"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The nitrogen obtained from air has a density higher than the one from nitrogen-containing compounds because the one from air is contaminated with",
+          "options": {
+            "A": "water vapour",
+            "B": "oxygen",
+            "C": "rare gases",
+            "D": "carbon(IV) oxide"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Water is said to be temporarily hard when it contains",
+          "options": {
+            "A": "Ca(HCO₃)₂ and Mg(HCO₃)₂ salts",
+            "B": "Ca(HCO₃)₂ and CaCO₃ salts",
+            "C": "Mg(HCO₃)₂ and CaSO₄ salts",
+            "D": "CaSO₄ and Ca(HCO₃)₂ salts"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "On exposure to the atmosphere, a hydrated salt loses its water of crystallization to become anhydrous. This phenomenon is referred to as",
+          "options": {
+            "A": "efflorescence",
+            "B": "deliquescence",
+            "C": "hygroscopy",
+            "D": "hydrolysis"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "If 24.4 g of lead(II) trioxonitrate(V) were dissolved in 42 g of distilled water at 20°C, calculate the solubility of the solute in g dm⁻³.",
+          "options": {
+            "A": "581.000",
+            "B": "0.581",
+            "C": "5.810",
+            "D": "58.100"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The dispersion of a liquid in a liquid medium will give",
+          "options": {
+            "A": "an emulsion",
+            "B": "a fog",
+            "C": "a gel",
+            "D": "an aerosol"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The major and most effective way of controlling pollution is to",
+          "options": {
+            "A": "improve machinery so that the substances released from combustion are less harmful",
+            "B": "pass strict laws against it by individuals and companies",
+            "C": "educate people on the causes and effects of pollution",
+            "D": "convert chemical wastes to harmless substances before releasing them into the environment"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The basicity of CH₃COOH is",
+          "options": {
+            "A": "4",
+            "B": "1",
+            "C": "2",
+            "D": "3"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The colour of litmus in a neutral medium is",
+          "options": {
+            "A": "purple",
+            "B": "pink",
+            "C": "yellow",
+            "D": "orange"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The mathematical expression of pH is",
+          "options": {
+            "A": "log₁₀[OH⁻]",
+            "B": "log₁₀(1/[H₃O⁺])",
+            "C": "log₁₀[H₃O⁺]",
+            "D": "log(1/[OH⁻])"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which of the following salts will turn blue litmus red?",
+          "options": {
+            "A": "Sodium tetrahydroxozincate(II)",
+            "B": "Potassium hydrogen tetraoxosulphate(IV)",
+            "C": "Sodium trioxocarbonate(IV)",
+            "D": "Zinc chloride hydroxide"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Zn(s) + CuSO₄(aq) → ZnSO₄(aq) + Cu(s). In the reaction above, the oxidation number of the reducing agent changes from",
+          "options": {
+            "A": "0 to +4",
+            "B": "0 to +2",
+            "C": "+1 to +2",
+            "D": "+1 to +3"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "H₂O(g) + C(s) → H₂(g) + CO(g). The oxidizing agent in the reaction above is",
+          "options": {
+            "A": "CO(g)",
+            "B": "C(s)",
+            "C": "H₂O(g)",
+            "D": "H₂(g)"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Calculate the quantity of electricity in coulombs required to liberate 10 g of copper from a copper compound. [Cu=64, F=96500 C mol⁻¹]",
+          "options": {
+            "A": "32395.5",
+            "B": "30156.3",
+            "C": "60784.5",
+            "D": "15196.5"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "How many faradays of electricity is required to produce 0.25 mole of copper?",
+          "options": {
+            "A": "1.00 F",
+            "B": "0.01 F",
+            "C": "0.05 F",
+            "D": "0.50 F"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Z in the diagram below [energy profile diagram A+B → C+D] represents",
+          "options": {
+            "A": "heat of reaction",
+            "B": "activation energy",
+            "C": "free energy",
+            "D": "entropy of reaction"
+          },
+          "answer": "A",
+          "has_diagram": true,
+          "image_url": "/static/chem_diagrams/2014_Q25.png"
+        },
+        {
+          "question": "If the change in free energy of a system is −899 J mol⁻¹ and the entropy change is 10 J mol⁻¹ K⁻¹ at 25°C, calculate the enthalpy change.",
+          "options": {
+            "A": "+2081 J mol⁻¹",
+            "B": "−2081 J mol⁻¹",
+            "C": "−649 J mol⁻¹",
+            "D": "+649 J mol⁻¹"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "In an equilibrium reaction, which of the following conditions indicates that maximum yield of the product will be obtained?",
+          "options": {
+            "A": "Equilibrium constant is very large",
+            "B": "ΔH − TΔS = 0",
+            "C": "ΔH > TΔS",
+            "D": "Equilibrium constant is less than zero"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "In a chemical reaction, the change in concentration of a reactant with time is",
+          "options": {
+            "A": "entropy of reaction",
+            "B": "enthalpy of reaction",
+            "C": "rate of reaction",
+            "D": "order of reaction"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Cr₂O₇²⁻(aq) + H₂O ⇌ 2CrO₄²⁻(aq) + 2H⁺(aq). What happens to the reaction above when the hydrogen ion concentration is increased?",
+          "options": {
+            "A": "more of the products will be formed",
+            "B": "the reaction will not proceed",
+            "C": "the equilibrium position will shift to the right",
+            "D": "the equilibrium position will shift to the left"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which of the following will liberate hydrogen from dilute tetraoxosulphate(VI) acid?",
+          "options": {
+            "A": "Lead",
+            "B": "Magnesium",
+            "C": "Copper",
+            "D": "Gold"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "In the diagram shown [chlorine preparation setup: HCl + KMnO₄, H₂O, conc. H₂SO₄], the function of the concentrated H₂SO₄ is to",
+          "options": {
+            "A": "purify the gas",
+            "B": "dry the gas",
+            "C": "liquefy the gas",
+            "D": "remove odour"
+          },
+          "answer": "B",
+          "has_diagram": true,
+          "image_url": "/static/chem_diagrams/2014_Q31.png"
+        },
+        {
+          "question": "The gas that is removed by the water in the flask is",
+          "options": {
+            "A": "O₂",
+            "B": "SO₂",
+            "C": "HCl",
+            "D": "H₂"
+          },
+          "answer": "C",
+          "has_diagram": true,
+          "image_url": "/static/chem_diagrams/2014_Q32.png"
+        },
+        {
+          "question": "Fluorine does not occur in the free state in nature because",
+          "options": {
+            "A": "it is a poisonous gas",
+            "B": "it belongs to the halogen family",
+            "C": "it is inert",
+            "D": "of its high reactivity"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "In the extraction of sodium from fused sodium chloride, the anode is made of platinum because",
+          "options": {
+            "A": "sodium is formed at the anode",
+            "B": "chlorine is formed at the anode",
+            "C": "sodium does not react with platinum",
+            "D": "chlorine does not react with platinum"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "A compound that gives a brick-red colour to a non-luminous flame is likely to contain",
+          "options": {
+            "A": "copper ions",
+            "B": "sodium ions",
+            "C": "calcium ions",
+            "D": "aluminium ions"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "In the electrolytic extraction of calcium from calcium chloride, the cathode is",
+          "options": {
+            "A": "zinc",
+            "B": "graphite",
+            "C": "platinum",
+            "D": "iron"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "A few drops of NaOH solution was added to an unknown salt forming a white precipitate which is insoluble in excess solution. The cation likely present is",
+          "options": {
+            "A": "Zn²⁺",
+            "B": "Pb²⁺",
+            "C": "Ca²⁺",
+            "D": "Al³⁺"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The general formula of haloalkanes where X represents the halide is",
+          "options": {
+            "A": "CₙH₂ₙ₋₁X",
+            "B": "CₙH₂ₙX",
+            "C": "CₙH₂ₙ₊₂X",
+            "D": "CₙH₂ₙ₊₁X"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The IUPAC nomenclature of the compound shown [4-carbon chain with HO, Cl, Br substituents] is",
+          "options": {
+            "A": "2-bromo-3-chlorobutanol",
+            "B": "3-bromo-2-chlorobutanol",
+            "C": "3-chloro-2-bromobutanol",
+            "D": "2-chloro-3-bromobutanol"
+          },
+          "answer": "D",
+          "has_diagram": true,
+          "image_url": "/static/chem_diagrams/2014_Q39.png"
+        },
+        {
+          "question": "The alkanol obtained from the production of soap is",
+          "options": {
+            "A": "propanol",
+            "B": "ethanol",
+            "C": "glycerol",
+            "D": "methanol"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "questions": [
+        {
+          "question": "Which of the following statements is correct?",
+          "options": {
+            "A": "The average kinetic energy of a gas is directly proportional to its temperature",
+            "B": "At constant temperature, the volume of a gas increases as the pressure increases",
+            "C": "The pressure of a gas is inversely proportional to its volume",
+            "D": "The temperature of gas is directly proportional to its volume"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which are the correct IUPAC names for H–CO₂CH₃ and CH≡CH?",
+          "options": {
+            "A": "Methyl methanoate and ethene",
+            "B": "Methanoic acid and ethyne",
+            "C": "Ethyl methanoate and ethyne",
+            "D": "Methyl methanoate and ethyne"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "A solution X on mixing with AgNO₃ solution gives a white precipitate soluble in NH₃(aq). A solution Y, when added to X, also gives a white precipitate which is soluble on boiling. Solution Y contains",
+          "options": {
+            "A": "Ag⁺ ion",
+            "B": "Pb²⁺ ion",
+            "C": "Pb⁴⁺ ion",
+            "D": "Zn²⁺ ion"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Methane is a member of the homologous series called",
+          "options": {
+            "A": "alkenes",
+            "B": "alcohols",
+            "C": "esters",
+            "D": "alkanes"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which of the following bonds exists in crystalline ammonium chloride (NH₄Cl)?",
+          "options": {
+            "A": "ionic, covalent",
+            "B": "ionic and co-ordinate",
+            "C": "ionic, covalent and co-ordinate",
+            "D": "covalent, co-ordinate and metallic"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Some CuSO₄·5H₂O was heated at 120°C: Wt of crucible = 10.00 g; Wt of crucible + CuSO₄·5H₂O = 14.98 g; Wt of crucible + residue = 13.54 g. How many molecules of water of crystallization were lost? [H=1, Cu=63.5, O=16, S=32]",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which of the curves shown above [volume vs pressure curves at different temperatures] represents the relationship between the volume (V) and pressure (P) of an ideal gas at constant temperature?",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+          },
+          "answer": "C",
+          "has_diagram": true,
+          "image_url": "/static/chem_diagrams/2015_Q07.png"
+        },
+        {
+          "question": "12.0 g of a mixture of potassium carbonate and potassium chloride were dissolved in a 250 cm³ standard flask. 25 cm³ of this solution required 40.00 cm³ of 0.1 M HCl for neutralization. What is the percentage by weight of K₂CO₃ in the mixture? [K=39, O=16, C=12]",
+          "options": {
+            "A": "60",
+            "B": "72",
+            "C": "82",
+            "D": "92"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which of the following groups of physical properties increases from left to right of the Periodic Table? 1. Ionization energy  2. Atomic radius  3. Electronegativity  4. Electron affinity",
+          "options": {
+            "A": "1 and 2",
+            "B": "1, 2 and 3",
+            "C": "3 and 4",
+            "D": "1, 2, 3 and 4"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "An element Z contained 90% of ₈Z¹⁶ and 10% of ₈Z¹⁸. Its relative atomic mass is",
+          "options": {
+            "A": "16.0",
+            "B": "16.2",
+            "C": "17.0",
+            "D": "17.8"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "What are the possible oxidation numbers for an element if its atomic number is 17?",
+          "options": {
+            "A": "−1 and 7",
+            "B": "−1 and 6",
+            "C": "−3 and 5",
+            "D": "−2 and 6"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "How many valence electrons are contained in the element represented by ³¹₁₅P?",
+          "options": {
+            "A": "3",
+            "B": "5",
+            "C": "15",
+            "D": "31"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "10.0 dm³ of air containing H₂S as an impurity was passed through a solution of Pb(NO₃)₂. The precipitate of PbS weighed 5.02 g. [Pb(NO₃)₂ + H₂S → PbS + 2HNO₃, Pb=207, S=32] The percentage by volume of hydrogen sulphide in the air is",
+          "options": {
+            "A": "50.2",
+            "B": "47.0",
+            "C": "4.70",
+            "D": "0.47"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "A quantity of air was passed through a weighed amount of alkaline pyrogallol. An increase in the weight of the pyrogallol would result from the absorption of",
+          "options": {
+            "A": "nitrogen",
+            "B": "neon",
+            "C": "argon",
+            "D": "oxygen"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Water for town supply is chlorinated to make it free from",
+          "options": {
+            "A": "bad odour",
+            "B": "bacteria",
+            "C": "temporary hardness",
+            "D": "permanent hardness"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "4.0 g of sodium hydroxide in 250 cm³ of solution contains",
+          "options": {
+            "A": "0.40 moles per dm³",
+            "B": "0.10 moles per dm³",
+            "C": "0.04 moles per dm³",
+            "D": "0.02 moles per dm³"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "A major effect of oil pollution in coastal waters is the",
+          "options": {
+            "A": "destruction of marine life",
+            "B": "desalination of the water",
+            "C": "increase in the acidity of the water",
+            "D": "detoxification of the water"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "In general, an increase in temperature increases the solubility of a solute in water because",
+          "options": {
+            "A": "more solute molecules collide with each other",
+            "B": "most solutes dissolve with the evolution of heat",
+            "C": "more solute molecules dissociate at higher temperatures",
+            "D": "most solutes dissolve with absorption of heat"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The relatively high boiling points of alkanols are due to",
+          "options": {
+            "A": "ionic bonding",
+            "B": "aromatic character",
+            "C": "covalent bonding",
+            "D": "hydrogen bonding"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Given that 15.00 cm³ of H₂SO₄ was required to completely neutralize 25.00 cm³ of 0.125 mol dm⁻³ NaOH, calculate the molar concentration of the acid solution.",
+          "options": {
+            "A": "0.925 mol dm⁻³",
+            "B": "0.156 mol dm⁻³",
+            "C": "0.104 mol dm⁻³",
+            "D": "0.023 mol dm⁻³"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "What volume of 0.1 mol dm⁻³ solution of tetraoxosulphate(VI) acid would be needed to dissolve 2.86 g of sodium trioxocarbonate(IV) decahydrate crystals? [H=1, C=12, O=16, S=32, Na=23]",
+          "options": {
+            "A": "20 cm³",
+            "B": "40 cm³",
+            "C": "80 cm³",
+            "D": "100 cm³"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The solution with the lowest pH value is",
+          "options": {
+            "A": "5 ml of M/10 HCl",
+            "B": "10 ml of M/10 HCl",
+            "C": "15 ml of M/5 HCl",
+            "D": "20 ml of M/8 HCl"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "In which order are the following salts sensitive to light?",
+          "options": {
+            "A": "AgI > AgCl > AgBr",
+            "B": "AgCl > AgI > AgBr",
+            "C": "AgBr > AgCl > AgI",
+            "D": "AgCl > AgBr > AgI"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "A metal m displaces Zinc from zinc chloride solution. This shows that",
+          "options": {
+            "A": "M is more electronegative than Zinc",
+            "B": "Zinc is above hydrogen in the series",
+            "C": "M is more electropositive than Zinc",
+            "D": "electrons flow from zinc to M"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Steam changes the colour of anhydrous cobalt(II) chloride from",
+          "options": {
+            "A": "blue to pink",
+            "B": "white to red",
+            "C": "white to green",
+            "D": "blue to white"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "When at equilibrium, which of the reactions below will shift to the right if the pressure is increased and the temperature is kept constant?",
+          "options": {
+            "A": "2SO₃(g) ⇌ 2SO₂(g) + O₂(g)",
+            "B": "2CO₂(g) ⇌ 2CO(g) + O₂(g)",
+            "C": "2H₂(g) + O₂(g) ⇌ 2H₂O(g)",
+            "D": "2NO(g) ⇌ N₂(g) + O₂(g)"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "2CO(g) + O₂(g) → 2CO₂(g). Given that ΔH[CO] is −110.4 kJ mol⁻¹ and ΔH[CO₂] is −393.0 kJ mol⁻¹, the energy change for the reaction above is",
+          "options": {
+            "A": "−503.7 kJ",
+            "B": "−282.6 kJ",
+            "C": "+282.6 kJ",
+            "D": "+503.7 kJ"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which of these properties gives a solid its definite shape?",
+          "options": {
+            "A": "Strong intermolecular attraction",
+            "B": "High melting point",
+            "C": "High boiling point",
+            "D": "Weak intermolecular attraction"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "When a crystal was added to the clear solution of its salt, the crystal did not dissolve and the solution remained unchanged. This showed that the solution was",
+          "options": {
+            "A": "supersaturated",
+            "B": "concentrated",
+            "C": "unsaturated",
+            "D": "saturated"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "If the electron configuration of an element is 1s² 2s² 2p⁵, how many unpaired electrons are there?",
+          "options": {
+            "A": "2",
+            "B": "5",
+            "C": "1",
+            "D": "4"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The substance that is used in the steel industry for the removal of carbon, sulphur and phosphorus impurities from pig iron is",
+          "options": {
+            "A": "oxygen",
+            "B": "chlorine",
+            "C": "nitrogen",
+            "D": "hydrogen"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Hydrogen sulphide gas can act as",
+          "options": {
+            "A": "an oxidizing agent",
+            "B": "a dehydrating agent",
+            "C": "a bleaching agent",
+            "D": "a precipitating agent"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which of the following is used as a rocket fuel?",
+          "options": {
+            "A": "HNO₃",
+            "B": "CH₃COOH",
+            "C": "H₂SO₄",
+            "D": "HCl"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The bleaching action of chlorine is effective due to the presence of",
+          "options": {
+            "A": "hydrogen chloride",
+            "B": "water",
+            "C": "air",
+            "D": "oxygen"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Mineral acids are usually added to commercial hydrogen peroxide to",
+          "options": {
+            "A": "oxidize it",
+            "B": "decompose it",
+            "C": "minimize its decomposition",
+            "D": "reduce it to water and oxygen"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Aluminium containers are frequently used to transport trioxonitrate(V) acid because aluminium",
+          "options": {
+            "A": "has a low density",
+            "B": "does not react with the acid",
+            "C": "does not corrode",
+            "D": "has a silvery-white appearance"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Ethyne is passed through a hot tube containing organo-nickel catalyst to produce",
+          "options": {
+            "A": "isoprene",
+            "B": "polythene",
+            "C": "ethanol",
+            "D": "benzene"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The process of converting starch to ethanol is",
+          "options": {
+            "A": "cracking",
+            "B": "distillation",
+            "C": "fermentation",
+            "D": "oxidation"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "An endothermic reaction is one during which heat is ___ and can be represented by the symbol ___. Which of the following combinations can be used accurately to complete the above definition?",
+          "options": {
+            "A": "liberated, −ΔH",
+            "B": "liberated, +ΔH",
+            "C": "absorbed, −ΔH",
+            "D": "absorbed, +ΔH"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Consider the following exothermic reaction: 2SO₂(g) + O₂(g) ⇌ 2SO₃(g). If the temperature of the reaction is reduced from 800°C to 500°C, and no other change takes place, then",
+          "options": {
+            "A": "the reaction rate increases",
+            "B": "concentration of SO₂ decreases",
+            "C": "concentration of SO₂ increases",
+            "D": "SO₂ gas becomes unreactive"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "questions": [
+        {
+          "question": "An element X has two isotopes ²⁰₁₀X and ²²X present in the ratio 1:3. The relative atomic mass of X would be",
+          "options": {
+            "A": "20.5",
+            "B": "21.0",
+            "C": "21.5",
+            "D": "22.0"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "200 cm³ of oxygen diffuse through a porous plug in 50 seconds. How long will 80 cm³ of methane (CH₄) take to diffuse through the same porous plug under the same conditions?",
+          "options": {
+            "A": "40 sec",
+            "B": "20 sec",
+            "C": "14 sec",
+            "D": "7 sec"
+          },
+          "answer": "C",
+          "has_diagram": true,
+          "image_url": "/static/chem_diagrams/2016_Q02.png"
+        },
+        {
+          "question": "Which of the following terms indicates the number of bonds that can be formed by an atom?",
+          "options": {
+            "A": "oxidation number",
+            "B": "valence",
+            "C": "atomic number",
+            "D": "electronegativity"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The diagram above [atom with electron shells showing nucleus and electrons] represents an atom of",
+          "options": {
+            "A": "magnesium",
+            "B": "helium",
+            "C": "chlorine",
+            "D": "neon"
+          },
+          "answer": "A",
+          "has_diagram": true,
+          "image_url": "/static/chem_diagrams/2016_Q04.png"
+        },
+        {
+          "question": "Which of the following gases is the most dangerous pollutant?",
+          "options": {
+            "A": "hydrogen sulphide",
+            "B": "carbon monoxide",
+            "C": "sulphur(IV) oxide",
+            "D": "carbon dioxide"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "A side effect of soft water is that it",
+          "options": {
+            "A": "gives offensive taste",
+            "B": "excess calcium is precipitated",
+            "C": "attacks lead contained in pipes",
+            "D": "encourages the growth of bacteria"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Farmlands affected by crude oil spillage can be decontaminated by",
+          "options": {
+            "A": "adding acidic solutions",
+            "B": "using aerobic bacteria",
+            "C": "pouring water on the affected area",
+            "D": "burning off the oil from the area"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which of the following functional groups will give gas bubbles when treated with a saturated solution of sodium hydrogen trioxocarbonate(IV)?",
+          "options": {
+            "A": "—NH₃",
+            "B": "—C(=O)(OH) [carboxylic acid group]",
+            "C": "—OH",
+            "D": ">C=O"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The oxidation state of Cr in K₂Cr₂O₇ is",
+          "options": {
+            "A": "+7",
+            "B": "+6",
+            "C": "+5",
+            "D": "+4"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "2Na₂O₂(s) + 2H₂O(l) → 4NaOH(aq) + O₂(g). The substance that is oxidized in the reaction above is",
+          "options": {
+            "A": "2Na₂O₂(s)",
+            "B": "NaOH(aq)",
+            "C": "H₂O(l)",
+            "D": "O₂(g)"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Z in diagram shown [energy profile: A+B → transition state X → C+D] represents",
+          "options": {
+            "A": "heat of reaction",
+            "B": "activation energy",
+            "C": "free energy",
+            "D": "entropy of reaction"
+          },
+          "answer": "A",
+          "has_diagram": true,
+          "image_url": "/static/chem_diagrams/2016_Q11.png"
+        },
+        {
+          "question": "The nucleus of an atom contains",
+          "options": {
+            "A": "protons only",
+            "B": "neutrons only",
+            "C": "protons and electrons",
+            "D": "protons and neutrons"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which of the following does NOT happen when a Zinc rod is introduced into a solution of Copper(II) sulphate?",
+          "options": {
+            "A": "Electrons flow towards the zinc rod",
+            "B": "The zinc rod dissolves",
+            "C": "The temperature of the solution changes",
+            "D": "The blue colour of the solution gradually disappears"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which of the following statements is correct during the electrolysis of a caustic soda solution using platinum electrodes?",
+          "options": {
+            "A": "Oxygen gas is given off at the cathode",
+            "B": "Hydrogen gas is given off at the anode",
+            "C": "Sodium metal is deposited at the cathode",
+            "D": "Alkalinity at the cathode increases"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which of the following statements is INCORRECT?",
+          "options": {
+            "A": "Fractional distillation of crude petroleum will give the following hydrocarbon fuels in order of increasing boiling point: Butane < Petrol < Kerosene",
+            "B": "H₂C=CH₂ will serve as a monomer in the preparation of polythene",
+            "C": "Both but-1-ene and but-1-yne will decolourize bromine readily",
+            "D": "Calcium carbide will react with water to form any alkyne"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The iron(III) oxide impurity in bauxite can be removed by",
+          "options": {
+            "A": "fractional crystallization in acid solution",
+            "B": "dissolution in sodium hydroxide and filtration",
+            "C": "extraction with concentrated ammonia and reprecipitation",
+            "D": "electrolysis of molten mixture"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Aluminium is extracted commercially from its ore by",
+          "options": {
+            "A": "heating aluminium oxide with coke in a furnace",
+            "B": "the electrolysis of fused aluminium oxide in cryolite",
+            "C": "treating cryolite with sodium hydroxide solution under pressure",
+            "D": "heating sodium aluminium silicate to a high temperature"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which of the following compounds gives a yellow residue when heated and also reacts with aqueous sodium hydroxide to give a white gelatinous precipitate soluble in excess sodium hydroxide solution?",
+          "options": {
+            "A": "(NH₄)₂CO₃",
+            "B": "ZnCO₃",
+            "C": "Al₂(SO₄)₃",
+            "D": "PbCO₃"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The least easily oxidized of the metals below is",
+          "options": {
+            "A": "Cu",
+            "B": "Na",
+            "C": "Zn",
+            "D": "Al"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which of the following chlorides would exhibit the least ionic character?",
+          "options": {
+            "A": "MgCl₂",
+            "B": "CaCl₂",
+            "C": "LiCl",
+            "D": "AlCl₃"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which of the following CANNOT be obtained by fractional distillation of petroleum?",
+          "options": {
+            "A": "Ether",
+            "B": "Methane",
+            "C": "Butane",
+            "D": "Hydrogen"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which of the following is used as an antiknock in automobile engines?",
+          "options": {
+            "A": "tetramethylsilane",
+            "B": "lead tetraethyl",
+            "C": "glycerol",
+            "D": "n-heptane"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The Avogadro number of 24 g of magnesium is the same as that of",
+          "options": {
+            "A": "1 g of hydrogen molecules",
+            "B": "16 g of oxygen molecules",
+            "C": "32 g of oxygen molecules",
+            "D": "35.5 g of chlorine molecules"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "In an electrolytic set-up to protect iron from corrosion, the iron is",
+          "options": {
+            "A": "made the cathode",
+            "B": "made the anode",
+            "C": "used with a metal of lower electropositive potential",
+            "D": "initially coated with tin"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The removal of rust from iron by treatment with tetraoxosulphate(VI) acid is based on the",
+          "options": {
+            "A": "hydrolysis of the iron",
+            "B": "reaction of acid with base",
+            "C": "oxidation of the rust",
+            "D": "dehydration of the iron"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The substance often used for vulcanization of rubber is",
+          "options": {
+            "A": "chlorine",
+            "B": "hydrogen peroxide",
+            "C": "sulphur",
+            "D": "tetraoxosulphate(VI) acid"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Metals of the first transition series have special properties which are different from those of groups I and II elements because they have partially filled",
+          "options": {
+            "A": "s-orbitals",
+            "B": "p-orbitals",
+            "C": "d-orbitals",
+            "D": "f-orbitals"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "A particle that contains 11 protons, 12 neutrons and 10 electrons is probably a",
+          "options": {
+            "A": "neutral non-metal",
+            "B": "metallic ion",
+            "C": "non-metallic ion",
+            "D": "neutral metal"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "A catalyst increases the rate of a chemical reaction by providing a path that",
+          "options": {
+            "A": "raises the activation energy",
+            "B": "increases the temperature",
+            "C": "lowers the activation energy",
+            "D": "increases the concentration"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "A metal M displaces Zinc from ZnCl₂ solution. This shows that",
+          "options": {
+            "A": "electrons flow from Zinc to M",
+            "B": "M is more electropositive than Zinc",
+            "C": "M is more electronegative than Zinc",
+            "D": "Zinc is more electropositive than M"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Calculate the quantity of electricity in coulombs required to liberate 10 g of copper from a copper compound. [Cu=64, F=96500 C]",
+          "options": {
+            "A": "32395.5",
+            "B": "30156.3",
+            "C": "60784.5",
+            "D": "15196.6"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The IUPAC names for the compounds CH₃COOH and CH₂=CH₂ are respectively",
+          "options": {
+            "A": "acetic acid and ethane",
+            "B": "ethanoic acid and ethene",
+            "C": "methanoic acid and ethylene",
+            "D": "ethanol and ethene"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The boiling point of water is higher than that of methanol because",
+          "options": {
+            "A": "water is an oxide while methanol is an alcohol",
+            "B": "inter-molecular forces in water are stronger than those in methanol",
+            "C": "water is an inorganic compound while methanol is organic",
+            "D": "water is a compound while methanol is a covalent compound"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "If an element x of atomic number Z and mass number y is irradiated by an intense concentration of neutrons, the relevant nuclear equation is",
+          "options": {
+            "A": "ʸ/ᵧX + ¹₀n → ʸ⁻¹/ᵧ₊₁X",
+            "B": "ʸ/ᵤX + ¹₀n → ʸ⁺¹/ᵤX",
+            "C": "ʸ/ᵤX + ¹₀n → ʸ/ᵤ₊₁X",
+            "D": "ʸ/ᵤX + ¹₀n → ʸ⁺¹/ᵤ₋₁X"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which combination of the following statements is correct? 1. Lowering the activation energy  2. Conducting the reaction in a gaseous state  3. Increasing the temperature  4. Removing the products as soon as they are formed  5. Powdering the reactant if solid",
+          "options": {
+            "A": "1, 2 and 3",
+            "B": "1, 3 and 5",
+            "C": "2, 3 and 5",
+            "D": "3 and 4"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "An element with atomic number twelve is likely to be",
+          "options": {
+            "A": "electrovalent with a valency of 1",
+            "B": "electrovalent with a valency of 2",
+            "C": "covalent with a valency of 2",
+            "D": "covalent with valency of 4"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which of the following physical properties decreases across the periodic table?",
+          "options": {
+            "A": "ionization potential",
+            "B": "electron affinity",
+            "C": "electronegativity",
+            "D": "atomic radius"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "If a gas occupies a container of volume 146 cm³ at 18°C and 0.971 atm, its volume in cm³ at s.t.p. is",
+          "options": {
+            "A": "133",
+            "B": "146",
+            "C": "266",
+            "D": "292"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "50 cm³ of carbon(II) oxide was exploded with 150 cm³ of air containing 20% oxygen by volume. Which of the reactants was in excess?",
+          "options": {
+            "A": "Carbon(II) oxide",
+            "B": "Carbon(IV) oxide",
+            "C": "Oxygen",
+            "D": "Nitrogen"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The formula CH₂O for ethanoic acid is regarded as its",
+          "options": {
+            "A": "molecular formula",
+            "B": "general formula",
+            "C": "empirical formula",
+            "D": "structural formula"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "questions": [
+        {
+          "question": "The flame used by welders in cutting metals is",
+          "options": {
+            "A": "butane gas flame",
+            "B": "acetylene flame",
+            "C": "kerosene flame",
+            "D": "oxy-acetylene flame"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "At room temperature (300 K) in the figure shown [solubility curves X and Y vs temperature]",
+          "options": {
+            "A": "Y is twice as soluble as X",
+            "B": "X is twice as soluble as Y",
+            "C": "X and Y are soluble to the same extent",
+            "D": "X is three times as soluble as Y"
+          },
+          "answer": "A",
+          "has_diagram": true,
+          "image_url": "/static/chem_diagrams/2017_Q02.png"
+        },
+        {
+          "question": "Tetraoxosulphate(VI) acid is prepared using SO₃(g) + H₂O(l) → H₂SO₄(l). Given the heats of formation for SO₃(g), H₂O(l) and H₂SO₄(l) as −395 kJ mol⁻¹, −286 kJ mol⁻¹ and −811 kJ mol⁻¹ respectively, the enthalpy change accompanying this reaction is",
+          "options": {
+            "A": "−1032 kJ",
+            "B": "−130 kJ",
+            "C": "+130 kJ",
+            "D": "+1032 kJ"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "In two separate experiments 0.36 g and 0.71 g of chlorine combined with a metal X to give Y and Z. Analysis showed that Y and Z contain 0.20 g and 0.40 g of X respectively. The data above represents the law of",
+          "options": {
+            "A": "multiple proportion",
+            "B": "conservation of mass",
+            "C": "constant composition",
+            "D": "reciprocal proportion"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "If an element x of atomic number z and mass number y is irradiated by an intense concentration of neutrons, the relevant nuclear equation is",
+          "options": {
+            "A": "ʸ/ᵧX + ¹₀n → ʸ⁻¹/ᵧ₊₁X",
+            "B": "ʸ/ᵤX + ¹₀n → ʸ⁺¹/ᵤX",
+            "C": "ʸ/ᵤX + ¹₀n → ʸ/ᵤ₊₁X",
+            "D": "ʸ/ᵤX + ¹₀n → ʸ⁺¹/ᵤ₋₁X"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The vapour density of a gas may be defined as",
+          "options": {
+            "A": "the mass of a unit volume of the gas compared to an equal volume of water vapour",
+            "B": "the mass of a unit volume of the gas compared to an equal volume of hydrogen",
+            "C": "the mass of a unit volume of the gas compared to an equal volume of oxygen",
+            "D": "the mass of a unit volume of the gas minus the vapour pressure of water"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "30 cm³ of oxygen at 10 atmosphere pressure is placed in a 20 dm³ container. Calculate the new pressure if temperature is kept constant.",
+          "options": {
+            "A": "6.7 atm",
+            "B": "15.0 atm",
+            "C": "60.0 atm",
+            "D": "66.0 atm"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "A liquid begins to boil when",
+          "options": {
+            "A": "its vapour pressure is equal to the vapour pressure of its solid at the given temperature",
+            "B": "molecules start escaping its surface",
+            "C": "its vapour pressure equals the atmospheric pressure",
+            "D": "its volume is slightly increased"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Four elements W, X, Y and Z have atomic numbers 2, 6, 16 and 20 respectively. Which of these elements is a metal?",
+          "options": {
+            "A": "X",
+            "B": "W",
+            "C": "Z",
+            "D": "Y"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "When cathode rays are deflected onto the electrode of an electrometer, the instrument becomes",
+          "options": {
+            "A": "negatively charged",
+            "B": "positively charged",
+            "C": "neutral",
+            "D": "bipolar"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "When large hydrocarbon molecules are heated at high temperature in the presence of a catalyst to give smaller molecules, the process is known as",
+          "options": {
+            "A": "disintegration",
+            "B": "polymerization",
+            "C": "cracking",
+            "D": "degradation"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "If concentrated sulphuric acid is added to sugar and warmed gently, the sugar changes from white to brown and finally to a black mass of carbon. In this reaction, concentrated sulphuric acid is acting as",
+          "options": {
+            "A": "a drying agent",
+            "B": "an oxidizing agent",
+            "C": "a dehydrating agent",
+            "D": "a reducing agent"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Smoke consists of",
+          "options": {
+            "A": "solid particles dispersed in liquid",
+            "B": "solid or liquid particles dispersed in gas",
+            "C": "gas or liquid particles dispersed in liquid",
+            "D": "liquid particles dispersed in liquid"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "In the electrolysis of dilute sulphuric acid using platinum electrodes, the products obtained at the anode and cathode are respectively",
+          "options": {
+            "A": "sulphur and hydrogen",
+            "B": "hydrogen and oxygen",
+            "C": "oxygen and hydrogen",
+            "D": "hydrogen and sulphate ions"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "P(g) + Q(g) ⇌ 3R(s) + S(g) ΔH is negative. Which of the following will increase the yield of R?",
+          "options": {
+            "A": "using a larger closed vessel",
+            "B": "increasing the temperature",
+            "C": "removing some S",
+            "D": "adding a positive catalyst"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The mass of silver deposited when a current of 10 A is passed through a solution of silver salt for 4830 s is [Ag=108, F=96500]",
+          "options": {
+            "A": "108.0 g",
+            "B": "54.0 g",
+            "C": "27.0 g",
+            "D": "13.5 g"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "CO(g) + H₂O(g) → CO₂(g) + H₂(g). Calculate the standard heat change if the standard enthalpies of formation of CO₂(g), H₂O(g) and CO(g) in kJ mol⁻¹ are −394, −242 and −110 respectively.",
+          "options": {
+            "A": "−282 kJ mol⁻¹",
+            "B": "−42 kJ mol⁻¹",
+            "C": "+42 kJ mol⁻¹",
+            "D": "+262 kJ mol⁻¹"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "If the electron configuration of an element is 1s² 2s² 2p⁵, how many unpaired electrons are there?",
+          "options": {
+            "A": "2",
+            "B": "5",
+            "C": "1",
+            "D": "4"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which of the following gases can best be used for demonstrating the fountain experiment? (i) Nitrogen  (ii) Ammonia  (iii) Nitrogen(I) oxide  (iv) Hydrogen chloride",
+          "options": {
+            "A": "(ii) and (iii)",
+            "B": "(i) and (iii)",
+            "C": "(ii) and (iv)",
+            "D": "(ii) only"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The coloured nature of transition metal ions are associated with their partially filled",
+          "options": {
+            "A": "f-orbital",
+            "B": "s-orbital",
+            "C": "p-orbital",
+            "D": "d-orbital"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which of the following separation processes is most likely to yield high quality ethanol (≥95%) from palm wine?",
+          "options": {
+            "A": "fractional distillation without a dehydrant",
+            "B": "simple distillation with a dehydrant",
+            "C": "fractional distillation with a dehydrant",
+            "D": "column chromatography"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The products formed on hydrolysis of CH₃C(=O)OCH₂CH₂CH₃ in acid (HCl) are",
+          "options": {
+            "A": "CH₃C(=O)OH + CH₂CH₂CH₂Cl",
+            "B": "CH₃CH₂CH₂OH + CH₃C(=O)Cl",
+            "C": "CH₃C(=O)OH + HOCH₂CH₂CH₃",
+            "D": "CH₃C(=O)OH + CH₃CH₂"
+          },
+          "answer": "C",
+          "has_diagram": true,
+          "image_url": "/static/chem_diagrams/2017_Q22.png"
+        },
+        {
+          "question": "In the reaction: 3CuO + 2NH₃ → 3Cu + 3H₂O + N₂, how many electrons are transferred for each mole of copper produced?",
+          "options": {
+            "A": "4.0×10⁻²³",
+            "B": "3.0×10⁻²³",
+            "C": "1.2×10²⁴",
+            "D": "6.0×10²⁴"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The electronic configuration of an element is 1s² 2s² 2p⁶ 3s² 3p³. How many unpaired electrons are there in the element?",
+          "options": {
+            "A": "5",
+            "B": "4",
+            "C": "3",
+            "D": "2"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "8.0 g of an element X reacted with an excess of copper(II) tetraoxosulphate(VI) solution to deposit 21.3 g of copper. The correct equation for the reaction is [Cu=64]",
+          "options": {
+            "A": "X(s) + CuSO₄(aq) → Cu(s) + XSO₄(aq)",
+            "B": "X(s) + 2CuSO₄(aq) → 2Cu(s) + X(SO₄)₂(aq)",
+            "C": "2X(s) + CuSO₄(aq) → Cu(s) + X₂SO₄(aq)",
+            "D": "2X(s) + 3CuSO₄(aq) → 3Cu(s) + X₂(SO₄)₃(aq)"
+          },
+          "answer": "A",
+          "has_diagram": true,
+          "image_url": "/static/chem_diagrams/2017_Q25.png"
+        },
+        {
+          "question": "In the manufacture of iron in the blast furnace, which of the following statements is true?",
+          "options": {
+            "A": "The coke is a powerful reducing agent and easily converts the iron oxide to iron",
+            "B": "The calcium carbonate reacts with SiO₂, an earthly impurity in the ore, to form calcium silicate",
+            "C": "The coke will react with the iron produced to form steel",
+            "D": "The calcium carbonate decomposes to give calcium oxide, which then forms calcium silicate with the earthly impurity"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The electrons of two atoms Y and Z are arranged in shells as shown [atom diagrams showing Y with 2 shells and Z with 2 shells]. The bond formed between the atoms of Y and Z is",
+          "options": {
+            "A": "ionic",
+            "B": "covalent",
+            "C": "dative",
+            "D": "metallic"
+          },
+          "answer": "B",
+          "has_diagram": true,
+          "image_url": "/static/chem_diagrams/2017_Q27.png"
+        },
+        {
+          "question": "A gas sample with an initial volume of 3.25 dm³ is heated and allowed to expand to 9.75 dm³ at constant pressure. What is the ratio of the final absolute temperature to the initial absolute temperature?",
+          "options": {
+            "A": "3:1",
+            "B": "5:2",
+            "C": "5:4",
+            "D": "8:3"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The chemical used for coagulation in water purification is",
+          "options": {
+            "A": "aluminium tetraoxosulphate(VI)",
+            "B": "copper tetraoxosulphate(VI)",
+            "C": "sodium tetraoxosulphate(VI)",
+            "D": "calcium tetraoxosulphate(VI)"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "A liquid that will dissolve fat is",
+          "options": {
+            "A": "hydrochloric acid",
+            "B": "calcium hydroxide",
+            "C": "kerosene",
+            "D": "water"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "When air is passed through alkaline pyrogallol and then over quicklime, the only gases left are",
+          "options": {
+            "A": "nitrogen and carbon dioxide",
+            "B": "the rare gases",
+            "C": "nitrogen and oxygen",
+            "D": "nitrogen and the rare gases"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The number of atoms in one mole of a substance is equal to",
+          "options": {
+            "A": "the atomic number",
+            "B": "the Avogadro number",
+            "C": "the gas constant",
+            "D": "the number of electrons"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which of the following terms indicates the number of bonds that can be formed by an atom?",
+          "options": {
+            "A": "oxidation number",
+            "B": "valence",
+            "C": "atomic number",
+            "D": "electronegativity"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The structural formula of ethanoic acid is",
+          "options": {
+            "A": "H–C(=O)–OH (methanoic acid)",
+            "B": "CH₃–C(=O)– (acetyl group incomplete)",
+            "C": "CH₃–CH₂–C(=O)–OH (propanoic acid)",
+            "D": "CH₃–CH₂–C(=O)–OH"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Environmental pollution is worsened by the release from automobile exhausts of",
+          "options": {
+            "A": "water vapour",
+            "B": "steam",
+            "C": "smoke",
+            "D": "heavy metals"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "What volume of 0.5 mol dm⁻³ H₂SO₄ will exactly neutralize 20 cm³ of 0.1 mol dm⁻¹ NaOH solution?",
+          "options": {
+            "A": "2.0 cm³",
+            "B": "5.0 cm³",
+            "C": "6.8 cm³",
+            "D": "8.3 cm³"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which of the following is an electrolyte?",
+          "options": {
+            "A": "Alcohol",
+            "B": "Sodium acetate solution",
+            "C": "Solid potassium hydroxide",
+            "D": "Mercury"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Na₂S₂O₃(aq) + 2HCl(aq) → 2NaCl(aq) + H₂O(l) + SO₂(g) + S(s). Which of the following would introduce the greatest increase in the rate of the chemical reaction above?",
+          "options": {
+            "A": "An increase in temperature and a decrease in the concentration of the reactants",
+            "B": "A decrease in volume and an increase in the pressure of the reactants",
+            "C": "A decrease in temperature and an increase in the concentration of the reactants",
+            "D": "An increase in temperature and an increase in the concentration of the reactants"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which of the following substances has the lowest vapour density? [O=16, Cl=35.5, H=1, C=12]",
+          "options": {
+            "A": "Ethanoic acid",
+            "B": "Propanol",
+            "C": "Dichloromethane",
+            "D": "Ethanal"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The presence of an impurity in a substance will cause the melting point to",
+          "options": {
+            "A": "be zero",
+            "B": "reduce",
+            "C": "increase",
+            "D": "be stable"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "questions": [
+        {
+          "question": "The periodic classification of the elements is an arrangement of the elements in order of their",
+          "options": {
+            "A": "atomic weights",
+            "B": "isotopic weights",
+            "C": "molecular weights",
+            "D": "atomic numbers"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "If 1 litre of 2.2 M sulphuric acid is poured into a bucket containing 10 litres of water, and the resulting solution mixed thoroughly, the resulting sulphuric acid concentration will be",
+          "options": {
+            "A": "2.2 M",
+            "B": "1.1 M",
+            "C": "0.22 M",
+            "D": "0.11 M"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "In the above experiment [solid ammonium chloride heated with porous asbestos plug, damp neutral litmus paper], the litmus paper will initially",
+          "options": {
+            "A": "be bleached",
+            "B": "turn green",
+            "C": "turn red",
+            "D": "turn blue"
+          },
+          "answer": "D",
+          "has_diagram": true,
+          "image_url": "/static/chem_diagrams/2018_Q03.png"
+        },
+        {
+          "question": "A correct electrochemical series can be obtained from K, Na, Ca, Al, Mg, Zn, Fe, Pb, H, Cu, Hg, Ag, Au by interchanging",
+          "options": {
+            "A": "Al and Mg",
+            "B": "Zn and Fe",
+            "C": "Zn and Pb",
+            "D": "Pb and H"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "A basic postulate of the kinetic theory of gases is that the molecules of a gas move in straight lines between collisions. This implies that",
+          "options": {
+            "A": "collisions are perfectly elastic",
+            "B": "forces of repulsion exist",
+            "C": "forces of repulsion and attraction are in equilibrium",
+            "D": "collisions are inelastic"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "On which of the following is the solubility of a gaseous substance dependent? I. Nature of solvent  II. Nature of solute  III. Temperature  IV. Pressure",
+          "options": {
+            "A": "I, II, III and IV",
+            "B": "I and II only",
+            "C": "II only",
+            "D": "I, III and IV only"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which of the following statements is correct about the periodic table?",
+          "options": {
+            "A": "Elements in the same period have the same number of valence electrons",
+            "B": "The valence electrons of the elements in the same period increase progressively across the period",
+            "C": "Elements in the same group have the same number of electron shells",
+            "D": "The non-metallic properties of the elements tend to decrease across each period"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The boiling of fat and aqueous caustic soda is referred to as",
+          "options": {
+            "A": "hydrolysis",
+            "B": "esterification",
+            "C": "acidification",
+            "D": "saponification"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which of the following pairs of substances will react further with oxygen to form a higher oxide?",
+          "options": {
+            "A": "CO₂ and H₂O",
+            "B": "NO and H₂O",
+            "C": "CO and CO₂",
+            "D": "SO₂ and NO"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "In the preparation of oxygen by heating KClO₃ in the presence of MnO₂, only moderate heat is needed because the catalyst acts by",
+          "options": {
+            "A": "lowering the pressure of the reaction",
+            "B": "increasing the surface area of the reaction",
+            "C": "increasing the rate of the reaction",
+            "D": "lowering the energy barrier of the reaction"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Methanoic acid mixes with water in all proportions and has about the same boiling point as water. Which of the following methods would you adopt to obtain pure water from a mixture of sand, water and methanoic acid?",
+          "options": {
+            "A": "Fractional distillation",
+            "B": "Filtration followed by distillation",
+            "C": "Neutralization with sodium hydroxide followed by distillation",
+            "D": "Neutralization with sodium hydroxide followed by filtration"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "A quantity of electricity liberates 3.6 g of silver from its salt. What mass of aluminium will be liberated from its salt by the same quantity of electricity? [Al=27, Ag=108]",
+          "options": {
+            "A": "2.7 g",
+            "B": "1.2 g",
+            "C": "0.9 g",
+            "D": "0.3 g"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Suitable reagents for the laboratory preparation of nitrogen are",
+          "options": {
+            "A": "sodium dioxonitrate(III) and ammonium chloride",
+            "B": "sodium trioxonitrate(V) and ammonium chloride",
+            "C": "sodium chloride and ammonium trioxonitrate(V)",
+            "D": "sodium chloride and ammonium dioxonitrate(III)"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The number of electrons in the valence shell of an element of atomic number 14 is",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "What volume of oxygen will remain after reacting 8 cm³ of hydrogen gas with 20 cm³ of oxygen gas?",
+          "options": {
+            "A": "10 cm³",
+            "B": "12 cm³",
+            "C": "14 cm³",
+            "D": "16 cm³"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "If one of the following oxides is heated with hydrogen or carbon using a Bunsen burner, it is not reduced to the metal. Which one is it?",
+          "options": {
+            "A": "lead oxide",
+            "B": "magnesium oxide",
+            "C": "copper oxide",
+            "D": "tin oxide"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The name for the compound shown [(CH₃)₂CH–CH₂–CH₃, 2-methylbutane structure] is",
+          "options": {
+            "A": "1-methylpentane",
+            "B": "3-methylbutane",
+            "C": "2-methylbutane",
+            "D": "1-dimethylpropane"
+          },
+          "answer": "C",
+          "has_diagram": true,
+          "image_url": "/static/chem_diagrams/2018_Q17.png"
+        },
+        {
+          "question": "An aqueous solution of a metal salt M gives a white precipitate with NaOH which dissolves in excess NaOH. With aqueous ammonia, the solution of M also gives a white precipitate which dissolves in excess ammonia. Therefore, the cation in M is",
+          "options": {
+            "A": "Zn²⁺",
+            "B": "Ca²⁺",
+            "C": "Al³⁺",
+            "D": "Pb²⁺"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "What is the concentration of a solution containing 2 g of NaOH in 100 cm³ of solution? [Na=23, O=16, H=1]",
+          "options": {
+            "A": "0.40 mol dm⁻³",
+            "B": "0.50 mol dm⁻³",
+            "C": "0.05 mol dm⁻³",
+            "D": "0.30 mol dm⁻³"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "How many atoms are present in 6.0 g of magnesium? [Mg=24, Nₐ=6.02×10²³ mol⁻¹]",
+          "options": {
+            "A": "1.20×10²²",
+            "B": "2.41×10²²",
+            "C": "1.51×10²³",
+            "D": "3.02×10²³"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The radioisotope used in industrial radiography for the rapid checking of faults in welds and casting is",
+          "options": {
+            "A": "carbon-14",
+            "B": "phosphorus-32",
+            "C": "cobalt-60",
+            "D": "iodine-131"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Beryllium and Aluminium have similar properties because they",
+          "options": {
+            "A": "are both metals",
+            "B": "belong to the same group",
+            "C": "belong to the same period",
+            "D": "are positioned diagonally to each other"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "mE + Nf ⇌ pG + qH. In the equation above, the equilibrium constant is given by",
+          "options": {
+            "A": "[E]ᵐ[F]ⁿ / [G]ᵖ[H]q",
+            "B": "[E][F] / [G][H]",
+            "C": "[G]ᵖ[H]q / [E]ᵐ[F]ⁿ",
+            "D": "[G][H] / [E][F]"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The reactions (i) 3CuO(s) + 2NH₃(g) ⇌ 3Cu(s) + 3H₂O(l) + N₂(g); (ii) 2NH₃(g) + 3Cl₂(g) ⇌ 6HCl(g) + N₂(g); (iii) 4NH₃(g) + 3O₂(g) ⇌ 6H₂O(l) + 2N₂(g) demonstrate the",
+          "options": {
+            "A": "basic properties of ammonia",
+            "B": "acidic properties of ammonia",
+            "C": "reducing properties of ammonia",
+            "D": "oxidizing properties of ammonia"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The salt that reacts with dilute hydrochloric acid to produce a pungent smelling gas which decolourizes acidified purple potassium tetraoxomanganate(VII) solution is",
+          "options": {
+            "A": "Na₂SO₄",
+            "B": "Na₂SO₃",
+            "C": "Na₂S",
+            "D": "Na₂CO₃"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The refreshing and characteristic taste of soda water and other soft drinks is as a result of the presence in them of",
+          "options": {
+            "A": "carbon(IV) oxide",
+            "B": "carbon(II) oxide",
+            "C": "soda",
+            "D": "glucose"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which of the following are mixtures? i. Petroleum  ii. Rubber latex  iii. Vulcanizer's solution  iv. Carbon(II) sulphide",
+          "options": {
+            "A": "i, ii and iii",
+            "B": "i, ii and iv",
+            "C": "i and ii only",
+            "D": "i and iv"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "A balanced chemical equation obeys the law of",
+          "options": {
+            "A": "conservation of mass",
+            "B": "definite proportions",
+            "C": "multiple proportions",
+            "D": "conservation of energy"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "A given amount of gas occupies 10.0 dm³ at 4 atm and 273°C. The number of moles of the gas present is [Molar volume at s.t.p. = 22.4 dm³]",
+          "options": {
+            "A": "0.89 mol",
+            "B": "1.90 mol",
+            "C": "3.80 mol",
+            "D": "5.70 mol"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "According to Charles' law, the volume of a gas becomes zero at",
+          "options": {
+            "A": "0°C",
+            "B": "−100°C",
+            "C": "−273°C",
+            "D": "−373°C"
+          },
+          "answer": "C",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "A substance that is used as a ripening agent for fruits is",
+          "options": {
+            "A": "ethene",
+            "B": "propane",
+            "C": "methane",
+            "D": "butane"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The sulphide which is insoluble in dilute hydrochloric acid is",
+          "options": {
+            "A": "FeS",
+            "B": "CuS",
+            "C": "ZnS",
+            "D": "Na₂S"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "What is the pH of 0.001 mol dm⁻³ solution of sodium hydroxide?",
+          "options": {
+            "A": "14",
+            "B": "13",
+            "C": "12",
+            "D": "11"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "The type of bonding in [Cu(NH₃)₄]²⁺ is",
+          "options": {
+            "A": "coordinate",
+            "B": "electrovalent",
+            "C": "metallic",
+            "D": "covalent"
+          },
+          "answer": "A",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which of the following is an example of a chemical change?",
+          "options": {
+            "A": "dissolution of salt in water",
+            "B": "rusting of iron",
+            "C": "melting of ice",
+            "D": "separating a mixture by distillation"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "To what temperature must a gas at 273 K be heated in order to double both its volume and pressure?",
+          "options": {
+            "A": "298 K",
+            "B": "546 K",
+            "C": "819 K",
+            "D": "1092 K"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "According to the Kinetic theory, an increase in temperature causes the kinetic energy of particles to",
+          "options": {
+            "A": "decrease",
+            "B": "increase",
+            "C": "be zero",
+            "D": "remain constant"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "An element used in the production of matches is",
+          "options": {
+            "A": "nitrogen",
+            "B": "aluminium",
+            "C": "copper",
+            "D": "sulphur"
+          },
+          "answer": "D",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Which of the following gases may not be dried with concentrated sulphuric acid?",
+          "options": {
+            "A": "HCl(g)",
+            "B": "NH₃",
+            "C": "Cl₂",
+            "D": "SO₂"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        },
+        {
+          "question": "Consecutive members of an alkane homologous series differ by",
+          "options": {
+            "A": "CH",
+            "B": "CH₂",
+            "C": "CH₃",
+            "D": "CₙHₙ"
+          },
+          "answer": "B",
+          "has_diagram": false,
+          "image_url": null
+        }
+      ]
+    }
+  ]
+}

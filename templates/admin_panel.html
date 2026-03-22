@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Merit CBT — Admin Panel</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      min-height: 100vh;
+      background: linear-gradient(135deg, #1a1a2e, #16213e, #0f3460);
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      color: #fff;
+      padding: 40px 20px;
+    }
+
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+
+    /* ── Header ── */
+    .header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 32px;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+
+    .header h1 { font-size: 1.6rem; font-weight: 700; }
+    .header p  { font-size: 0.85rem; color: rgba(255,255,255,0.5); margin-top: 3px; }
+
+    .btn-logout {
+      padding: 9px 18px;
+      font-size: 0.85rem;
+      background: rgba(255,255,255,0.1);
+      border: 1px solid rgba(255,255,255,0.2);
+      border-radius: 8px;
+      color: #fff;
+      text-decoration: none;
+      transition: background 0.2s;
+    }
+    .btn-logout:hover { background: rgba(255,255,255,0.18); }
+
+    /* ── Flash messages ── */
+    .flash {
+      background: rgba(100, 220, 130, 0.15);
+      border: 1px solid rgba(100, 220, 130, 0.4);
+      border-radius: 10px;
+      padding: 12px 18px;
+      font-size: 0.9rem;
+      color: #a5f3a5;
+      margin-bottom: 24px;
+    }
+
+    /* ── Card ── */
+    .card {
+      background: rgba(255,255,255,0.06);
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 16px;
+      padding: 28px 32px;
+      margin-bottom: 24px;
+    }
+
+    .card h2 {
+      font-size: 1.05rem;
+      font-weight: 600;
+      margin-bottom: 18px;
+      color: rgba(255,255,255,0.9);
+    }
+
+    /* ── Generate button ── */
+    .btn-generate {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 12px 22px;
+      font-size: 0.95rem;
+      font-weight: 600;
+      background: linear-gradient(90deg, #e040fb, #7b1fa2);
+      color: #fff;
+      border: none;
+      border-radius: 10px;
+      cursor: pointer;
+      transition: opacity 0.2s, transform 0.1s;
+    }
+    .btn-generate:hover  { opacity: 0.88; }
+    .btn-generate:active { transform: scale(0.97); }
+
+    /* ── Code list ── */
+    .empty-state {
+      text-align: center;
+      padding: 32px;
+      color: rgba(255,255,255,0.35);
+      font-size: 0.92rem;
+    }
+
+    .code-list { list-style: none; }
+
+    .code-item {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 14px 0;
+      border-bottom: 1px solid rgba(255,255,255,0.08);
+      gap: 12px;
+    }
+
+    .code-item:last-child { border-bottom: none; }
+
+    .code-badge {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 1.25rem;
+      font-weight: 700;
+      letter-spacing: 4px;
+      background: rgba(255,255,255,0.1);
+      border: 1px solid rgba(255,255,255,0.18);
+      border-radius: 8px;
+      padding: 7px 16px;
+      color: #80deea;
+      cursor: pointer;
+      user-select: all;
+      transition: background 0.15s;
+    }
+
+    .code-badge:hover { background: rgba(255,255,255,0.16); }
+
+    .copy-hint {
+      font-size: 0.72rem;
+      color: rgba(255,255,255,0.35);
+      white-space: nowrap;
+    }
+
+    .code-right {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .btn-delete {
+      padding: 7px 14px;
+      font-size: 0.8rem;
+      background: rgba(255, 80, 80, 0.15);
+      border: 1px solid rgba(255, 80, 80, 0.35);
+      border-radius: 7px;
+      color: #ff8a8a;
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+    .btn-delete:hover { background: rgba(255, 80, 80, 0.3); }
+
+    /* ── Stats bar ── */
+    .stats {
+      display: flex;
+      gap: 20px;
+      flex-wrap: wrap;
+      margin-bottom: 8px;
+    }
+
+    .stat-item {
+      background: rgba(255,255,255,0.06);
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 10px;
+      padding: 14px 20px;
+      text-align: center;
+      flex: 1;
+      min-width: 120px;
+    }
+
+    .stat-num  { font-size: 2rem; font-weight: 700; color: #80deea; }
+    .stat-label { font-size: 0.78rem; color: rgba(255,255,255,0.45); margin-top: 2px; }
+
+    /* ── Copied toast ── */
+    #toast {
+      position: fixed;
+      bottom: 28px;
+      left: 50%;
+      transform: translateX(-50%) translateY(60px);
+      background: #43a047;
+      color: #fff;
+      padding: 10px 22px;
+      border-radius: 30px;
+      font-size: 0.88rem;
+      font-weight: 600;
+      opacity: 0;
+      transition: opacity 0.3s, transform 0.3s;
+      pointer-events: none;
+    }
+    #toast.show {
+      opacity: 1;
+      transform: translateX(-50%) translateY(0);
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+
+    <!-- Header -->
+    <div class="header">
+      <div>
+        <h1>🛡️ Admin Panel</h1>
+        <p>Merit CBT — Access Code Management</p>
+      </div>
+      <a class="btn-logout" href="{{ url_for('admin_logout') }}">Log Out</a>
+    </div>
+
+    <!-- Flash messages -->
+    {% with msgs = get_flashed_messages() %}
+      {% if msgs %}
+        {% for m in msgs %}
+          <div class="flash">✓ {{ m }}</div>
+        {% endfor %}
+      {% endif %}
+    {% endwith %}
+
+    <!-- Stats -->
+    <div class="stats">
+      <div class="stat-item">
+        <div class="stat-num">{{ codes | length }}</div>
+        <div class="stat-label">Active Codes</div>
+      </div>
+    </div>
+
+    <!-- Generate new code -->
+    <div class="card" style="margin-top:20px;">
+      <h2>Generate a New Code</h2>
+      <p style="font-size:0.85rem; color:rgba(255,255,255,0.5); margin-bottom:18px;">
+        Each code is a unique 8-character string. Share it with students before their exam session.
+        You can have multiple codes active at the same time.
+      </p>
+      <form method="POST" action="{{ url_for('admin_generate') }}">
+        <button type="submit" class="btn-generate">
+          ✦ Generate Code
+        </button>
+      </form>
+    </div>
+
+    <!-- Active codes list -->
+    <div class="card">
+      <h2>Active Access Codes</h2>
+
+      {% if codes %}
+        <ul class="code-list">
+          {% for code in codes %}
+          <li class="code-item">
+            <div>
+              <span class="code-badge" onclick="copyCode('{{ code }}')" title="Click to copy">
+                {{ code }}
+              </span>
+              <span class="copy-hint">click to copy</span>
+            </div>
+            <div class="code-right">
+              <form method="POST" action="{{ url_for('admin_delete') }}"
+                    onsubmit="return confirm('Remove code {{ code }}?')">
+                <input type="hidden" name="code" value="{{ code }}" />
+                <button type="submit" class="btn-delete">✕ Remove</button>
+              </form>
+            </div>
+          </li>
+          {% endfor %}
+        </ul>
+      {% else %}
+        <div class="empty-state">
+          No access codes yet.<br>Click <strong>Generate Code</strong> above to create one.
+        </div>
+      {% endif %}
+    </div>
+
+  </div><!-- /container -->
+
+  <!-- Toast notification -->
+  <div id="toast">Copied to clipboard!</div>
+
+  <script>
+    function copyCode(code) {
+      navigator.clipboard.writeText(code).then(() => {
+        const t = document.getElementById('toast');
+        t.classList.add('show');
+        setTimeout(() => t.classList.remove('show'), 2000);
+      });
+    }
+  </script>
+</body>
+</html>

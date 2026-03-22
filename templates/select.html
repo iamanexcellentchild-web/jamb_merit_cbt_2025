@@ -1,0 +1,258 @@
+{% extends "base.html" %}
+{% block title %}Choose Subjects — Merit CBT{% endblock %}
+
+{% block extra_styles %}
+.sel-outer { max-width: 760px; margin: 0 auto; padding: 2rem 1.5rem; }
+
+.sel-header {
+    margin-bottom: 1.5rem;
+}
+.sel-header h2 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--navy);
+}
+.sel-header p { color: var(--slate); margin-top: 0.25rem; font-size: 0.9rem; }
+
+.sel-counter {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: var(--navy);
+    color: #fff;
+    border-radius: 999px;
+    padding: 0.35rem 1rem;
+    font-size: 0.85rem;
+    font-weight: 600;
+    margin-top: 0.75rem;
+}
+.sel-counter #count-num {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 1.1rem;
+    color: var(--gold);
+}
+
+.subjects-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 1rem;
+    margin-bottom: 2rem;
+}
+
+.subject-card {
+    position: relative;
+    border: 2px solid var(--border);
+    border-radius: 10px;
+    background: var(--white);
+    cursor: pointer;
+    transition: border-color 0.15s, box-shadow 0.15s, transform 0.1s;
+    overflow: hidden;
+    user-select: none;
+}
+.subject-card:hover {
+    border-color: var(--green-mid);
+    box-shadow: 0 4px 16px rgba(26,122,74,0.12);
+    transform: translateY(-2px);
+}
+.subject-card.selected {
+    border-color: var(--green);
+    background: var(--green-lt);
+    box-shadow: 0 4px 16px rgba(26,122,74,0.18);
+}
+.subject-card.disabled {
+    opacity: 0.45;
+    cursor: not-allowed;
+    transform: none !important;
+    box-shadow: none !important;
+}
+.subject-card input[type="checkbox"] {
+    position: absolute;
+    opacity: 0;
+    pointer-events: none;
+}
+.subject-card-inner {
+    padding: 1.1rem 1.2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+}
+.subject-icon { font-size: 1.8rem; }
+.subject-name {
+    font-weight: 700;
+    font-size: 1rem;
+    color: var(--navy);
+}
+.subject-meta {
+    font-size: 0.78rem;
+    color: var(--slate);
+}
+.subject-badge {
+    position: absolute;
+    top: 0.6rem;
+    right: 0.6rem;
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    background: var(--green);
+    color: #fff;
+    font-size: 0.7rem;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+}
+.subject-card.selected .subject-badge { display: flex; }
+.subject-card.selected .subject-name  { color: var(--green); }
+
+/* English always included notice */
+.english-note {
+    background: var(--gold-lt);
+    border: 1px solid var(--gold);
+    border-radius: var(--radius);
+    padding: 0.7rem 1rem;
+    font-size: 0.85rem;
+    color: #5c4a00;
+    margin-bottom: 1.25rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.sel-actions {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.error-msg {
+    color: var(--red);
+    font-size: 0.85rem;
+    font-weight: 500;
+    display: none;
+}
+{% endblock %}
+
+{% block content %}
+<div class="sel-outer">
+    <div class="sel-header">
+        <h2>Welcome, {{ username }} 👋</h2>
+        <p>Select exactly <strong>4 subjects</strong> for your exam. English is mandatory (60 questions); each other subject has 40 questions.</p>
+        <div class="sel-counter">
+            Selected: <span id="count-num">0</span> / 4
+        </div>
+    </div>
+
+    <div class="english-note">
+        ⚠️ <strong>English Language</strong> (60 questions) must be one of your 4 selections.
+    </div>
+
+    <form method="post" id="selectForm">
+        <div class="subjects-grid" id="subjectsGrid">
+            {% set icons = {
+                'English':     '📝',
+                'Mathematics': '📐',
+                'Physics':     '⚡',
+                'Chemistry':   '🧪',
+                'Biology':     '🧬',
+                'Economics':   '📊',
+                'Literature':  '📚',
+                'Government':  '⚖️'
+            } %}
+            {% for subj in subjects %}
+            <label class="subject-card {% if subj == 'English' %}selected{% endif %}" id="card-{{ subj }}" for="chk-{{ subj }}">
+                <input
+                    type="checkbox"
+                    name="subjects"
+                    value="{{ subj }}"
+                    id="chk-{{ subj }}"
+                    {% if subj == 'English' %}checked disabled{% endif %}
+                >
+                <div class="subject-card-inner">
+                    <span class="subject-icon">{{ icons.get(subj, '📖') }}</span>
+                    <span class="subject-name">{{ subj }}</span>
+                    <span class="subject-meta">
+                        {{ subject_config.get(subj, 40) }} questions &nbsp;·&nbsp; 100 marks
+                    </span>
+                </div>
+                <span class="subject-badge">✓</span>
+            </label>
+            {% endfor %}
+        </div>
+
+        <div class="sel-actions">
+            <button type="submit" class="btn btn-primary" id="startBtn" disabled>
+                ▶ Start Exam (2 hours)
+            </button>
+            <span class="error-msg" id="errMsg">Please select exactly 4 subjects.</span>
+        </div>
+    </form>
+</div>
+
+<script>
+(function () {
+    // English is always checked and disabled — counts as 1
+    const FIXED = ['English'];
+    let selected = new Set(FIXED);
+
+    const countEl  = document.getElementById('count-num');
+    const startBtn = document.getElementById('startBtn');
+    const errMsg   = document.getElementById('errMsg');
+
+    function updateUI() {
+        const n = selected.size;
+        countEl.textContent = n;
+        startBtn.disabled   = (n !== 4);
+
+        // Disable unchosen cards when 4 reached
+        document.querySelectorAll('.subject-card').forEach(card => {
+            const subj = card.querySelector('input').value;
+            if (FIXED.includes(subj)) return; // English always on
+            const isSel = selected.has(subj);
+            const full  = (n >= 4 && !isSel);
+            card.classList.toggle('disabled', full);
+        });
+    }
+
+    document.querySelectorAll('.subject-card').forEach(card => {
+        const input = card.querySelector('input');
+        const subj  = input.value;
+        if (FIXED.includes(subj)) return;
+
+        card.addEventListener('click', (e) => {
+            e.preventDefault();
+            if (card.classList.contains('disabled')) return;
+            if (selected.has(subj)) {
+                selected.delete(subj);
+                card.classList.remove('selected');
+                input.removeAttribute('checked');
+                input.checked = false;
+            } else {
+                if (selected.size >= 4) return;
+                selected.add(subj);
+                card.classList.add('selected');
+                input.checked = true;
+            }
+            errMsg.style.display = 'none';
+            updateUI();
+        });
+    });
+
+    // On form submit — inject English hidden input (since it's disabled)
+    document.getElementById('selectForm').addEventListener('submit', function (e) {
+        if (selected.size !== 4) {
+            e.preventDefault();
+            errMsg.style.display = 'inline';
+            return;
+        }
+        // Make sure English goes through even though it's disabled
+        const hi = document.createElement('input');
+        hi.type  = 'hidden';
+        hi.name  = 'subjects';
+        hi.value = 'English';
+        this.appendChild(hi);
+    });
+
+    updateUI();
+})();
+</script>
+{% endblock %}

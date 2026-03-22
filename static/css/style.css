@@ -1,0 +1,107 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f5f5f5;
+}
+
+header, footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+}
+/* This forces MathJax containers to align with your text properly */
+.question-text, .option-btn {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 10px;
+    font-family: 'Segoe UI', sans-serif;
+    line-height: 1.6;
+}
+
+mjx-container {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+main {
+    padding: 2em;
+}
+
+.question {
+    margin-bottom: 1.5em;
+}
+
+button {
+    background: #007bff;
+    color: #c51717;
+    border: none;
+    padding: 0.5em 1em;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+.student-name {
+    margin-bottom: 1em;
+}
+.student-name label {
+    display: block;
+    margin-bottom: 0.3em;
+}
+.student-name input {
+    padding: 0.4em;
+    width: 100%;
+    max-width: 300px;
+}
+a {
+    color: #0c1723;
+    height: 100px;
+    width: 200px;
+    border-radius: 50%;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* table styling for grades */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1em;
+}
+table, th, td {
+    border: 1px solid #ccc;
+}
+th, td {
+    padding: 0.5em;
+    text-align: left;
+}
+th {
+    background: #f0f0f0;
+}
+
+/* highlight correct/incorrect answers */
+.correct {
+    background-color: #e0ffe0;
+}
+.incorrect {
+    background-color: #ffe0e0;
+}
+
+/* nested tables for details */
+table.inner {
+    width: 100%;
+    border: 1px solid #aaa;
+    margin-top: 0.5em;
+}
+table.inner th, table.inner td {
+    border: 1px solid #bbb;
+    padding: 0.3em;
+    font-size: 0.9em;
+}

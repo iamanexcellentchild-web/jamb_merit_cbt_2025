@@ -1,0 +1,518 @@
+{% extends "base.html" %}
+{% block title %}{{ subject }} — Merit CBT Exam{% endblock %}
+
+{% block extra_styles %}
+/* ── Layout ── */
+.exam-layout {
+    display: grid;
+    grid-template-columns: 1fr 280px;
+    gap: 1.5rem;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 1.5rem 1.5rem 3rem;
+    align-items: start;
+}
+@media (max-width: 768px) {
+    .exam-layout { grid-template-columns: 1fr; }
+    .exam-sidebar { order: -1; }
+}
+
+/* ── Main panel ── */
+.exam-main {}
+
+/* Subject tabs */
+.subject-tabs {
+    display: flex;
+    gap: 0.4rem;
+    flex-wrap: wrap;
+    margin-bottom: 1rem;
+}
+.subj-tab {
+    padding: 0.45rem 1rem;
+    border-radius: 999px;
+    font-size: 0.82rem;
+    font-weight: 600;
+    cursor: pointer;
+    border: 2px solid var(--border);
+    background: var(--white);
+    color: var(--slate);
+    text-decoration: none;
+    transition: all 0.15s;
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+}
+.subj-tab:hover { border-color: var(--green-mid); color: var(--green); }
+.subj-tab.active { background: var(--navy); border-color: var(--navy); color: #fff; }
+.subj-tab .dot {
+    width: 8px; height: 8px;
+    border-radius: 50%;
+    background: #94a3b8;
+}
+.subj-tab.active .dot { background: var(--gold); }
+.subj-tab.done .dot   { background: #4ade80; }
+
+/* Question card */
+.question-block {
+    background: var(--white);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 1.4rem 1.5rem;
+    margin-bottom: 1rem;
+    transition: box-shadow 0.15s;
+    scroll-margin-top: 80px;
+}
+.question-block.answered { border-left: 4px solid var(--green); }
+.question-block:hover { box-shadow: var(--shadow); }
+
+.question-text {
+    font-size: 0.97rem;
+    line-height: 1.7;
+    color: var(--navy);
+    margin-bottom: 1rem;
+    font-weight: 500;
+}
+.qnum {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.8rem;
+    background: var(--navy);
+    color: #fff;
+    border-radius: 4px;
+    padding: 0.1rem 0.4rem;
+    margin-right: 0.4rem;
+    vertical-align: middle;
+}
+
+/* Question diagram image */
+.question-image {
+    margin: 0.75rem 0 1rem;
+    text-align: left;
+}
+.question-image img {
+    max-width: 100%;
+    max-height: 280px;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    background: #fff;
+    display: block;
+}
+
+.options { display: flex; flex-direction: column; gap: 0.5rem; }
+.option-label {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.75rem;
+    padding: 0.6rem 0.9rem;
+    border-radius: var(--radius);
+    border: 1.5px solid var(--border);
+    cursor: pointer;
+    transition: background 0.12s, border-color 0.12s;
+    font-size: 0.9rem;
+}
+.option-label:hover { background: var(--green-lt); border-color: var(--green-mid); }
+.option-label input[type="radio"] { margin-top: 3px; accent-color: var(--green); flex-shrink: 0; }
+.option-label.chosen { background: var(--green-lt); border-color: var(--green); font-weight: 500; }
+
+/* Save indicator */
+.save-indicator {
+    position: fixed;
+    bottom: 1.5rem;
+    left: 50%;
+    transform: translateX(-50%);
+    background: var(--navy);
+    color: #fff;
+    font-size: 0.8rem;
+    padding: 0.4rem 1rem;
+    border-radius: 999px;
+    opacity: 0;
+    transition: opacity 0.3s;
+    pointer-events: none;
+    z-index: 200;
+}
+.save-indicator.show { opacity: 1; }
+
+/* ── Sidebar ── */
+.exam-sidebar {}
+
+.timer-card {
+    background: var(--navy);
+    border-radius: 10px;
+    padding: 1.2rem 1.5rem;
+    text-align: center;
+    color: #fff;
+    margin-bottom: 1rem;
+    position: sticky;
+    top: 70px;
+}
+.timer-label { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.1em; color: #94a3b8; margin-bottom: 0.4rem; }
+.timer-display {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 2.2rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    color: #fff;
+}
+.timer-display.urgent { color: #f87171; animation: pulse 1s infinite; }
+@keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.6} }
+.timer-sub { font-size: 0.75rem; color: #94a3b8; margin-top: 0.25rem; }
+
+.tracker-card {
+    background: var(--white);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 1.2rem;
+    margin-bottom: 1rem;
+}
+.tracker-title { font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; color: var(--slate); margin-bottom: 0.9rem; }
+.tracker-subject {
+    margin-bottom: 0.75rem;
+}
+.tracker-subject-name {
+    font-size: 0.82rem;
+    font-weight: 600;
+    color: var(--navy);
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0.3rem;
+}
+.tracker-subject-name .count { font-family: 'IBM Plex Mono', monospace; font-size: 0.78rem; color: var(--slate); }
+.tracker-bar { height: 5px; background: var(--border); border-radius: 999px; overflow: hidden; }
+.tracker-fill { height: 100%; background: var(--green); border-radius: 999px; transition: width 0.4s; }
+
+.qnav-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+    margin-top: 0.6rem;
+}
+.qnav-btn {
+    width: 28px; height: 28px;
+    border-radius: 5px;
+    border: 1.5px solid var(--border);
+    background: var(--white);
+    font-size: 0.7rem;
+    font-family: 'IBM Plex Mono', monospace;
+    cursor: pointer;
+    display: flex; align-items: center; justify-content: center;
+    transition: all 0.12s;
+    color: var(--slate);
+}
+.qnav-btn:hover { border-color: var(--green); color: var(--green); }
+.qnav-btn.answered { background: var(--green); border-color: var(--green); color: #fff; }
+
+.submit-btn-wrap {
+    margin-top: 1rem;
+}
+.submit-btn-wrap button {
+    width: 100%;
+    padding: 0.75rem;
+    background: var(--red);
+    color: #fff;
+    border: none;
+    border-radius: var(--radius);
+    font-family: inherit;
+    font-size: 0.9rem;
+    font-weight: 700;
+    cursor: pointer;
+    transition: background 0.15s;
+}
+.submit-btn-wrap button:hover { background: #a93226; }
+
+/* Nav buttons at bottom of questions */
+.nav-buttons {
+    display: flex;
+    gap: 0.75rem;
+    margin-top: 1rem;
+    flex-wrap: wrap;
+}
+{% endblock %}
+
+{% block content %}
+{% if expires_at %}
+<script>window.EXPIRES_AT = {{ (expires_at | float * 1000) | int }};</script>
+{% endif %}
+
+<div class="exam-layout">
+    <!-- ── Main column ── -->
+    <div class="exam-main">
+        <!-- Subject tabs -->
+        <div class="subject-tabs">
+            {% for s in subjects %}
+            <a class="subj-tab {% if s == subject %}active{% endif %}"
+               id="tab-{{ s | replace(' ','_') }}"
+               href="#"
+               data-subject="{{ s }}"
+               onclick="switchSubject('{{ s }}'); return false;">
+                <span class="dot"></span>
+                {{ s }}
+            </a>
+            {% endfor %}
+        </div>
+
+        <!-- Question form -->
+        <form method="post" id="examForm" action="{{ url_for('exam', subject=subject) }}">
+            <input type="hidden" name="action" id="formAction" value="next">
+
+            {% for q in questions %}
+            {% set qi = loop.index0 %}
+            {% set qkey = qi | string %}
+            <div class="question-block {% if answers.get(qkey) %}answered{% endif %}"
+                 id="qblock{{ qi }}">
+                <p class="question-text">
+                    <span class="qnum">{{ loop.index }}</span>
+                    {{ (q.get('q') or q.get('question', '')) | safe }}
+                </p>
+                {% if q.get('image_url') %}
+<div class="question-image">
+    <img src="{{ url_for('static', filename=q.image_url) }}"
+         alt="Question {{ loop.index }} diagram"
+         onerror="this.parentElement.style.display='none'">
+</div>
+                {% endif %}
+                <div class="options">
+                    {% if q.get('options') is mapping %}
+                        {% for key, val in q.options.items() %}
+                        <label class="option-label {% if answers.get(qkey) == key %}chosen{% endif %}">
+                            <input type="radio" name="q{{ qi }}" value="{{ key }}"
+                                {% if answers.get(qkey) == key %}checked{% endif %}
+                                onchange="onAnswer({{ qi }}, '{{ key }}')">
+                            <span><strong>{{ key }}.</strong> {{ val | safe }}</span>
+                        </label>
+                        {% endfor %}
+                    {% else %}
+                        {% for opt in q.get('options', []) %}
+                        {% set letter = ['A','B','C','D','E'][loop.index0] %}
+                        <label class="option-label {% if answers.get(qkey) == letter %}chosen{% endif %}">
+                            <input type="radio" name="q{{ qi }}" value="{{ letter }}"
+                                {% if answers.get(qkey) == letter %}checked{% endif %}
+                                onchange="onAnswer({{ qi }}, '{{ letter }}')">
+                            <span>{{ opt | safe }}</span>
+                        </label>
+                        {% endfor %}
+                    {% endif %}
+                </div>
+            </div>
+            {% else %}
+            <div class="card" style="text-align:center; padding:3rem;">
+                <p style="color:var(--slate); font-size:1.1rem;">⚠️ No questions loaded for <strong>{{ subject }}</strong> yet.<br>
+                <small>Add questions to QUESTIONS["{{ subject }}"] in app.py.</small></p>
+            </div>
+            {% endfor %}
+
+            <!-- Bottom navigation -->
+            <div class="nav-buttons">
+                {% for s in subjects %}
+                {% if s != subject %}
+                <button type="submit" class="btn btn-outline"
+                        onclick="document.getElementById('formAction').value='goto:{{ s }}'">
+                    Go to {{ s }}
+                </button>
+                {% endif %}
+                {% endfor %}
+            </div>
+        </form>
+    </div>
+
+    <!-- ── Sidebar ── -->
+    <div class="exam-sidebar">
+        <!-- Timer -->
+        <div class="timer-card">
+            <div class="timer-label">⏱ Time Remaining</div>
+            <div class="timer-display" id="timerDisplay">2:00:00</div>
+            <div class="timer-sub">Exam auto-submits at 0:00:00</div>
+        </div>
+
+        <!-- Tracker -->
+        <div class="tracker-card">
+            <div class="tracker-title">📋 Question Tracker</div>
+            {% for s, t in tracker.items() %}
+            <div class="tracker-subject" id="tracker-{{ s | replace(' ','_') }}">
+                <div class="tracker-subject-name">
+                    <span>{{ s }}</span>
+                    <span class="count" id="tc-{{ s | replace(' ','_') }}">{{ t.answered }}/{{ t.total }}</span>
+                </div>
+                <div class="tracker-bar">
+                    <div class="tracker-fill" id="tf-{{ s | replace(' ','_') }}"
+                         style="width:{{ ((t.answered / t.total) * 100) if t.total else 0 }}%"></div>
+                </div>
+            </div>
+            {% endfor %}
+
+            <!-- Q number grid for current subject -->
+            <div style="margin-top:0.9rem; border-top:1px solid var(--border); padding-top:0.75rem;">
+                <div class="tracker-title" style="margin-bottom:0.5rem;">{{ subject }}</div>
+                <div class="qnav-grid" id="qnavGrid">
+                    {% for q in questions %}
+                    {% set qi = loop.index0 %}
+                    <button type="button"
+                            class="qnav-btn {% if answers.get(qi|string) %}answered{% endif %}"
+                            id="qnav{{ qi }}"
+                            onclick="scrollToQ({{ qi }})">{{ loop.index }}</button>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+
+        <!-- Submit -->
+        <div class="submit-btn-wrap">
+            <form method="post" action="{{ url_for('exam', subject=subject) }}" id="submitForm">
+                <input type="hidden" name="action" value="submit">
+                <button type="button" onclick="confirmSubmit()">
+                    🏁 Submit Exam
+                </button>
+            </form>
+        </div>
+    </div>
+</div>
+
+<div class="save-indicator" id="saveIndicator">✓ Saved</div>
+
+<script>
+// ── State ──────────────────────────────────────────────────────────────────
+const SUBJECT      = {{ subject | tojson }};
+const EXPIRES_AT   = window.EXPIRES_AT || (Date.now() + 7200000);
+const SAVE_URL     = {{ url_for('save_answers') | tojson }};
+const SUBMIT_URL   = {{ url_for('submit_exam') | tojson }};
+
+// Local cache of answers for current subject
+const localAnswers = {};
+{% for qi in range(questions|length) %}
+{% set qkey = qi | string %}
+{% if answers.get(qkey) %}
+localAnswers[{{ qi }}] = {{ answers.get(qkey) | tojson }};
+{% endif %}
+{% endfor %}
+
+// ── Timer ──────────────────────────────────────────────────────────────────
+const timerEl = document.getElementById('timerDisplay');
+
+function updateTimer() {
+    const left = Math.max(0, EXPIRES_AT - Date.now());
+    const h    = Math.floor(left / 3600000);
+    const m    = Math.floor((left % 3600000) / 60000);
+    const s    = Math.floor((left % 60000) / 1000);
+    const fmt  = n => String(n).padStart(2, '0');
+    timerEl.textContent = `${h}:${fmt(m)}:${fmt(s)}`;
+
+    if (left < 300000) timerEl.classList.add('urgent');  // < 5 min
+    else               timerEl.classList.remove('urgent');
+
+    if (left <= 0) {
+        autoSubmit();
+    }
+}
+
+setInterval(updateTimer, 1000);
+updateTimer();
+
+function autoSubmit() {
+    window.location.href = SUBMIT_URL + '?reason=timeout';
+}
+
+// ── Answer handling ─────────────────────────────────────────────────────────
+let saveTimer = null;
+
+function onAnswer(qi, val) {
+    localAnswers[qi] = val;
+
+    // Mark block and nav button as answered
+    const block = document.getElementById('qblock' + qi);
+    if (block) block.classList.add('answered');
+    const nav = document.getElementById('qnav' + qi);
+    if (nav) nav.classList.add('answered');
+
+    // Highlight chosen option
+    const blockOpts = block ? block.querySelectorAll('.option-label') : [];
+    blockOpts.forEach(lbl => {
+        const inp = lbl.querySelector('input');
+        lbl.classList.toggle('chosen', inp && inp.checked);
+    });
+
+    // Debounce AJAX save (500ms)
+    clearTimeout(saveTimer);
+    saveTimer = setTimeout(() => saveAnswers(), 500);
+}
+
+function saveAnswers() {
+    const payload = {};
+    for (const [k, v] of Object.entries(localAnswers)) payload[k] = v;
+
+    fetch(SAVE_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ subject: SUBJECT, answers: payload })
+    })
+    .then(r => r.json())
+    .then(data => {
+        showSaved();
+        if (data.tracker) updateTrackerUI(data.tracker);
+    })
+    .catch(() => {/* silent fail - form submit is the fallback */});
+}
+
+function showSaved() {
+    const el = document.getElementById('saveIndicator');
+    el.classList.add('show');
+    clearTimeout(showSaved._t);
+    showSaved._t = setTimeout(() => el.classList.remove('show'), 1500);
+}
+
+function updateTrackerUI(tracker) {
+    for (const [subj, t] of Object.entries(tracker)) {
+        const key = subj.replace(/ /g, '_');
+        const countEl = document.getElementById('tc-' + key);
+        const fillEl  = document.getElementById('tf-' + key);
+        if (countEl) countEl.textContent = `${t.answered}/${t.total}`;
+        if (fillEl)  fillEl.style.width  = `${t.total ? (t.answered / t.total) * 100 : 0}%`;
+
+        // Update tab dot
+        const tabEl = document.getElementById('tab-' + key);
+        if (tabEl) {
+            const dot = tabEl.querySelector('.dot');
+            if (dot && t.answered === t.total && t.total > 0) dot.style.background = '#4ade80';
+        }
+    }
+}
+
+// ── Subject switch (save then navigate) ────────────────────────────────────
+function switchSubject(subj) {
+    // Save first, then redirect via form
+    saveAnswers();
+    document.getElementById('formAction').value = 'goto:' + subj;
+    // Small delay to let AJAX fire, then submit form
+    setTimeout(() => document.getElementById('examForm').submit(), 300);
+}
+
+// ── Scroll to question ──────────────────────────────────────────────────────
+function scrollToQ(qi) {
+    const el = document.getElementById('qblock' + qi);
+    if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
+
+// ── Submit confirmation ─────────────────────────────────────────────────────
+function confirmSubmit() {
+    const total    = {{ questions|length }};
+    const answered = Object.keys(localAnswers).length;
+    const missing  = total - answered;
+
+    let msg = 'Are you sure you want to submit the exam?\n\n';
+    if (missing > 0) msg += `⚠️ You have ${missing} unanswered question(s) in ${SUBJECT}.\n\n`;
+    msg += 'This will submit ALL subjects and end your exam.';
+
+    if (confirm(msg)) {
+        saveAnswers();
+        setTimeout(() => {
+            document.getElementById('formAction').value = 'submit';
+            document.getElementById('examForm').submit();
+        }, 400);
+    }
+}
+
+// ── MathJax (for LaTeX in physics/maths questions) ──────────────────────────
+window.MathJax = {
+    tex: { inlineMath: [['$','$'], ['\\(','\\)']] },
+    svg: { fontCache: 'global' }
+};
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js" async></script>
+{% endblock %}

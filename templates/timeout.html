@@ -1,0 +1,6 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h2>Session expired</h2>
+<p>Your 30-minute session has expired. Please <a href="{{ url_for('login') }}">log in</a> again to get a fresh set of questions.</p>
+{% endblock %}

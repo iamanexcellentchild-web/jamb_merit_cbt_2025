@@ -1,0 +1,5166 @@
+{
+  "subject": "Government",
+  "total": 430,
+  "questions": [
+    {
+      "year": 2010,
+      "number": 1,
+      "q": "Which Government Question Paper Type is given to you?",
+      "options": [
+        "A. Type A",
+        "B. Type B",
+        "C. Type C",
+        "D. Type D"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2010,
+      "number": 2,
+      "q": "Nation-state is synonymous with ----",
+      "options": [
+        "A. self-actualization",
+        "B. sovereignty",
+        "C. liberation",
+        "D. nationalism"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2010,
+      "number": 3,
+      "q": "A fundamental component of political culture is ---------",
+      "options": [
+        "A. social values",
+        "B. family values",
+        "C. community structure",
+        "D. economic values"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2010,
+      "number": 4,
+      "q": "A form of oligarchy in which gifted people are at the helm of affairs is -----",
+      "options": [
+        "A. aristocracy",
+        "B. theocracy",
+        "C. plutocracy",
+        "D. gerontocracy"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2010,
+      "number": 5,
+      "q": "A state that is ruled by an elected citizen is ---------------",
+      "options": [
+        "A. a monarchy",
+        "B. a plutocracy",
+        "C. a republic",
+        "D. an empire"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2010,
+      "number": 6,
+      "q": "A true democracy in the modern sense exists where the –",
+      "options": [
+        "A. elected representatives rule",
+        "B. majority of the people rule",
+        "C. majority of the people vote",
+        "D. elite rules"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2010,
+      "number": 7,
+      "q": "In a parliamentary system, when the legislature passes a vote of no confidence on the executive, it means that the ---",
+      "options": [
+        "A. executive is expected to go on suspension",
+        "B. legislature ceases to trust the executive",
+        "C. executive is required to resign",
+        "D. legislature commences legal proceeding against the executive"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2010,
+      "number": 8,
+      "q": "The legislative body of the United States of America is the ---",
+      "options": [
+        "A. Parliament",
+        "B. National Assembly",
+        "C. Congress",
+        "D. Council"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2010,
+      "number": 9,
+      "q": "Unicameralism is a feature of the legislature in ---",
+      "options": [
+        "A. Israel",
+        "B. the United States",
+        "C. the United Kingdom",
+        "D. Ghana"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2010,
+      "number": 10,
+      "q": "The upper house in most federal systems is created to –",
+      "options": [
+        "A. ensure equality of federating units",
+        "B. prevent excesses of the executive",
+        "C. oversee and check the lower house",
+        "D. enable experienced elders make inputs to governance"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2010,
+      "number": 11,
+      "q": "In which of the following systems is the power of the component units more than that of the central government?",
+      "options": [
+        "A. Monarchical",
+        "B. Federal",
+        "C. Unitary",
+        "D. Confederal"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2010,
+      "number": 12,
+      "q": "One of the general tenets of fascist doctrine is that the leader is –---",
+      "options": [
+        "A. supreme relative to the constitution",
+        "B. weak relative to the constitution",
+        "C. subordinate to the laws of the state",
+        "D. subordinate to the norms of the society"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2010,
+      "number": 13,
+      "q": "In a cabinet system of government, executive power is exercised by the",
+      "options": [
+        "A. head of government",
+        "B. monarch",
+        "C. president",
+        "D. dominant party"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2010,
+      "number": 14,
+      "q": "The principle of separation of powers is best practiced in the",
+      "options": [
+        "A. presidential system",
+        "B. parliamentary system",
+        "C. monarchical system",
+        "D. feudal system"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2010,
+      "number": 15,
+      "q": "A typical form of delegated legislation is",
+      "options": [
+        "A. an act",
+        "B. a bill",
+        "C. a decree",
+        "D. a bye-law"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2010,
+      "number": 16,
+      "q": "The rights of a citizen can be withdrawn by the state if the person",
+      "options": [
+        "A. opposes the government violently",
+        "B. leaves the country permanently",
+        "C. is convicted of a serious crime",
+        "D. is pronounced dead"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2010,
+      "number": 17,
+      "q": "An electoral process in which candidates are selected for elective offices by party members is ----",
+      "options": [
+        "A. primary election",
+        "B. electoral college",
+        "C. bye election",
+        "D. general election"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2010,
+      "number": 18,
+      "q": "In theory one major advantage of the one-party system is that it –",
+      "options": [
+        "A. eliminates intra-party conflict",
+        "B. serves as an instrument of national integration",
+        "C. promotes greater mass participation in government",
+        "D. guarantees social justice"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2010,
+      "number": 19,
+      "q": "A tactic employed by pressure groups to achieve their objectives is---",
+      "options": [
+        "A. memorandum",
+        "B. electioneering campaign",
+        "C. propaganda",
+        "D. lobbying"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2010,
+      "number": 20,
+      "q": "Public opinion can be measured through",
+      "options": [
+        "A. negotiation",
+        "B. referendum",
+        "C. strike action",
+        "D. rumour"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2010,
+      "number": 21,
+      "q": "Which of the following is the main function of the civil service?",
+      "options": [
+        "A. Implementing government policies",
+        "B. Allocating resources to the federating units",
+        "C. Supporting the party in power",
+        "D. Mobilizing grass root support for government"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2010,
+      "number": 22,
+      "q": "Who was the political head of the Old Oyo Empire?",
+      "options": [
+        "A. Bashorun",
+        "B. Oyomesi",
+        "C. Aremo",
+        "D. Alaafin"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2010,
+      "number": 23,
+      "q": "The Igbo political system was based on –",
+      "options": [
+        "A. age grades",
+        "B. Umunna",
+        "C. family ties",
+        "D. Umuada"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2010,
+      "number": 24,
+      "q": "The Aro age-grade system in Igbo land was",
+      "options": [
+        "A. a religious organization",
+        "B. a political organization",
+        "C. a commercial organization",
+        "D. an imperial organization"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2010,
+      "number": 25,
+      "q": "France introduced the policy of assimilation in her colonies primarily to",
+      "options": [
+        "A. teach them the art of leadership",
+        "B. give them a sound education",
+        "C. change their way of life",
+        "D. discourage them from ritual killings"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2010,
+      "number": 26,
+      "q": "The foremost British trading company on the West African coast was",
+      "options": [
+        "A. Royal Niger Company",
+        "B. United African Company",
+        "C. Lever Brothers",
+        "D. John Holt and Sons"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2010,
+      "number": 27,
+      "q": "Which of these rulers resisted colonial rule and was deported to Calabar?",
+      "options": [
+        "A. King Kosoko",
+        "B. King Dosunmu",
+        "C. Oba Ovonramwen",
+        "D. King Jaja"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2010,
+      "number": 28,
+      "q": "Nigerian nationalism was described as two-phased by",
+      "options": [
+        "A. John Payne Jackson",
+        "B. Edward Wilmot Blyden",
+        "C. James S. Coleman",
+        "D. David Ricardo"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2010,
+      "number": 29,
+      "q": "One major weakness of the Independence Constitution is that it",
+      "options": [
+        "A. failed to provide the country with full sovereignty",
+        "B. gave total independence to Nigeria",
+        "C. gave full powers to the Supreme Court in Nigeria",
+        "D. empowered Britain to continue to rule"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2010,
+      "number": 30,
+      "q": "The first law-making body in Nigeria after amalgamation was",
+      "options": [
+        "A. Nigerian Council",
+        "B. National Assembly",
+        "C. Legislative Council",
+        "D. Regional Assembly"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2010,
+      "number": 31,
+      "q": "The designation of ministers as chief executives and accounting officers was recommended by a commission headed by",
+      "options": [
+        "A. Jerome Udoji",
+        "B. S.J. Cookey",
+        "C. Simeon Adebo",
+        "D. Dotun Philips"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2010,
+      "number": 32,
+      "q": "A major shortcoming of the Ombudsman is",
+      "options": [
+        "A. lack of adequate resources",
+        "B. lack of clear-cut mandate",
+        "C. its inability to restrain bureaucratic excesses",
+        "D. lack of executive power to enforce decisions"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2010,
+      "number": 33,
+      "q": "One of the strong points of the multiparty Nigeria's Fourth Republic",
+      "options": [
+        "A. the provision for a bicameral legislature",
+        "B. wider political participation",
+        "C. government interference",
+        "D. wider anti-democracy campaign"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2010,
+      "number": 34,
+      "q": "In which of the following is the ceremonial and executive powers fused?",
+      "options": [
+        "A. Presidential system of government",
+        "B. Parliamentary system of government",
+        "C. Federal system of government",
+        "D. Unitary system of government"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2010,
+      "number": 35,
+      "q": "A major contentious issue confronting Nigerian federalism is",
+      "options": [
+        "A. poverty",
+        "B. education",
+        "C. health care delivery",
+        "D. revenue allocation"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2010,
+      "number": 36,
+      "q": "The main purpose of establishing public enterprises in Nigeria is to",
+      "options": [
+        "A. increase government revenue",
+        "B. provide essential services",
+        "C. enrich the elite",
+        "D. compete with the private sector"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2010,
+      "number": 37,
+      "q": "Parastatals are established to",
+      "options": [
+        "A. enhance entrepreneurial skills",
+        "B. maximize government profits",
+        "C. expand business transactions",
+        "D. render social services"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2010,
+      "number": 38,
+      "q": "The General-Purpose Committee of the local government is the",
+      "options": [
+        "A. cabinet or the local government",
+        "B. local government public relations unit",
+        "C. body responsible for supervising self-help projects",
+        "D. body for awarding contracts"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2010,
+      "number": 39,
+      "q": "The highest organ of the state during the Babangida Regime was the",
+      "options": [
+        "A. Provisional Ruling Council",
+        "B. Supreme Military Council",
+        "C. Armed Forces Ruling Council",
+        "D. Federal Executive Council"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2010,
+      "number": 40,
+      "q": "Decree 34 of 1966 was unacceptable to many Nigerians because it was",
+      "options": [
+        "A. seen as an instrument of impoverishment",
+        "B. perceived to abolish the federal system",
+        "C. promulgated without consultation with the people",
+        "D. considered as alien"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2010,
+      "number": 41,
+      "q": "Nigeria broke diplomatic relations with France in 1961 because of",
+      "options": [
+        "A. France's atomic test in the Sahara Desert",
+        "B. General de-Gaulle's negative attitude towards her",
+        "C. her poor relations with the Francophone countries",
+        "D. France's diplomatic relations with Israel"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2010,
+      "number": 42,
+      "q": "An attribute that Nigeria shares with most non-aligned countries is",
+      "options": [
+        "A. the state of her economy",
+        "B. her heterogeneous population",
+        "C. her large population",
+        "D. her large size"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2010,
+      "number": 43,
+      "q": "Nigeria spearheaded the formation of ECOWAS during the regime of—",
+      "options": [
+        "A. Olusegun Obasanjo",
+        "B. Yakubu Gowon",
+        "C. Murtala Muhammed",
+        "D. Ibrahim Babangida"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2010,
+      "number": 44,
+      "q": "Nigeria was classified as a frontline state for",
+      "options": [
+        "A. participating in peacekeeping in the Congo",
+        "B. supporting the liberation efforts in Southern Africa",
+        "C. spearheading the formation of African Union",
+        "D. helping to end the crisis in Liberia"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2010,
+      "number": 45,
+      "q": "The prominent role Nigeria played in the UN in the 70's earned her",
+      "options": [
+        "A. non-permanent membership position",
+        "B. membership of the Security Council",
+        "C. permanent representation at the UN",
+        "D. chairmanship of the General Assembly"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2010,
+      "number": 46,
+      "q": "The head of Nigeria's foreign mission in a Commonwealth nation is known as",
+      "options": [
+        "A. high commissioner",
+        "B. charge d'affaires",
+        "C. ambassador",
+        "D. attaché"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2010,
+      "number": 47,
+      "q": "One major function of the Authority of Heads of State and Government of ECOWAS is",
+      "options": [
+        "A. organizing international conferences",
+        "B. appointing the Executive Secretary",
+        "C. appointing staff of the Secretariat",
+        "D. preparing the budget of the Community"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2010,
+      "number": 48,
+      "q": "The tenure of non-permanent members of the Security Council is",
+      "options": [
+        "A. 5 years",
+        "B. 2 years",
+        "C. 4 years",
+        "D. 6 years"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2010,
+      "number": 49,
+      "q": "The Secretary-General of the United Nations is appointed by the",
+      "options": [
+        "A. Security council acting alone",
+        "B. General Assembly on the recommendation of the Security Council",
+        "C. Permanent members of the Security Council on the recommendation of the General Assembly",
+        "D. General Assembly in plenary session"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2010,
+      "number": 50,
+      "q": "The approval of treaties and agreements of the Economic Community of West African States is the responsibility of the",
+      "options": [
+        "A. secretariat",
+        "B. ECOWAS Tribunal",
+        "C. Council of Ministers",
+        "D. Assembly of Heads of State and Government"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2011,
+      "number": 1,
+      "q": "Which Government Question Paper Type is given to you?",
+      "options": [
+        "A. Type A",
+        "B. Type B",
+        "C. Type C",
+        "D. Type D"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2011,
+      "number": 2,
+      "q": "The development of attitudes and beliefs about a political system is----",
+      "options": [
+        "A. political emancipation",
+        "B. political socialization",
+        "C. political participation",
+        "D. political orientation"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2011,
+      "number": 3,
+      "q": "Political behavior is governed by",
+      "options": [
+        "A. political socialization",
+        "B. political ideology",
+        "C. political economy",
+        "D. political culture"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2011,
+      "number": 4,
+      "q": "In a nation, sovereignty is vested in the--",
+      "options": [
+        "A. community",
+        "B. state",
+        "C. elite",
+        "D. electorate"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2011,
+      "number": 5,
+      "q": "Which of the following is a feature of democracy?",
+      "options": [
+        "A. interdependence of states",
+        "B. state responsibilities to society",
+        "C. power vested in minority parties",
+        "D. popular consultation"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2011,
+      "number": 6,
+      "q": "Private ownership of the means of production is central to",
+      "options": [
+        "A. fascism",
+        "B. feudalism",
+        "C. capitalism",
+        "D. communism"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2011,
+      "number": 7,
+      "q": "A system based on hierarchies of land ownership is--",
+      "options": [
+        "A. feudalism",
+        "B. totalitarianism",
+        "C. communism",
+        "D. fascism"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2011,
+      "number": 8,
+      "q": "Which of the following performs quasi-legislative functions?",
+      "options": [
+        "A. The Judiciary",
+        "B. The Traditional Institutions",
+        "C. The Civil Service",
+        "D. The Executive"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2011,
+      "number": 9,
+      "q": "A major weakness of confederation is",
+      "options": [
+        "A. over-concentration of authority",
+        "B. tendency towards secession",
+        "C. lack of local independence",
+        "D. lack of common currency"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2011,
+      "number": 10,
+      "q": "Members of a parliament are required to report the proceedings of the house to their ---",
+      "options": [
+        "A. constituencies",
+        "B. local government chairmen",
+        "C. traditional rulers",
+        "D. political parties"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2011,
+      "number": 11,
+      "q": "Which of the following Country is a unitary state?",
+      "options": [
+        "A. Nigeria",
+        "B. India",
+        "C. United States of America",
+        "D. Ghana"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2011,
+      "number": 12,
+      "q": "Ending a session of parliament by royal proclamation means the",
+      "options": [
+        "A. expiration of parliament",
+        "B. prorogation of parliament",
+        "C. adjournment of parliament",
+        "D. dissolution of parliament"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2011,
+      "number": 13,
+      "q": "A main feature of the parliamentary system is that",
+      "options": [
+        "A. the executive consists of all party members",
+        "B. judges are drawn from the ruling party",
+        "C. electoral commissioners leave at the end of their tenure",
+        "D. the executive is appointed by the legislature"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2011,
+      "number": 14,
+      "q": "In a socialist economy, private accumulation of wealth is",
+      "options": [
+        "A. prohibited",
+        "B. regulated",
+        "C. limited",
+        "D. encouraged"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2011,
+      "number": 15,
+      "q": "The earliest classification of constitutions was the work of",
+      "options": [
+        "A. Aristotle",
+        "B. J.J. Rousseau",
+        "C. K.C. Wheare",
+        "D. Plato"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2011,
+      "number": 16,
+      "q": "Constitutionalism refers to ---",
+      "options": [
+        "A. the process of drafting a constitution",
+        "B. amendment of an existing constitution",
+        "C. the process of operating a constitution",
+        "D. strict adherence to a constitution"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2011,
+      "number": 17,
+      "q": "An advantage of delegated legislation is that",
+      "options": [
+        "A. much time is saved in the process",
+        "B. technical issues are handled by experts",
+        "C. ministers and lawmakers work together",
+        "D. it hastens the implementation of policy"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2011,
+      "number": 18,
+      "q": "One essential duty of a citizen to his state is to",
+      "options": [
+        "A. support the government in power",
+        "B. recite the pledge",
+        "C. pay his tax",
+        "D. encourage other citizens"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2011,
+      "number": 19,
+      "q": "Franchise in an electoral process means the –",
+      "options": [
+        "A. right to vote",
+        "B. ownership of means of production",
+        "C. the sovereignty of a nation",
+        "D. rights and duties of a citizen"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2011,
+      "number": 20,
+      "q": "The type of party system in practice is defined by the ---",
+      "options": [
+        "A. relationship between the parties and electorate",
+        "B. structure of the political parties",
+        "C. manner in which the parties operate",
+        "D. number of political parties in a country"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2011,
+      "number": 21,
+      "q": "Pressure groups harmonize different individual concerns through",
+      "options": [
+        "A. interest formulation",
+        "B. interest manipulation",
+        "C. interest mobilisation",
+        "D. interest aggregation"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2011,
+      "number": 22,
+      "q": "Opinion polls are organized to find out the –",
+      "options": [
+        "A. benefits derived by people from government",
+        "B. people's thought about a particular government policy",
+        "C. people's expectations from the government",
+        "D. feelings of people about particular issues and policies"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2011,
+      "number": 23,
+      "q": "In pre-colonial Igboland, autocratic rule was made difficult by the ---",
+      "options": [
+        "A. fear of dethronement",
+        "B. absence of a centralized system of authority",
+        "C. pressure from age grades",
+        "D. activities of cult societies"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2011,
+      "number": 24,
+      "q": "The Yoruba traditional system of government was—",
+      "options": [
+        "A. republican",
+        "B. democratic",
+        "C. monarchical",
+        "D. egalitarian"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2011,
+      "number": 25,
+      "q": "Under the pre-colonial Sokoto Caliphate system, the next in command to the sultan was the",
+      "options": [
+        "A. Alkali",
+        "B. Galadima",
+        "C. Madaki",
+        "D. Waziri"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2011,
+      "number": 26,
+      "q": "Which of the following societies was classified as acephalous?",
+      "options": [
+        "A. Benin",
+        "B. Ibibio",
+        "C. Igbo",
+        "D. Ijaw"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2011,
+      "number": 27,
+      "q": "Indirect rule encouraged",
+      "options": [
+        "A. communal integration",
+        "B. exploitation and oppression",
+        "C. inter-communal cooperation",
+        "D. the rise of nationalism"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2011,
+      "number": 28,
+      "q": "The main achievement of the nationalists in Nigeria was",
+      "options": [
+        "A. registration of political parties",
+        "B. economic liberation of the nation",
+        "C. political liberation of the nation",
+        "D. building the nation"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2011,
+      "number": 29,
+      "q": "The major external factor that promoted nationalism in Nigeria was",
+      "options": [
+        "A. Pan-Africanism",
+        "B. the Yom-Kippur War",
+        "C. the Second World War",
+        "D. Anti-apartheid Movement"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2011,
+      "number": 30,
+      "q": "The presidential system of government was introduced in Nigeria with the Constitution of",
+      "options": [
+        "A. 1989",
+        "B. 1999",
+        "C. 1960",
+        "D. 1979"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2011,
+      "number": 31,
+      "q": "The Action Group crisis of 1963 led to the formation of",
+      "options": [
+        "A. UPP",
+        "B. NEPU",
+        "C. NPC",
+        "D. NCNC"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2011,
+      "number": 32,
+      "q": "Under the 1963 Republican Constitution, the power of judicial review was vested in the",
+      "options": [
+        "A. President",
+        "B. Chief Justice",
+        "C. Supreme Court",
+        "D. Parliament"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2011,
+      "number": 33,
+      "q": "The rules and regulations of the civil service are called?",
+      "options": [
+        "A. General Order",
+        "B. Bureaucratic Order",
+        "C. Service Order",
+        "D. Administrative Order"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2011,
+      "number": 34,
+      "q": "The Code of Conduct Bureau was essentially established to",
+      "options": [
+        "A. reduce corruption in public life",
+        "B. protect the rights of public servants",
+        "C. enhance probity and accountability in public service",
+        "D. ensure the independence of the public service"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2011,
+      "number": 35,
+      "q": "Which of the following political parties was the first to be formed when the ban on politics was lifted in 1978?",
+      "options": [
+        "A. NPP",
+        "B. PRP",
+        "C. NPN",
+        "D. UPN"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2011,
+      "number": 36,
+      "q": "The principle of federal character was adopted in order to promote equitable allocation of",
+      "options": [
+        "A. positions and appointments among people of various regions",
+        "B. appointments between the North and the South",
+        "C. opportunities between the males and females",
+        "D. revenue between groups in the country"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2011,
+      "number": 37,
+      "q": "The component units of the Nigerian Federation comprise",
+      "options": [
+        "A. national assembly, military, police and civil service",
+        "B. constituency, ward, emirate and chiefdom",
+        "C. federal, state, local government and federal capital territory",
+        "D. federal capital territory, national assembly, supreme court and civil service"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2011,
+      "number": 38,
+      "q": "In Nigeria, privatization and commercialization policies were introduced to",
+      "options": [
+        "A. hand over the control of commercial ventures to citizens",
+        "B. increase the asset base of government",
+        "C. divest government major control of commercial ventures",
+        "D. allow government control of the private sector"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2011,
+      "number": 39,
+      "q": "An example of a public corporation in Nigeria is",
+      "options": [
+        "A. National Universities Commission",
+        "B. Nigerian Television Authority",
+        "C. National Population Commission",
+        "D. First Bank of Nigeria"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2011,
+      "number": 40,
+      "q": "Following the reform of the Native Authority system in Northern Nigeria, traditional rulers became",
+      "options": [
+        "A. Council",
+        "B. Chief-and-Council",
+        "C. Prefects",
+        "D. Chief-in-Council"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2011,
+      "number": 41,
+      "q": "Under whose regime were Akwa-Ibom and Katsina States created?",
+      "options": [
+        "A. Gen Murtala Muhammed",
+        "B. Gen Ibrahim Babangida",
+        "C. Gen Sani Abacha",
+        "D. Gen Yakubu Gowon"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2011,
+      "number": 42,
+      "q": "Under the 1999 Constitutions of the Federal Republic of Nigeria, the appointment and posting of members of election tribunal on the elections conducted by INEC is the responsibility of the",
+      "options": [
+        "A. Chairman, Independent National Electoral Commission",
+        "B. President of Nigeria",
+        "C. Chief Justice of Nigeria",
+        "D. President, Court of Appeal"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2011,
+      "number": 43,
+      "q": "Rhodesia was the former name of",
+      "options": [
+        "A. Zimbabwe",
+        "B. Swaziland",
+        "C. Zambia",
+        "D. Namibia"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2011,
+      "number": 44,
+      "q": "The adoption of non-alignment as a principle of Nigeria's foreign policy was aimed at",
+      "options": [
+        "A. promoting Nigeria's leadership aspiration in Africa",
+        "B. attaining equal status with the world powers",
+        "C. fulfilling a basic requirement for acceptance in the UN Security Council",
+        "D. insulating Nigeria against having to take side in the Cold War"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2011,
+      "number": 45,
+      "q": "In 1979, the non-aligned member states were",
+      "options": [
+        "A. 21",
+        "B. 27",
+        "C. 37",
+        "D. 19"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2011,
+      "number": 46,
+      "q": "Which of the following was the secretary general of OPEC?",
+      "options": [
+        "A. Jibril Aminu",
+        "B. Aret Adams",
+        "C. Dalhatu Bayero",
+        "D. Rilwan Lukman"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2011,
+      "number": 47,
+      "q": "Which of the following countries pioneered the idea of ECOWAS alongside Nigeria?",
+      "options": [
+        "A. Liberia",
+        "B. Togo",
+        "C. Cote d'Ivoire",
+        "D. Mali"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2011,
+      "number": 48,
+      "q": "Which of the following international organizations were in existence before the Second World War?",
+      "options": [
+        "A. The UNO",
+        "B. The OAU",
+        "C. The League of Nations",
+        "D. The ECOWAS"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2011,
+      "number": 49,
+      "q": "The organ of the United Nations responsible for the approval of its annual budget is the",
+      "options": [
+        "A. Secretariat",
+        "B. Security Council",
+        "C. General Assembly",
+        "D. Economic and Social Council"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2011,
+      "number": 50,
+      "q": "Each member state is represented on the Board of Governors of OPEC for a period of",
+      "options": [
+        "A. 2 years",
+        "B. 3 years",
+        "C. 4 years",
+        "D. 1 year"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2012,
+      "number": 1,
+      "q": "Which Questions Paper Type of Government as indicated above is given to you?",
+      "options": [
+        "A. Type Green",
+        "B. Type Purple",
+        "C. Type Red",
+        "D. Type Yellow"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2012,
+      "number": 2,
+      "q": "The distinctive attribute of a state is the monopoly of",
+      "options": [
+        "A. control",
+        "B. power",
+        "C. violence",
+        "D. justice"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2012,
+      "number": 3,
+      "q": "State as a political entity refers to",
+      "options": [
+        "A. An organized group within a definite territory",
+        "B. An association of men in a given society",
+        "C. A branch of a nation",
+        "D. A geographical location"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2012,
+      "number": 4,
+      "q": "Political values are acquired in any given society through",
+      "options": [
+        "A. political re-orientation",
+        "B. political campaign",
+        "C. political socialization",
+        "D. political indoctrination"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2012,
+      "number": 5,
+      "q": "In a democratic government, political sovereignty is vested in the",
+      "options": [
+        "A. legislature",
+        "B. elite",
+        "C. executive",
+        "D. electorate"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2012,
+      "number": 6,
+      "q": "One judicial function performed by the executive is",
+      "options": [
+        "A. Granting of amnesty",
+        "B. Implementing judicial orders",
+        "C. Ensuring obedience to the law",
+        "D. Appointing judges"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2012,
+      "number": 7,
+      "q": "A governmental system in which constitutional supremacy resides in the center is",
+      "options": [
+        "A. federal",
+        "B. confederal",
+        "C. unitary",
+        "D. parliamentary"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2012,
+      "number": 8,
+      "q": "A political system which empowers the leader with the ultimate responsibility to execute laws is",
+      "options": [
+        "A. parliamentarianism",
+        "B. presidentialism",
+        "C. dictatorship",
+        "D. autocracy"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2012,
+      "number": 9,
+      "q": "A bill is a draft which is awaiting the consideration of the",
+      "options": [
+        "A. executive",
+        "B. party caucus",
+        "C. legislature",
+        "D. judiciary"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2012,
+      "number": 10,
+      "q": "The private ownership of the means of production is a feature of",
+      "options": [
+        "A. capitalism",
+        "B. socialism",
+        "C. communalism",
+        "D. communism"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2012,
+      "number": 11,
+      "q": "In a feudal system, the two major classes are the serfs and the",
+      "options": [
+        "A. masses",
+        "B. vassals",
+        "C. lords",
+        "D. elite"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2012,
+      "number": 12,
+      "q": "An example of a country with a flexible constitution is",
+      "options": [
+        "A. South Africa",
+        "B. Britain",
+        "C. Benin Republic",
+        "D. the United States of America"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2012,
+      "number": 13,
+      "q": "The rule of law is negation of",
+      "options": [
+        "A. equality before the law",
+        "B. supremacy of the law",
+        "C. limited power",
+        "D. absolute power"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2012,
+      "number": 14,
+      "q": "To ensure the rights and freedom of citizens, the powers of the arms of government must be",
+      "options": [
+        "A. fused",
+        "B. incorporated",
+        "C. separated",
+        "D. rotated"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2012,
+      "number": 15,
+      "q": "Delegated legislation is made by bodies others than the",
+      "options": [
+        "A. president",
+        "B. governor",
+        "C. parliament",
+        "D. judiciary"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2012,
+      "number": 16,
+      "q": "The bringing of a session of a parliament to an end through royal proclamation is known as",
+      "options": [
+        "A. political impasse",
+        "B. dissolution of parliament",
+        "C. vote of no confidence",
+        "D. prorogation of parliament"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2012,
+      "number": 17,
+      "q": "The right of citizens to participate in the affairs of government of their country is called",
+      "options": [
+        "A. economic right",
+        "B. civil right",
+        "C. political right",
+        "D. social right"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2012,
+      "number": 18,
+      "q": "The commission charged with the conduct of federal elections in Nigeria is",
+      "options": [
+        "A. NEC",
+        "B. FEDECO",
+        "C. INEC",
+        "D. NECON"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2012,
+      "number": 19,
+      "q": "An electoral system in which parties are assigned seats in the parliament commensurate to the number of votes polled is",
+      "options": [
+        "A. Absolute majority",
+        "B. Simple majority",
+        "C. proportional representation",
+        "D. indirect election"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2012,
+      "number": 20,
+      "q": "An intra-party activity for the selection of candidates for elective positions known as",
+      "options": [
+        "A. primary election",
+        "B. general election",
+        "C. mid-term election",
+        "D. bye-election"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2012,
+      "number": 21,
+      "q": "The primary aim of pressure groups is to",
+      "options": [
+        "A. Attract people's attention",
+        "B. protect the interest of members",
+        "C. captured political power",
+        "D. fight corrupt officials"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2012,
+      "number": 22,
+      "q": "Which of the following is used in gauging public opinion?",
+      "options": [
+        "A. constitution",
+        "B. educational institution",
+        "C. mass media",
+        "D. electoral college"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2012,
+      "number": 23,
+      "q": "A permanent structure that facilitates continuity and guarantees orderly conduct in governance is",
+      "options": [
+        "A. Bureaucracy",
+        "B. public corporation",
+        "C. ombudsman",
+        "D. political party"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2012,
+      "number": 24,
+      "q": "In the Hausa pre-colonial political system, a district was headed by",
+      "options": [
+        "A. A hakimi",
+        "B. a dagaci",
+        "C. an alkali",
+        "D. a waziri"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2012,
+      "number": 25,
+      "q": "Which of the following ensured the practice of democracy in the pre-colonial Yoruba political system?",
+      "options": [
+        "A. Checks and balances",
+        "B. Fusion of power",
+        "C. individual responsibility",
+        "D. the rule of law"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2012,
+      "number": 26,
+      "q": "Colonization of Africa was mainly motivated by",
+      "options": [
+        "A. security considerations",
+        "B. economic reasons",
+        "C. religious reasons",
+        "D. cultural factors"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2012,
+      "number": 27,
+      "q": "The French colonial system was underlined by the policy of",
+      "options": [
+        "A. assimilation",
+        "B. paternalism",
+        "C. socialism",
+        "D. indirect rule"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2012,
+      "number": 28,
+      "q": "Radical nationalism in Nigeria is generally attributed to the influence of",
+      "options": [
+        "A. Aminu Kano",
+        "B. Herbert Macaulay",
+        "C. Nnamdi Azikiwe",
+        "D. Mbonu Ojike"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2012,
+      "number": 29,
+      "q": "Two foreigners that directly aroused nationalist feelings among Nigerians are",
+      "options": [
+        "A. Edward Blyden and Payne Jackson",
+        "B. Casely Hayford and James Horton",
+        "C. W.E du Boise and H.O Davies",
+        "D. Marcus Garvey and Casely Hayford"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2012,
+      "number": 30,
+      "q": "Members of the Senate in Nigeria's First Republic were",
+      "options": [
+        "A. Elected directly by the people",
+        "B. Elected by electoral college",
+        "C. Nominated by regional and federal governments",
+        "D. Nominated by the president of the house"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2012,
+      "number": 31,
+      "q": "In Nigeria, the agency mainly responsible for the maintenance of internal peace and security is the",
+      "options": [
+        "A. Army",
+        "B. Navy",
+        "C. Civil Defence Corps",
+        "D. Police"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2012,
+      "number": 32,
+      "q": "The National Assembly in Nigeria is primarily responsible for",
+      "options": [
+        "A. Executing laws",
+        "B. interpreting laws",
+        "C. Ratifying appointments",
+        "D. Making laws"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2012,
+      "number": 33,
+      "q": "The major factor militating against the efficient operation of electoral commissions in Nigeria is",
+      "options": [
+        "A. Inadequate public support",
+        "B. Population size",
+        "C. Inadequate skilled manpower",
+        "D. Excessive political interference"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2012,
+      "number": 34,
+      "q": "A major objective of the public Complaints Commission is",
+      "options": [
+        "A. Training and promotion of public servants",
+        "B. Settlement of disputes among individuals",
+        "C. Addressing the grievances of individuals and groups",
+        "D. Fighting corruption and indiscipline"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2012,
+      "number": 35,
+      "q": "The three registered political parties at the inception of Nigeria's Fourth Republic were",
+      "options": [
+        "A. PDP, DPP and PPA",
+        "B. PDP, AD and APP",
+        "C. PDP, AD and PPA",
+        "D. PDP, APP and AC"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2012,
+      "number": 36,
+      "q": "The Sharia legal system was first introduced in the Fourth Republic in",
+      "options": [
+        "A. Kano State",
+        "B. Katsina State",
+        "C. Zamfara State",
+        "D. Sokoto State"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2012,
+      "number": 37,
+      "q": "Quota system and federal character principles were entrenched in the 1979 constitution to ensure",
+      "options": [
+        "A. loyalty",
+        "B. Economic empowerment",
+        "C. Equity",
+        "D. Even development"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2012,
+      "number": 38,
+      "q": "Workers in the public corporations are known as",
+      "options": [
+        "A. civil servants",
+        "B. private employees",
+        "C. public servants",
+        "D. professional employees"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2012,
+      "number": 39,
+      "q": "The central objective of privatization in Nigeria is to",
+      "options": [
+        "A. Reduce the retrenchment of workers",
+        "B. Encourage prompt payment of salaries",
+        "C. Improve standard of living",
+        "D. Improve the efficiency of enterprises"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2012,
+      "number": 40,
+      "q": "Military intervention in Nigeria arose from",
+      "options": [
+        "A. perceived incapability of civilians to govern",
+        "B. international pressure for change",
+        "C. the desire for a military government",
+        "D. civilian's desire to relinquish power"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2012,
+      "number": 41,
+      "q": "The first institution introduced by the military to exercise legislative power was the",
+      "options": [
+        "A. supreme military council",
+        "B. armed forces ruling council",
+        "C. federal executive council",
+        "D. provisional ruling council"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2012,
+      "number": 42,
+      "q": "The main focus of Nigeria's foreign policy since independence centers on",
+      "options": [
+        "A. South-south cooperation",
+        "B. Sub-regionalism",
+        "C. Globalism",
+        "D. Afrocentrism"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2012,
+      "number": 43,
+      "q": "The country that championed decolonization in Africa was",
+      "options": [
+        "A. Nigeria",
+        "B. South Africa",
+        "C. Ghana",
+        "D. Kenya"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2012,
+      "number": 44,
+      "q": "A major drawback to the NEPAD initiative is its",
+      "options": [
+        "A. Articulation by few African leaders",
+        "B. Affiliation by few African union",
+        "C. Inability to empower the youth",
+        "D. Reliance on Western donors for funds"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2012,
+      "number": 45,
+      "q": "The structures of the African Union include",
+      "options": [
+        "A. the court of justice, pan African congress and people's Assembly",
+        "B. pan African parliament, the court of justice and the peace and security council",
+        "C. specialized Technical commission, the court of justice and humanitarian board",
+        "D. people's Assembly, Humanitarian Board and the peace and security council"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2012,
+      "number": 46,
+      "q": "ECOMOG at the initial stage of its intervention in Liberia was perceived as",
+      "options": [
+        "A. Neutral",
+        "B. Incompetent",
+        "C. Partisan",
+        "D. Invaders"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2012,
+      "number": 47,
+      "q": "One of the programmes binding members of the Commonwealth is the",
+      "options": [
+        "A. Food and aid programme",
+        "B. Cultural programme",
+        "C. Agenda for peace",
+        "D. Scholarship scheme"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2012,
+      "number": 48,
+      "q": "The African leader mostly credited for spearheading the formation of the African Union is",
+      "options": [
+        "A. Muammar Ghaddafi",
+        "B. Abdelaziz Bouteflika",
+        "C. Abdoulaye Wade",
+        "D. Thabo Mbeki"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2012,
+      "number": 49,
+      "q": "As part of the reforms in the UN, two slots were proposed in the Security Council for –",
+      "options": [
+        "A. Asia",
+        "B. Africa",
+        "C. America",
+        "D. Europe"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2012,
+      "number": 50,
+      "q": "The founding members of OPEC are",
+      "options": [
+        "A. Algeria, Iran, Iraq, Saudi Arabia and Kuwait",
+        "B. Nigeria, Libya, Iraq and Saudi Arabia",
+        "C. Venezuela, Nigeria, Libya, Iran and Iraq",
+        "D. Saudi Arabia, Iran, Iraq Kuwait and Venezuela"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2013,
+      "number": 1,
+      "q": "Which Question Paper Type of Government is given to you?",
+      "options": [
+        "A. Type D",
+        "B. Type I",
+        "C. Type B",
+        "D. Type U"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2013,
+      "number": 2,
+      "q": "Power that is delegated is exercised",
+      "options": [
+        "A. By devolution",
+        "B. Directly",
+        "C. By coercion",
+        "D. Indirect"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2013,
+      "number": 3,
+      "q": "De Jure sovereign is acquired through",
+      "options": [
+        "A. Law",
+        "B. Grant",
+        "C. Treaty",
+        "D. Force"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2013,
+      "number": 4,
+      "q": "A group of people who live together under a common law within a definite territory is a",
+      "options": [
+        "A. Community",
+        "B. Nation-State",
+        "C. Nation",
+        "D. State"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2013,
+      "number": 5,
+      "q": "Political socialization is associated with",
+      "options": [
+        "A. Military take-over of civilian government",
+        "B. The transmission of political values",
+        "C. Political transition",
+        "D. Free choice of party programmes"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2013,
+      "number": 6,
+      "q": "According to Aristotle, a form of government in which the few rule for the benefit of all is",
+      "options": [
+        "A. Diarchy",
+        "B. Aristocracy",
+        "C. Autocracy",
+        "D. Polyarchy"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2013,
+      "number": 7,
+      "q": "Rule by the old people is known as",
+      "options": [
+        "A. Monarchy",
+        "B. Gerontocracy",
+        "C. Feudalism",
+        "D. Theocracy"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2013,
+      "number": 8,
+      "q": "As an executive, the commissioner is charged with the responsibility of",
+      "options": [
+        "A. Implementing laws",
+        "B. Writing laws",
+        "C. Giving loans",
+        "D. Making laws"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2013,
+      "number": 9,
+      "q": "Rules adjudication is a primary function of the",
+      "options": [
+        "A. Judiciary",
+        "B. Executive",
+        "C. Government",
+        "D. Legislature"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2013,
+      "number": 10,
+      "q": "The judiciary controls the executive in federal state through",
+      "options": [
+        "A. Delegated legislation",
+        "B. Judicial overview",
+        "C. Judicial review",
+        "D. Motions"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2013,
+      "number": 11,
+      "q": "One major advantage of the unitary system is that it tends to make government",
+      "options": [
+        "A. Free of controversy",
+        "B. Distant from the people",
+        "C. Popular among the masses",
+        "D. Strong and stable"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2013,
+      "number": 12,
+      "q": "The presidential system differs from the parliamentary system of government in that",
+      "options": [
+        "A. The principle of collective responsibility applies",
+        "B. Executive and legislative powers are fused",
+        "C. Powers of the three arms of government are merged",
+        "D. The tenure of office of the president is limited"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2013,
+      "number": 13,
+      "q": "Which of the following advocates equitable distribution of wealth?",
+      "options": [
+        "A. Capitalism",
+        "B. Aristocracy",
+        "C. Socialism",
+        "D. Plutocracy"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2013,
+      "number": 14,
+      "q": "A constitution that is difficult to amend is",
+      "options": [
+        "A. Rigid",
+        "B. Written",
+        "C. Unwritten",
+        "D. Flexible"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2013,
+      "number": 15,
+      "q": "Which of the following constitutions is more suitable for centralization of political power?",
+      "options": [
+        "A. Unwritten constitution",
+        "B. Rigid constitution",
+        "C. Written constitution",
+        "D. Flexible constitution"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2013,
+      "number": 16,
+      "q": "The act of transferring autonomous powers to subordinate agencies is",
+      "options": [
+        "A. Concentration",
+        "B. Deconcentration",
+        "C. Delegation",
+        "D. Devolution"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2013,
+      "number": 17,
+      "q": "Which of the following types of citizenship cannot be withdrawn?",
+      "options": [
+        "A. Citizenship by conquest",
+        "B. Citizenship by birth",
+        "C. Honorary citizenship",
+        "D. Citizenship by naturalization"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2013,
+      "number": 18,
+      "q": "The right of citizens to vote is",
+      "options": [
+        "A. Universal suffrage",
+        "B. Nationality suffrage",
+        "C. Electoral suffrage",
+        "D. Adult suffrage"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2013,
+      "number": 19,
+      "q": "A political party is different from a pressure group in its",
+      "options": [
+        "A. Objective",
+        "B. Organization",
+        "C. Strategy",
+        "D. Source of finance"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2013,
+      "number": 20,
+      "q": "One of the functions of pressure groups is to",
+      "options": [
+        "A. Nominate the president",
+        "B. Prepare the budget",
+        "C. Articulate the opinion of their members",
+        "D. Contest elections to serve the people"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2013,
+      "number": 21,
+      "q": "Public opinion refers to the",
+      "options": [
+        "A. Aggregate views of groups on particular government activities",
+        "B. views held by the president of a country",
+        "C. views of the chief justice of a country",
+        "D. Aggregate of attitudes held by members of the national assembly"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2013,
+      "number": 22,
+      "q": "The class that oversees the implementation of government decisions and policies is the",
+      "options": [
+        "A. Executive",
+        "B. Clerical",
+        "C. Technical",
+        "D. Administrative"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2013,
+      "number": 23,
+      "q": "The performance of ritual rites in the Yoruba empire is the responsibility of the",
+      "options": [
+        "A. Aare-Onakakanfo",
+        "B. Oba",
+        "C. Ogboni",
+        "D. Oyo mesi"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2013,
+      "number": 24,
+      "q": "Under the emirate system, the commander of the army is the",
+      "options": [
+        "A. Hakimi",
+        "B. Sarkin fada",
+        "C. Madawaki",
+        "D. Alkali"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2013,
+      "number": 25,
+      "q": "The indirect rule system of administration was more successful in the Northern Nigeria because",
+      "options": [
+        "A. Of the existence of an organized structure in the area",
+        "B. the Europeans ensured that the farmlands were not confiscated",
+        "C. The natives show little or no resistance",
+        "D. The people were mainly interested in being governed indirectly"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2013,
+      "number": 26,
+      "q": "The earliest nationalist activities in Nigeria were spearheaded by",
+      "options": [
+        "A. Trade unions",
+        "B. Traditional rulers",
+        "C. Political parties",
+        "D. Educated elite"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2013,
+      "number": 27,
+      "q": "The first notable nationalist movement in west Africa was the",
+      "options": [
+        "A. West African student union",
+        "B. Nigeria youth movement",
+        "C. Aborigines rights protection society",
+        "D. National congress of British West Africa"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2013,
+      "number": 28,
+      "q": "In Nigeria's first republic, the prime minister was both the",
+      "options": [
+        "A. Head of state and commander-in-chief of the armed forces",
+        "B. Commander-in-chief of the armed forces and party leader",
+        "C. Head of state and party leader",
+        "D. Head of government and a lawmaker"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2013,
+      "number": 29,
+      "q": "Under the 1979 Constitution, statutory allocation of revenue to local government councils is the responsibility of the",
+      "options": [
+        "A. House of Assembly",
+        "B. National Economic Council",
+        "C. Federal Legislature",
+        "D. Council of State"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2013,
+      "number": 30,
+      "q": "Under Nigeria's Second Republic, the Senate was under the leadership of",
+      "options": [
+        "A. J.S. Tarka",
+        "B. Joseph Wayas",
+        "C. Godwin Ume-Ezeoke",
+        "D. John Wash Pam"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2013,
+      "number": 31,
+      "q": "The Revenue Mobilization, Allocation and Fiscal Commission is statutorily empowered to determine the remuneration of",
+      "options": [
+        "A. Only elected representatives",
+        "B. Political office holders",
+        "C. Employees of public corporations",
+        "D. All civil servants"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2013,
+      "number": 32,
+      "q": "The primary function of the Code of Conduct Bureau is to",
+      "options": [
+        "A. Ensure minimum standard of morality",
+        "B. Retain custody of declarations",
+        "C. Receive declaration of assets",
+        "D. Ensure due process by public officers"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2013,
+      "number": 33,
+      "q": "The party system practiced in Nigeria's Third Republic was",
+      "options": [
+        "A. Two-party",
+        "B. Zero-party",
+        "C. One-party",
+        "D. Multi-party"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2013,
+      "number": 34,
+      "q": "Nigeria adopted the federal system of government because of",
+      "options": [
+        "A. Uneven development",
+        "B. The availability of limited resources",
+        "C. The adoption of a state religion",
+        "D. The fear of domination of minorities"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2013,
+      "number": 35,
+      "q": "The highest policy making body under the Gowon Regime was",
+      "options": [
+        "A. Armed Forces Ruling Council",
+        "B. Provisional Ruling Council",
+        "C. Supreme Military Council",
+        "D. Federal Executive Council"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2013,
+      "number": 36,
+      "q": "Nigeria became a federation of thirty-six states during the era of",
+      "options": [
+        "A. Abdulsalami Abubakar",
+        "B. Yakubu Gowon",
+        "C. Ibrahim Babangida",
+        "D. Sani Abacha"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2013,
+      "number": 37,
+      "q": "Which of the following headed the committee that recommended the suitability of Abuja as a new federal city?",
+      "options": [
+        "A. Justice Baba Ardo",
+        "B. Justice Atanda Fatai Williams",
+        "C. Justice Udo Udoma",
+        "D. Justice Akinola Aguda"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2013,
+      "number": 38,
+      "q": "A public corporation is managed by",
+      "options": [
+        "A. A minister",
+        "B. A general manager",
+        "C. The board of governors",
+        "D. The board of directors"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2013,
+      "number": 39,
+      "q": "A major source of revenue in the post-1976 local government in Nigeria is",
+      "options": [
+        "A. Internally generated revenue",
+        "B. the federation account",
+        "C. Grants and loans",
+        "D. The joint state-local government account"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2013,
+      "number": 40,
+      "q": "The Provisional Ruling Council was the highest ruling body during the regime of",
+      "options": [
+        "A. Muhammadu Buhari",
+        "B. Ibrahim Babangida",
+        "C. Murtala Muhammed",
+        "D. Sani Abacha"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2013,
+      "number": 41,
+      "q": "Nigeria's non-alignment policy in the sixties lacked real substance because of her",
+      "options": [
+        "A. Afrocentric policy",
+        "B. Poor economic potential",
+        "C. Partnership with Asian countries",
+        "D. Close ties with Britain"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2013,
+      "number": 42,
+      "q": "Under the Technical Aid Corps, Nigerian experts are deployed to",
+      "options": [
+        "A. African, the pacific and the Caribbean",
+        "B. Europe, South America and Asia",
+        "C. The pacific, the Caribbean and Europe",
+        "D. Asia, Africa and the pacific"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2013,
+      "number": 43,
+      "q": "The centre-piece of Nigeria's foreign policy covers only",
+      "options": [
+        "A. Europe",
+        "B. Africa",
+        "C. Latin America",
+        "D. Asia"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2013,
+      "number": 44,
+      "q": "Which of the following countries pioneered the establishment of ECOWAS alongside Nigeria?",
+      "options": [
+        "A. Ghana",
+        "B. Togo",
+        "C. Algeria",
+        "D. Cameroun"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2013,
+      "number": 45,
+      "q": "Nigeria's role in the African Union was most prominent during the regime of",
+      "options": [
+        "A. President Olusegun Obasanjo",
+        "B. President Shehu Shagari",
+        "C. President Umaru Yar'adua",
+        "D. President Ibrahim Babangida"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2013,
+      "number": 46,
+      "q": "A representative of a Commonwealth country in another member state is known as",
+      "options": [
+        "A. Consul-General",
+        "B. Ambassador",
+        "C. Attache",
+        "D. High Commissioner"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2013,
+      "number": 47,
+      "q": "The organ of UN that promotes voluntary co-operation among member states in diverse areas is the",
+      "options": [
+        "A. International Court of Justice",
+        "B. General Assembly",
+        "C. Economic and Social Council",
+        "D. Security Council"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2013,
+      "number": 48,
+      "q": "The main representative body of the United Nations is the",
+      "options": [
+        "A. Security Council",
+        "B. General Assembly",
+        "C. Trusteeship Council",
+        "D. Secretariat"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2013,
+      "number": 49,
+      "q": "The AU differs from the OAU in having",
+      "options": [
+        "A. Effective tools for decision enforcement",
+        "B. No permanent headquarters",
+        "C. A minimum of divergent viewpoints",
+        "D. No assembly of Heads of State"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2013,
+      "number": 50,
+      "q": "OPEC has strong influence with the",
+      "options": [
+        "A. EU",
+        "B. ADB",
+        "C. AU",
+        "D. IMF"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2014,
+      "number": 1,
+      "q": "Which Question Paper Type of Government is given to you?",
+      "options": [
+        "A. Type F",
+        "B. Type E",
+        "C. Type L",
+        "D. Type D"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2014,
+      "number": 2,
+      "q": "The necessary attributes of a state are",
+      "options": [
+        "A. police, army, sovereignty and custom",
+        "B. resources, population, sovereignty and government",
+        "C. sovereignty, police, army and immigration",
+        "D. definite territory, population, sovereignty and government"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2014,
+      "number": 3,
+      "q": "The process of taking part in political and public affairs can be termed political",
+      "options": [
+        "A. socialization",
+        "B. recognition",
+        "C. culture",
+        "D. participation"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2014,
+      "number": 4,
+      "q": "Membership of a society is",
+      "options": [
+        "A. constitutional",
+        "B. conventional",
+        "C. mandatory",
+        "D. voluntary"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2014,
+      "number": 5,
+      "q": "In a democratic political system, the political sovereign is usually the",
+      "options": [
+        "A. legislature",
+        "B. constitution",
+        "C. political parties",
+        "D. electorate"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2014,
+      "number": 6,
+      "q": "One basic feature of a monarchical form of government is that",
+      "options": [
+        "A. the ruler has a fixed tenure",
+        "B. separation of powers is absolute",
+        "C. members of the executive are elected",
+        "D. succession is through heredity"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2014,
+      "number": 7,
+      "q": "One main advantage of bicameral legislature is that it",
+      "options": [
+        "A. is not easy to manipulate bills",
+        "B. makes for quick deliberation during emergencies",
+        "C. makes passage of bills easy",
+        "D. is less cumbersome to pass bills"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2014,
+      "number": 8,
+      "q": "The court that has ultimate power to interpret the constitution is the",
+      "options": [
+        "A. Court of Appeal",
+        "B. Supreme Court",
+        "C. Magistrate Court",
+        "D. High Court"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2014,
+      "number": 9,
+      "q": "Unitary system of government is more suitable to a country",
+      "options": [
+        "A. with a relatively small area and a homogenous population",
+        "B. that is sparsely populated",
+        "C. that possesses a strong and modern army",
+        "D. with a robust and dynamic economy"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2014,
+      "number": 10,
+      "q": "An example of a country ruled by a constitutional monarch is",
+      "options": [
+        "A. Libya",
+        "B. Uganda",
+        "C. Morocco",
+        "D. Italy"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2014,
+      "number": 11,
+      "q": "The development of a classless society is the goal of",
+      "options": [
+        "A. marxism",
+        "B. conservation",
+        "C. feudalism",
+        "D. liberalism"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2014,
+      "number": 12,
+      "q": "A flexible constitution is one which is",
+      "options": [
+        "A. written by the parliament",
+        "B. easily amended",
+        "C. popular with the legislators",
+        "D. known to all the citizens"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2014,
+      "number": 13,
+      "q": "Which of the following is a feature of checks and balances?",
+      "options": [
+        "A. Code of conduct",
+        "B. Judicial precedent",
+        "C. Judicial immunity",
+        "D. Judicial review"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2014,
+      "number": 14,
+      "q": "Laws made by military governments at the state level are called",
+      "options": [
+        "A. acts",
+        "B. decrees",
+        "C. bye-laws",
+        "D. edicts"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2014,
+      "number": 15,
+      "q": "Citizenship is acquired by an alien through",
+      "options": [
+        "A. naturalization",
+        "B. registration",
+        "C. birth",
+        "D. conferment"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2014,
+      "number": 16,
+      "q": "The officer responsible for announcing the result of an election is known as",
+      "options": [
+        "A. electoral officer",
+        "B. ballot officer",
+        "C. presiding officer",
+        "D. returning officer"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2014,
+      "number": 17,
+      "q": "The ultimate aim of political parties is to",
+      "options": [
+        "A. formulate and implement policies",
+        "B. implement people-oriented programmes",
+        "C. acquire and exercise power",
+        "D. increase the political awareness of the electorate"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2014,
+      "number": 18,
+      "q": "The main objective of pressure groups is to",
+      "options": [
+        "A. serve as opposition to the government",
+        "B. promote the interest of political parties",
+        "C. influence legislation for the benefit of their members",
+        "D. protect the interest of the country against foreigners"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2014,
+      "number": 19,
+      "q": "Which of the following is not a dimension of public opinion?",
+      "options": [
+        "A. Substance",
+        "B. Polling",
+        "C. Orientation",
+        "D. Intensity"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2014,
+      "number": 20,
+      "q": "The body that is responsible for the appointment, discipline, promotion and dismissal of civil servants is the",
+      "options": [
+        "A. Ministry of Labour and Productivity",
+        "B. Ministry of Establishment",
+        "C. Bureau for Public Service Reforms",
+        "D. Civil Service Commission"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2014,
+      "number": 21,
+      "q": "In the pre-colonial Hausa political system, the Madawaki performed the function of",
+      "options": [
+        "A. Minister of Works",
+        "B. Minister of Education",
+        "C. Minister of Defence",
+        "D. Minister of Interior"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2014,
+      "number": 22,
+      "q": "In the Old Oyo Empire, the Ajele",
+      "options": [
+        "A. ensured the safety of all trade routes",
+        "B. ensured good governance of the districts",
+        "C. mobilized the army",
+        "D. was the Head of the army"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2014,
+      "number": 23,
+      "q": "The General Strike of 1945 was caused primarily by the",
+      "options": [
+        "A. disparity in the criteria for employment",
+        "B. harshness in trade laws as it concerns the Africans",
+        "C. government's rejection of a demand for an increase of 50 percent in the cost of living allowance",
+        "D. persistent implementation of discriminatory laws"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2014,
+      "number": 24,
+      "q": "Before 1945, the component units of Nigeria were",
+      "options": [
+        "A. regions",
+        "B. districts",
+        "C. provinces",
+        "D. states"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2014,
+      "number": 25,
+      "q": "National agitation began in Nigeria with the",
+      "options": [
+        "A. formation of West African Youth League",
+        "B. Lagos protest against water rate in 1908",
+        "C. introduction of indirect rule",
+        "D. annexation of Lagos in 1861"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2014,
+      "number": 26,
+      "q": "The emergence of nationalism was essentially the result of the ills of",
+      "options": [
+        "A. imperialism",
+        "B. independence",
+        "C. slavery",
+        "D. colonialism"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2014,
+      "number": 27,
+      "q": "Which of the following nationalists was the founder of Nigeria's first political party?",
+      "options": [
+        "A. Herbert Macaulay",
+        "B. Abubakar Tafawa Balewa",
+        "C. Ahmadu Bello",
+        "D. Nnamdi Azikiwe"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2014,
+      "number": 28,
+      "q": "The division of powers between the federal and regional governments into exclusive, concurrent and residual lists was done by the",
+      "options": [
+        "A. 1979 Constitution",
+        "B. 1999 Constitution",
+        "C. Independence Constitution",
+        "D. Republican Constitution"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2014,
+      "number": 29,
+      "q": "The Nigerian Independence Constitution was modified by the",
+      "options": [
+        "A. 1979 Constitution",
+        "B. 1963 Constitution",
+        "C. 1999 Constitution",
+        "D. 1989 Constitution"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2014,
+      "number": 30,
+      "q": "The President of Nigeria was indirectly elected through secret ballot for a period of five years by the senate in",
+      "options": [
+        "A. 1979",
+        "B. 1983",
+        "C. 1960",
+        "D. 1963"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2014,
+      "number": 31,
+      "q": "The main function of the Federal Character Commission in Nigeria is",
+      "options": [
+        "A. providing free social services to the citizens",
+        "B. ensuring fair representation of all states in the public service",
+        "C. reviewing unfair administrative decisions",
+        "D. settling disputes among societies"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2014,
+      "number": 32,
+      "q": "The power of appointing the chairman of the Independent National Electoral Commission is vested in the",
+      "options": [
+        "A. Senate",
+        "B. Judicial Council",
+        "C. Council of State",
+        "D. President"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2014,
+      "number": 33,
+      "q": "The NCNC and the NPC facilitated the creation of the",
+      "options": [
+        "A. Eastern Region",
+        "B. Mid-west Region",
+        "C. Northern Region",
+        "D. Western Region"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2014,
+      "number": 34,
+      "q": "One of the major problems of Nigerian federalism is",
+      "options": [
+        "A. pre-colonial administrative structure among the units of federation",
+        "B. lack of revenue to cater for the demands of the federation",
+        "C. inadequate manpower to fill vacancies",
+        "D. imbalance in the structure and sizes of units of federation"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2014,
+      "number": 35,
+      "q": "Which of the following was done during the Gowon administration to reduce regional structural imbalance in the federation?",
+      "options": [
+        "A. Formation of political parties",
+        "B. Appointment of ministers",
+        "C. Creation of states",
+        "D. Increase in revenue allocation"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2014,
+      "number": 36,
+      "q": "A problem of public corporations in Nigeria is",
+      "options": [
+        "A. wastage of resources",
+        "B. choice of leadership",
+        "C. public control",
+        "D. emphasis on subsidies"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2014,
+      "number": 37,
+      "q": "One feature of public corporations that was weakened by privatization is",
+      "options": [
+        "A. government control",
+        "B. social control",
+        "C. national integration",
+        "D. social harmony"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2014,
+      "number": 38,
+      "q": "One of the main duties of the Local Government Service Commission is to",
+      "options": [
+        "A. handle requests for the creation of more local governments",
+        "B. supervise and manage the personnel a local government",
+        "C. conduct election into Local Council",
+        "D. create an enabling working environment for council workers"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2014,
+      "number": 39,
+      "q": "The option A4 model was used in the conduct of the",
+      "options": [
+        "A. 1999 elections",
+        "B. 2007 elections",
+        "C. 1983 elections",
+        "D. 1993 elections"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2014,
+      "number": 40,
+      "q": "The review of Nigerian foreign policy under the Murtala-Obasanjo regime was done by",
+      "options": [
+        "A. Phillips Commission",
+        "B. Udoji Committee",
+        "C. Aboyade Committee",
+        "D. Adedeji Committee"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2014,
+      "number": 41,
+      "q": "Which of the following is a guiding principle of Nigeria's foreign policy?",
+      "options": [
+        "A. Decolonisation of all African states",
+        "B. Total opposition to the Cold War",
+        "C. Posting of only carrier diplomats as envoys",
+        "D. Non-interference in the affairs of African countries"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2014,
+      "number": 42,
+      "q": "The Technical Aids Corps was established during the regime of",
+      "options": [
+        "A. Muhammadu Buhari",
+        "B. Olusegun Obasanjo",
+        "C. Sani Abacha",
+        "D. Ibrahim Babangida"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2014,
+      "number": 43,
+      "q": "The granting of asylum to Charles Taylor by Nigeria was to",
+      "options": [
+        "A. control Liberia",
+        "B. protect Nigerians in Liberia",
+        "C. promote peace in Liberia",
+        "D. defy the western powers"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2014,
+      "number": 44,
+      "q": "Nigeria is regarded as a frontline state because she",
+      "options": [
+        "A. sent troops for peacekeeping in Somalia",
+        "B. sent policemen for peacekeeping in Namibia",
+        "C. assisted the liberation struggle in Southern Africa",
+        "D. assisted ECOMOG troops in Liberia"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2014,
+      "number": 45,
+      "q": "The reason behind Nigeria's suspension from the Commonwealth in 1995 was",
+      "options": [
+        "A. socio-cultural",
+        "B. legal",
+        "C. political",
+        "D. economic"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2014,
+      "number": 46,
+      "q": "Commonwealth nations are represented in other member nation by",
+      "options": [
+        "A. attaches",
+        "B. charged affaires",
+        "C. ambassadors",
+        "D. high commissioners"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2014,
+      "number": 47,
+      "q": "The UN succeeded the",
+      "options": [
+        "A. League of Nations",
+        "B. Warsaw Pact",
+        "C. NATO",
+        "D. SEATO"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2014,
+      "number": 48,
+      "q": "The number of permanent members of the UN Security Council is",
+      "options": [
+        "A. seven",
+        "B. eight",
+        "C. five",
+        "D. six"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2014,
+      "number": 49,
+      "q": "The Secretary General of the OAU holds office for a renewable period of",
+      "options": [
+        "A. five years",
+        "B. six years",
+        "C. three years",
+        "D. four years"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2014,
+      "number": 50,
+      "q": "Former colonies of Britain belong to the association known as",
+      "options": [
+        "A. Commonwealth",
+        "B. OECD",
+        "C. NATO",
+        "D. European Union"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2015,
+      "number": 1,
+      "q": "The tenure of an elected chairman of local government is determined by the",
+      "options": [
+        "A. Federal Executive Council",
+        "B. National Union of Local Government Employees",
+        "C. National Assembly",
+        "D. State House of Assembly"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2015,
+      "number": 2,
+      "q": "The 1976 Reforms made the local government the",
+      "options": [
+        "A. Second-tier of government",
+        "B. first-tier of government",
+        "C. fourth-tier of government",
+        "D. Third-tier of government"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2015,
+      "number": 3,
+      "q": "Decision making in the traditional Igbo political system was conferred on the basis of",
+      "options": [
+        "A. Privilege",
+        "B. age",
+        "C. gender",
+        "D. Status"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2015,
+      "number": 4,
+      "q": "The political party that originated from Jamiyyar Mutanem Arewa was",
+      "options": [
+        "A. UMBC",
+        "B. BYM",
+        "C. NEPU",
+        "D. NPC"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2015,
+      "number": 5,
+      "q": "A major consequence of colonialism on Nigeria is",
+      "options": [
+        "A. Economic dependence",
+        "B. the attainment of equal status with Europe",
+        "C. suppression of state structures",
+        "D. The up-liftment of its image"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2015,
+      "number": 6,
+      "q": "The judiciary contributes to the development of constitutions through",
+      "options": [
+        "A. Judicial review",
+        "B. historical records",
+        "C. bye-laws",
+        "D. Acts of parliament"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2015,
+      "number": 7,
+      "q": "The upper house of the legislature is responsible for the",
+      "options": [
+        "A. Assent to bill",
+        "B. signing of treaties",
+        "C. approval declaration",
+        "D. Passage of appropriation bill"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2015,
+      "number": 8,
+      "q": "Which of the following political parties contested the 1993 Presidential Election?",
+      "options": [
+        "A. NRC and SDP",
+        "B. AD and APP",
+        "C. UNCP and NDP",
+        "D. PRP and DPP"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2015,
+      "number": 9,
+      "q": "A mode of production in which the resources of a community are pooled together for the general well-being of the people is called",
+      "options": [
+        "A. Communism",
+        "B. communalism",
+        "C. socialism",
+        "D. Capitalism"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2015,
+      "number": 10,
+      "q": "Which of these international organizations was Nigeria a founding member?",
+      "options": [
+        "A. UNO",
+        "B. The Commonwealth",
+        "C. NATO",
+        "D. ECOWAS"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2015,
+      "number": 11,
+      "q": "Nigeria's role in ECOWAS was significant in dispute resolution in",
+      "options": [
+        "A. Liberia",
+        "B. Nigeria",
+        "C. the Gambia",
+        "D. Senegal"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2015,
+      "number": 12,
+      "q": "An example of civil right of a citizen is the right to",
+      "options": [
+        "A. be voted for",
+        "B. property and justice",
+        "C. peaceful assembly",
+        "D. Vote"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2015,
+      "number": 13,
+      "q": "In the judicial parlance, writ means",
+      "options": [
+        "A. Restraining order",
+        "B. prohibitive order",
+        "C. acquitting order",
+        "D. Sentencing order"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2015,
+      "number": 14,
+      "q": "Public corporations are controlled by the legislature through",
+      "options": [
+        "A. Daily monitoring of their activities",
+        "B. discipline of staff",
+        "C. approval of their annual budgets",
+        "D. Recruitment of staff"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2015,
+      "number": 15,
+      "q": "One of the reasons for the adoption of Africa as the centre piece of Nigeria's foreign policy is to",
+      "options": [
+        "A. Encourage rivalry in Africa",
+        "B. monopolize African economies",
+        "C. protect her domestic environment",
+        "D. Challenge the major powers"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2015,
+      "number": 16,
+      "q": "Elective principle was first introduced in Nigeria by the",
+      "options": [
+        "A. Lyttleton Constitution",
+        "B. Richards Constitution",
+        "C. Clifford Constitution",
+        "D. Macpherson Constitution"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2015,
+      "number": 17,
+      "q": "The type of pressure group that champions the interest and the right of the under privileged is known as the",
+      "options": [
+        "A. Professional pressure groups",
+        "B. promotional interest groups",
+        "C. economic interest groups",
+        "D. Educational pressure groups"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2015,
+      "number": 18,
+      "q": "A major innovation of the 1979 Constitution was the",
+      "options": [
+        "A. Increase in constitutional power of elected officials",
+        "B. creation of more state",
+        "C. prohibition of cross-carpeting",
+        "D. Introduction of presidential system"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2015,
+      "number": 19,
+      "q": "The organ of the AU that prepares for the meeting of the Assembly of Heads of State and Government is the",
+      "options": [
+        "A. Commission of Mediation, Conciliation and Arbitration",
+        "B. African Parliament",
+        "C. Council of Ministers",
+        "D. General Secretariat"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2015,
+      "number": 20,
+      "q": "One of the features of a fascist government is that",
+      "options": [
+        "A. Political power is decentralized",
+        "B. it gives room for opposition",
+        "C. the state defines the rights of individuals",
+        "D. Sovereignty is identified with landed property"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2015,
+      "number": 21,
+      "q": "Promotion and discipline of civil servants is the responsibility of the",
+      "options": [
+        "A. Federal Character Commission",
+        "B. Ministry of Labour",
+        "C. Civil Service Commission",
+        "D. Public Complaints Commission"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2015,
+      "number": 22,
+      "q": "Under the unitary arrangement, the centre is vested with",
+      "options": [
+        "A. Limited power over the constituent units",
+        "B. equal power with the constituent units",
+        "C. insignificant power",
+        "D. Absolute power"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2015,
+      "number": 23,
+      "q": "Which of these international organizations is Nigeria a member majorly because of her economic interest?",
+      "options": [
+        "A. UN",
+        "B. Commonwealth",
+        "C. AU",
+        "D. OPEC"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2015,
+      "number": 24,
+      "q": "Abolition of civil liberty is an attribute of",
+      "options": [
+        "A. Presidential government",
+        "B. parliamentary government",
+        "C. military government",
+        "D. Republic government"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2015,
+      "number": 25,
+      "q": "One of the agencies introduced by the military to promote national interest was the",
+      "options": [
+        "A. National Youth Service Corps",
+        "B. Directorate of Mass Mobilization for Social and Economic Reconstruction",
+        "C. Directorate of Food, Roads and Rural Infrastructure",
+        "D. National Directorate for Employment"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2015,
+      "number": 26,
+      "q": "One of the main objectives of OPEC is to",
+      "options": [
+        "A. Assist multinational companies to monopolize market",
+        "B. protect the interest of multinational companies",
+        "C. stabilize the income of developing nations",
+        "D. Fix and allocate production to member nations"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2015,
+      "number": 27,
+      "q": "Nigeria's foreign relation with Britain was strained during the Buhari Regime because",
+      "options": [
+        "A. Britain tested atomic bomb in the Sahara-desert",
+        "B. Britain refused to recognize the regime",
+        "C. Nigeria refused to export crude oil to Britain",
+        "D. Nigeria wanted to forcefully extradite Alhaji Umar Dikko from Britain"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2015,
+      "number": 28,
+      "q": "The Babangida Regime differed from Buhari Regime because in the former",
+      "options": [
+        "A. Governors were assisted by commissioners",
+        "B. ministers executed government policies",
+        "C. governors were members of the National Council of State",
+        "D. The post of Chairman, Joint Chiefs of Staff was created"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2015,
+      "number": 29,
+      "q": "A feature of the presidential system is that",
+      "options": [
+        "A. The president has an indefinite term of office",
+        "B. there is a separate election for the executive and the legislature",
+        "C. the president is a member of the legislature",
+        "D. The cabinet is collectively accountable to the legislature"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2015,
+      "number": 30,
+      "q": "The Chairman of the Federal Character Commission is appointed by the",
+      "options": [
+        "A. Secretary to the Government of the Federation",
+        "B. National Assembly",
+        "C. Minister of Labour and Productivity",
+        "D. President"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2015,
+      "number": 31,
+      "q": "A form of government in which the sovereign power to rule is vested in a small number of people considered as the best qualified to rule is",
+      "options": [
+        "A. Autocracy",
+        "B. theocracy",
+        "C. gerontocracy",
+        "D. Aristocracy"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2015,
+      "number": 32,
+      "q": "One of the major shortcomings of ECOWAS is",
+      "options": [
+        "A. Expansion of market",
+        "B. Trade liberalization",
+        "C. curbing smuggling",
+        "D. Fostering of unity"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2015,
+      "number": 33,
+      "q": "The party that formed a coalition with the NPC in the First Republic was",
+      "options": [
+        "A. AG",
+        "B. NDC",
+        "C. NEPU",
+        "D. NCNC"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2015,
+      "number": 34,
+      "q": "Personal authority is synonymous with",
+      "options": [
+        "A. Charismatic authority",
+        "B. instrumental authority",
+        "C. sacred authority",
+        "D. Legal authority"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2015,
+      "number": 35,
+      "q": "The administrative system used by the British in her colonies was",
+      "options": [
+        "A. Indignant system",
+        "B. direct rule",
+        "C. indirect rule",
+        "D. Policy of assimilation"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2015,
+      "number": 36,
+      "q": "An electoral system in which a candidate with the highest number of votes in a constituency is declared winner is",
+      "options": [
+        "A. Alternative vote system",
+        "B. second ballot system",
+        "C. absolute majority system",
+        "D. Simple majority system"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2015,
+      "number": 37,
+      "q": "Which of the following belongs to the administrative cadre in the civil service?",
+      "options": [
+        "A. Executive Officers",
+        "B. Surveyors",
+        "C. Medical Director",
+        "D. Deputy Director"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2015,
+      "number": 38,
+      "q": "Aristocracy is described as a form of government in which",
+      "options": [
+        "A. Popular citizens rule",
+        "B. the clergy rules",
+        "C. few citizens rule",
+        "D. Best citizens rule"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2015,
+      "number": 39,
+      "q": "The head of the Old Oyo Empire was the",
+      "options": [
+        "A. Alaafin",
+        "B. Bashorun",
+        "C. Ooni",
+        "D. Are-Ona-kakanfo"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2015,
+      "number": 40,
+      "q": "The Babangida Regime re-established diplomatic ties with",
+      "options": [
+        "A. France",
+        "B. Germany",
+        "C. Israel",
+        "D. Britain"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2015,
+      "number": 41,
+      "q": "The remote cause of the Action Group Crisis of 1962 was the",
+      "options": [
+        "A. Fear of domination",
+        "B. abolition of federalism",
+        "C. personality clash among its leaders",
+        "D. Issue of self-government"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2015,
+      "number": 42,
+      "q": "Fixed tenure of office is associated with the",
+      "options": [
+        "A. Parliamentary system",
+        "B. monarchical system",
+        "C. republican system",
+        "D. Presidential"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2015,
+      "number": 43,
+      "q": "Which of the following was a Revenue Allocation Commission?",
+      "options": [
+        "A. Udoji Commission",
+        "B. Raisman Commission",
+        "C. Aboyade Commission",
+        "D. Williams Commission"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2015,
+      "number": 44,
+      "q": "Election can be used to measure the effectiveness of",
+      "options": [
+        "A. Pressure groups",
+        "B. political propaganda",
+        "C. political opinion",
+        "D. Public opinion"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2015,
+      "number": 45,
+      "q": "A feature of communalism is that",
+      "options": [
+        "A. Ownership of land is vested in the community",
+        "B. a landowner can employ landless men",
+        "C. landless men have no privileges as citizens",
+        "D. Sovereignty is identified with landed property"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2015,
+      "number": 46,
+      "q": "In the Hausa pre-colonial system, the officer in charge of fishing activities was the",
+      "options": [
+        "A. Sarkin Noma",
+        "B. Sarkin Dogarai",
+        "C. Sarkin Ruwa",
+        "D. Sarkin Pawa"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2015,
+      "number": 47,
+      "q": "The Social and Cultural Affairs Commission is a specialized agency of the",
+      "options": [
+        "A. OPEC",
+        "B. Commonwealth",
+        "C. UN",
+        "D. ECOWAS"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2015,
+      "number": 48,
+      "q": "Which of the following assists the president in the formulation of foreign policies?",
+      "options": [
+        "A. Ministry of Foreign Affairs",
+        "B. Ministry of Interior",
+        "C. Ministry of Defence",
+        "D. Ministry of Justice"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2015,
+      "number": 49,
+      "q": "Rule by divine right is a basis of",
+      "options": [
+        "A. Absolute monarchy",
+        "B. representative democracy",
+        "C. the republican system",
+        "D. the feudal system"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2015,
+      "number": 50,
+      "q": "An important ingredient of the civil service is",
+      "options": [
+        "A. Hierarchy",
+        "B. imbalance",
+        "C. nepotism",
+        "D. Partisanship"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2016,
+      "number": 1,
+      "q": "Citizenship is acquired by an alien through",
+      "options": [
+        "A. registration",
+        "B. birth",
+        "C. naturalization",
+        "D. conferment"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2016,
+      "number": 2,
+      "q": "The upper house in most federal systems is created to",
+      "options": [
+        "A. prevent excesses of the executive",
+        "B. enable experienced elders make inputs to governance",
+        "C. oversee and check the lower house",
+        "D. ensure equality of federating units"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2016,
+      "number": 3,
+      "q": "Public Complaints Commission is responsible for",
+      "options": [
+        "A. investigating the use of false documents",
+        "B. entertaining complaints against public servants",
+        "C. arresting public servants",
+        "D. sentencing erring public servants"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2016,
+      "number": 4,
+      "q": "The earliest nationalist activities in Nigeria were spearheaded by",
+      "options": [
+        "A. trade unions",
+        "B. educated elites",
+        "C. political parties",
+        "D. traditional rulers"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2016,
+      "number": 5,
+      "q": "The organ of UN that promotes voluntary co-operation among member states in diverse areas is the",
+      "options": [
+        "A. General Assembly",
+        "B. International Court of Justice",
+        "C. Security Council",
+        "D. Economic and Social Council"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2016,
+      "number": 6,
+      "q": "The officer responsible for announcing the result of an election is referred to as the",
+      "options": [
+        "A. electoral officer",
+        "B. presiding officer",
+        "C. returning officer",
+        "D. ballot officer"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2016,
+      "number": 7,
+      "q": "Under the emirate system, the commander of the army is the",
+      "options": [
+        "A. Sarkin Fada",
+        "B. Hakimi",
+        "C. Alkali",
+        "D. Madawaki"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2016,
+      "number": 8,
+      "q": "Which of the following is a feature of checks and balances?",
+      "options": [
+        "A. Code of conduct",
+        "B. Judicial review",
+        "C. Judicial immunity",
+        "D. Judicial precedent"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2016,
+      "number": 9,
+      "q": "Cross-carpeting was first outlawed in which of the following constitutions?",
+      "options": [
+        "A. 1963 constitution",
+        "B. 1979 constitution",
+        "C. 1960 constitution",
+        "D. 1999 constitution"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2016,
+      "number": 10,
+      "q": "The performance of ritual rites in the Yoruba empire is the responsibility of the",
+      "options": [
+        "A. Aare-ona Kakanfo",
+        "B. Oyomesi",
+        "C. Ogboni",
+        "D. Oba"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2016,
+      "number": 11,
+      "q": "The development of a classless society is the goal of",
+      "options": [
+        "A. marxism",
+        "B. feudalism",
+        "C. liberalism",
+        "D. conservatism"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2016,
+      "number": 12,
+      "q": "The indirect rule system of administration was more successful in Northern Nigeria because",
+      "options": [
+        "A. the Europeans ensured that the farmlands of the natives were not confiscated",
+        "B. of the existence of an organised structure in the area",
+        "C. the natives showed little or no resistance",
+        "D. the people were mainly interested in being governed indirectly"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2016,
+      "number": 13,
+      "q": "As an executive, the commissioner is charged with the responsibility of",
+      "options": [
+        "A. writing laws",
+        "B. implementing laws",
+        "C. giving loans",
+        "D. law making"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2016,
+      "number": 14,
+      "q": "A good example of a country that operates a cabinet system of government is",
+      "options": [
+        "A. France",
+        "B. Cameroun",
+        "C. Nigeria",
+        "D. Britain"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2016,
+      "number": 15,
+      "q": "In its bid to reduce regional structural imbalance in the federation, Gowon administration",
+      "options": [
+        "A. formed political parties",
+        "B. increased allocation",
+        "C. created states",
+        "D. appointed ministers"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2016,
+      "number": 16,
+      "q": "The administrative head of a public corporation is the",
+      "options": [
+        "A. General Manager",
+        "B. Permanent Secretary",
+        "C. Chairman",
+        "D. Chief Executive"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2016,
+      "number": 17,
+      "q": "Which of these is an attribute of the state?",
+      "options": [
+        "A. Dress mode",
+        "B. Language",
+        "C. Religion",
+        "D. Population"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2016,
+      "number": 18,
+      "q": "The utmost goal of nationalism in Africa was",
+      "options": [
+        "A. representation",
+        "B. independence",
+        "C. development",
+        "D. Patriotism"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2016,
+      "number": 19,
+      "q": "The centre piece of Nigeria's foreign policy covers only",
+      "options": [
+        "A. Africa",
+        "B. Europe",
+        "C. Asia",
+        "D. Latin America"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2016,
+      "number": 20,
+      "q": "A representative of a Commonwealth country in another member state is known as",
+      "options": [
+        "A. Consul-General",
+        "B. High Commissioner",
+        "C. Attache",
+        "D. Ambassador"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2016,
+      "number": 21,
+      "q": "The review of Nigerian foreign policy under the Murtala-Obasanjo regime was done by",
+      "options": [
+        "A. Udoji committee",
+        "B. Aboyade committee",
+        "C. Okigbo committee",
+        "D. Adedeji committee"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2016,
+      "number": 22,
+      "q": "Nigeria placed Africa at the centre of her foreign policy because of her",
+      "options": [
+        "A. role in Congo crisis",
+        "B. size and wealth",
+        "C. desire to dominate the continent",
+        "D. potential role in Africa"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2016,
+      "number": 23,
+      "q": "Rule adjudication is a primary function of the",
+      "options": [
+        "A. judiciary",
+        "B. legislature",
+        "C. government",
+        "D. executive"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2016,
+      "number": 24,
+      "q": "Franchise in an electoral process means the",
+      "options": [
+        "A. sovereignty of a nation",
+        "B. rights and duties of citizens",
+        "C. ownership of means of production",
+        "D. right to vote"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2016,
+      "number": 25,
+      "q": "Which of these is not a dimension of public opinion?",
+      "options": [
+        "A. Substance",
+        "B. Intensity",
+        "C. Orientation",
+        "D. Polling"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2016,
+      "number": 26,
+      "q": "The process through which citizens acquire political values is",
+      "options": [
+        "A. education",
+        "B. acculturation",
+        "C. socialization",
+        "D. participation"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2016,
+      "number": 27,
+      "q": "The main objective of pressure groups is to",
+      "options": [
+        "A. serve as opposition to the government",
+        "B. protect the interest of the country against foreigners",
+        "C. promote the interest of political parties",
+        "D. influence legislation for the benefit of their members"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2016,
+      "number": 28,
+      "q": "The three-tier system of Nigerian Federalism was formalised by the",
+      "options": [
+        "A. 2004 Pension reform",
+        "B. 1963 Republic Constitution",
+        "C. 1951 Hicks-Phillipson Commission's Report",
+        "D. 1976 local government reform"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2016,
+      "number": 29,
+      "q": "A flexible constitution is one which is",
+      "options": [
+        "A. known to all the citizens",
+        "B. popular with the legislators",
+        "C. easily amended",
+        "D. written by the parliament"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2016,
+      "number": 30,
+      "q": "The main representative body of the United Nations is the",
+      "options": [
+        "A. Security Council",
+        "B. Secretariat",
+        "C. Trusteeship Council",
+        "D. General Assembly"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2016,
+      "number": 31,
+      "q": "One feature of public corporations that was weakened by privatization was",
+      "options": [
+        "A. social harmony",
+        "B. national integration",
+        "C. social control",
+        "D. government control"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2016,
+      "number": 32,
+      "q": "One of the main duties of the Local Government Service Commission is to",
+      "options": [
+        "A. create enabling working environment for council workers",
+        "B. conduct election into Local Council",
+        "C. supervise and manage the personnel of local governments",
+        "D. handle request for the creation of more local governments"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2016,
+      "number": 33,
+      "q": "According to Aristotle, a form of government in which the few rule for the benefit of all is",
+      "options": [
+        "A. aristocracy",
+        "B. polyarchy",
+        "C. diarchy",
+        "D. autocracy"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2016,
+      "number": 34,
+      "q": "One of the major problems of Nigerian federalism is",
+      "options": [
+        "A. pre-colonial administrative structure among the units of federation",
+        "B. imbalance in the structure and sizes of units of federation",
+        "C. lack of revenue to cater for the demands of the federation",
+        "D. inadequate manpower to fill vacancies"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2016,
+      "number": 35,
+      "q": "Which of the following countries pioneered the establishment of ECOWAS alongside Nigeria?",
+      "options": [
+        "A. Ghana",
+        "B. Cameroun",
+        "C. Algeria",
+        "D. Togo"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2016,
+      "number": 36,
+      "q": "The NCNC and NPC facilitated the creation of the",
+      "options": [
+        "A. Eastern Region",
+        "B. Northern Region",
+        "C. Western Region",
+        "D. Mid-West Region"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2016,
+      "number": 37,
+      "q": "A problem of public corporation in Nigeria is",
+      "options": [
+        "A. Wastage of resources",
+        "B. Choice of leadership",
+        "C. Public control",
+        "D. Emphasis on subsidies"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2016,
+      "number": 38,
+      "q": "Nigeria's non-alignment policy in the sixties lacked real substance because of her",
+      "options": [
+        "A. poor economic potential",
+        "B. close ties with Britain",
+        "C. Afrocentric policy",
+        "D. partnership with Asian countries"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2016,
+      "number": 39,
+      "q": "The type of authority that is based on personal qualities is",
+      "options": [
+        "A. charismatic",
+        "B. Legal",
+        "C. traditional",
+        "D. coercive"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2016,
+      "number": 40,
+      "q": "The judiciary controls the executive in federal systems through",
+      "options": [
+        "A. judicial overview",
+        "B. motions",
+        "C. delegated legislation",
+        "D. judicial review"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2016,
+      "number": 41,
+      "q": "Which of the following was adjudged as the most free and fair election in Nigeria?",
+      "options": [
+        "A. 1999 elections",
+        "B. 1993 elections",
+        "C. 2007 elections",
+        "D. 1982 elections"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2016,
+      "number": 42,
+      "q": "Laws made by military governors are called",
+      "options": [
+        "A. acts",
+        "B. bye-laws",
+        "C. edicts",
+        "D. decrees"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2016,
+      "number": 43,
+      "q": "A problem of public corporations in Nigeria is",
+      "options": [
+        "A. wastage of resources",
+        "B. public control",
+        "C. emphasis on subsidies",
+        "D. choice of leadership"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2016,
+      "number": 44,
+      "q": "The pro-west orientation of Nigeria's foreign policy was mainly because of her",
+      "options": [
+        "A. historical development",
+        "B. geographical locations",
+        "C. social structure",
+        "D. economic under-development"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2016,
+      "number": 45,
+      "q": "A sovereign state is one",
+      "options": [
+        "A. whose government decisions are made independent of foreign interference",
+        "B. whose constitution can be changed by a military government",
+        "C. in which authority is vested in the military",
+        "D. where its citizens can speak without fear or favour"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2016,
+      "number": 46,
+      "q": "In Nigeria's First Republic, the prime minister was both the",
+      "options": [
+        "A. Head of state and party leader",
+        "B. Head of government and a lawmaker",
+        "C. Commander-in-chief of the armed forces and party leader",
+        "D. Head of state and commander-in-chief of the armed forces"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2016,
+      "number": 47,
+      "q": "The AU differs from the OAU in having",
+      "options": [
+        "A. no permanent headquarters",
+        "B. effective mechanisms for enforcing its decisions",
+        "C. a minimum of divergent viewpoints",
+        "D. no assembly of Heads of state"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2016,
+      "number": 48,
+      "q": "Under Nigeria's Second Republic, the Senate was under the leadership of",
+      "options": [
+        "A. Joseph Wayas",
+        "B. John Wash Pam",
+        "C. J.S. Tarka",
+        "D. Godwin Ume-Ezeoke"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2016,
+      "number": 49,
+      "q": "The ultimate aim of political parties is to",
+      "options": [
+        "A. implement people-oriented programmes",
+        "B. acquire and exercise power",
+        "C. formulate and implement policies",
+        "D. increase the political awareness of the electorate"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2016,
+      "number": 50,
+      "q": "Rule by the old people is known as",
+      "options": [
+        "A. gerontocracy",
+        "B. theocracy",
+        "C. monarchy",
+        "D. feudalism"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2017,
+      "number": 1,
+      "q": "Which of the following is a foremost right of a citizen?",
+      "options": [
+        "A. Religious right",
+        "B. Academic right",
+        "C. Right to life",
+        "D. Private life"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2017,
+      "number": 2,
+      "q": "Which of the following is a merit of aristocracy?",
+      "options": [
+        "A. Leaders must have military experience",
+        "B. The best citizen is in control of government",
+        "C. Organised few control the government",
+        "D. Majority control the government"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2017,
+      "number": 3,
+      "q": "Which of the following is a strategy of foreign policy implementation?",
+      "options": [
+        "A. Cultural integration",
+        "B. Democratic elections",
+        "C. Political representation",
+        "D. Propaganda"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2017,
+      "number": 4,
+      "q": "The Structural Adjustment Programme was introduced under the",
+      "options": [
+        "A. Babangida Regime",
+        "B. Obasanjo Regime",
+        "C. Buhari Regime",
+        "D. Abacha Regime"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2017,
+      "number": 5,
+      "q": "To facilitate the effective achievement of its objectives, ECOWAS is operationally structured with",
+      "options": [
+        "A. councils",
+        "B. panels",
+        "C. committees",
+        "D. commissions"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2017,
+      "number": 6,
+      "q": "Shortage of trained personnel is a major problem of the",
+      "options": [
+        "A. Federal Government",
+        "B. State Governments",
+        "C. Regional Governments",
+        "D. Local Governments"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2017,
+      "number": 7,
+      "q": "The right of a state is known as",
+      "options": [
+        "A. authority",
+        "B. power",
+        "C. sovereignty",
+        "D. legitimacy"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2017,
+      "number": 8,
+      "q": "The popularity of a political party in a given democracy rests on its",
+      "options": [
+        "A. constitution",
+        "B. manifesto",
+        "C. ideology",
+        "D. number of branches"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2017,
+      "number": 9,
+      "q": "A system of local council that allows for rotational leadership is known as",
+      "options": [
+        "A. single executive",
+        "B. dual executive",
+        "C. multi executive",
+        "D. collegiate executive"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2017,
+      "number": 10,
+      "q": "A type of constitution that is difficult to amend is described as –",
+      "options": [
+        "A. written and flexible",
+        "B. rigid and written",
+        "C. unwritten and rigid",
+        "D. flexible and rigid"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2017,
+      "number": 11,
+      "q": "The political achievement of UN is the promotion of",
+      "options": [
+        "A. economic development",
+        "B. educational development",
+        "C. international peace and security",
+        "D. democratic institution"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2017,
+      "number": 12,
+      "q": "Elective principle in Nigeria was first introduced by",
+      "options": [
+        "A. Richards Constitution",
+        "B. Macpherson Constitution",
+        "C. Littleton Constitution",
+        "D. Clifford Constitution"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2017,
+      "number": 13,
+      "q": "The three major political parties of the First Republic can be said to have had",
+      "options": [
+        "A. national outlook",
+        "B. regional and ethnic undertone",
+        "C. governmental funding",
+        "D. religious and sectional appeals"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2017,
+      "number": 14,
+      "q": "Development of the Civil Service relies on",
+      "options": [
+        "A. impartiality",
+        "B. anonymity",
+        "C. pro notability",
+        "D. neutrality"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2017,
+      "number": 15,
+      "q": "The chief executive system is associated with",
+      "options": [
+        "A. federalism",
+        "B. presidentialism",
+        "C. parliamentary",
+        "D. unitarism"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2017,
+      "number": 16,
+      "q": "Public Corporations are mainly funded through",
+      "options": [
+        "A. foreign aid",
+        "B. shareholders fund",
+        "C. internally generated funds",
+        "D. government subvention"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2017,
+      "number": 17,
+      "q": "Which of the following is the oldest Public Corporation in Nigeria?",
+      "options": [
+        "A. Power Distribution Company of Nigeria",
+        "B. Nigeria Mining Corporation",
+        "C. Nigerian Railway Corporation",
+        "D. Nigerian Postal Services"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2017,
+      "number": 18,
+      "q": "In 1987, Nigeria attained a federation of",
+      "options": [
+        "A. 19 states",
+        "B. 12 states",
+        "C. 21 states",
+        "D. 30 states"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2017,
+      "number": 19,
+      "q": "The Ombudsman aims at",
+      "options": [
+        "A. offering qualitative educational services",
+        "B. rendering alternative dispute resolution services",
+        "C. providing qualitative job opportunities",
+        "D. entertaining complaints on abuse of public office"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2017,
+      "number": 20,
+      "q": "The apex body under the military regime of Yakubu Gowon was",
+      "options": [
+        "A. Supreme military Council",
+        "B. Federal Executive Council",
+        "C. The Armed Forces Ruling Council",
+        "D. The national Council of State"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2017,
+      "number": 21,
+      "q": "One of the problems of the Commonwealth of Nations is lack of",
+      "options": [
+        "A. finance",
+        "B. administrative structures",
+        "C. cultural heterogeneity",
+        "D. capacity to enforce decisions"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2017,
+      "number": 22,
+      "q": "A major objective of Public Complaints Commission is",
+      "options": [
+        "A. creating fair opportunities for all government employees",
+        "B. training and promoting public servants",
+        "C. addressing grievances of individuals and groups",
+        "D. creating an efficient work environment"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2017,
+      "number": 23,
+      "q": "Activities of pressure groups that influence governmental decisions are hampered by",
+      "options": [
+        "A. its size",
+        "B. its leadership",
+        "C. its affiliation",
+        "D. the economy"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2017,
+      "number": 24,
+      "q": "Which of the following is a major feature of democracy?",
+      "options": [
+        "A. Capacity to influence people",
+        "B. Existence of political office holders",
+        "C. Decision making",
+        "D. Consent of the people"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2017,
+      "number": 25,
+      "q": "The struggle for self-government from foreign rule is known as",
+      "options": [
+        "A. imperialism",
+        "B. nationalism",
+        "C. patriotism",
+        "D. neo-colonialism"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2017,
+      "number": 26,
+      "q": "Territorial defence in the Yoruba precolonial system was the responsibility of the",
+      "options": [
+        "A. Bashorun",
+        "B. Oyomesi",
+        "C. Aremo",
+        "D. Are-Ona-Kakanfo"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2017,
+      "number": 27,
+      "q": "An effective means of measuring public opinion is",
+      "options": [
+        "A. referendum",
+        "B. radio interview",
+        "C. letters to government",
+        "D. telephone calls"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2017,
+      "number": 28,
+      "q": "Universal Adult Suffrage permits all",
+      "options": [
+        "A. citizens to vote",
+        "B. qualified male to vote",
+        "C. qualified citizens to vote",
+        "D. female to vote"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2017,
+      "number": 29,
+      "q": "In the pre-colonial Emirate system, the emir of Gwandu controlled the",
+      "options": [
+        "A. Central section",
+        "B. Southern section",
+        "C. Eastern section",
+        "D. Western section"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2017,
+      "number": 30,
+      "q": "Both federal and state governments derive power from the",
+      "options": [
+        "A. residual list",
+        "B. concurrent list",
+        "C. exclusive list",
+        "D. regional list"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2017,
+      "number": 31,
+      "q": "A social group consisting of two or more people who interact and identify with one another is",
+      "options": [
+        "A. nation",
+        "B. society",
+        "C. government",
+        "D. state"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2017,
+      "number": 32,
+      "q": "Which of the following Nigerian president initiated and facilitated the creation of NEPAD?",
+      "options": [
+        "A. Goodluck Jonathan",
+        "B. Olusegun Obasanjo",
+        "C. Umaru Musa Yar'dua",
+        "D. Mohammadu Buhari"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2017,
+      "number": 33,
+      "q": "Nigeria became a republic with the",
+      "options": [
+        "A. 1979 Constitution",
+        "B. 1989 Constitution",
+        "C. 1960 Constitution",
+        "D. 1963 Constitution"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2017,
+      "number": 34,
+      "q": "Which of the following is a function of the civil service commission?",
+      "options": [
+        "A. Enforcement of law and order",
+        "B. Payment of civil servants' salaries",
+        "C. Discipline of erring civil servants",
+        "D. Protection of lives and properties"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2017,
+      "number": 35,
+      "q": "The concentration of power on the units is a merit of",
+      "options": [
+        "A. quasi-federal system",
+        "B. confederal system",
+        "C. federal system",
+        "D. unitary system"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2017,
+      "number": 36,
+      "q": "In fascism, the leader is",
+      "options": [
+        "A. supreme",
+        "B. democratic",
+        "C. rich",
+        "D. religious"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2017,
+      "number": 37,
+      "q": "Delegated legislation is the—",
+      "options": [
+        "A. limitation of responsibilities to agencies",
+        "B. transfer of responsibilities to agencies",
+        "C. deterring of responsibilities of agencies",
+        "D. facilitation responsibilities of agencies"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2017,
+      "number": 38,
+      "q": "Which of the following countries significantly contributed to the formation of ECOMOG?",
+      "options": [
+        "A. Ghana",
+        "B. Gambia",
+        "C. Liberia",
+        "D. Nigeria"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2017,
+      "number": 39,
+      "q": "An important element of the doctrine of separation of powers is",
+      "options": [
+        "A. Delegation of power",
+        "B. Checks and Balances",
+        "C. Rule of Law",
+        "D. Concentration diffusion of powers"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2017,
+      "number": 40,
+      "q": "Nigeria's action towards the external environment is embedded in her",
+      "options": [
+        "A. state policy",
+        "B. party policy",
+        "C. government policy",
+        "D. foreign policy"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2018,
+      "number": 1,
+      "q": "Between 1960 and 1980, Nigeria experienced all the following systems of government except",
+      "options": [
+        "A. unitary",
+        "B. federal",
+        "C. confederal",
+        "D. parliamentary"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2018,
+      "number": 2,
+      "q": "Which of the following was the first political party in Nigeria?",
+      "options": [
+        "A. The Action Group (AG)",
+        "B. Northern People's Congress (NPC)",
+        "C. National Council of Nigeria and the Camerouns (NCNC)",
+        "D. Nigerian National Democratic Party (NNDP)"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2018,
+      "number": 3,
+      "q": "The primary function of government in a state is to",
+      "options": [
+        "A. build schools and hospitals",
+        "B. provide transport services",
+        "C. engage in campaigns and rallies",
+        "D. maintain law and order"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2018,
+      "number": 4,
+      "q": "A country is most likely to have a good government only if it has",
+      "options": [
+        "A. a good constitution but bad operators",
+        "B. good operators but bad constitution",
+        "C. a good constitution and good operators",
+        "D. illegitimate government"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2018,
+      "number": 5,
+      "q": "Which of the following is a basic principle of democracy? Rule by",
+      "options": [
+        "A. the majority and the right of the minority",
+        "B. the minority at the expense of the majority",
+        "C. the wealthy few",
+        "D. two political parties"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2018,
+      "number": 6,
+      "q": "Which of the following is a legal source of political authority?",
+      "options": [
+        "A. Power from the gun",
+        "B. Economic power",
+        "C. Minority power",
+        "D. Power from the electorate"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2018,
+      "number": 7,
+      "q": "Which organ of government is vested with the responsibility of initiating bills and recommending them to the legislature for consideration?",
+      "options": [
+        "A. Federal House of Representatives",
+        "B. Executive",
+        "C. Senate",
+        "D. Judiciary"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2018,
+      "number": 8,
+      "q": "In democracies, the political participation could be restricted on the basis of",
+      "options": [
+        "A. religion",
+        "B. age",
+        "C. sex",
+        "D. class"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2018,
+      "number": 9,
+      "q": "Disenfranchisement refers to the",
+      "options": [
+        "A. qualification of voters in an election",
+        "B. disqualification of fraudulent president aspirants",
+        "C. denial of the right to vote in an election",
+        "D. right to vote and be voted for"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2018,
+      "number": 10,
+      "q": "The limitation of the right to life can be found",
+      "options": [
+        "A. among the people",
+        "B. in the case of a convicted person",
+        "C. in the executive",
+        "D. in the government"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2018,
+      "number": 11,
+      "q": "Which of the following is not an agent of political socialisation?",
+      "options": [
+        "A. Tourism",
+        "B. Mass media",
+        "C. Peer group",
+        "D. University"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2018,
+      "number": 12,
+      "q": "Political sovereignty belongs to",
+      "options": [
+        "A. the people",
+        "B. government",
+        "C. military",
+        "D. the parliament"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2018,
+      "number": 13,
+      "q": "An alien who has lived in Nigeria for twenty years may acquire citizenship by",
+      "options": [
+        "A. nationalisation",
+        "B. naturalization",
+        "C. registration",
+        "D. marriage"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2018,
+      "number": 14,
+      "q": "In a republic parliamentary system of government, the ceremonial Head of State is the",
+      "options": [
+        "A. Chief Justice",
+        "B. Prime Minister",
+        "C. President",
+        "D. Queen"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2018,
+      "number": 15,
+      "q": "A representative government can be established through",
+      "options": [
+        "A. a general election",
+        "B. a military coup",
+        "C. apartheid",
+        "D. espionage"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2018,
+      "number": 16,
+      "q": "Delegated legislation is suitable for",
+      "options": [
+        "A. relieving the parliament of its workload",
+        "B. enthroning the rule of law",
+        "C. ensuring the fusion of powers",
+        "D. checking the executive arm of government"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2018,
+      "number": 17,
+      "q": "The indirect rule system succeeded in the Hausa-Fulani society because the",
+      "options": [
+        "A. society had only one religion",
+        "B. people received Quranic education",
+        "C. people were descendants of Uthman dan Fodio",
+        "D. existing administration favoured the system"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2018,
+      "number": 18,
+      "q": "The policy of Association was adopted by the",
+      "options": [
+        "A. British to replace their policy of Indirect Rule",
+        "B. French to replace their policy of Assimilation",
+        "C. British on their arrival in West Africa",
+        "D. French on their departure from West Africa"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2018,
+      "number": 19,
+      "q": "Nationalism in Africa eventually led to",
+      "options": [
+        "A. a rapid political awareness among the colonialists",
+        "B. the alignment of the new states",
+        "C. de-colonisation",
+        "D. international economic groupings"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2018,
+      "number": 20,
+      "q": "One major achievement of the Richards Constitution of Nigeria was that it",
+      "options": [
+        "A. united the North and South under a single legislature",
+        "B. provided for official African members of the Executive Council",
+        "C. allowed the participation of traditional rulers in government",
+        "D. introduced the elective principle"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2018,
+      "number": 21,
+      "q": "The 1954 Constitution of Nigeria made the country a true federation because it provided for",
+      "options": [
+        "A. the abolition of representation of white officials",
+        "B. the election of all members of parliament",
+        "C. a division of functions between the centre and the regions",
+        "D. the post of a Prime Minister at the centre"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2018,
+      "number": 22,
+      "q": "The decision to separate Lagos from the Western Region and make it a neutral Territory was taken at the",
+      "options": [
+        "A. 1950 general conference",
+        "B. 1953 constitutional conference",
+        "C. 1954 constitutional conference",
+        "D. 1963 All party constitutional conference"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2018,
+      "number": 23,
+      "q": "The first Head of State and Head of Government in Nigeria was",
+      "options": [
+        "A. Lord Frederick Lugard",
+        "B. Alhaji Abubakar Tafawa Balewa",
+        "C. General J.T.U. Aguiyi Ironsi",
+        "D. Alhaji Shehu Shagari"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2018,
+      "number": 24,
+      "q": "Which of the following did not generate political crisis in Nigeria?",
+      "options": [
+        "A. Adoption of Abuja as the New Federal Capital",
+        "B. Motion for self-government in 1956 by Enahoro",
+        "C. 1965 election in the Western Region",
+        "D. 1964 General Elections"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2018,
+      "number": 25,
+      "q": "A system of government where political powers are inherited is called",
+      "options": [
+        "A. monarchy",
+        "B. diarchy",
+        "C. democracy",
+        "D. aristocracy"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2018,
+      "number": 26,
+      "q": "Democracy can be promoted through",
+      "options": [
+        "A. gerrymandering",
+        "B. slander",
+        "C. accountability",
+        "D. lobbying"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2018,
+      "number": 27,
+      "q": "The ability to command obedience is called",
+      "options": [
+        "A. authority",
+        "B. influence",
+        "C. legitimacy",
+        "D. mobilisation"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2018,
+      "number": 28,
+      "q": "Legitimacy is determined mainly by",
+      "options": [
+        "A. charisma",
+        "B. influence",
+        "C. acceptance",
+        "D. desire"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2018,
+      "number": 29,
+      "q": "A.V. Dicey popularised the principle of",
+      "options": [
+        "A. rule of law",
+        "B. democracy",
+        "C. political culture",
+        "D. separation of powers"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2018,
+      "number": 30,
+      "q": "Which of the following is the lowest in the hierarchy of feudal system?",
+      "options": [
+        "A. Knights",
+        "B. Serfs",
+        "C. Nobles",
+        "D. Lords"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2018,
+      "number": 31,
+      "q": "In which of the following political systems is rule of law most enhanced?",
+      "options": [
+        "A. Cabinet system",
+        "B. Feudal system",
+        "C. Fascist system",
+        "D. Communist system"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2018,
+      "number": 32,
+      "q": "The concept of collective responsibility is synonymous with",
+      "options": [
+        "A. presidential system of government",
+        "B. military system of government",
+        "C. unitary system of government",
+        "D. parliamentary system of government"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2018,
+      "number": 33,
+      "q": "A constitution is the",
+      "options": [
+        "A. written document of traditional practices",
+        "B. functional aspect of government activities",
+        "C. supreme documents of the government",
+        "D. fundamental laws of the land"
+      ],
+      "answer": "D"
+    },
+    {
+      "year": 2018,
+      "number": 34,
+      "q": "Which of the following cannot be found in a constitution?",
+      "options": [
+        "A. Fundamental Human Rights",
+        "B. Manifestoes of political parties",
+        "C. Organs of government",
+        "D. Duties and obligations of citizens"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2018,
+      "number": 35,
+      "q": "A rigid constitution is a feature of",
+      "options": [
+        "A. unitary system",
+        "B. monarchical system",
+        "C. federal system",
+        "D. confederal system"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2018,
+      "number": 36,
+      "q": "In 1973, following an OAU resolution, Nigeria broke diplomatic relations with",
+      "options": [
+        "A. South Africa",
+        "B. France",
+        "C. Israel",
+        "D. Cuba"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2018,
+      "number": 37,
+      "q": "Nigeria's foreign policy of non-alignment was a reaction to",
+      "options": [
+        "A. British imperialism",
+        "B. East-West ideological competition",
+        "C. militarism of ex-colonial powers",
+        "D. World poverty"
+      ],
+      "answer": "B"
+    },
+    {
+      "year": 2018,
+      "number": 38,
+      "q": "Which of the following countries had a strained relationship with Nigeria over the Angolan crisis of 1975?",
+      "options": [
+        "A. The Soviet Union",
+        "B. Tanzania",
+        "C. The United States of America",
+        "D. South Africa"
+      ],
+      "answer": "C"
+    },
+    {
+      "year": 2018,
+      "number": 39,
+      "q": "The major liberation organisation which fought for Namibia's independence was",
+      "options": [
+        "A. SWAPO",
+        "B. ANC",
+        "C. FRELIMO",
+        "D. M.P.L.A"
+      ],
+      "answer": "A"
+    },
+    {
+      "year": 2018,
+      "number": 40,
+      "q": "Which of these international organisations is the predecessor of the United Nations?",
+      "options": [
+        "A. The European Economic Community",
+        "B. The organisation of American States",
+        "C. The League of Nations",
+        "D. The North Atlantic Treaty Organisation"
+      ],
+      "answer": "C"
+    }
+  ]
+}

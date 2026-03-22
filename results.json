@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Atode Excellence Samuel",
+    "reg_number": "",
+    "subjects": [
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "English"
+    ],
+    "results": {
+      "Mathematics": {
+        "correct": 0,
+        "total": 0,
+        "score": 0.0
+      },
+      "Physics": {
+        "correct": 0,
+        "total": 40,
+        "score": 0.0
+      },
+      "Chemistry": {
+        "correct": 0,
+        "total": 0,
+        "score": 0.0
+      },
+      "English": {
+        "correct": 0,
+        "total": 60,
+        "score": 0.0
+      }
+    },
+    "total_score": 0.0,
+    "timed_out": false,
+    "timestamp": "2026-03-17T14:27:45.302769"
+  },
+  {
+    "name": "michael",
+    "reg_number": "",
+    "subjects": [
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "English"
+    ],
+    "results": {
+      "Mathematics": {
+        "correct": 0,
+        "total": 40,
+        "score": 0.0
+      },
+      "Physics": {
+        "correct": 1,
+        "total": 40,
+        "score": 2.5
+      },
+      "Chemistry": {
+        "correct": 0,
+        "total": 40,
+        "score": 0.0
+      },
+      "English": {
+        "correct": 0,
+        "total": 60,
+        "score": 0.0
+      }
+    },
+    "total_score": 2.5,
+    "timed_out": false,
+    "timestamp": "2026-03-21T16:29:39.411079"
+  }
+]

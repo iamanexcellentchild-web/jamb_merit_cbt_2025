@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Merit CBT — Enter Access Code</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      color: #fff;
+    }
+
+    .card {
+      background: rgba(255,255,255,0.07);
+      backdrop-filter: blur(12px);
+      border: 1px solid rgba(255,255,255,0.15);
+      border-radius: 18px;
+      padding: 48px 44px;
+      width: 100%;
+      max-width: 440px;
+      text-align: center;
+      box-shadow: 0 20px 60px rgba(0,0,0,0.4);
+    }
+
+    .lock-icon {
+      font-size: 52px;
+      margin-bottom: 16px;
+      display: block;
+    }
+
+    h1 {
+      font-size: 1.6rem;
+      font-weight: 700;
+      margin-bottom: 6px;
+      letter-spacing: -0.5px;
+    }
+
+    p.subtitle {
+      font-size: 0.9rem;
+      color: rgba(255,255,255,0.65);
+      margin-bottom: 32px;
+    }
+
+    .flash {
+      background: rgba(255, 80, 80, 0.2);
+      border: 1px solid rgba(255, 80, 80, 0.5);
+      border-radius: 8px;
+      padding: 10px 14px;
+      font-size: 0.88rem;
+      margin-bottom: 20px;
+      color: #ffbbbb;
+    }
+
+    input[type="text"] {
+      width: 100%;
+      padding: 14px 16px;
+      font-size: 1.3rem;
+      letter-spacing: 6px;
+      text-align: center;
+      text-transform: uppercase;
+      background: rgba(255,255,255,0.1);
+      border: 1px solid rgba(255,255,255,0.25);
+      border-radius: 10px;
+      color: #fff;
+      outline: none;
+      margin-bottom: 20px;
+      transition: border-color 0.2s;
+    }
+
+    input[type="text"]:focus {
+      border-color: #4fc3f7;
+      background: rgba(255,255,255,0.15);
+    }
+
+    input[type="text"]::placeholder {
+      letter-spacing: 2px;
+      color: rgba(255,255,255,0.3);
+      font-size: 1rem;
+    }
+
+    button {
+      width: 100%;
+      padding: 14px;
+      font-size: 1rem;
+      font-weight: 600;
+      background: linear-gradient(90deg, #4fc3f7, #0288d1);
+      color: #fff;
+      border: none;
+      border-radius: 10px;
+      cursor: pointer;
+      transition: opacity 0.2s, transform 0.1s;
+    }
+
+    button:hover  { opacity: 0.9; }
+    button:active { transform: scale(0.98); }
+
+    .footer-note {
+      margin-top: 24px;
+      font-size: 0.8rem;
+      color: rgba(255,255,255,0.4);
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <span class="lock-icon">🔐</span>
+    <h1>Merit CBT</h1>
+    <p class="subtitle">Enter your access code to continue</p>
+
+    {% with msgs = get_flashed_messages() %}
+      {% if msgs %}
+        {% for m in msgs %}
+          <div class="flash">{{ m }}</div>
+        {% endfor %}
+      {% endif %}
+    {% endwith %}
+
+    <form method="POST" action="{{ url_for('access') }}">
+      <input
+        type="text"
+        name="code"
+        maxlength="12"
+        placeholder="XXXXXXXX"
+        autocomplete="off"
+        autofocus
+        required
+      />
+      <button type="submit">Unlock &rarr;</button>
+    </form>
+
+    <p class="footer-note">Contact your administrator if you do not have a code.</p>
+  </div>
+</body>
+</html>

@@ -1,0 +1,120 @@
+{% extends "base.html" %}
+{% block title %}All Results — Merit CBT{% endblock %}
+
+{% block extra_styles %}
+.grades-outer { max-width: 1000px; margin: 0 auto; padding: 2rem 1.5rem; }
+h2 { font-size: 1.4rem; font-weight: 700; color: var(--navy); margin-bottom: 1.2rem; }
+
+.table-wrap { overflow-x: auto; }
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: var(--white);
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: var(--shadow);
+    font-size: 0.85rem;
+}
+thead { background: var(--navy); color: #fff; }
+th { padding: 0.75rem 1rem; text-align: left; font-weight: 600; font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.05em; }
+td { padding: 0.7rem 1rem; border-bottom: 1px solid var(--border); vertical-align: middle; }
+tr:last-child td { border-bottom: none; }
+tr:hover td { background: #f8fafc; }
+
+.total-badge {
+    display: inline-block;
+    background: var(--navy);
+    color: #fff;
+    border-radius: 999px;
+    padding: 0.2rem 0.7rem;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.82rem;
+    font-weight: 600;
+}
+.subj-scores { display: flex; flex-wrap: wrap; gap: 0.3rem; }
+.subj-pill {
+    font-size: 0.75rem;
+    background: var(--green-lt);
+    color: var(--green);
+    border-radius: 4px;
+    padding: 0.1rem 0.45rem;
+    font-weight: 600;
+}
+.timeout-pill {
+    font-size: 0.7rem;
+    background: var(--red-lt);
+    color: var(--red);
+    border-radius: 4px;
+    padding: 0.1rem 0.45rem;
+    font-weight: 600;
+}
+.ts { font-family: 'IBM Plex Mono', monospace; font-size: 0.75rem; color: var(--slate); }
+{% endblock %}
+
+{% block content %}
+<div class="grades-outer">
+    <h2>📊 All Submitted Results</h2>
+    {% if results %}
+    <div class="table-wrap">
+        <table>
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Name</th>
+                    <th>Reg. No.</th>
+                    <th>Subjects</th>
+                    <th>Scores</th>
+                    <th>Total / 400</th>
+                    <th>Timestamp</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for r in results | reverse %}
+                <tr>
+                    <td>{{ loop.index }}</td>
+                    <td><strong>{{ r.name }}</strong></td>
+                    <td>{{ r.get('reg_number', '—') }}</td>
+                    <td>
+                        <div class="subj-scores">
+                            {% for s in r.get('subjects', [r.get('subject','')]) %}
+                            <span class="subj-pill">{{ s }}</span>
+                            {% endfor %}
+                            {% if r.get('timed_out') %}
+                            <span class="timeout-pill">Timed Out</span>
+                            {% endif %}
+                        </div>
+                    </td>
+                    <td>
+                        <div class="subj-scores">
+                            {% if r.get('results') %}
+                                {% for s, d in r.results.items() %}
+                                <span class="subj-pill">{{ s[:3] }}: {{ d.score | round(1) }}</span>
+                                {% endfor %}
+                            {% elif r.get('score') is defined %}
+                                <span class="subj-pill">{{ r.score }}/{{ r.total }}</span>
+                            {% endif %}
+                        </div>
+                    </td>
+                    <td>
+                        <span class="total-badge">
+                            {% if r.get('total_score') is defined %}
+                                {{ r.total_score | round(1) }}
+                            {% elif r.get('percentage') is defined %}
+                                {{ r.percentage }}%
+                            {% else %}—
+                            {% endif %}
+                        </span>
+                    </td>
+                    <td><span class="ts">{{ r.timestamp[:19] | replace('T',' ') }}</span></td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+    {% else %}
+    <div class="card" style="text-align:center; padding:3rem; color:var(--slate);">
+        No exam results submitted yet.
+    </div>
+    {% endif %}
+</div>
+{% endblock %}

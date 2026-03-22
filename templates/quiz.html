@@ -1,0 +1,69 @@
+{% extends "base.html" %}
+{% block content %}
+{% if expires_at %}
+<script>window.EXPIRES_AT = {{ expires_at * 1000 }};</script>
+{% endif %}
+
+<div class="cbt-header">
+    <h2>{{ subject.title() }} — CBT Quiz</h2>
+    <p>Candidate: <strong>{{ session.get('username') }}</strong> &nbsp;|&nbsp; Questions: <strong>{{ questions|length }}</strong></p>
+</div>
+
+<form method="post" id="quizForm">
+    <input type="hidden" name="indices" value='{{ indices|tojson }}'>
+
+    {% for q in questions %}
+    {% set qidx = loop.index0 %}
+    <div class="question-block" id="q{{ qidx }}">
+        <p class="question-text">
+            <span class="qnum">{{ loop.index }}.</span>
+            {{ (q.get('q') or q.get('question', '')) | safe }}
+        </p>
+        
+
+        {% if q.get('has_diagram') and q.get('image_url') %}
+        <div class="diagram-container">
+            <img src="{{ q.image_url }}" alt="Question {{ loop.index }} diagram" class="question-diagram">
+        </div>
+        {% endif %}
+        <div class="options">
+            {# Handle both dict options {"a": "text"} and list options ["a. text"] #}
+            {% if q.get('options') is mapping %}
+                {% for key, val in q.options.items() %}
+                <label class="option-label">
+                    <input type="radio" name="q{{ qidx }}" value="{{ key }}">
+                    <span><strong>{{ key }}.</strong> {{ val | safe }}</span>
+                </label>
+                {% endfor %}
+            {% else %}
+                {% for opt in q.get('options', []) %}
+                <label class="option-label">
+                    <input type="radio" name="q{{ qidx }}" value="{{ opt }}">
+                    <span>{{ opt | safe }}</span>
+                </label>
+                {% endfor %}
+            {% endif %}
+        </div>
+    </div>
+    {% endfor %}
+
+    <div class="submit-section">
+        <button type="submit" class="submit-btn" onclick="return confirmSubmit()">Submit Answers</button>
+    </div>
+</form>
+
+<script>
+function confirmSubmit() {
+    var total = {{ questions|length }};
+    var answered = 0;
+    for (var i = 0; i < total; i++) {
+        if (document.querySelector('input[name="q'+i+'"]:checked')) answered++;
+    }
+    var unanswered = total - answered;
+    if (unanswered > 0) {
+        return confirm('You have ' + unanswered + ' unanswered question(s). Submit anyway?');
+    }
+    return true;
+}
+</script>
+{% endblock %}

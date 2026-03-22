@@ -1,0 +1,204 @@
+{% extends "base.html" %}
+{% block title %}Result — Merit CBT{% endblock %}
+
+{% block extra_styles %}
+.result-outer { max-width: 800px; margin: 0 auto; padding: 2rem 1.5rem; }
+
+.result-header {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+.result-header h2 { font-size: 1.5rem; font-weight: 700; color: var(--navy); }
+.result-header p  { color: var(--slate); margin-top: 0.25rem; }
+
+.timeout-banner {
+    background: var(--red-lt);
+    border: 1px solid var(--red);
+    border-radius: var(--radius);
+    padding: 0.75rem 1rem;
+    color: var(--red);
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 1.5rem;
+    font-size: 0.9rem;
+}
+
+/* Total score big card */
+.total-card {
+    background: var(--navy);
+    border-radius: 12px;
+    color: #fff;
+    padding: 2rem;
+    text-align: center;
+    margin-bottom: 1.5rem;
+    position: relative;
+    overflow: hidden;
+}
+.total-card::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(circle at 70% 30%, rgba(26,122,74,0.35), transparent 60%);
+}
+.total-label { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.1em; color: #94a3b8; margin-bottom: 0.5rem; position: relative; }
+.total-score {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 3.5rem;
+    font-weight: 700;
+    position: relative;
+}
+.total-score .denom { font-size: 1.5rem; color: #94a3b8; }
+.total-grade {
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-top: 0.5rem;
+    position: relative;
+}
+
+/* Per-subject grid */
+.subjects-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+    gap: 1rem;
+    margin-bottom: 2rem;
+}
+.subj-result-card {
+    background: var(--white);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 1.2rem;
+    text-align: center;
+}
+.subj-result-card .s-name { font-size: 0.8rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; color: var(--slate); margin-bottom: 0.5rem; }
+.subj-result-card .s-score {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: var(--navy);
+}
+.subj-result-card .s-denom { font-size: 0.9rem; color: #94a3b8; }
+.subj-result-card .s-raw  { font-size: 0.78rem; color: var(--slate); margin-top: 0.25rem; }
+.subj-result-card .s-bar  { height: 5px; background: var(--border); border-radius: 999px; margin-top: 0.6rem; overflow: hidden; }
+.subj-result-card .s-fill { height: 100%; background: var(--green); border-radius: 999px; }
+
+/* Details accordion */
+.details-section { margin-top: 1rem; }
+.details-section summary {
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 0.95rem;
+    color: var(--navy);
+    padding: 0.75rem 1rem;
+    background: var(--white);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    margin-bottom: 0.5rem;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    user-select: none;
+}
+.details-section summary::-webkit-details-marker { display: none; }
+.details-section[open] summary { border-radius: var(--radius) var(--radius) 0 0; border-bottom: none; }
+.detail-card {
+    background: var(--white);
+    border: 1px solid var(--border);
+    border-top: none;
+    padding: 1rem 1.2rem;
+    font-size: 0.88rem;
+}
+.detail-card:last-child { border-radius: 0 0 var(--radius) var(--radius); }
+.detail-card.correct { border-left: 4px solid var(--green); }
+.detail-card.wrong   { border-left: 4px solid var(--red); }
+.detail-q  { font-weight: 600; color: var(--navy); margin-bottom: 0.4rem; }
+.detail-row { display: flex; gap: 0.5rem; margin-top: 0.25rem; font-size: 0.83rem; }
+.detail-row .lbl { color: var(--slate); min-width: 100px; }
+.detail-expl { margin-top: 0.5rem; padding: 0.5rem 0.75rem; background: var(--gold-lt); border-radius: 5px; font-size: 0.82rem; color: #5c4a00; }
+
+.result-actions {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 2rem;
+}
+{% endblock %}
+
+{% block content %}
+<div class="result-outer">
+    <div class="result-header">
+        <h2>Exam Result</h2>
+        <p>{{ username }}{% if reg_number %} &nbsp;·&nbsp; {{ reg_number }}{% endif %}</p>
+    </div>
+
+    {% if timed_out %}
+    <div class="timeout-banner">⏰ Time expired — exam was auto-submitted.</div>
+    {% endif %}
+
+    <!-- Total score -->
+    {% set pct = (total_score / 400 * 100) | round(1) %}
+    <div class="total-card">
+        <div class="total-label">Total Score</div>
+        <div class="total-score">
+            {{ total_score | round(1) }}<span class="denom"> / 400</span>
+        </div>
+        <div class="total-grade">
+            {% if pct >= 80 %}🏆 Excellent!
+            {% elif pct >= 60 %}🎉 Good performance
+            {% elif pct >= 50 %}👍 Pass
+            {% else %}📚 Keep practising
+            {% endif %}
+            &nbsp;({{ pct }}%)
+        </div>
+    </div>
+
+    <!-- Per-subject breakdown -->
+    <div class="subjects-grid">
+        {% for subj in selected %}
+        {% set r = results[subj] %}
+        {% set sp = (r.score) | round(1) %}
+        <div class="subj-result-card">
+            <div class="s-name">{{ subj }}</div>
+            <div class="s-score">{{ sp }}<span class="s-denom">/100</span></div>
+            <div class="s-raw">{{ r.correct }} / {{ r.total }} correct</div>
+            <div class="s-bar">
+                <div class="s-fill" style="width:{{ sp }}%"></div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
+    <!-- Answer review (per subject, collapsible) -->
+    {% for subj in selected %}
+    {% set r = results[subj] %}
+    {% if r.details %}
+    <details class="details-section">
+        <summary>
+            {% if (r.score) >= 50 %}✅{% else %}❌{% endif %}
+            {{ subj }} — Review ({{ r.correct }}/{{ r.total }})
+        </summary>
+        {% for item in r.details %}
+        <div class="detail-card {{ 'correct' if item.correct else 'wrong' }}">
+            <div class="detail-q">{{ loop.index }}. {{ item.question | safe }}</div>
+            <div class="detail-row"><span class="lbl">Your answer:</span> <span>{{ item.selected or '(no answer)' }}</span></div>
+            {% if not item.correct %}
+            <div class="detail-row"><span class="lbl">Correct answer:</span> <span><strong>{{ item.answer }}</strong></span></div>
+            {% endif %}
+            {% if item.explanation %}
+            <div class="detail-expl">💡 {{ item.explanation | safe }}</div>
+            {% endif %}
+        </div>
+        {% endfor %}
+    </details>
+    {% endif %}
+    {% endfor %}
+
+    <div class="result-actions">
+        <a href="{{ url_for('history') }}" class="btn btn-outline">📜 My History</a>
+        <a href="{{ url_for('login') }}"   class="btn btn-primary">🔄 New Exam</a>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js" async></script>
+{% endblock %}

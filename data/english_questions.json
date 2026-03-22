@@ -1,0 +1,6439 @@
+[
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. People are not interested in who rules.",
+    "options": [
+      "A. People are not ruled by the leaders they want",
+      "B. People are not concerned about who rules them",
+      "C. The rulers are not concerned about the people",
+      "D. People who rule are not interested in the ruled"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. It was good to steer a middle course in whatever one does.",
+    "options": [
+      "A. It is always good to get midway in anything one does",
+      "B. It is always good to act with moderation",
+      "C. It is always good to move away from the forefront",
+      "D. It is always good to work very hard."
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. The witness said he had no axe to grind with his brothers",
+    "options": [
+      "A. He had no hatred for the brothers",
+      "B. He had no axe and therefore stole the matchet",
+      "C. He had no axe and therefore borrowed their matchet",
+      "D. He had no vested interest in the brothers"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. The footballers moved with their tails between their legs.",
+    "options": [
+      "A. they moved happily because they won the match",
+      "B. they were unhappy because they had been despised by their opponents",
+      "C. they were ashamed because they had been defeated",
+      "D. they moved with their tails between their legs."
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. The headmaster managed to talk his way out of having to give a speech",
+    "options": [
+      "A. he delivered a speech despite the difficulty",
+      "B. he managed to give a speech out of a difficult situation",
+      "C. he managed to get himself out of a difficult situation",
+      "D. he managed to talk on his way."
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. As regards the matter, we have crossed the rubicon",
+    "options": [
+      "A. we are completely at a loss",
+      "B. we are irrevocably committed",
+      "C. we are already qualified",
+      "D. we are perfectly committed"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. Uche is full of himself",
+    "options": [
+      "A. He is conceited",
+      "B. He is complete",
+      "C. He is a rich man",
+      "D. He is careful."
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. As debutants in that tournament, the Super Eagles were up against their first opponents by three goals to nil",
+    "options": [
+      "A. The Super Eagles were playing in the tournament for the first time, but they won their match by three goals to nothing",
+      "B. Though the Super Eagles were rated as the weakest side in the tournament, they won their first match by three goals to nil",
+      "C. Even though the Super Eagles were playing without some of their regulars, they won their match by three goals to nil.",
+      "D. As the best attackers in the match, the Super Eagles easily defeated their opponents by three goals to nothing."
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. The woman was mournful as her husband was found dead drunk",
+    "options": [
+      "A. She was sad because of her husband was absolutely drunk",
+      "B. She was apprehensive that her husband would drink again as soon he recovered from the drunken stupor",
+      "C. She was sad because her husband was drunk and always as helpless as a dead man",
+      "D. She was mourning because her husband drank and died"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. I am optimistic about the interview though it was a mind-bending exercise",
+    "options": [
+      "A. An enervating",
+      "B. A debilitating",
+      "C. A difficult",
+      "D. An easy"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. The trader was amused by the cut-throat rush for the goods",
+    "options": [
+      "A. Worrisome",
+      "B. Strange",
+      "C. Lacklustre",
+      "D. Mad"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. The teacher said that Ali’s essay was full of many redundant details",
+    "options": [
+      "A. Unexplained",
+      "B. Strange",
+      "C. Necessary",
+      "D. Useful"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. His father surmounted the myriad of obstacles on his way",
+    "options": [
+      "A. Most",
+      "B. Few",
+      "C. All",
+      "D. Many"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. Her ingenuous smile drew our attention",
+    "options": [
+      "A. Witty",
+      "B. Naïve",
+      "C. Clever",
+      "D. Arrogant"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. Ndeni gave a flawless speech at the party",
+    "options": [
+      "A. A wonderful",
+      "B. A careless",
+      "C. An interesting",
+      "D. An imperfect"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. Beneath Ado’s guff exterior, he’s really very kind-hearted",
+    "options": [
+      "A. Nice",
+      "B. Harsh",
+      "C. Rough",
+      "D. Gentle"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. The captain says sports is being debased by commercial sponsorship",
+    "options": [
+      "A. Localized",
+      "B. Perverted",
+      "C. Elevated",
+      "D. Overvalued"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. Governing a country is not always as straightforward as people sometimes imagine",
+    "options": [
+      "A. Complicated",
+      "B. Troublesome",
+      "C. Untoward",
+      "D. Irksome"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. The crowd was very receptive to the speaker’s suggestion",
+    "options": [
+      "A. Disobedient",
+      "B. Repellent",
+      "C. Alert",
+      "D. Hostile"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics A political Impasse does not offer the best opportunity for merrymaking",
+    "options": [
+      "A. manifesto",
+      "B. party",
+      "C. gridlock",
+      "D. rally"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics We were all enthusiastic as we awaited the result of the election",
+    "options": [
+      "A. bemused",
+      "B. agitated",
+      "C. elated",
+      "D. nervous"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics The uniform makes the guards look absurd",
+    "options": [
+      "A. dirty",
+      "B. smart",
+      "C. sensible",
+      "D. ridiculous"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics The law is often tardy in reacting to changing attitude",
+    "options": [
+      "A. quick",
+      "B. slow",
+      "C. exclusive",
+      "D. generous"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics Isa and llu ate sumptuous meal on their brother’s wedding day",
+    "options": [
+      "A. expensive",
+      "B. foreign",
+      "C. insipid",
+      "D. cheap"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics Kaltume crouched over the paper on her desk",
+    "options": [
+      "A. wrote on",
+      "B. stood on",
+      "C. walked over",
+      "D. bent over"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics The panacea for a country’s economic mess lies in systematic planning and hardwork",
+    "options": [
+      "A. cure",
+      "B. hope",
+      "C. foresight",
+      "D. trouble"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics Thousands of workers have been victims of retrenchment since the military came back to power",
+    "options": [
+      "A. Unemployment",
+      "B. Trench mentality",
+      "C. Suffering",
+      "D. Increase in penury"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics The principal gave his speech offhand at the sports meeting",
+    "options": [
+      "A. calmly",
+      "B. beautifully",
+      "C. unconcerned",
+      "D. unprepared"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics Jankoli was dressed in an old assortment of clothes",
+    "options": [
+      "A. Avalanche",
+      "B. Homogeneity",
+      "C. Sameness",
+      "D. Melange"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the option that best completes the gap Lemoti……… as a painter, but also as a sculptor",
+    "options": [
+      "A. is a gifted only not",
+      "B. is only not gifted",
+      "C. is gifted not only",
+      "D. is only gifted"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the option that best completes the gap He can recall the important dates in the nation’s history, it is interesting to listen as he rattles ………",
+    "options": [
+      "A. off",
+      "B. over",
+      "C. up",
+      "D. out"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the option that best completes the gap The boy told his mother ……..",
+    "options": [
+      "A. that was the girl he told her about",
+      "B. that was the girl I told you about her",
+      "C. that was the girl I told her about",
+      "D. that is the girl he told her about"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the option that best completes the gap Last Monday his father asked me ……..",
+    "options": [
+      "A. if I had come some days before",
+      "B. if I had come the day before",
+      "C. did you come yesterday",
+      "D. had I come yesterday"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the option that best completes the gap His wife was badly injured in the fracas, but I think she will pull …….",
+    "options": [
+      "A. up",
+      "B. over",
+      "C. through",
+      "D. back"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the option that best completes the gap A wide range of options ........ made available to students in the final year last year",
+    "options": [
+      "A. is",
+      "B. were",
+      "C. are",
+      "D. was"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the option that best completes the gaps One of the women who …….. in the premises........ been ordered to quit",
+    "options": [
+      "A. sells/have",
+      "B. sell/has",
+      "C. sell/have",
+      "D. sells/has"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the option that best completes the gap The new trade agreement should facilitate………",
+    "options": [
+      "A. more economic rapid growth",
+      "B. economic more rapid growth",
+      "C. rapid economic more growth",
+      "D. more rapid economic growth"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the option that best completes the gap The principal said that he was pleased ........ my effort.",
+    "options": [
+      "A. on",
+      "B. of",
+      "C. with",
+      "D. about"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the option that best completes the gap Paper is made ....... Wood pulp",
+    "options": [
+      "A. on",
+      "B. of",
+      "C. from",
+      "D. with"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the option that best completes the gap Long after everyone … the hall, obi still sat inside.",
+    "options": [
+      "A. left",
+      "B. is leaving",
+      "C. has left",
+      "D. had left"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the option that best completes the gap They are the … dresses",
+    "options": [
+      "A. babys’",
+      "B. baby",
+      "C. babies",
+      "D. babies’"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the option that best completes the gap The politician was sent……. Exile",
+    "options": [
+      "A. onto",
+      "B. into",
+      "C. on",
+      "D. to"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the option that best completes the gap When we looked up, we…… the plane some miles away",
+    "options": [
+      "A. site",
+      "B. cited",
+      "C. sited",
+      "D. sighted"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the option that best completes the gap Vital…… is still spread word of mouth in most villages in Africa",
+    "options": [
+      "A. information/from",
+      "B. information/with",
+      "C. information/by",
+      "D. information/through"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the option that has the same Vowel sound as the one represented by the letters underlined. Coup",
+    "options": [
+      "A. whup",
+      "B. hoot",
+      "C. couple",
+      "D. scout"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the option that has the same Vowel sound as the one represented by the letters underlined. Indict",
+    "options": [
+      "A. bright",
+      "B. fish",
+      "C. pick",
+      "D. brick"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the option that has the same Vowel sound as the one represented by the letters underlined. Roared",
+    "options": [
+      "A. towered",
+      "B. coast",
+      "C. brought",
+      "D. rod"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the option that has the same consonant sound as the one represented by letter(s) underlined Sheath",
+    "options": [
+      "A. bathe",
+      "B. length",
+      "C. months",
+      "D. paths"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the option that has the same consonant sound as the one represented by letter(s) underlined High",
+    "options": [
+      "A. what",
+      "B. honest",
+      "C. who",
+      "D. vehicle"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the option that has the same consonant sound as the one represented by letter(s) underlined Of course",
+    "options": [
+      "A. plough",
+      "B. dough",
+      "C. over",
+      "D. orphan"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the option that rhymes with the given word. Boys",
+    "options": [
+      "A. stays",
+      "B. moist",
+      "C. noise",
+      "D. elbows"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the option that rhymes with the given word. Shine",
+    "options": [
+      "A. clean",
+      "B. fine",
+      "C. machine",
+      "D. lain"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the option that rhymes with the given word. Seer",
+    "options": [
+      "A. snare",
+      "B. spare",
+      "C. spear",
+      "D. square"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the most appropriate stress pattern from the options. The stressed syllables are written in capital letter(s) Political",
+    "options": [
+      "A. poliTIcal",
+      "B. PoLItical",
+      "C. POlitical",
+      "D. political"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the most appropriate stress pattern from the options. The stressed syllables are written in capital letter(s) Satisfactory",
+    "options": [
+      "A. saTISfactory",
+      "B. satisFACtory",
+      "C. SATisfactory",
+      "D. satisfactory"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Choose the most appropriate stress pattern from the options. The stressed syllables are written in capital letter(s) Captivity",
+    "options": [
+      "A. captiVIty",
+      "B. CAPtivity",
+      "C. capTIvity",
+      "D. CAPtiviTY"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "The word in capital letters has the emphatic. Choose the option to which the given sentence relates EMEKA finished his home work yesterday",
+    "options": [
+      "A. Was Emeka helped to do his homework?",
+      "B. Did Emeka do his homework?",
+      "C. When did Emeka finish his homework?",
+      "D. Who finished his home work yesterday?"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "The word in capital letters has the emphatic. Choose the option to which the given sentence relates Taiwo SAILED to London",
+    "options": [
+      "A. Did Taiwo fly to London?",
+      "B. Did Taiwo sail to Brazil?",
+      "C. Did Taiwo sail to London?",
+      "D. Where did Taiwo sail to?"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "The word in capital letters has the emphatic. Choose the option to which the given sentence relates My bag is made of LEATHER",
+    "options": [
+      "A. Whose bag is made of leather",
+      "B. Is my bag made of polythene?",
+      "C. Is Abu’s bag made of leather?",
+      "D. Is my bag made of leather? USE OF ENGLISH"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. The secretary said that the postponement of the meeting was due to unforeseen circumstances.",
+    "options": [
+      "A. The date of the meeting was shifted as a result of unexpected reasons.",
+      "B. The meeting’s date was put off for strange reasons.",
+      "C. The meeting was called off as a result of obstacles hitherto unknown.",
+      "D. The meeting broke off as a result of unusual difficulties."
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. The hunter has a bird’s-eye view of the animals.",
+    "options": [
+      "A. He views the animal from a high position.",
+      "B. He views the bird’s eye.",
+      "C. He views the birds on the tree with one eye.",
+      "D. He watches animals and birds closely."
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. Even though Susan was the last in the examination, her result wasn’t too different from what had been expected.",
+    "options": [
+      "A. Her result was poor.",
+      "B. Her result was a disappointment.",
+      "C. Her result was as expected.",
+      "D. She had not been serious with her studies."
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. Mrs. Adasu does all her work with more haste, less speed.",
+    "options": [
+      "A. She accepts whatever she does with more haste and speed.",
+      "B. She approaches whatever she does hurriedly.",
+      "C. She addresses everything she does very quickly to avoid mistakes.",
+      "D. She does everything carefully to avoid mistakes."
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. She stopped her education as her uncle left her in the lurch.",
+    "options": [
+      "A. Her uncle deceived her.",
+      "B. Her uncle disinherited her.",
+      "C. Her uncle refused to help her",
+      "D. Her uncle disrespected her"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. The plan to upgrade the dispensary to a general hospital did not materialize.",
+    "options": [
+      "A. The plan did not meet the required specifications.",
+      "B. The arrangement did not work out as wished.",
+      "C. It was difficult to obtain the materials.",
+      "D. The materials purchased ware not the right ones."
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. Okon’s company took a hit last year.",
+    "options": [
+      "A. His company improved last year.",
+      "B. His company made a huge success last year.",
+      "C. His company was badly damaged last year.",
+      "D. His company was established last year."
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. My eldest son, who is in Lagos is studying English.",
+    "options": [
+      "A. Only my son is in Lagos studying English.",
+      "B. My only son is in Lagos studying English.",
+      "C. One of my son is in Lagos studying English",
+      "D. My sons are in Lagos but only one is studying English."
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. If I went to the village, I would visit the king.",
+    "options": [
+      "A. If I go to the village I will visit the king.",
+      "B. I did not go to the village and I did not visit the king",
+      "C. All the times I went to village I also visited the King",
+      "D. I will visit the king when I go to the village"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrases in italics. Since its inception in 1983, the newspaper has attracted thousands of readers.",
+    "options": [
+      "A. renaissance",
+      "B. coming",
+      "C. commencement",
+      "D. publication"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrases in italics. Mrs. Asio wanted her sister to stop being so detached",
+    "options": [
+      "A. friendly",
+      "B. careless",
+      "C. indifferent",
+      "D. passionate"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrases in italics. Lantana dwelt in a ruined cottage on the hillside.",
+    "options": [
+      "A. sat",
+      "B. worked",
+      "C. slept",
+      "D. lived"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrases in italics. The mistake brought the show to an ignominious end",
+    "options": [
+      "A. a good",
+      "B. a palatable",
+      "C. a disgraceful",
+      "D. a satisfactory"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrases in italics. He compliments me on my way of doing things.",
+    "options": [
+      "A. complements",
+      "B. imitates",
+      "C. disgusts",
+      "D. praises"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrases in italics. The girl is angry with her friend who had ensnared her into this relationship.",
+    "options": [
+      "A. tricked",
+      "B. encouraged",
+      "C. encouraged",
+      "D. forced"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrases in italics. Their new house was roofed with corrugated sheets.",
+    "options": [
+      "A. folded",
+      "B. iron",
+      "C. aluminium",
+      "D. corrupted"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrases in italics. The stockbroker said it was an astute move to sell the shares then.",
+    "options": [
+      "A. a bad",
+      "B. a shrewd",
+      "C. an unprofitable",
+      "D. an insincere"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrases in italics. The principal described Oche as the most tactful person he had ever worked with.",
+    "options": [
+      "A. passionate",
+      "B. discrete",
+      "C. hard-working",
+      "D. innovate"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrases in italics. The old woman is suffering from dementia.",
+    "options": [
+      "A. lucidity",
+      "B. senility",
+      "C. insanity",
+      "D. sagacity"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the word that is opposite in meaning to the word or phrase in italics The warring communities were coerced into negotiation a settlement",
+    "options": [
+      "A. driven",
+      "B. compelled",
+      "C. persuaded",
+      "D. pressured"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the word that is opposite in meaning to the word or phrase in italics His father served as a mercenary in the army",
+    "options": [
+      "A. preacher",
+      "B. regular",
+      "C. recruit",
+      "D. officer"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the word that is opposite in meaning to the word or phrase in italics Jummai is cruel to her husband",
+    "options": [
+      "A. harsh",
+      "B. brutal",
+      "C. passionate",
+      "D. ferocious"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the word that is opposite in meaning to the word or phrase in italics The teacher who beat the student was treated with mercy",
+    "options": [
+      "A. disrespect",
+      "B. contempt",
+      "C. vengeance",
+      "D. kindness"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the word that is opposite in meaning to the word or phrase in italics His wife hated his garrulous attitude.",
+    "options": [
+      "A. outspoken",
+      "B. unfriendly",
+      "C. reticent",
+      "D. thoughtful"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the word that is opposite in meaning to the word or phrase in italics Agoshito is a callow youth; said the teacher",
+    "options": [
+      "A. An ignorant",
+      "B. An experience",
+      "C. An idle",
+      "D. An organized"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the word that is opposite in meaning to the word or phrase in italics What you are asking me to do is a herculean task",
+    "options": [
+      "A. a strenuous",
+      "B. a demanding",
+      "C. a lovely",
+      "D. an easy"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the word that is opposite in meaning to the word or phrase in italics Nkechi was a novice when she was first employed",
+    "options": [
+      "A. manager",
+      "B. clerk",
+      "C. supervisor",
+      "D. professional"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the word that is opposite in meaning to the word or phrase in italics ‘I do not trust him‘ he said, in a rare moment of candour",
+    "options": [
+      "A. reproach",
+      "B. dishonesty",
+      "C. frankness",
+      "D. fairness"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the word that is opposite in meaning to the word or phrase in italics Mrs Akunilo looks anaemic today",
+    "options": [
+      "A. strange",
+      "B. sick",
+      "C. weak",
+      "D. strong"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the option that best complete the gap When his car tyre … on the way, he did not know what to do",
+    "options": [
+      "A. has burst",
+      "B. had burst",
+      "C. bursted",
+      "D. burst"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the option that best complete the gap Lami’s father …. As a gardener when he was young, but now he is a driver",
+    "options": [
+      "A. had been working",
+      "B. use to work",
+      "C. has worked",
+      "D. used to work"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the option that best complete the gap … He switches on the light, the shadow disappears",
+    "options": [
+      "A. whenever",
+      "B. except",
+      "C. since",
+      "D. until"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the option that best complete the gap It is important that you clear the refuse in front of your house every ……",
+    "options": [
+      "A. fourtnight",
+      "B. fortnight",
+      "C. fourthnight",
+      "D. forthnight"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the option that best complete the gap The policemen became suspicious as the hoodlums…… in their office",
+    "options": [
+      "A. ferreted",
+      "B. ferreted",
+      "C. ferreted about",
+      "D. ferreted about"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the option that best complete the gap Suara needn’t come with us...?",
+    "options": [
+      "A. does she",
+      "B. will she",
+      "C. can she",
+      "D. need she"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the option that best complete the gap Unoka… the whole house to find his missing wristwatch",
+    "options": [
+      "A. scourged B.scoured",
+      "C. scored",
+      "D. scouted"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the option that best complete the gap Ife asked me….",
+    "options": [
+      "A. what time it was",
+      "B. what is it by my time",
+      "C. what time is it",
+      "D. what time it is"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the option that best complete the gap There are many ways to kill a rat, so we should be … In our approach to the task ahead of us",
+    "options": [
+      "A. ecletic",
+      "B. eclectic",
+      "C. eclektic",
+      "D. eclectik"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the option that best complete the gap Audu took these action purely… His own career",
+    "options": [
+      "A. on furtherance of",
+      "B. in furtherance of",
+      "C. to furtherance in",
+      "D. in furtherance with"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the option that best complete the gap Here is Mr. Odumusu who teaches English … in our school",
+    "options": [
+      "A. pronuntiation",
+      "B. pronounciation",
+      "C. pronunciation",
+      "D. pronountiation"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the option that best complete the gap Instead of… she lied",
+    "options": [
+      "A. pleading",
+      "B. her to plead",
+      "C. her pleading",
+      "D. plead"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the option that best complete the gap Of the three girls, Uka is the….",
+    "options": [
+      "A. so much notorious",
+      "B. notorious",
+      "C. naught",
+      "D. naughtiest"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the option that best complete the gap I wonder how he will … being absent from school for a long time",
+    "options": [
+      "A. make in",
+      "B. make up",
+      "C. make off",
+      "D. make out"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the option that best complete the gap Please sit on the…",
+    "options": [
+      "A. carier",
+      "B. career",
+      "C. carrier",
+      "D. carrear"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the option that has the same vowel sound as the one represented by the letter(s) underlined Bubble",
+    "options": [
+      "A. guy",
+      "B. bull",
+      "C. bumper",
+      "D. gurgle"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the option that has the same vowel sound as the one represented by the letter(s) underlined Weight",
+    "options": [
+      "A. whale",
+      "B. while",
+      "C. wheat",
+      "D. writhe"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the option that has the same vowel sound as the one represented by the letter(s) underlined Leach",
+    "options": [
+      "A. gear",
+      "B. cedar",
+      "C. cheer",
+      "D. death"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the option that has the consonant sound as the one represented by the letter(s) underlined Mention",
+    "options": [
+      "A. that",
+      "B. machine",
+      "C. church",
+      "D. test"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the option that has the same vowel sound as the one represented by the letter(s) underlined Prestige",
+    "options": [
+      "A. bag",
+      "B. badge",
+      "C. reggae",
+      "D. leisure"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the option that has the same vowel sound as the one represented by the letter(s) underlined Knot",
+    "options": [
+      "A. cot",
+      "B. keep",
+      "C. norm",
+      "D. king"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the option that rhymes with the given word Fuel",
+    "options": [
+      "A. cruel",
+      "B. fool",
+      "C. rule",
+      "D. field"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the option that rhymes with the given word Match",
+    "options": [
+      "A. harsh",
+      "B. batch",
+      "C. such",
+      "D. watch"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the option that rhymes with the given word Sheer",
+    "options": [
+      "A. Sheila",
+      "B. care",
+      "C. ear",
+      "D. sherry"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the appropriate stress pattern from the option. The syllables are written in capital letters. Termination",
+    "options": [
+      "A. terminaTION",
+      "B. TERmination",
+      "C. termiNAtion",
+      "D. terMInation"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the appropriate stress pattern from the option. The syllables are written in capital letters. Meditative",
+    "options": [
+      "A. meDItative",
+      "B. mediTAtive",
+      "C. Meditative",
+      "D. meditaTIVE"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Choose the appropriate stress pattern from the option. The syllables are written in capital letters. Sugestible",
+    "options": [
+      "A. suggeSTIble",
+      "B. Suggestible",
+      "C. suGGEstible",
+      "D. suggestible"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "The word in capital letters has the emphatic stress. Choose the option to which the given sentence relates Uche LOVES Toyota cars",
+    "options": [
+      "A. Who loves Toyota cars?",
+      "B. What brand of car does Uche love?",
+      "C. Does Uche hate Toyota cars?",
+      "D. Does Uche love bicycles?"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "The word in capital letters has the emphatic stress. Choose the option to which the given sentence relates The POLICE arrested the suspect",
+    "options": [
+      "A. Did the police placate the suspect?",
+      "B. Who arrested the suspect?",
+      "C. Who did the police arrest?",
+      "D. Did the police arrest the suspect?"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "The word in capital letters has the emphatic stress. Choose the option to which the given sentence relates Maiduguri is the CAPITAL of Borno state",
+    "options": [
+      "A. Is Maiduguri the capital of plateau state?",
+      "B. Which state is Maiduguri the capital of?",
+      "C. Is Maiduguri a town in Borno state?",
+      "D. What is the capital of Borno state? USE OF ENGLISH"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. The vice chancellor is riding the crest of the last quarter of his administration.",
+    "options": [
+      "A. The vice chancellor enjoys the acknowledgement of the success of his administration",
+      "B. The vice chancellor does not enjoy the people’s criticism of his administration",
+      "C. The vice chancellor hopes to overcome soon, the poor comments on his administration",
+      "D. The vice chancellor does not talk of his successes on office"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. She was absolved by the course from the charge.",
+    "options": [
+      "A. She was convicted for the charge",
+      "B. She was blamed and charged to court",
+      "C. Her case was resolved by the court",
+      "D. She was declared free from the charge"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. The landlord is fond of throwing his weight about",
+    "options": [
+      "A. The landlord likes healthy exercise",
+      "B. The landlord is overweight",
+      "C. The landlord gives orders to people",
+      "D. The landlord is respected by his tenants"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. The company ought to have issued warrants for one billion shares.",
+    "options": [
+      "A. The company has issued one billion shares",
+      "B. The management expected the company to issue more than one billion shares",
+      "C. Members of the company bought less than one billion shares",
+      "D. The company did not issue one billion shares"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. He needed not to have played in the position of quarterback in the volley ball.",
+    "options": [
+      "A. He participated in the game in his unusual position",
+      "B. Nobody expected him to have participated in the game",
+      "C. He wanted to play in a position other than the one he was offered.",
+      "D. Someone did not want him to play in the position that he played"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. I wouldn’t have responded to his rude talk, if I were you.",
+    "options": [
+      "A. The advice was taken by the respondent, so he did not respond to the talk",
+      "B. The adviser put himself in the respondent’s position, so he did not respond to the talk",
+      "C. The respondent replied to the speaker’s talk, although he ought not have done so",
+      "D. What was advisable was that the respondent gave it back to the speaker"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. He could not speak out because he had a feet of clay.",
+    "options": [
+      "A. His feet was muddy",
+      "B. He was weak and cowardly",
+      "C. He was clumsy and lazy",
+      "D. He was shy and timid"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. The player wasted a golden opportunity during the penalty shoot-out.",
+    "options": [
+      "A. The player first the bar",
+      "B. The player did not score the shot",
+      "C. The player scored the shot that made them win the gold cup",
+      "D. Instead of a silver cup, they received the golden one"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. As far as Abu is concerned, Mero should be given fifty naira at the most",
+    "options": [
+      "A. All Abu is saying is that Mero probably deserves more than fifty naira and not less",
+      "A. All Abu is concerned with is that Mero should be given nothing more than fifty naira",
+      "C. In Abu’s estimation, Mero merits not more than fifty naira",
+      "D. In Abu’s opinion, Mero deserves fifty naira or probably more"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. As an idiot, the boy is weak in class.",
+    "options": [
+      "A. a deviant",
+      "B. a dunce",
+      "C. an expert",
+      "D. a genius"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. We were shocked by the news that he had lost the money.",
+    "options": [
+      "A. astonished",
+      "B. disconcerted",
+      "C. unconcerned",
+      "D. surprised"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. The principal was advised to be flexible on critical issues.",
+    "options": [
+      "A. livid",
+      "B. cautious",
+      "C. evasive",
+      "D. rigid"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. Bola always looks sober.",
+    "options": [
+      "A. excited",
+      "B. serious",
+      "C. worried",
+      "D. helpless"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. Dupe was promoted for her efficiency.",
+    "options": [
+      "A. ability",
+      "B. incompetence",
+      "C. inconsistency",
+      "D. rudeness"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. The management wants to consider her reticent behaviour in due course.",
+    "options": [
+      "A. disapproving",
+      "B. disciplinarian",
+      "C. contemplative",
+      "D. loquacious"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. Election process often become volatile.",
+    "options": [
+      "A. calm",
+      "B. strange",
+      "C. sudden",
+      "D. latent"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. Oche entered the principal’s office in a rather abrasive manner.",
+    "options": [
+      "A. gentle",
+      "B. rude",
+      "C. lackadaisical",
+      "D. indifferent"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. Otokpa is a member of the ad hoc committee on stock acquisition.",
+    "options": [
+      "A. improvised",
+      "B. formal",
+      "C. temporary",
+      "D. fact-finding"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. His gift to the poor was always infinitesimal.",
+    "options": [
+      "A. large",
+      "B. small",
+      "C. supportive",
+      "D. shameful"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics Some men will continue to cause offences until they are given a taste of their own medicine.",
+    "options": [
+      "A. placated",
+      "B. revenged on",
+      "C. recompensed for",
+      "D. cured"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics Okibe was rusticated for his derogated remark about the principal",
+    "options": [
+      "A. complimentary",
+      "B. unsavoury",
+      "C. unwarranted",
+      "D. lacklustre"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics Justice is difficult to enforce because people are unwilling to accept any loss of sovereignty.",
+    "options": [
+      "A. autonomy",
+      "B. position",
+      "C. leadership",
+      "D. kingdom"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics There are still virtuous women in our society today.",
+    "options": [
+      "A. clever",
+      "B. upright",
+      "C. devilish",
+      "D. intelligent"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics The type of response is typical of a lazy teacher.",
+    "options": [
+      "A. symptomatic",
+      "B. characteristic",
+      "C. universal",
+      "D. incontestable"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics Akin is an inveterate gambler.",
+    "options": [
+      "A. a selfish and self-centred",
+      "B. an extremely unlucky but popular",
+      "C. an incurable but fearful",
+      "D. a long time and incorrigible"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics He was too petrified to give the closing remarks at the conference.",
+    "options": [
+      "A. frightened",
+      "B. delighted",
+      "C. agitated",
+      "D. happy"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics During a particular time of the day, the road shimmers in the heat.",
+    "options": [
+      "A. darkens",
+      "B. lightens",
+      "C. shines",
+      "D. beams"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics Every human being is vulnerable to communicable diseases.",
+    "options": [
+      "A. liable",
+      "B. lifted",
+      "C. immuned",
+      "D. closed"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics Mariam looks rather furtive to Shehu.",
+    "options": [
+      "A. intoxicated",
+      "B. unfriendly",
+      "C. sad",
+      "D. sly"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the option that best complete the gap(s) He was both a writer and a politician, but he was better a singer",
+    "options": [
+      "A. as if",
+      "B. like",
+      "C. as",
+      "D. to be"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the option that best complete the gap(s) Vacancies in the company will be notified by",
+    "options": [
+      "A. bulletin",
+      "B. publication",
+      "C. publicity",
+      "D. advertisement"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the option that best complete the gap(s) The driver was short of petrol, so he down the hills with the engine switched off.",
+    "options": [
+      "A. glided",
+      "B. coasted",
+      "C. wheeled",
+      "D. taxied"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the option that best complete the gap(s) He started his career as an teacher.",
+    "options": [
+      "A. auxillary",
+      "B. auxilliary",
+      "C. auxilary",
+      "D. auxiliary"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the option that best complete the gap(s) His many years of success in legal practice, didn’t come without challenges.",
+    "options": [
+      "A. indeed",
+      "B. but",
+      "C. in spite of it all",
+      "D. however"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the option that best complete the gap(s) One should be careful how behaves in the public, shouldn’t ?",
+    "options": [
+      "A. one/one",
+      "B. he/he",
+      "C. she/one",
+      "D. one/he"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the option that best complete the gap(s) , a good leader must have two characteristics.",
+    "options": [
+      "A. First and formost",
+      "B. First and formust",
+      "C. First and farmost",
+      "D. First and foremost"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the option that best complete the gap(s) We visited his house three times.",
+    "options": [
+      "A. like",
+      "B. for like",
+      "C. about",
+      "D. for about"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the option that best complete the gap(s) She was the verge of tears",
+    "options": [
+      "A. at",
+      "B. on",
+      "C. by",
+      "D. with"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the option that best complete the gap(s) Everyone makes mistakes occasionally; nobody is .",
+    "options": [
+      "A. incorrigible",
+      "B. Imperfect",
+      "C. Infallible",
+      "D. indestructible"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the option that best complete the gap(s) The woman would not part with her pot.",
+    "options": [
+      "A. discarded earthen black",
+      "B. discarded black earthen",
+      "C. earthen discarded black",
+      "D. black earthen discarded"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the option that best complete the gap(s) We stood up when the principal came in ?",
+    "options": [
+      "A. isn’t it",
+      "B. didn’t we",
+      "C. not so",
+      "D. did us"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the option that best complete the gap(s) The professor of medicine has the mystery of flu.",
+    "options": [
+      "A. vetinary / unraveled",
+      "B. vertrinary/unravelled",
+      "C. veterinary/unraveled",
+      "D. veterinary/unravelled"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the option that best complete the gap(s) Her mother brought her some",
+    "options": [
+      "A. clothes",
+      "B. yards",
+      "C. cloth",
+      "D. clothing"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the option that best complete the gap(s) Many workers were as a result of the textile closure.",
+    "options": [
+      "A. laid down",
+      "B. laid off",
+      "C. laid out",
+      "D. laid up"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the option that has the same vowel sound as the one represented by the letter(s) underlined. book",
+    "options": [
+      "A. cool",
+      "B. cook",
+      "C. fool",
+      "D. tool"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the option that has the same vowel sound as the one represented by the letter(s) underlined. Village",
+    "options": [
+      "A. page",
+      "B. pig",
+      "C. made",
+      "D. came"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the option that has the same vowel sound as the one represented by the letter(s) underlined. Patch",
+    "options": [
+      "A. starch",
+      "B. fare",
+      "C. mad",
+      "D. brave"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the option that has the same consonant sound as the one represented by the letter(s) underlined. Tangerine",
+    "options": [
+      "A. gear",
+      "B. danger",
+      "C. girl",
+      "D. ignore"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the option that has the same consonant sound as the one represented by the letter(s) underlined. Hair",
+    "options": [
+      "A. heir",
+      "B. hour",
+      "C. honest",
+      "D. house"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the option that has the same consonant sound as the one represented by the letter(s) underlined. Edition",
+    "options": [
+      "A. bash",
+      "B. catch",
+      "C. bastion",
+      "D. rating"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the appropriate stress pattern from the options. The syllables are written in capital letters. Demarcation",
+    "options": [
+      "A. demarCAtion",
+      "B. DEmarcation",
+      "C. deMARcation",
+      "D. demarcaTION"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the appropriate stress pattern from the options. The syllables are written in capital letters. Impossible",
+    "options": [
+      "A. imPOSible",
+      "B. IMposible",
+      "C. imposSIble",
+      "D. impossiBLE"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the appropriate stress pattern from the options. The syllables are written in capital letters. Imperialism",
+    "options": [
+      "A. IMperialism",
+      "B. imPErialism",
+      "C. impeRIAlism",
+      "D. imperialiSM"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the option that has the stress on the first syllable.",
+    "options": [
+      "A. madam",
+      "B. eighteen",
+      "C. invent",
+      "D. command"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the option that has the stress on the first syllable.",
+    "options": [
+      "A. nineteen",
+      "B. mother",
+      "C. estate",
+      "D. announce"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Choose the option that has the stress on the first syllable.",
+    "options": [
+      "A. commute",
+      "B. import (verb)",
+      "C. intend",
+      "D. export (noun)"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "The word in capital letters has the emphatic stress. Choose the option to which the given sentence relates. The traditional chief NARRATED the story to the children.",
+    "options": [
+      "A. The children heard the story from the traditional chief",
+      "B. Who narrated the story to the children?",
+      "C. The children could not listen to the story by the traditional chief",
+      "D. Did the chief hide the story from the children?"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "The word in capital letters has the emphatic stress. Choose the option to which the given sentence relates. The ACCOUNTANT paid the workers’ July salary in September.",
+    "options": [
+      "A. When were the workers paid",
+      "B. Did the cashier pay the workers’ salary in September",
+      "C. Workers received their July salary in September?",
+      "D. The September salary was paid in July?"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "The word in capital letters has the emphatic stress. Choose the option to which the given sentence relates. The cat DEVOURED the rat.",
+    "options": [
+      "A. Did the rat devoured the cat?",
+      "B. What devoured the rat?",
+      "C. Did the cat pet the rat?",
+      "D. Is this the rat the cat devoured? USE OF ENGLISH"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+      "A. Anyone, with almost no training, can run pots on a wheel.",
+      "B. Pots can be made quickly and correctly.",
+      "C. A pot thrown on a wheel is less likely to break.",
+      "D. The potter does not have to work hard if he uses the wheel."
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "From the passage, how does a potter make several pots of almost identical size?",
+    "options": [
+      "A. By having the knowledge of different pots.",
+      "B. By weighing the lumps of clay.",
+      "C. By having the right tools",
+      "D. By knowing what to do from experience."
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "The phrase trims off any waste clay, as used in the passage, means to",
+    "options": [
+      "A. cut away unnecessary parts",
+      "B. force the clay to the centre",
+      "C. divide the clay into two",
+      "D. wash away different colours."
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "The word congenial, as used in the passage, means---",
+    "options": [
+      "A. congested",
+      "B. precise",
+      "C. similar",
+      "D. nice"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. The team’s poor performance at the tournament plumb the depths of horror.",
+    "options": [
+      "A. The team’s performance took them to the next round.",
+      "B. The team’s performance was enjoyed by all",
+      "C. The team’s performance was full of disappointment.",
+      "D. The team’s performance was rewarded."
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. Tolu and Chinedu live in each other’s pockets.",
+    "options": [
+      "A. They are long-term business partners",
+      "B. They steal from each other.",
+      "C. They blackmail each other.",
+      "D. They are very close to each other."
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. As the drama unfolded, Olatinuke was advised",
+    "options": [
+      "A. She was advised to wear her shirt",
+      "B. She was advised to commit herself",
+      "C. She was advised to stay calm.",
+      "D. She was advised to join the club."
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. He is a clinging child.",
+    "options": [
+      "A. He is a handsome young man",
+      "B. He is possessive",
+      "C. He likes to cling with his sister",
+      "D. He is a bully."
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. Zinana’s examination result was not unfavourable.",
+    "options": [
+      "A. She failed her examination",
+      "B. Her examination did not meet her expectation.",
+      "C. She was successful in the examination",
+      "D. Her result could not earn her admission."
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. You need to brush up on your Spanish.",
+    "options": [
+      "A. You need to study the history of Spain",
+      "B. You need to improve your skills",
+      "C. You need a brush from Spain",
+      "D. You need to learn to play with a Spainard."
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. Amaka Would pass for a beauty queen",
+    "options": [
+      "A. She would pass the drink to the queen who is sitting next to her.",
+      "B. She would be accepted by all as a beauty queen.",
+      "C. She walked past the beauty queen.",
+      "D. She was acting as a beauty queen."
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. ‘I can’t wait to become a mother’, the new bride declared",
+    "options": [
+      "A. She sees motherhood as a burden",
+      "B. She is excited about motherhood",
+      "C. She is not keen on becoming a mother",
+      "D. She will be patient as a mother."
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. Usman needs to get his acts together if he wants to pass the examination.",
+    "options": [
+      "A. He needs to put all points down in the examination",
+      "B. He needs to organize himself.",
+      "C. He needs to be fast when writing the examination.",
+      "D. He needs to put on his stage costume."
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. Ramatu ‘expressed her feelings in no uncertain terms.",
+    "options": [
+      "A. She expressed it dearly and strongly.",
+      "B. She expressed it secretly and courageously.",
+      "C. She expressed it quietly and cautiously.",
+      "D. She expressed it feebly and sickly."
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. Chibuzor gave a curt nod and walked away.",
+    "options": [
+      "A. gentle.",
+      "B. rude.",
+      "C. polite.",
+      "D. shocking."
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. The girl took a cursory glance at the letter and hid it.",
+    "options": [
+      "A. sententious.",
+      "B. concise.",
+      "C. brief.",
+      "D. lasting."
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. The relationship between the couple has been frosty.",
+    "options": [
+      "A. fraudulent.",
+      "B. cordial.",
+      "C. amenable.",
+      "D. frugal."
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. The Nobel laureate’s activity in the field of science is heinous.",
+    "options": [
+      "A. indelible.",
+      "B. laudable.",
+      "C. deplorable.",
+      "D. forgettable."
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. The accused was eventually convicted.",
+    "options": [
+      "A. initially.",
+      "B. consequently.",
+      "C. subsequently.",
+      "D. finally."
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. The plebs can be found in every society of the world.",
+    "options": [
+      "A. masses",
+      "B. middle class",
+      "C. elite",
+      "D. politicians"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. Everyone’s condition was appalling.",
+    "options": [
+      "A. simple",
+      "B. cloudy",
+      "C. pleasant",
+      "D. complex"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. The man’s mordant wit is apparent to the entire village.",
+    "options": [
+      "A. Kind",
+      "B. scathing",
+      "C. caustic",
+      "D. withering"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics. Ayodeji is an ardent supporter of education for the girl child.",
+    "options": [
+      "A. an optimistic",
+      "B. a cogent",
+      "C. a passionate",
+      "D. an ignorant"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics. The scholars’ epitaph was demolished.",
+    "options": [
+      "A. monument",
+      "B. embodiment",
+      "C. farmland",
+      "D. book"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics. Mohammed does his work with so much ardour.",
+    "options": [
+      "A. enthusiasm",
+      "B. discouragement",
+      "C. knowledge",
+      "D. indifference"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics. The athlete is proud to be in the vanguard of sports development.",
+    "options": [
+      "A. unforgettable position",
+      "B. leading position",
+      "C. destructive position",
+      "D. emerging position"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics. Nwankwo was on the verge of signing a two-year contract with the club.",
+    "options": [
+      "A. shore",
+      "B. brink",
+      "C. summit",
+      "D. height"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics. I am tired of your eternal argument",
+    "options": [
+      "A. open",
+      "B. constant",
+      "C. strong",
+      "D. useless"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics. The lamb is a feeble little animal.",
+    "options": [
+      "A. fat",
+      "B. quiet",
+      "C. loving",
+      "D. weak"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics. The actress screamed when she noticed an object behind her",
+    "options": [
+      "A. wailed",
+      "B. protested",
+      "C. waded in",
+      "D. stormed out"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s) The girl says she is averse... what others admire.",
+    "options": [
+      "A. for",
+      "B. from",
+      "C. to",
+      "D. with"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s) Our teacher defined... in his introductory",
+    "options": [
+      "A. onomatopiea",
+      "B. onomatopoeia",
+      "C. onomatopoeia",
+      "D. onomatopea"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s) The philanthropist devoted himself... the poor",
+    "options": [
+      "A. to helping",
+      "B. in helping",
+      "C. by helping",
+      "D. to be helping"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s) Tinu likes apples... she does not like oranges.",
+    "options": [
+      "A. or",
+      "B. for",
+      "C. so",
+      "D. but"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s) The students had a ... on Independence Day.",
+    "options": [
+      "A. march past",
+      "B. match pass",
+      "C. march pass",
+      "D. match pass"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s) Do you mind ... another hour or two?",
+    "options": [
+      "A. to wait",
+      "B. to have waited",
+      "C. wait",
+      "D. waiting"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s) The continuous rain has really ... the soil.",
+    "options": [
+      "A. melted up",
+      "B. mopped up",
+      "C. satiated",
+      "D. saturated"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s) The police described the boy as being ... hand",
+    "options": [
+      "A. on by",
+      "B. up to",
+      "C. over at",
+      "D. out of"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s) It was very easy for the two political parties to form a ... government",
+    "options": [
+      "A. co-operative",
+      "B. colonial",
+      "C. collusion",
+      "D. coalition"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s) All farmers were encouraged ... carry out fumigation on their farms",
+    "options": [
+      "A. to",
+      "B. from",
+      "C. in",
+      "D. with"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s) There are lots of ... in the park.",
+    "options": [
+      "A. luxury buses moving fast",
+      "B. luxury buses fast moving",
+      "C. moving fast luxury buses",
+      "D. fast-moving luxury buses"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s) Yours is to command ... is to obey",
+    "options": [
+      "A. their",
+      "B. theirs",
+      "C. theirs'",
+      "D. their's"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s) Local governments are authorized to pass ---",
+    "options": [
+      "A. bye's-law",
+      "B. bye-law",
+      "C. bye-laws",
+      "D. byes'-laws"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s) Umar: I have never visited the dentist. Aliyu:",
+    "options": [
+      "A. neither have l",
+      "B. I also never",
+      "C. neither myself",
+      "D. I myself haven't"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s) Usman would have won the race....",
+    "options": [
+      "A. if he had run faster faster",
+      "B. although he ran faster",
+      "C. only if he could run fast",
+      "D. if he had run faster"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Choose the option that has the same vowel sound as the one ran letter(s) underlined Glasier",
+    "options": [
+      "A. gleam",
+      "B. flat",
+      "C. feign",
+      "D. glass"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Choose the option that has the same vowel sound as the one ran letter(s) underlined Laud",
+    "options": [
+      "A. lavatory",
+      "B. loud",
+      "C. lathe",
+      "D. core"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Choose the option that has the same vowel sound as the one ran letter(s) underlined Coma",
+    "options": [
+      "A. colonel",
+      "B. cogent",
+      "C. come",
+      "D. comma"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Choose the option that has the same consonant sound as the one represented by the letter(s) underlined. Lose",
+    "options": [
+      "A. mouse",
+      "B. nurse",
+      "C. noise",
+      "D. horse"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Choose the option that has the same vowel sound as the one ran letter(s) underlined Guitar",
+    "options": [
+      "A. jam",
+      "B. strange",
+      "C. judge",
+      "D. rogue"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Choose the option that has the same vowel sound as the one ran letter(s) underlined Loose",
+    "options": [
+      "A. sell",
+      "B. fuse",
+      "C. close",
+      "D. rouse"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Choose the option that rhymes with the given word. Rite",
+    "options": [
+      "A. list",
+      "B. wit",
+      "C. wright",
+      "D. rim"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Choose the option that rhymes with the given word. Joys",
+    "options": [
+      "A. elbow",
+      "B. pots",
+      "C. boys",
+      "D. stays"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Choose the option that rhymes with the given word. Call",
+    "options": [
+      "A. wall",
+      "B. quail",
+      "C. dull",
+      "D. slate"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Choose the most appropriate stress pattern from the options. The stressed syllables are written in capital letters dedication",
+    "options": [
+      "A. dedicaTION",
+      "B. deDlcation",
+      "C. dedication",
+      "D. Dedication"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Choose the most appropriate stress pattern from the options. The stressed syllables are written in capital letters international",
+    "options": [
+      "A. interNAtional",
+      "B. internaTIONal",
+      "C. International",
+      "D. inTERnational"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Choose the most appropriate stress pattern from the options. The stressed syllables are written in capital letters information",
+    "options": [
+      "A. information",
+      "B. information",
+      "C. information",
+      "D. Information"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "The word in capital letters has the emphatic stress. Choose the option to which the given sentence relates. Adamu is leaving a CAR behind.",
+    "options": [
+      "A. What is Adamu leaving behind?",
+      "B. Is Adamu driving the car in front?",
+      "C. Who is leaving a car behind?",
+      "D. Where is Adamu leaving a car?"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "The word in capital letters has the emphatic stress. Choose the option to which the given sentence relates. Lambusa TOOK OFF the wig.",
+    "options": [
+      "A. Who took off the wig?",
+      "B. What did Lambusa do?",
+      "C. Did Lambusa take off a wig?",
+      "D. Did Lambusa take off the ring?"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "The word in capital letters has the emphatic stress. Choose the option to which the given sentence relates. The bed is IN the room",
+    "options": [
+      "A. Is the bed in the parlour?",
+      "B. Was the bed in the room?",
+      "C. What is in the room?",
+      "D. Where is the bed? USE OF ENGLISH"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+      "A. Music can enhance evaluation performance",
+      "B. All listeners are music makers",
+      "C. All artistes are objective in their feelings.",
+      "D. Music influences feelings at different levels"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "The expression…..stage and hall, as used in the passage, means the",
+    "options": [
+      "A. artiste and his music",
+      "B. artiste and the audience",
+      "C. producer and the director",
+      "D. director and the audience"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "From the passage, it can be deduced that music is",
+    "options": [
+      "A. appreciated as the environment dictates.",
+      "B. better appreciated in a crowd",
+      "C. better appreciated when we are happy",
+      "D. better appreciated by professional critics"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "According to the writer, live performances provide a special excitement because they are",
+    "options": [
+      "A. stage-managed",
+      "B. interactive",
+      "C. error-free and original",
+      "D. educative"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "According to the passage, music plays a vital role in human society because",
+    "options": [
+      "A. music provides enjoyment and relief",
+      "B. it is easy to appreciate music",
+      "C. stage performance is the most popular music opportunity.",
+      "D. everybody can listen to music through the CD, MP3 and DVD."
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. The minister considered the ministry’s budget to a drop in the ocean in view of the number of projects in the pipeline.",
+    "options": [
+      "A. The amount available may be inadequate for projected expenditure",
+      "B. The minister maybe dropped for failing to complete a number of projects.",
+      "C. The money approved cannot compete the pipeline project across the ocean.",
+      "D. The pipeline project across the ocean will be abandoned unless budgetary allocation improves"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. The police are looking for the woman who framed her children out to her neighbours.",
+    "options": [
+      "A. The woman and her children are in the habit of working in neighbour’s farm and the police are not well disposed to this.",
+      "B. The police may arrest the woman for allowing her neighbours to take care of her children",
+      "C. The woman may be arrested for allowing her children to be a nuisance to her neighbours",
+      "D. The police wanted remarked for allowing her children to destroy her neighbour’s crops."
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. Jummai's father remarked that pigs would fly before she passed.",
+    "options": [
+      "A. It would be possible to pass only if she worked harder B it would never be possible for her to pass",
+      "C. He would have to bribe her teachers to enable her to pass",
+      "D. She would have to cheat in order to pass"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. The president said that he found himself between a rock and a hard place when the press said that he had resigned",
+    "options": [
+      "A. He dreamt that he was abandoned",
+      "B. He thought that hard places were unsafe",
+      "C. He had a hard decision to make D Hard places are dangerous for the president"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. Kunana is like a bear with a sore head.",
+    "options": [
+      "A. He is a bully",
+      "B. He is grumpy",
+      "C. He is ugly",
+      "D. He is quiet"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. Olu gave his brother a bumpy ride",
+    "options": [
+      "A. Olu's brother rode on Olu's back to success.",
+      "B. Olu took his brother on a bumpy road",
+      "C. Olu gave his brother a difficult time",
+      "D. Olu gave his brother a ride in his car"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. Adeola dosen't have to go the farm today.",
+    "options": [
+      "A. Adeola may go to the farm today if he so wishes",
+      "B. Adeola ought not to have gone to the farm today",
+      "C. Adeola must not go to the farm today",
+      "D. Adeola should not go to the farm today"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. My boss asked me to take my eyes off the ball.",
+    "options": [
+      "A. I should stop paying attention to what is most important",
+      "B. I should be focused when I am about stay off football",
+      "C. I should stay off football after sustaining an injury",
+      "D. I should be focused when playing football."
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. The robber was hedged in by the people.",
+    "options": [
+      "A. The robber was surrounded by the people",
+      "B. The robber was killed by the people",
+      "C. The robber was exposed by the people",
+      "D. The robber was caught by the people"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. Many workers are not happy because they live a hand-to- mouth life.",
+    "options": [
+      "A. They work hard with their hands",
+      "B. They are voracious and avaricious",
+      "C. They are barely surviving",
+      "D. They have rejected the use of spoons."
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. Prolonged strike action debilitated the industry.",
+    "options": [
+      "A. invigorated",
+      "B. isolated",
+      "C. weakened",
+      "D. destroyed"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. One of the students bought a plagiarized copy of the book",
+    "options": [
+      "A. a used",
+      "B. an original",
+      "C. a revised",
+      "D. an annotated"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. The young girl was taken aback by her father's gift of a car.",
+    "options": [
+      "A. shocked",
+      "B. unmoved",
+      "C. surprised",
+      "D. nonplussed"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. Musa is a gifted but erratic player",
+    "options": [
+      "A. strong",
+      "B. regular",
+      "C. unpredictable",
+      "D. unstable"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. The lamp shades were translucent",
+    "options": [
+      "A. opaque",
+      "B. interested",
+      "C. luminous",
+      "D. transparent"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. My niece has an unquenchable thirst for adventure stories.",
+    "options": [
+      "A. a spurious",
+      "B. an illegitimate",
+      "C. a reduced",
+      "D. an inextinguishable"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. Some of my neighbours have an antipathy to dogs.",
+    "options": [
+      "A. enmity towards",
+      "B. affection for",
+      "C. acronym for",
+      "D. alarm for"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. The dressmaker unpicked the seam of the shirt",
+    "options": [
+      "A. threaded",
+      "B. sewed up",
+      "C. picked up",
+      "D. tore for"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. The testimony of the witness was vague.",
+    "options": [
+      "A. disturbing",
+      "B. true",
+      "C. ambiguous",
+      "D. clear"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. As a student, Isa tried communal living for a few years",
+    "options": [
+      "A. collective",
+      "B. general",
+      "C. shared",
+      "D. private."
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics. The chairman admires incessant meetings.",
+    "options": [
+      "A. unusual",
+      "B. planned",
+      "C. constant",
+      "D. irregular"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics. Today's weather is favourable for a game of tennis.",
+    "options": [
+      "A. impartial",
+      "B. abnormal",
+      "C. encouraging",
+      "D. disapproving"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics. The candidates looked aghast at the first reading of the questions.",
+    "options": [
+      "A. fulfilled",
+      "B. dismayed",
+      "C. satisfied",
+      "D. relaxed"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics. Joke gave Muhammed a jaunty smile.",
+    "options": [
+      "A. a discouraging",
+      "B. an inviting",
+      "C. a frightful",
+      "D. a cheerful."
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics. The first round of the tournament was a doddle.",
+    "options": [
+      "A. easy",
+      "B. balanced",
+      "C. dodgy",
+      "D. exasperating"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics. The lazy man cast a lustful glance at his neighbour's wife.",
+    "options": [
+      "A. hateful",
+      "B. quick",
+      "C. covetous",
+      "D. envious"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics. They accused him of fomenting political unrest.",
+    "options": [
+      "A. inciting",
+      "B. discouraging",
+      "C. preventing",
+      "D. guiding."
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics. You can learn a great deal just from watching other players.",
+    "options": [
+      "A. invent",
+      "B. accumulate",
+      "C. allow",
+      "D. discover."
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics. All the researchers were asked to garner information on the new viral infection.",
+    "options": [
+      "A. collect B disseminate",
+      "C. distort",
+      "D. give."
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics. The dispute between the two countries has resulted in the severing of diplomatic relations",
+    "options": [
+      "A. breaking",
+      "B. securing",
+      "C. swapping",
+      "D. strengthening"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Choose the option that best completes the gap The House and The Senate will at noon next Wednesday to hear address by the president",
+    "options": [
+      "A. convene",
+      "B. adjourn",
+      "C. rise",
+      "D. collude"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Choose the option that best completes the gap At the of the century many ways of doing things were introduced.",
+    "options": [
+      "A. turn",
+      "B. event",
+      "C. birth",
+      "D. sight"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Choose the option that best completes the gap You may have the pencil, but you can't have the ballpoint",
+    "options": [
+      "A. either",
+      "B. furthermore",
+      "C. also",
+      "D. as well"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Choose the option that best completes the gap The president said that the country was not out of the yet.",
+    "options": [
+      "A. forest",
+      "B. fog",
+      "C. water",
+      "D. wood"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Choose the option that best completes the gap He went to the restaurant to enjoy the special",
+    "options": [
+      "A. suite",
+      "B. cuisine",
+      "C. a la carte",
+      "D. chef"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Choose the option that best completes the gap The invigilator to know how long the examination going on.",
+    "options": [
+      "A. wanted/has been B wants/had been",
+      "C. wants/have been",
+      "D. wanted/had been"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Choose the option that best completes the gap The guard spent all the night pacing",
+    "options": [
+      "A. from and to",
+      "B. fro and to",
+      "C. to and from",
+      "D. to and fro"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Choose the option that best completes the gap The woman refused to testify Her husband",
+    "options": [
+      "A. in",
+      "B. at",
+      "C. against",
+      "D. from"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Choose the option that best completes the gap Abike must have found the very interesting movies quite",
+    "options": [
+      "A. absolving",
+      "B. absorbing",
+      "C. nauseating",
+      "D. perverting"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Choose the option that best completes the gap The words divided between the ends of one line.",
+    "options": [
+      "A. have been",
+      "B. have being",
+      "C. has been",
+      "D. has being"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Choose the option that has the same vowel sound as the one represented by the letter(s) underlined. cool",
+    "options": [
+      "A. full",
+      "B. luke",
+      "C. look",
+      "D. should"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Choose the option that has the same vowel sound as the one represented by the letter(s) underlined. odour",
+    "options": [
+      "A. flow",
+      "B. sugar",
+      "C. hold",
+      "D. floor"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Choose the option that has the same vowel sound as the one represented by the letter(s) underlined. palm",
+    "options": [
+      "A. ranch",
+      "B. florid",
+      "C. lunch",
+      "D. plait"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Choose the option that has the same consonant sound as the one represented by the letter(s) underlined. vision",
+    "options": [
+      "A. instruction",
+      "B. mansion",
+      "C. nation",
+      "D. enclosure."
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Choose the option that has the same consonant sound as the one represented by the letter(s) underlined. gnash",
+    "options": [
+      "A. forge",
+      "B. new",
+      "C. king",
+      "D. ring"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Choose the option that has the same consonant sound as the one represented by the letter(s) underlined. epitaph",
+    "options": [
+      "A. pseudo",
+      "B. fan",
+      "C. paper",
+      "D. pneumonia."
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Choose the option that rhymes with the given word. ever",
+    "options": [
+      "A. favour",
+      "B. fever",
+      "C. never",
+      "D. heavier"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Choose the option that rhymes with the given word. keep",
+    "options": [
+      "A. reap",
+      "B. seethe",
+      "C. threat",
+      "D. dead"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Choose the option that rhymes with the given word. tax",
+    "options": [
+      "A. box",
+      "B. lacks",
+      "C. back",
+      "D. ask"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Choose the most appropriate stress pattern from the options. The stressed syllables are written in capital letter. valedictory",
+    "options": [
+      "A. valeDICtory",
+      "B. valedicTORY",
+      "C. VAledictory",
+      "D. vaLEdictory"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Choose the most appropriate stress pattern from the options. The stressed syllables are written in capital letter. congratulation",
+    "options": [
+      "A. congraTUlation",
+      "B. congratuLAtion",
+      "C. CONgratulation",
+      "D. conGRAtulation"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "Choose the most appropriate stress pattern from the options. The stressed syllables are written in capital letter. conspiracy",
+    "options": [
+      "A. conspiRAcy",
+      "B. conspiraCY",
+      "C. consPIracy",
+      "D. CONspiracy"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "The word in capital letters has the emphatic stress. Choose the option to which the given sentence relates. My mother brought a BICYCLE yesterday.",
+    "options": [
+      "A. What did you mother buy yesterday?",
+      "B. Whose mother bought a bicycle yesterday?",
+      "C. Did my mother steal a bicycle yesterday?",
+      "D. When did my mother buy a bicycle?"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "The word in capital letters has the emphatic stress. Choose the option to which the given sentence relates. AMINA went to Abuja by air.",
+    "options": [
+      "A. Is Amina going to Abuja by air?",
+      "B. Who went to Abuja by air?",
+      "C. Did Amina go to Abuja by road?",
+      "D. Did Amina go to Jos by air?"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "The word in capital letters has the emphatic stress. Choose the option to which the given sentence relates. Musa is STAYING in Enugu.",
+    "options": [
+      "A. Is Musa passing through Enugu?",
+      "B. Is Musa staying on the outskirt of Enugu?",
+      "C. Is Audu staying in Enugu?",
+      "D. Was Musa staying in Enugu? USE OF ENGLISH"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "q": "The expression third party, as used in the passage, means",
+    "options": [
+      "A. Politician",
+      "B. Intruder",
+      "C. Conformist",
+      "D. Mediator"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "From the passage, it can be deduced that",
+    "options": [
+      "A. All nations adopt the peaceful approach",
+      "B. All nations prefer the military option",
+      "C. Prevailing circumstances push a warring nation to sue for peace",
+      "D. Conflicts are noted for facilitating opportunities"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Which of the following statements can be inferred from the passage?",
+    "options": [
+      "A. The approach to employ in conflict management depends on the state of affairs",
+      "B. Only one conflict management approach can be applied in all situations",
+      "C. All conflict management approaches can be all situations.",
+      "D. There is a general disagreement among scholars on conflict management."
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "According to the passage, the different approaches to conflict management are",
+    "options": [
+      "A. Pernicious",
+      "B. Uniform",
+      "C. Misleading",
+      "D. Fundamental"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "The word utility, as used in the passage, means",
+    "options": [
+      "A. Difficulty",
+      "B. Attitude",
+      "C. Usefulness",
+      "D. Management"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "The word couched, as used in the passage, means",
+    "options": [
+      "A. Arranged",
+      "B. Expressed",
+      "C. Modified",
+      "D. Itemized"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "From the writer's point of view, one can conclude that",
+    "options": [
+      "A. The only authority a society has is its language",
+      "B. Language and culture are interwoven",
+      "C. People of the same culture in the same society",
+      "D. Developing people of the world have not developed their language"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Which of the following can be inferred from the passage?",
+    "options": [
+      "A. The world is interpreted to use only in our native language",
+      "B. Our native language is as important as the world around us",
+      "C. We know more about the world around us if our language is not written",
+      "D. The world around us is the world of people who speak the same language"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "What is the symbolic function of a native language, according to the passage?",
+    "options": [
+      "A. It enables the society itself the more",
+      "B. It promotes understanding within the group",
+      "C. It distinguishes that society from others",
+      "D. It alienates progress within the society and beyond."
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "From the passage, one can imply that",
+    "options": [
+      "A. The language of instruction is ideally one's own language",
+      "B. Native languages are difficult to use as languages of instruction.",
+      "C. No foreign language should be taught in any society",
+      "D. No society conducts its education in a foreign language"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Select the options that best explain the information conveyed in the sentence. Amedu's actions provoked severe criticism",
+    "options": [
+      "A. His actions were seriously rejected",
+      "B. His action were severe and accepted",
+      "C. His action were itemized because he was young",
+      "D. His action provoked the humour"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Select the options that best explain the information conveyed in the sentence. I haven't seen the movie and my brother hasn't either",
+    "options": [
+      "A. I have seen the movie but neither of my brother have",
+      "B. My brother and I haven't seen the movie",
+      "C. Only my brother has seen the movie",
+      "D. I was the only one that has seen the move"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Select the options that best explain the information conveyed in the sentence. Sule would have been given the car if his father had hot complained.",
+    "options": [
+      "A. He wasn't given the car because his father complained",
+      "B. He was given the car because his father complained",
+      "C. His father complained about the car and he was given.",
+      "D. He was given the car even though his father didn't complain."
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Select the options that best explain the information conveyed in the sentence. Adayi cannot halt the march of time.",
+    "options": [
+      "A. she is willing to march on",
+      "B. She cannot change the way things happen.",
+      "C. She halts the march on time.",
+      "D. She cannot alter the peace march."
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Select the options that best explain the information conveyed in the sentence. The lecture is Uye s road to Damascus.",
+    "options": [
+      "A. The lecture is an opportunity to travel to Damascus.",
+      "B. The lecture is an experience that changes the way she thinks",
+      "C. The lecture talks exclusively about Damascus.",
+      "D. The lecture is an experience that cannot be changed."
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Select the options that best explain the information conveyed in the sentence. Ado is one of the backwoodsmen.",
+    "options": [
+      "A. He is one of those that live in a distant and underdeveloped area",
+      "B. He is one of the active member of the community",
+      "C. He is one of the honest men that lives in the community",
+      "D. He is one of those that live in the most developed part of the city."
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Select the options that best explain the information conveyed in the sentence. Bello said he would pitch his tent with the club.",
+    "options": [
+      "A. He would support the club.",
+      "B. He would build a pitch in the club",
+      "C. He would build a tent on the pitch.",
+      "D. He would distance himself from the club."
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics Adewale's arrival always triggers a media frenzy",
+    "options": [
+      "A. Violence.",
+      "B. Agitation",
+      "C. Calm",
+      "D. Excitement."
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics She said, the experience was harrowing.",
+    "options": [
+      "A. Educating",
+      "B. Frightening",
+      "C. Pleasant",
+      "D. Strange"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics The house was invaded by the young officers",
+    "options": [
+      "A. Set up",
+      "B. Put down",
+      "C. Defended",
+      "D. built."
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics I like Adamu weird attitude.",
+    "options": [
+      "A. Buoyant",
+      "B. Peculiar",
+      "C. Zestful",
+      "D. Normal."
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics We travelled to an obscure little town",
+    "options": [
+      "A. rugged",
+      "B. Distinguished",
+      "C. Secluded",
+      "D. inglorious"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics She is known for her bizarre dressing.",
+    "options": [
+      "A. Natural",
+      "B. Weird",
+      "C. Obsolete",
+      "D. Odious"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics. She gave a caustic remark on the occasion",
+    "options": [
+      "A. tangible",
+      "B. Friendly",
+      "C. insignificant",
+      "D. Sarcastic."
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics. It was a good try but it didn't quite work out.",
+    "options": [
+      "A. Come to",
+      "B. come off",
+      "C. come from",
+      "D. come for"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics. Garuba’s performances in the competition was horrid.",
+    "options": [
+      "A. terrible",
+      "B. encouraging",
+      "C. Commendable",
+      "D. rigid."
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics. Just me the basic facts with needless details",
+    "options": [
+      "A. relevant",
+      "B. extraneous",
+      "C. essential",
+      "D. critical"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics. Usman likes toys made with bright and animated colours.",
+    "options": [
+      "A. dull",
+      "B. sparkling",
+      "C. black",
+      "D. deep"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics. The man has strong distaste for alcohol.",
+    "options": [
+      "A. love",
+      "B. aversion",
+      "C. desire",
+      "D. excitement."
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics. The schism in the organization is on the increase.",
+    "options": [
+      "A. disagreement",
+      "B. understanding",
+      "C. opportunity",
+      "D. rot"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s) The number of stores will be increased twenty to thirty.",
+    "options": [
+      "A. from",
+      "B. on",
+      "C. at",
+      "D. into"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s) bomb had earlier been defused",
+    "options": [
+      "A. A leaf",
+      "B. An alive",
+      "C. A life",
+      "D. A live"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s) The mechanic did not tell me the brakes bad",
+    "options": [
+      "A. were",
+      "B. are",
+      "C. is",
+      "D. was."
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s) Tayo could have supplied the goods but it was into two",
+    "options": [
+      "A. splitting",
+      "B. split",
+      "C. splited",
+      "D. splits."
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s) Had Aisha realized what marriage entails, she",
+    "options": [
+      "A. could have not rush into it",
+      "B. would have rushes into it",
+      "C. would not have rushes into it",
+      "D. would not have rushed into it."
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s) , a good leader must have two characteristics.",
+    "options": [
+      "A. First and foremost",
+      "B. First and formost",
+      "C. First and formust",
+      "D. First and farmost"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s) The company deals computer software",
+    "options": [
+      "A. with",
+      "B. for",
+      "C. in",
+      "D. to."
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s) There is no logic any of their claims.",
+    "options": [
+      "A. with",
+      "B. in",
+      "C. from",
+      "D. up"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s) the house was an easy task for the demolition squad.",
+    "options": [
+      "A. Bringing forth",
+      "B. Tearing down",
+      "C. Bringing up",
+      "D. Tearing with."
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s) The player sat on the bench the match lasted.",
+    "options": [
+      "A. since",
+      "B. when",
+      "C. that",
+      "D. while"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s) He ran out when he saw the teacher ?",
+    "options": [
+      "A. didn't he",
+      "B. isn't he",
+      "C. does he",
+      "D. is he."
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s) Parents should be good examples their children.",
+    "options": [
+      "A. to",
+      "B. at",
+      "C. from",
+      "D. by."
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s) He travelled last week",
+    "options": [
+      "A. somewhat",
+      "B. somewhere",
+      "C. some at",
+      "D. somewhere"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s) He was present at the party ?",
+    "options": [
+      "A. wasn't he",
+      "B. did he",
+      "C. could he",
+      "D. didn't he."
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s) The prisoners had been from all contacts",
+    "options": [
+      "A. kept upon",
+      "B. kept apart",
+      "C. kept for",
+      "D. kept on."
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Choose the option that has the same sound as the one represented by the letter(s) underlined. Bore",
+    "options": [
+      "A. call",
+      "B. curl",
+      "C. slot",
+      "D. hum"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Choose the option that has the same sound as the one represented by the letter(s) underlined. Head",
+    "options": [
+      "A. said",
+      "B. heard",
+      "C. herd",
+      "D. shirt"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Choose the option that has the same sound as the one represented by the letter(s) underlined. Sky",
+    "options": [
+      "A. cite",
+      "B. eats",
+      "C. breaks",
+      "D. coil"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Choose the option that has the same sound as the one represented by the letter(s) underlined. Loath",
+    "options": [
+      "A. breathe",
+      "B. that",
+      "C. thaw",
+      "D. tank"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Choose the option that has the same sound as the one represented by the letter(s) underlined. Van",
+    "options": [
+      "A. of",
+      "B. often",
+      "C. off",
+      "D. physics."
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Choose the option that has the same sound as the one represented by the letter(s) underlined. Lodge",
+    "options": [
+      "A. soldier",
+      "B. rogue",
+      "C. go",
+      "D. measure."
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Choose the option that rhymes with the given word. Suite",
+    "options": [
+      "A. tree",
+      "B. breath",
+      "C. bleat",
+      "D. sweet."
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Choose the option that rhymes with the given word. Cart",
+    "options": [
+      "A. lash",
+      "B. cat",
+      "C. part",
+      "D. pack."
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Choose the option that rhymes with the given word. Sight",
+    "options": [
+      "A. skate",
+      "B. short",
+      "C. cite",
+      "D. plait"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Choose the appropriate stress pattern from the options. The stress syllables are written in capital letter(s). Programmatic",
+    "options": [
+      "A. proGRAMmatic",
+      "B. PROgrammatic",
+      "C. programMATIC",
+      "D. programmatIC"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Choose the appropriate stress pattern from the options. The stress syllables are written in capital letter(s). Certification",
+    "options": [
+      "A. certiFIcation",
+      "B. CERtification",
+      "C. certifiCAtion",
+      "D. cerTIfication."
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "Choose the appropriate stress pattern from the options. The stress syllables are written in capital letter(s). Motivation",
+    "options": [
+      "A. moTIvation",
+      "B. motivaTION",
+      "C. motiVAtion",
+      "D. Motivation"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "The words in capital letter has the emphatic stress. Choose the option to which the given sentence relates. Bukola’s UNCLE is a strict teacher",
+    "options": [
+      "A. Is Bukola’s uncles a strict cook?",
+      "B. Is Tunde’s uncle a strict teacher?",
+      "C. Is Bukola’s aunt a strict teacher?",
+      "D. Is Bukola’s uncle an easy going teacher?"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "The words in capital letter has the emphatic stress. Choose the option to which the given sentence relates. She puts spoon on the CHAIR.",
+    "options": [
+      "A. Did she put the fork on the chair?",
+      "B. Did she put the spoon on the chair?",
+      "C. Who put the spoon on the chair?",
+      "D. Who took the spoon on the chair?"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "The words in capital letter has the emphatic stress. Choose the option to which the given sentence relates. ASA is a lawyer",
+    "options": [
+      "A. Is Asa a robber?",
+      "B. Who is a lawyer?",
+      "C. Is Asa the lawyer?",
+      "D. Was Asa the lawyer? USE OF ENGLISH"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "q": "The view expressed by the writer in the last paragraph is that",
+    "options": [
+      "A. the number of alcoholics and smoker is certainly increasing",
+      "B. more people appear to take to drinking and smoking",
+      "C. sales of alcohol and tobacco products have improved tremendously",
+      "D. more people now abstain from drinking and smoking"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "It can be concluded from the passage that morality, religion and economy are",
+    "options": [
+      "A. somewhat interconnected",
+      "B. clearly interconnected",
+      "C. certainly different",
+      "D. certainly unrelated"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "According to the passage, the moralist idea is that",
+    "options": [
+      "A. the smoking of cigarettes is bad and unacceptable",
+      "B. it is typically African not to smoke cigarettes",
+      "C. people should accept a point of view only when they are convinced",
+      "D. smoking is not good but a little alcohol may be permitted"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Which of the following statements is true according to the passage?",
+    "options": [
+      "A. total abstinence from drinking and smoking is a religious obligation",
+      "B. smoking and drinking may have positive effects on the economy",
+      "C. every one ignores the moralist view on drinking and smoking",
+      "D. people who drink or smoke surely die of cancer"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "The positions maintained by the moralist and the economist can be described as being",
+    "options": [
+      "A. quite indifferent",
+      "B. very agreeable",
+      "C. very passionate",
+      "D. at variance"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence Ramatu expressed her feelings in no uncertain terms",
+    "options": [
+      "A. she expressed it feebly and sickly",
+      "B. she expresses it quietly and cautiously",
+      "C. she expressed it secretly and courageously",
+      "D. she expressed it clearly and strongly"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence Usman needs to get his act together if he wants to pass the examination",
+    "options": [
+      "A. he needs to put on his stage costume",
+      "B. he needs to be fast when writing the examination",
+      "C. he needs to organise himself",
+      "D. he needs to put all points down in the examination"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence As the drama unfolded, Olatinuke was advised to keep her shirt on",
+    "options": [
+      "A. she was advised to stay calm",
+      "B. she was advised to commit herself",
+      "C. she was advised to join the club",
+      "D. she was advised to wear her shirt"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence The team's poor performance at the tournament plumbed the depths of horror.",
+    "options": [
+      "A. the team's performance was rewarded",
+      "B. the team's performance took them to the next round",
+      "C. the team's performance was enjoyed by all",
+      "D. the team's performance was full of disappointment"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence He is a clinging child",
+    "options": [
+      "A. He is a bully",
+      "B. He likes to cling with his sister",
+      "C. He is possessive",
+      "D. He is a handsome young man"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics The relationship between the couple has been frosty",
+    "options": [
+      "A. amenable",
+      "B. fraudulent",
+      "C. frugal",
+      "D. cordial"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics The dressmaker unpicked the seam of the shirt",
+    "options": [
+      "A. tore up",
+      "B. sewed up",
+      "C. threaded",
+      "D. picked up"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics Some of my neighbours have an antipathy to dogs",
+    "options": [
+      "A. enmity towards",
+      "B. alarm for",
+      "C. acronym",
+      "D. affection for"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics Chibuzor gave a curt nod and walked away",
+    "options": [
+      "A. rude",
+      "B. polite",
+      "C. gentle",
+      "D. shocking"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics The girl took a cursory glance at the letter and hid it",
+    "options": [
+      "A. brief",
+      "B. sententious",
+      "C. lasting",
+      "D. concise"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics The accused was eventually convicted",
+    "options": [
+      "A. initially",
+      "B. finally",
+      "C. subsequently",
+      "D. consequently"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics My niece has an unquenchable thirst for adventure stories",
+    "options": [
+      "A. an illegitimate",
+      "B. a spurious",
+      "C. an inextinguishable",
+      "D. a reduced"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics Musa is a gifted but erratic player",
+    "options": [
+      "A. regular",
+      "B. strong",
+      "C. unstable",
+      "D. unpredictable"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics The testimony of the witness was vague",
+    "options": [
+      "A. real",
+      "B. factual",
+      "C. true",
+      "D. clear"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics As a student, Isa tried communal living for a few years",
+    "options": [
+      "A. shared",
+      "B. private",
+      "C. collective",
+      "D. general"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics The lamb is a feeble little animal",
+    "options": [
+      "A. fat",
+      "B. weak",
+      "C. loving",
+      "D. quite"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the nearest in meaning to the word or phrase in italics The chairman admires incessant meetings",
+    "options": [
+      "A. planned",
+      "B. unusual",
+      "C. irregular",
+      "D. constant"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the nearest in meaning to the word or phrase in italics The exhibition was an eye opener to all",
+    "options": [
+      "A. dispatch",
+      "B. examination",
+      "C. style",
+      "D. display"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the nearest in meaning to the word or phrase in italics The first round of the tournament was a doddle",
+    "options": [
+      "A. exasperating",
+      "B. balanced",
+      "C. dodgy",
+      "D. easy"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the nearest in meaning to the word or phrase in italics As a journalist, Bala has always had a nose for stories",
+    "options": [
+      "A. a command",
+      "B. cynical statement",
+      "C. soft comment",
+      "D. an instinct"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the nearest in meaning to the word or phrase in italics The actress screamed when she noticed an object behind her",
+    "options": [
+      "A. wailed",
+      "B. protested",
+      "C. waded in",
+      "D. stormed out"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the nearest in meaning to the word or phrase in italics Today's weather is favourable for a game of tennis",
+    "options": [
+      "A. impartial",
+      "B. abnormal",
+      "C. encouraging",
+      "D. disapproving"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the nearest in meaning to the word or phrase in italics All the candidates looked aghast at the first reading of the questions",
+    "options": [
+      "A. fulfilled",
+      "B. dismayed",
+      "C. satisfied",
+      "D. again"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the nearest in meaning to the word or phrase in italics I am tired of your eternal argument",
+    "options": [
+      "A. open",
+      "B. strong",
+      "C. constant",
+      "D. useless"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the nearest in meaning to the word or phrase in italics Joke gave Muhammad a jaunty smile",
+    "options": [
+      "A. frightful",
+      "B. cheerful",
+      "C. discouraging",
+      "D. Inviting"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s) You live in the city now, ?",
+    "options": [
+      "A. are you",
+      "B. don't you",
+      "C. didn't you",
+      "D. haven't you"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s) Concrete is made of",
+    "options": [
+      "A. sand and cement",
+      "B. a sand and a cement",
+      "C. sand and a cement",
+      "D. a sand and cement"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s) Suana that hexagons had five sides, but later he knew they were six-sided figures.",
+    "options": [
+      "A. would have believed",
+      "B. had believed",
+      "C. believes",
+      "D. has believed"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s) The to the fallen heroes was erected at the market square",
+    "options": [
+      "A. exhibition",
+      "B. monument",
+      "C. myth",
+      "D. picture"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s) The Flying Eagles of Nigeria couldn't have won the match if they hadn't prepared well, ?",
+    "options": [
+      "A. can't they",
+      "B. couldn't they",
+      "C. could they",
+      "D. can they"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s) They all gathered to exhume the musician's corpse for examination",
+    "options": [
+      "A. posthumous",
+      "B. post-mortem",
+      "C. post-natal",
+      "D. orthopaedic"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s) I have been doing this exercise",
+    "options": [
+      "A. for five minutes",
+      "B. five minutes ago",
+      "C. since five minutes",
+      "D. during five minutes"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s) Oloyede always sleeps like a baby, ?",
+    "options": [
+      "A. does he",
+      "B. could he",
+      "C. doesn't he",
+      "D. did he"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s) The man was given degree despite the fact that he did not attend a university",
+    "options": [
+      "A. an honorary",
+      "B. an honourable",
+      "C. a ceremonial",
+      "D. a ceremonious"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s) My father has just bought",
+    "options": [
+      "A. a peugeot brand new car",
+      "B. a car brand new peugeot",
+      "C. a new brand peugeot car",
+      "D. a brand new peugeot"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s) The university is a corporate body made different colleges",
+    "options": [
+      "A. in with",
+      "B. of with",
+      "C. up of",
+      "D. up from"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s) The secretary hadn't money left.",
+    "options": [
+      "A. any",
+      "B. anything",
+      "C. none",
+      "D. no"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s) The King was recognised the scar on his face.",
+    "options": [
+      "A. with",
+      "B. to",
+      "C. by",
+      "D. for"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s) Nkiru has lots of friends, but I have",
+    "options": [
+      "A. only a little",
+      "B. little",
+      "C. only a few",
+      "D. few"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s) The HOD says she considers her degree certificate than as a prize through labour",
+    "options": [
+      "A. rather as a gift of God",
+      "B. rather God as a gift",
+      "C. as a gift rather of God",
+      "D. as a rather gift of God"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the option that has the same sound as the one represented by the letter(s) underlined Waiter",
+    "options": [
+      "A. flavour",
+      "B. cite",
+      "C. road",
+      "D. hair"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the option that has the same sound as the one represented by the letter(s) underlined Flee",
+    "options": [
+      "A. field",
+      "B. skate",
+      "C. faith",
+      "D. rid"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the option that has the same sound as the one represented by the letter(s) underlined Palm",
+    "options": [
+      "A. florid",
+      "B. ranch",
+      "C. blunt",
+      "D. lunch"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the option that has the same sound as the one represented by the letter(s) underlined Phantom",
+    "options": [
+      "A. physics",
+      "B. pew",
+      "C. phew",
+      "D. party"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the option that has the same sound as the one represented by the letter(s) underlined Chest",
+    "options": [
+      "A. fixture",
+      "B. school",
+      "C. charisma",
+      "D. mass"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the option that has the same sound as the one represented by the letter(s) underlined Epitaph",
+    "options": [
+      "A. pneumonia",
+      "B. fan",
+      "C. paper",
+      "D. pseudo"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the option that rhymes with the given word Ever",
+    "options": [
+      "A. never",
+      "B. heavier",
+      "C. fever",
+      "D. favour"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the option that rhymes with the given word Cable",
+    "options": [
+      "A. bible",
+      "B. mabel",
+      "C. able",
+      "D. marble"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the option that rhymes with the given word Mail",
+    "options": [
+      "A. bale",
+      "B. slate",
+      "C. girl",
+      "D. galle"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the appropriate stress pattern from the options, the stress syllables are written in capital letter(s) Advantages",
+    "options": [
+      "A. advantaGES",
+      "B. adVANtages",
+      "C. ADvantages",
+      "D. advanTAges"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the appropriate stress pattern from the options, the stress syllables are written in capital letter(s) Intentional",
+    "options": [
+      "A. inTENtional",
+      "B. INtentional",
+      "C. intentionAL",
+      "D. intentioNAL"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Choose the option that is stressed on the first syllable",
+    "options": [
+      "A. guitar",
+      "B. guilty",
+      "C. confuse",
+      "D. relief"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "The words in capital letter has the emphatic stress. Choose the option to which the given sentence relates. I left my bag on the TABLE",
+    "options": [
+      "A. Is the bag left under the table?",
+      "B. Did I leave the shoe on the table?",
+      "C. Who left the bag on the table?",
+      "D. Where did I leave the bag?"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "The words in capital letter has the emphatic stress. Choose the option to which the given sentence relates. Kanu can play FOOTBALL",
+    "options": [
+      "A. Who can play football?",
+      "B. What can Kanu play?",
+      "C. What can Kanu do with football?",
+      "D. Why should Kanu play football?"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "The words in capital letter has the emphatic stress. Choose the option to which the given sentence relates. Aisha plays TENNIS always",
+    "options": [
+      "A. Who plays tennis always?",
+      "B. Does Aisha watch tennis always?",
+      "C. What does Aisha play always?",
+      "D. When does Aisha play tennis? USE OF ENGLISH"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "q": "Advantages usually enjoyed by men began to",
+    "options": [
+      "A. weaken through gender sensitivity",
+      "B. diminish through women emancipation",
+      "C. dwindle with the advancement of civilization",
+      "D. fade with wide self-realization"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "According to the passage, what two masters are women struggling to serve?",
+    "options": [
+      "A. The health and education of their children",
+      "B. The husband and the children",
+      "C. The office and the husband",
+      "D. The office and the home"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "According to the passage, ancient societies were secured because",
+    "options": [
+      "A. men were assigned superior roles",
+      "B. the tasks of women and men were outlined",
+      "C. women accepted inferior roles interpreted the roles of women were commonly interpreted",
+      "D. the roles of women were commonly interpreted"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "From the passage, it can be inferred that women emancipation results in",
+    "options": [
+      "A. women becoming covertly ambitious",
+      "B. resentment of men by gain women",
+      "C. crises at tome",
+      "D. men becoming nonchalant."
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "The phrase suffer tremendously, as used in the passage, means",
+    "options": [
+      "A. greatly disadvantaged",
+      "B. to become worse",
+      "C. badly unpleased",
+      "D. badly affected"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "This question is based al S.I Manyika's INDEPENDENCE The college food was described as dreadful by",
+    "options": [
+      "A. Jane",
+      "B. Charlie",
+      "C. Mahul",
+      "D. Vanessa"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "This question is based al S.I Manyika's INDEPENDENCE According to novel, Vanessa fell sick after the party at Charlie's place because",
+    "options": [
+      "A. she drank too much and skipped meals",
+      "B. of the continuous ringing of Oxford bells",
+      "C. her room was not warm enough",
+      "D. the food in the college was terrible"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "This question is based al S.I Manyika's INDEPENDENCE In the novel, it was that Vanessa's father was in the",
+    "options": [
+      "A. Northern Protectorate",
+      "B. colonial service",
+      "C. house of commons",
+      "D. house of lords"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "This question is based al S.I Manyika's INDEPENDENCE From the novel, the Nigerian film shown created mixed reactions in",
+    "options": [
+      "A. Simon",
+      "B. Ike",
+      "C. Francis",
+      "D. Margery"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "This question is based al S.I Manyika's INDEPENDENCE The mention of Negritude, in the novel, is an example of",
+    "options": [
+      "A. African contribution to democracy",
+      "B. African tribal custom",
+      "C. African contribution to western civilization",
+      "D. African adoption of western culture"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "This question is based al S.I Manyika's INDEPENDENCE Who among the following emphasized the importance of cross-cultural breeding?",
+    "options": [
+      "A. Sengbor.",
+      "B. Cesaire",
+      "C. Charlie",
+      "D. Simon"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "This question is based al S.I Manyika's INDEPENDENCE Mr. Richardson's daughter bothered about Lumumba and the wanted to go to---",
+    "options": [
+      "A. Gabon",
+      "B. Congo",
+      "C. Togo",
+      "D. Guinea"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "This question is based al S.I Manyika's INDEPENDENCE The first time Tayo met Vanessa was at",
+    "options": [
+      "A. the film presentation",
+      "B. hail for tutorials",
+      "C. the Charlie's place",
+      "D. the Oxford University"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "This question is based al S.I Manyika's INDEPENDENCE The article published in Students' paper criticized women for",
+    "options": [
+      "A. playing music always",
+      "B. overdressing",
+      "C. distracting the men",
+      "D. partying"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "This question is based al S.I Manyika's INDEPENDENCE In the novel, Francis pointed out to Ike that Nigerians",
+    "options": [
+      "A. were inexperienced in Western democracy",
+      "B. had taken control of their own affairs",
+      "C. should know their history better",
+      "D. should speak with one voice"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentences The government didn't mind my mentioning his name",
+    "options": [
+      "A. He was not angry when I mentioned his name",
+      "B. He was angry when I mentioned his name",
+      "C. He told me not to mention his name",
+      "D. He forgot to mention his name to me"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentences The leader said he was not unaware of the plight of the people",
+    "options": [
+      "A. He knew of their plight",
+      "B. He was not informed of their plight",
+      "C. He could not understand their plight",
+      "D. He felt their plight"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentences But for the expense, I'd buy bigger car",
+    "options": [
+      "A. I want to buy a bigger car because it is more expensive",
+      "B. I will not buy bigger car because it is too expensive",
+      "C. I would buy a bigger car if I had more money",
+      "D. I would like to buy a bigger car if it was not so expensive"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentences No sooner had he got into the pool than the telephone rang",
+    "options": [
+      "A. He didn't get into the pool because the telephone rang",
+      "B. The telephone rang just after he got into the pool",
+      "C. The telephone rang as he was getting into the pool",
+      "D. The telephone rang before he got into the pool"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentences My father said I might just as well stay at home for another year",
+    "options": [
+      "A. I should stay at home because I had no other choice",
+      "B. I might stay at home and do well",
+      "C. Staying at home was probably the best thing for me",
+      "D. I ought to stay at home in order to do well"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. He needed not to have played in the position of quarterback in the volley ball.",
+    "options": [
+      "A. He participated in the game in his unusual position",
+      "B. Nobody expected him to have participated in the game",
+      "C. He wanted to play in a position other than the one he was offered.",
+      "D. Someone did not want him to play in the position that he played"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. I wouldn’t have responded to his rude talk, if I were you.",
+    "options": [
+      "A. The advice was taken by the respondent, so he did not respond to the talk",
+      "B. The adviser put himself in the respondent’s position, so he did not respond to the talk",
+      "C. The respondent replied to the speaker’s talk, although he ought not have done so",
+      "D. What was advisable was that the respondent gave it back to the speaker"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. He could not speak out because he had a feet of clay.",
+    "options": [
+      "A. His feet was muddy",
+      "B. He was weak and cowardly",
+      "C. He was clumsy and lazy",
+      "D. He was shy and timid"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. The player wasted a golden opportunity during the penalty shoot-out.",
+    "options": [
+      "A. The player first the bar",
+      "B. The player did not score the shot",
+      "C. The player scored the shot that made them win the gold cup",
+      "D. Instead of a silver cup, they received the golden one"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "Select the option that best explains the information conveyed in the sentence. As far as Abu is concerned, Mero should be given fifty naira at the most",
+    "options": [
+      "A. All Abu is saying is that Mero probably deserves more than fifty naira and not less",
+      "A. All Abu is concerned with is that Mero should be given nothing more than fifty naira",
+      "C. In Abu’s estimation, Mero merits not more than fifty naira",
+      "D. In Abu’s opinion, Mero deserves fifty naira or probably more"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. The King's security men relegated to the east",
+    "options": [
+      "A. discharge from",
+      "B. known in",
+      "C. accepted in",
+      "D. hated by"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. The minister averred his commitment",
+    "options": [
+      "A. denied",
+      "B. pledged",
+      "C. undertook",
+      "D. accented"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. The company was on the brink of a financial abyss.",
+    "options": [
+      "A. difficult",
+      "B. scandal",
+      "C. services",
+      "D. stability"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. Nosa is indisposed",
+    "options": [
+      "A. anxious",
+      "B. fragile",
+      "C. healthy",
+      "D. cautious"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. A conscientious student should not receive a reward",
+    "options": [
+      "A. An irresponsible",
+      "B. A persistent",
+      "C. busy",
+      "D. An active"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. The poem appealed to my sixth sense",
+    "options": [
+      "A. brain",
+      "B. mind",
+      "C. instinct",
+      "D. intelligence"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. Sophie anticipated the celebration of her tenth birthday",
+    "options": [
+      "A. suggested",
+      "B. hoped for",
+      "C. imagined",
+      "D. waited for"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. Mr. Bola is an irascible young man",
+    "options": [
+      "A. a weak",
+      "B. a crabbed",
+      "C. a hilarious",
+      "D. a rude"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. She became neurotic as a result of her performance",
+    "options": [
+      "A. balanced",
+      "B. disturbed",
+      "C. rational",
+      "D. excited"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "Choose the option opposite in meaning to the word or phrase in italics. Malam Aliyu lived in lack",
+    "options": [
+      "A. surplus",
+      "B. penury",
+      "C. plenitude",
+      "D. opulence"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics. The lazy man cast a lustful glance at his neighbour's wife.",
+    "options": [
+      "A. hateful",
+      "B. quick",
+      "C. covetous",
+      "D. envious"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics. They accused him of fomenting political unrest.",
+    "options": [
+      "A. inciting",
+      "B. discouraging",
+      "C. preventing",
+      "D. guiding."
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics. You can learn a great deal just from watching other players.",
+    "options": [
+      "A. invent",
+      "B. accumulate",
+      "C. allow",
+      "D. discover."
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics. All the researchers were asked to garner information on the new viral infection.",
+    "options": [
+      "A. collect B disseminate",
+      "C. distort",
+      "D. give."
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics. The dispute between the two countries has resulted in the severing of diplomatic relations",
+    "options": [
+      "A. breaking",
+      "B. securing",
+      "C. swapping",
+      "D. strengthening"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s). You have to how to make the whole week a memorable one",
+    "options": [
+      "A. thick up",
+      "B. thick on",
+      "C. thick about",
+      "D. think at"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s). Last week I your friend in the salon",
+    "options": [
+      "A. came into",
+      "B. came by",
+      "C. came across",
+      "D. came over"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s). We might wait a little longer, but he would not soon",
+    "options": [
+      "A. turn out",
+      "B. turn up",
+      "C. turn in",
+      "D. turn over"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s). His are tied, so he could not do anything to help her",
+    "options": [
+      "A. shoulders",
+      "B. arms",
+      "C. hands",
+      "D. legs"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s). If you want to be part of the conference, you have to a form on me",
+    "options": [
+      "A. fill up",
+      "B. fill out",
+      "C. fill on",
+      "D. fill over"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s). The flight has been postponed",
+    "options": [
+      "A. schedule",
+      "B. timetable",
+      "C. menu",
+      "D. manifest"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s). My wife should not worry about this trial, I will always her",
+    "options": [
+      "A. stand for",
+      "B. stand by",
+      "C. stand on",
+      "D. stand over"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s). I can tell from the way he talks that he his mentor",
+    "options": [
+      "A. takes after",
+      "B. takes up",
+      "C. takes from",
+      "D. takes back"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s). We have time to before the gallery opens",
+    "options": [
+      "A. Make",
+      "B. waste",
+      "C. conserve",
+      "D. keep"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "Choose the option that best completes the gap(s). The time has now come policy change in Nigeria",
+    "options": [
+      "A. to",
+      "B. for",
+      "C. by",
+      "D. at"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "Choose the option that has the same sound as the one represented by the letter(s) underlined Tolerated",
+    "options": [
+      "A. stale",
+      "B. kneel",
+      "C. met",
+      "D. mat"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "Choose the option that has the same sound as the one represented by the letter(s) underlined gearbox",
+    "options": [
+      "A. bare",
+      "B. feature",
+      "C. beer",
+      "D. teacher"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "Choose the option that has the same sound as the one represented by the letter(s) underlined confusion",
+    "options": [
+      "A. measure",
+      "B. mission",
+      "C. correction",
+      "D. caution"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "Choose the option that has the same sound as the one represented by the letter(s) underlined tertiary",
+    "options": [
+      "A. shame",
+      "B. question",
+      "C. catch",
+      "D. chair"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "Choose the option that has the same sound as the one represented by the letter(s) underlined poster",
+    "options": [
+      "A. jotter",
+      "B. counter",
+      "C. heater",
+      "D. motor"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "Choose the option that has the same sound as the one represented by the letter(s) underlined cowed",
+    "options": [
+      "A. low",
+      "B. flow",
+      "C. loud D.cooed"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "Choose the appropriate stress pattern from the options. The stress syllables are written in capital letter(s). distribution",
+    "options": [
+      "A. distriBUtion",
+      "B. DIStribution",
+      "C. disTRIbution",
+      "D. distribution’"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "Choose the appropriate stress pattern from the options. The stress syllables are written in capital letter(s). irrevocable",
+    "options": [
+      "A. irreVOcable",
+      "B. Irrecocable",
+      "C. iRREvocable",
+      "D. irrevocaBLE"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "The words in capital letter has the emphatic stress. Choose the option to which the given sentence relates. My house is ACROSS the road",
+    "options": [
+      "A. is her house the road?",
+      "B. Is my room across the road?",
+      "C. Is my house on the road?",
+      "D. Is my house across the street?"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "The words in capital letter has the emphatic stress. Choose the option to which the given sentence relates. The shop closes AT 4pm",
+    "options": [
+      "A. Does the shop close by 4pm?",
+      "B. Does the shop opens at 4pm?",
+      "C. Does the stall close at 4pm?",
+      "D. Does a shop close at 4pm? USE OF ENGLISH"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2017"
+  },
+  {
+    "q": "What point of view is the Geography master fond of advancing?",
+    "options": [
+      "A. Africans are infested with all kinds of problem",
+      "B. Only the white men are free from deadly diseases",
+      "C. The Almighty God is punishing Africans for sins they committed long ago.",
+      "D. God did not curse the white people."
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "Which of the following arguments did he not use to support his vies?",
+    "options": [
+      "A. In Africa, the mosquito causes deadly malaria whereas in Britain, it doesn't bite or caw e malaria",
+      "B. There is malaria both in Britain and in African Countries",
+      "C. The snakes in Africa are deadly but those in Britain are harmless",
+      "D. The sickle cell disease is peculiar to the black race."
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "\"...rock the boat\" What figure of speech is this expression?",
+    "options": [
+      "A. Simile",
+      "B. Metaphor",
+      "C. Personification",
+      "D. Hyperbole"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "What extra argument (lid the new boy offer after countering each of vie master's points?",
+    "options": [
+      "A. There are problems especially in Africa",
+      "B. There are deadly snakes be the in America and Africa",
+      "C. There are harmless snakes in Britain",
+      "D. Many white men prefer the African climate to their own."
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "Why do you think the master fought back with his look rather than with further argument?",
+    "options": [
+      "A. He knew that the boy's points were valid",
+      "B. He had answers to the boy's argument",
+      "C. He went out to sort for the boy's argument",
+      "D. He already made up his mind on his points."
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "\"...who had no answer to this new battle\". What grammatical name is given to the above passage expression as it is used in the passage?",
+    "options": [
+      "A. (non-defining) relative clause",
+      "B. Adverbial clause",
+      "C. Subordinate clause",
+      "D. Main clause"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "After the sentence below, a list of possible interpretations is given. Choose the interpretation that you consider appropriate. When asked to state her side of the story, Bunmi started by beating about the bush. This means that Bunmi",
+    "options": [
+      "A. went straight to the point",
+      "B. was lost in great thought",
+      "C. followed a bush path",
+      "D. approached the subject without coming to the point."
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "After the sentence below, a list of possible interpretations is given. Choose the interpretation that you consider appropriate. The amount he donated was small. He said it was his widow's mite. This means that",
+    "options": [
+      "A. he was a widow",
+      "B. he was misery.",
+      "C. it was all he could honestly afford",
+      "D. he could have given more."
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "After the sentence below, a list of possible interpretations is given. Choose the interpretation that you consider appropriate. The friendship between Segun and Shehu has turned sour. This means that Segun and Shehu are",
+    "options": [
+      "A. no longer friends",
+      "B. stilt friends",
+      "C. better friends now",
+      "D. getting to understand each other."
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "After the sentence below, a list of possible interpretations is given. Choose the interpretation that you consider appropriate. The driver smelled a rat when the policemen asked him to stop. This means that the driver was",
+    "options": [
+      "A. reckless",
+      "B. suspicious",
+      "C. careful",
+      "D. offensive."
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "After the sentence below, a list of possible interpretations is given. Choose the interpretation that you consider appropriate. The students were as advised to face their studies and let the sleeping dog lie. This means that the students should",
+    "options": [
+      "A. obey the authorities",
+      "B. organise them properly",
+      "C. leave matters as they are now",
+      "D. be as watchful as sleeping dogs."
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "After the sentence below, a list of possible interpretations is given. Choose the interpretation that you consider appropriate. From the way Ngozi behaves, it is obvious she is a greenhorn. This means that Ngozi is",
+    "options": [
+      "A. arrogant",
+      "B. cautious",
+      "C. inexperienced",
+      "D. uncivilised."
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "After the sentence below, a list of possible interpretations is given. Choose the interpretation that you consider appropriate. The economic situation is so bad that many wage earners are hardly able to make both ends meet. This means that",
+    "options": [
+      "A. people's income exceed their expenditure",
+      "B. most people are extravagant with their income",
+      "C. people's earnings are not sufficient for their essential needs",
+      "D. most people engage in activities that bring them extra pay."
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "After the sentence below, a list of possible interpretations is given. Choose the interpretation that you consider appropriate. Since I found out his hypocritical nature, I have been keeping him at arm's length. This means that I",
+    "options": [
+      "A. avoid being similar with him",
+      "B. ignore his advice",
+      "C. report him to the authority",
+      "D. stop visiting him."
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "After the sentence below, a list of possible interpretations is given. Choose the interpretation that you consider appropriate. I knew Okoronkwo's father very well and I must say that his son is a chip off the old block. This means that Okoronkwo",
+    "options": [
+      "A. has Chosen the game career as its father",
+      "B. is very much like his father",
+      "C. is a I extremely different sort of person from his lather.",
+      "D. has taken up a different profession from his father's."
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "After the sentence below, a list of possible interpretations is given. Choose the interpretation that you consider appropriate. The debating team was warned to make convincing points and not to play to the gallery. This means that the team should not",
+    "options": [
+      "A. be selfish",
+      "B. underrate opponents",
+      "C. be over-confident",
+      "D. attempt to win cheap popularity."
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "After the sentence below, a list of possible interpretations is given. Choose the interpretation that you consider appropriate. Anyone who thinks that he can succeed in life without working hard is living in a fool's paradise. This means that such a person",
+    "options": [
+      "A. is having an illusion",
+      "B. thinks other people are fools",
+      "C. thinks hat working is merely a joke.",
+      "D. is on the verge of insanity."
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "Choose the options opposite in meaning to the words or phrases in italics. I am happy to inform you that your boys are conscientious",
+    "options": [
+      "A. industrious",
+      "B. carefree",
+      "C. careful",
+      "D. corrupt"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "Choose the options opposite in meaning to the words or phrases in italics. My father is a very prosperous businessman.",
+    "options": [
+      "A. ungrateful",
+      "B. unscrupulous",
+      "C. unskilled",
+      "D. unsuccessful"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "Choose the options opposite in meaning to the words or phrases in italics. My hostess greeted her guest in a very relaxed manner",
+    "options": [
+      "A. energetic",
+      "B. athletic",
+      "C. stiff",
+      "D. perplexed"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "Choose the options opposite in meaning to the words or phrases in italics. Ayo takes his studies rather lightly",
+    "options": [
+      "A. humorously",
+      "B. tediously",
+      "C. carefully",
+      "D. seriously"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "Choose the options opposite in meaning to the words or phrases in italics. The doctor was very gentle with his patients in the examining room",
+    "options": [
+      "A. harsh",
+      "B. rude",
+      "C. rough",
+      "D. unkind"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "Choose the options opposite in meaning to the words or phrases in italics. The President took exception to the ignoble role the young man played in the matter",
+    "options": [
+      "A. honourable",
+      "B. embarrassing",
+      "C. dishonourable",
+      "D. extraordinary"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "Choose the options opposite in meaning to the words or phrases in italics. The man who had been seriously ill was convalescing at a seaside resort",
+    "options": [
+      "A. regaining health",
+      "B. deteriorating in health",
+      "C. recuperating",
+      "D. relaxing"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "Choose the options opposite in meaning to the words or phrases in italics. For millions of years, the world resources have remained boundless",
+    "options": [
+      "A. unlimited",
+      "B. scarce",
+      "C. indomitable",
+      "D. limited"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "Choose the options opposite in meaning to the words or phrases in italics. The difference between the experimental procedures was imperceptible to me",
+    "options": [
+      "A. negligible",
+      "B. significant",
+      "C. obvious",
+      "D. obscure"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "Choose the options opposite in meaning to the words or phrases in italics. His anti-apathy to religion ideas makes him unpopular",
+    "options": [
+      "A. remedy",
+      "B. Consciousness",
+      "C. hostility",
+      "D. receptiveness"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics. Sule admires people who have unbending character",
+    "options": [
+      "A. mobile",
+      "B. steady",
+      "C. wavering",
+      "D. unstable"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics. He detests honesty",
+    "options": [
+      "A. likes",
+      "B. hates",
+      "C. encourages",
+      "D. commands."
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics. As a journalist, Bala has always had a nose for stories.",
+    "options": [
+      "A. soft comment",
+      "B. cynical statement",
+      "C. an instinct",
+      "D. a command"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics The student’s union leader delivered his speech extempore.",
+    "options": [
+      "A. out-of-hand",
+      "B. off the cuff",
+      "C. accurately",
+      "D. courageously"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics His story gave us an inkling of what he passed through during the strike.",
+    "options": [
+      "A. a possible idea",
+      "B. a taste",
+      "C. a summary",
+      "D. the right view"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics These policies have been expoused by the ruling party.",
+    "options": [
+      "A. condemned",
+      "B. rejected",
+      "C. supported",
+      "D. outlined"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics We must not foreclose reconciliation as the purpose of his trip.",
+    "options": [
+      "A. exclude",
+      "B. consider",
+      "C. underestimate",
+      "D. forgo"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word or phrase in italics Her finding exploded widely held beliefs about learning.",
+    "options": [
+      "A. challenged",
+      "B. debunked",
+      "C. projected",
+      "D. confirmed"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "Choose the options that best complete the gap(s). He was by the trickster.",
+    "options": [
+      "A. assisted",
+      "B. duped",
+      "C. enjoined",
+      "D. encouraged"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "Choose the options that best complete the gap(s). When the soldiers saw that resistance was they stopped fighting",
+    "options": [
+      "A. inadequate",
+      "B. inefficient",
+      "C. futile",
+      "D. successful"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "Choose the options that best complete the gap(s). You should read all the carefully before you decide where to go on holiday.",
+    "options": [
+      "A. brochures",
+      "B. prospectus",
+      "C. tickets",
+      "D. handouts"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "Choose the options that best complete the gap(s). The Emir and Conqueror of the enemy territories next week.",
+    "options": [
+      "A. arrives",
+      "B. are to arrive",
+      "C. arrive",
+      "D. are arriving"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "Choose the options that best complete the gap(s). We ought to have visited the Governor,",
+    "options": [
+      "A. isn't it",
+      "B. oughtn't we",
+      "C. shouldn't we",
+      "D. haven't"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "Choose the options that best complete the gap(s). He didn't sense Obi's presence in the room, did he?",
+    "options": [
+      "A. yes, he did",
+      "B. No, he did",
+      "C. Yes, he didn't",
+      "D. No, he didn't"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "Choose the options that best complete the gap(s). You can stay here as you are quiet.",
+    "options": [
+      "A. as long",
+      "B. so long",
+      "C. in a much",
+      "D. for as long"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word in italics. The witness averred that she had seen Dosun at the scene of the crime",
+    "options": [
+      "A. argued",
+      "B. confirmed",
+      "C. denied",
+      "D. affirmed"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word in italics. The high cost of living these days calls for a lot of frugality",
+    "options": [
+      "A. extravagance",
+      "B. economy",
+      "C. recklessness",
+      "D. prudence."
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word in italics. Tunde's reaction underscores the points I was making.",
+    "options": [
+      "A. justifies",
+      "B. summarizes",
+      "C. emphasizes",
+      "D. clarifies"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word in italics. Everyone admired the manager's adroit handling of the crisis in the company",
+    "options": [
+      "A. emphasised",
+      "B. skilful",
+      "C. tactless",
+      "D. clumsy"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "Choose the option nearest in meaning to the word in italics. The principal took exception to the ignoble role the teacher played in the matter",
+    "options": [
+      "A. embarrassing",
+      "B. honourable",
+      "C. extraordinary",
+      "D. dishonourable"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "Choose the option that has the same sound as the one represented by the letter(s) underlined. key",
+    "options": [
+      "A. sit",
+      "B. bet",
+      "C. seat",
+      "D. tread"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "Choose the option that has the same sound as the one represented by the letter(s) underlined. taught",
+    "options": [
+      "A. law",
+      "B. aunt",
+      "C. count",
+      "D. plateau"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "Choose the option that has the same vowel sound as the one represented by the letter(s) underlined. odour",
+    "options": [
+      "A. flow",
+      "B. sugar",
+      "C. hold",
+      "D. floor"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "Choose the option that has the same vowel sound as the one represented by the letter(s) underlined. palm",
+    "options": [
+      "A. ranch",
+      "B. florid",
+      "C. lunch",
+      "D. plait"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "Choose the option that has the same consonant sound as the one represented by the letter(s) underlined. vision",
+    "options": [
+      "A. instruction",
+      "B. mansion",
+      "C. nation",
+      "D. enclosure."
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "Choose the option that has the same consonant sound as the one represented by the letter(s) underlined. gnash",
+    "options": [
+      "A. forge",
+      "B. new",
+      "C. king",
+      "D. ring"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "Choose the option that rhymes with the given word. tax",
+    "options": [
+      "A. box",
+      "B. lacks",
+      "C. back",
+      "D. ask"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "Choose the option that rhymes with the given word Sheer",
+    "options": [
+      "A. Sheila",
+      "B. care",
+      "C. ear",
+      "D. sherry"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "Choose the appropriate stress item from the options. The syllables are written in capital letters. comfortable",
+    "options": [
+      "A. COMfortable",
+      "B. comFORtable",
+      "C. comfortaBLE",
+      "D. comforTABLE"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "Choose the appropriate stress item from the options. The syllables are written in capital letters. incapacitate",
+    "options": [
+      "A. inCApacitate",
+      "B. incaPAcitate",
+      "C. INcapacitate",
+      "D. incapaciTATE."
+    ],
+    "answer": "B",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "Choose the appropriate stress item from the options. The syllables are written in capital letters. encouragement",
+    "options": [
+      "A. Encouragement",
+      "B. encouragement",
+      "C. encouRAgement",
+      "D. encouragement"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "The word in capital letters has the emphatic. Choose the option to which the given sentence relates ADA finished her home work yesterday",
+    "options": [
+      "A. Was Ada helped to do her homework?",
+      "B. Did Ada do her homework?",
+      "C. When did Ada finish her homework?",
+      "D. Who finished her home work yesterday?"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "year": "2018"
+  },
+  {
+    "q": "The word in capital letters has the emphatic. Choose the option to which the given sentence relates Dayo DROVE to Kaduna",
+    "options": [
+      "A. Did Dayo fly to Kaduna?",
+      "B. Did Dayo drive to Abuja?",
+      "C. Did Dayo drive to Kaduna?",
+      "D. Where did Dayo drive to? USE OF ENGLISH"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "year": "2018"
+  }
+]

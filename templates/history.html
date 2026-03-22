@@ -1,0 +1,101 @@
+{% extends "base.html" %}
+{% block title %}My History — Merit CBT{% endblock %}
+
+{% block extra_styles %}
+.history-outer { max-width: 800px; margin: 0 auto; padding: 2rem 1.5rem; }
+h2 { font-size: 1.4rem; font-weight: 700; color: var(--navy); margin-bottom: 1.2rem; }
+
+.history-card {
+    background: var(--white);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 1.2rem 1.4rem;
+    margin-bottom: 1rem;
+    box-shadow: var(--shadow);
+}
+.history-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 0.75rem;
+}
+.history-ts { font-size: 0.78rem; color: var(--slate); font-family: 'IBM Plex Mono', monospace; }
+.total-badge {
+    background: var(--navy);
+    color: #fff;
+    border-radius: 999px;
+    padding: 0.25rem 0.85rem;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.9rem;
+    font-weight: 700;
+}
+.subj-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+.subj-item {
+    background: var(--green-lt);
+    border-radius: 6px;
+    padding: 0.3rem 0.7rem;
+    font-size: 0.8rem;
+    color: var(--green);
+    font-weight: 600;
+}
+.timeout-note {
+    font-size: 0.75rem;
+    color: var(--red);
+    font-weight: 600;
+    margin-top: 0.4rem;
+}
+{% endblock %}
+
+{% block content %}
+<div class="history-outer">
+    <h2>📜 My Exam History</h2>
+    <p style="color:var(--slate); margin-bottom:1.5rem; font-size:0.9rem;">Showing results for <strong>{{ username }}</strong>.</p>
+
+    {% if results %}
+        {% for r in results | reverse %}
+        <div class="history-card">
+            <div class="history-top">
+                <span class="history-ts">{{ r.timestamp[:19] | replace('T', ' ') }}</span>
+                <span class="total-badge">
+                    {% if r.get('total_score') is defined %}
+                        {{ r.total_score | round(1) }} / 400
+                    {% elif r.get('percentage') is defined %}
+                        {{ r.percentage }}%
+                    {% endif %}
+                </span>
+            </div>
+            <div class="subj-grid">
+                {% if r.get('results') %}
+                    {% for subj, d in r.results.items() %}
+                    <span class="subj-item">{{ subj }}: {{ d.score | round(1) }}/100</span>
+                    {% endfor %}
+                {% else %}
+                    <span class="subj-item">{{ r.get('subject','') }}: {{ r.get('score','') }}/{{ r.get('total','') }}</span>
+                {% endif %}
+            </div>
+            {% if r.get('timed_out') %}
+            <div class="timeout-note">⏰ Timed out</div>
+            {% endif %}
+        </div>
+        {% endfor %}
+    {% else %}
+    <div class="card" style="text-align:center; padding:3rem; color:var(--slate);">
+        You haven't completed any exams yet.
+        <br><br>
+        <a href="{{ url_for('select_subjects') }}" class="btn btn-primary">Start an Exam</a>
+    </div>
+    {% endif %}
+
+    <div style="margin-top:1.5rem;">
+        <a href="{{ url_for('select_subjects') }}" class="btn btn-primary">▶ New Exam</a>
+        &nbsp;
+        <a href="{{ url_for('logout') }}" class="btn btn-outline">Logout</a>
+    </div>
+</div>
+{% endblock %}
