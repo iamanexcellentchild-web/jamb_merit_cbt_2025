@@ -140,12 +140,12 @@ def _load_math(filename):
             raw_img = raw_img.lstrip('/')
             if raw_img.startswith('static/'):
                 raw_img = raw_img[len('static/'):]
-            # If it's just a bare filename with no folder, put it in jamb_diagrams/mathematics/
+            # If it's just a bare filename with no folder, put it in jamb_diagrams/maths/
             if '/' not in raw_img:
-                raw_img = 'jamb_diagrams/mathematics/' + raw_img
-            # Fix old wrong path jamb_diagrams/maths/ → jamb_diagrams/mathematics/
-            elif raw_img.startswith('jamb_diagrams/maths/'):
-                raw_img = raw_img.replace('jamb_diagrams/maths/', 'jamb_diagrams/mathematics/')
+                raw_img = 'jamb_diagrams/maths/' + raw_img
+            # Fix old wrong path jamb_diagrams/mathematics/ → jamb_diagrams/maths/
+            elif raw_img.startswith('jamb_diagrams/mathematics/'):
+                raw_img = raw_img.replace('jamb_diagrams/mathematics/', 'jamb_diagrams/maths/')
         return {
             'question':    q.get('question', q.get('q', '')),
             'options':     _normalise_options(q.get('options', {})),
