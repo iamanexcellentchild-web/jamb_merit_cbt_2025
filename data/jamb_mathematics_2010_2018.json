@@ -3,7 +3,7 @@
   "years": {
     "2010": [
       {
-        "q": "\\(Find r if 6r7_{8} = 511_{9}\\)",
+        "q": "Find r if 6r7\\(_{8}\\) = 511\\(_{9}\\)",
         "options": [
           "A. 5",
           "B. 2",
@@ -13,7 +13,7 @@
         "answer": "C"
       },
       {
-        "q": "\\(Simplify (3^3/₄⁷/₉) ÷ 9½\\)",
+        "q": "Simplify (3\\(^3\\)/₄⁷/₉) ÷ 9½",
         "options": [
           "A. 1/25",
           "B. 1/4",
@@ -53,7 +53,7 @@
         "answer": "C"
       },
       {
-        "q": "\\(Evaluate \\left(81/16\\right)^{1/4} × 2^{-1}\\)",
+        "q": "Evaluate \\(\\left(81/16\\right)^{1/4}\\) × 2\\(^{-1}\\)",
         "options": [
           "A. 1/3",
           "B. 6",
@@ -73,22 +73,22 @@
         "answer": "B"
       },
       {
-        "q": "\\(Rationalise (2\\sqrt{3} + \\sqrt{5}) / (\\sqrt{5} − \\sqrt{3})\\)",
+        "q": "Rationalise (2\\(\\sqrt{3}\\) + \\(\\sqrt{5}\\)) / (\\(\\sqrt{5}\\) − \\(\\sqrt{3}\\))",
         "options": [
-          "\\(A. (3\\sqrt{15} + 11)/2\\)",
-          "\\(B. (3\\sqrt{15} − 11)/2\\)",
-          "\\(C. 3\\sqrt{15} − 11\\)",
-          "\\(D. 3\\sqrt{15} − 11\\)"
+          "A. (3\\(\\sqrt{15}\\) + 11)/2",
+          "B. (3\\(\\sqrt{15}\\) − 11)/2",
+          "C. 3\\(\\sqrt{15}\\) − 11",
+          "D. 3\\(\\sqrt{15}\\) − 11"
         ],
         "answer": "A"
       },
       {
         "q": "Express the product of 0.21 and 0.34 in standard form",
         "options": [
-          "\\(A. 7.14 × 10^{-3}\\)",
-          "\\(B. 7.14 × 10^{-1}\\)",
-          "\\(C. 7.14 × 10^{-2}\\)",
-          "\\(D. 7.14 × 10^{-4}\\)"
+          "A. 7.14 × 10\\(^{-3}\\)",
+          "B. 7.14 × 10\\(^{-1}\\)",
+          "C. 7.14 × 10\\(^{-2}\\)",
+          "D. 7.14 × 10\\(^{-4}\\)"
         ],
         "answer": "C"
       },
@@ -124,7 +124,7 @@
         "answer": "B"
       },
       {
-        "q": "\\(If 9x^2 + 6xy + 4y^2 is a factor of 27x^3 − 8y^3, find the other factor\\)",
+        "q": "If 9x\\(^2\\) + 6xy + 4y\\(^2\\) is a factor of 27x\\(^3\\) − 8y\\(^3\\), find the other factor",
         "options": [
           "A. 3x − 2y",
           "B. 2y − 3x",
@@ -134,9 +134,9 @@
         "answer": "A"
       },
       {
-        "q": "\\(Factorise completely (x^2 + 3x^2 − 10x) / (2x^2 − 8)\\)",
+        "q": "Factorise completely (x\\(^2\\) + 3x\\(^2\\) − 10x) / (2x\\(^2\\) − 8)",
         "options": [
-          "\\(A. (x^2 + 5)/(2x + 4)\\)",
+          "A. (x\\(^2\\) + 5)/(2x + 4)",
           "B. x(x + 5)/[2(x + 2)]",
           "C. x(x − 5)/[2(x + 2)]",
           "D. x(x − 5)/[2(x − 2)]"
@@ -144,7 +144,7 @@
         "answer": "A"
       },
       {
-        "q": "\\(Solve for x and y if x − y = 2 and x^2 − y^2 = 8\\)",
+        "q": "Solve for x and y if x − y = 2 and x\\(^2\\) − y\\(^2\\) = 8",
         "options": [
           "A. (1, 3)",
           "B. (3, 1)",
@@ -214,7 +214,7 @@
         "answer": "C"
       },
       {
-        "q": "\\(If x * y = x + y^2, find the value of (2*3)*5\\)",
+        "q": "If x * y = x + y\\(^2\\), find the value of (2*3)*5",
         "options": [
           "A. 36",
           "B. 11",
@@ -254,7 +254,7 @@
         "answer": "D"
       },
       {
-        "q": "\\(If P = [2  −3 / 1  1], what is P^{-1}?\\)",
+        "q": "If P = [2  −3 / 1  1], what is P\\(^{-1}\\)?",
         "options": [
           "A. [1/5  3/5 / 1/5  2/5]",
           "B. [1/5  3/5 / −1/5  2/5]",
@@ -298,30 +298,30 @@
       {
         "q": "If the two smaller sides of a right-angled triangle are 4 cm and 5 cm, find its area.",
         "options": [
-          "\\(A. 10 cm^2\\)",
-          "\\(B. 6 cm^2\\)",
-          "\\(C. 8 cm^2\\)",
-          "\\(D. 24 cm^2\\)"
+          "A. 10 cm\\(^2\\)",
+          "B. 6 cm\\(^2\\)",
+          "C. 8 cm\\(^2\\)",
+          "D. 24 cm\\(^2\\)"
         ],
         "answer": "A"
       },
       {
         "q": "An arc subtends an angle of 50° at the centre of a circle of radius 6 cm. Calculate the area of the sector formed.",
         "options": [
-          "\\(A. 90/7 cm^2\\)",
-          "\\(B. 110/7 cm^2\\)",
-          "\\(C. 100/7 cm^2\\)",
-          "\\(D. 80/7 cm^2\\)"
+          "A. 90/7 cm\\(^2\\)",
+          "B. 110/7 cm\\(^2\\)",
+          "C. 100/7 cm\\(^2\\)",
+          "D. 80/7 cm\\(^2\\)"
         ],
         "answer": "B"
       },
       {
         "q": "A cylindrical pipe 50 cm long with radius 7 m has one end open. What is the total surface area of the pipe?",
         "options": [
-          "\\(A. 700π m^2\\)",
-          "\\(B. 98π m^2\\)",
-          "\\(C. 350π m^2\\)",
-          "\\(D. 749π m^2\\)"
+          "A. 700π m\\(^2\\)",
+          "B. 98π m\\(^2\\)",
+          "C. 350π m\\(^2\\)",
+          "D. 749π m\\(^2\\)"
         ],
         "answer": "D"
       },
@@ -338,10 +338,10 @@
       {
         "q": "Find the distance between the points (1/2, 1/2) and (−1/2, −1/2)",
         "options": [
-          "\\(A. \\sqrt{2}\\)",
+          "A. \\(\\sqrt{2}\\)",
           "B. 0",
           "C. 1",
-          "\\(D. \\sqrt{3}\\)"
+          "D. \\(\\sqrt{3}\\)"
         ],
         "answer": "A"
       },
@@ -376,7 +376,7 @@
         "answer": "B"
       },
       {
-        "q": "\\([See diagram] If the area of △PQR is 12\\sqrt{3} cm^2, find the value of q (PQ = 8cm, angle P = 60°)\\)",
+        "q": "[See diagram] If the area of △PQR is 12\\(\\sqrt{3}\\) cm\\(^2\\), find the value of q (PQ = 8cm, angle P = 60°)",
         "options": [
           "A. 6 cm",
           "B. 8 cm",
@@ -387,12 +387,12 @@
         "diagram": "2010_Q38_triangle_PQR_area.png"
       },
       {
-        "q": "\\(If y = (2x + 1)^3, find dy/dx\\)",
+        "q": "If y = (2x + 1)\\(^3\\), find dy/dx",
         "options": [
-          "\\(A. 3(2x+1)^2\\)",
+          "A. 3(2x+1)\\(^2\\)",
           "B. 3(2x + 1)",
           "C. 6(2x + 1)",
-          "\\(D. 6(2x+1)^2\\)"
+          "D. 6(2x+1)\\(^2\\)"
         ],
         "answer": "D"
       },
@@ -409,7 +409,7 @@
     ],
     "2011": [
       {
-        "q": "\\(If 2q3_{5} = 77_{8}, find q\\)",
+        "q": "If 2q3\\(_{5}\\) = 77\\(_{8}\\), find q",
         "options": [
           "A. 2",
           "B. 1",
@@ -449,7 +449,7 @@
         "answer": "C"
       },
       {
-        "q": "\\(Simplify \\left(16/81\\right)^{1/4} ÷ \\left(9/16\\right)^{−1/2}\\)",
+        "q": "Simplify \\(\\left(16/81\\right)^{1/4}\\) ÷ \\(\\left(9/16\\right)^{−1/2}\\)",
         "options": [
           "A. 23",
           "B. 12",
@@ -459,7 +459,7 @@
         "answer": "B"
       },
       {
-        "q": "\\(If \\log_{3}18 + \\log_{3}3 − \\log_{3}x = 3, find x\\)",
+        "q": "If \\(\\log_{3} 18\\) + \\(\\log_{3} 3\\) − \\(\\log_{3} x\\) = 3, find x",
         "options": [
           "A. 1",
           "B. 2",
@@ -469,17 +469,17 @@
         "answer": "B"
       },
       {
-        "q": "\\(Rationalize (2 − \\sqrt{5}) / (3 − \\sqrt{5})\\)",
+        "q": "Rationalize (2 − \\(\\sqrt{5}\\)) / (3 − \\(\\sqrt{5}\\))",
         "options": [
-          "\\(A. (1 − \\sqrt{5})/2\\)",
-          "\\(B. (1 − \\sqrt{5})/4\\)",
-          "\\(C. (\\sqrt{5} − 1)/2\\)",
-          "\\(D. (1 + \\sqrt{5})/4\\)"
+          "A. (1 − \\(\\sqrt{5}\\))/2",
+          "B. (1 − \\(\\sqrt{5}\\))/4",
+          "C. (\\(\\sqrt{5}\\) − 1)/2",
+          "D. (1 + \\(\\sqrt{5}\\))/4"
         ],
         "answer": "B"
       },
       {
-        "q": "\\(Simplify [\\sqrt{2} + 1/\\sqrt{3}][\\sqrt{2} − 1/\\sqrt{3}]\\)",
+        "q": "Simplify [\\(\\sqrt{2}\\) + 1/\\(\\sqrt{3}\\)][\\(\\sqrt{2}\\) − 1/\\(\\sqrt{3}\\)]",
         "options": [
           "A. 7/3",
           "B. 5/3",
@@ -491,10 +491,10 @@
       {
         "q": "[See diagram] From the Venn diagram, the complement of the set P ∩ Q is given by",
         "options": [
-          "\\(A. {a, b, d, e}\\)",
-          "\\(B. {b, d}\\)",
-          "\\(C. {a, e}\\)",
-          "\\(D. {c}\\)"
+          "A. {a, b, d, e}",
+          "B. {b, d}",
+          "C. {a, e}",
+          "D. {c}"
         ],
         "answer": "A"
       },
@@ -509,7 +509,7 @@
         "answer": "D"
       },
       {
-        "q": "\\(Make R the subject of the formula if T = (KR^2 + M)/3\\)",
+        "q": "Make R the subject of the formula if T = (KR\\(^2\\) + M)/3",
         "options": [
           "A. √[(3T − K)/M]",
           "B. √[(3T − M)/K]",
@@ -519,7 +519,7 @@
         "answer": "D"
       },
       {
-        "q": "\\(Find the remainder when 2x^2 + 3x − 3 is divided by x^2 + 1\\)",
+        "q": "Find the remainder when 2x\\(^2\\) + 3x − 3 is divided by x\\(^2\\) + 1",
         "options": [
           "A. 2x − 1",
           "B. x + 3",
@@ -529,7 +529,7 @@
         "answer": "A"
       },
       {
-        "q": "\\(Factorise completely 9y^2 − 16x^2\\)",
+        "q": "Factorise completely 9y\\(^2\\) − 16x\\(^2\\)",
         "options": [
           "A. (3y − 2x)(3y + 4x)",
           "B. (3y + 4x)(3y + 4x)",
@@ -569,7 +569,7 @@
         "answer": "B"
       },
       {
-        "q": "\\([See diagram] Which diagram represents the solution of y ≤ x − 2 and y ≥ x^2 − 4?\\)",
+        "q": "[See diagram] Which diagram represents the solution of y ≤ x − 2 and y ≥ x\\(^2\\) − 4?",
         "options": [
           "A. Diagram A",
           "B. Diagram B",
@@ -590,7 +590,7 @@
         "answer": "B"
       },
       {
-        "q": "\\(Solve the inequality x^2 + 2x > 15\\)",
+        "q": "Solve the inequality x\\(^2\\) + 2x > 15",
         "options": [
           "A. x < −3 or x > 5",
           "B. −5 < x < 3",
@@ -672,30 +672,30 @@
       {
         "q": "A circle of perimeter 28 cm is opened to form a square. What is the maximum possible area of the square?",
         "options": [
-          "\\(A. 56 cm^2\\)",
-          "\\(B. 49 cm^2\\)",
-          "\\(C. 98 cm^2\\)",
-          "\\(D. 28 cm^2\\)"
+          "A. 56 cm\\(^2\\)",
+          "B. 49 cm\\(^2\\)",
+          "C. 98 cm\\(^2\\)",
+          "D. 28 cm\\(^2\\)"
         ],
         "answer": "B"
       },
       {
         "q": "A chord of a circle of radius 7 cm is 5 cm from the centre. Find the length of the chord.",
         "options": [
-          "\\(A. 4\\sqrt{6} cm\\)",
-          "\\(B. 3\\sqrt{6} cm\\)",
-          "\\(C. 6\\sqrt{6} cm\\)",
-          "\\(D. 2\\sqrt{6} cm\\)"
+          "A. 4\\(\\sqrt{6}\\) cm",
+          "B. 3\\(\\sqrt{6}\\) cm",
+          "C. 6\\(\\sqrt{6}\\) cm",
+          "D. 2\\(\\sqrt{6}\\) cm"
         ],
         "answer": "A"
       },
       {
         "q": "A solid metal cube of side 3 cm is placed in a rectangular tank of dimensions 3, 4 and 5 cm. What volume of water can the tank now hold?",
         "options": [
-          "\\(A. 48 cm^3\\)",
-          "\\(B. 33 cm^3\\)",
-          "\\(C. 60 cm^3\\)",
-          "\\(D. 27 cm^3\\)"
+          "A. 48 cm\\(^3\\)",
+          "B. 33 cm\\(^3\\)",
+          "C. 60 cm\\(^3\\)",
+          "D. 27 cm\\(^3\\)"
         ],
         "answer": "B"
       },
@@ -762,15 +762,15 @@
       {
         "q": "Find the derivative of sin θ / cos θ",
         "options": [
-          "\\(A. sec^2θ\\)",
+          "A. sec\\(^2\\)θ",
           "B. tan θ cosec θ",
           "C. cosec θ sec θ",
-          "\\(D. cosec^2θ\\)"
+          "D. cosec\\(^2\\)θ"
         ],
         "answer": "A"
       },
       {
-        "q": "\\(Find the value of x at the minimum point of the curve y = x^3 + x^2 − x + 1\\)",
+        "q": "Find the value of x at the minimum point of the curve y = x\\(^3\\) + x\\(^2\\) − x + 1",
         "options": [
           "A. 1/3",
           "B. −1/3",
@@ -813,7 +813,7 @@
     ],
     "2012": [
       {
-        "q": "\\(Convert 72_{6} to a number in base three\\)",
+        "q": "Convert 72\\(_{6}\\) to a number in base three",
         "options": [
           "A. 2211",
           "B. 2121",
@@ -823,7 +823,7 @@
         "answer": "D"
       },
       {
-        "q": "\\(Simplify (2^2/₃ × 1½) / (4^4/₅)\\)",
+        "q": "Simplify (2\\(^2\\)/₃ × 1½) / (4\\(^4\\)/₅)",
         "options": [
           "A. 114",
           "B. 116",
@@ -853,7 +853,7 @@
         "answer": "B"
       },
       {
-        "q": "\\(If 27^(x+2) ÷ 9^(x+1) = 3^(2x), find x\\)",
+        "q": "If 27^(x+2) ÷ 9^(x+1) = 3^(2x), find x",
         "options": [
           "A. 3",
           "B. 4",
@@ -863,7 +863,7 @@
         "answer": "B"
       },
       {
-        "q": "\\(If \\log_{3}x^2 = −8, what is x?\\)",
+        "q": "If \\(\\log_{3} x\\(^2\\)\\) = −8, what is x?",
         "options": [
           "A. 1/3",
           "B. 1/9",
@@ -873,22 +873,22 @@
         "answer": "D"
       },
       {
-        "q": "\\(Simplify (\\sqrt{6} + 2)^2 − (\\sqrt{6} − 2)^2\\)",
+        "q": "Simplify (\\(\\sqrt{6}\\) + 2)\\(^2\\) − (\\(\\sqrt{6}\\) − 2)\\(^2\\)",
         "options": [
-          "\\(A. 2\\sqrt{6}\\)",
-          "\\(B. 4\\sqrt{6}\\)",
-          "\\(C. 8\\sqrt{6}\\)",
-          "\\(D. 16\\sqrt{6}\\)"
+          "A. 2\\(\\sqrt{6}\\)",
+          "B. 4\\(\\sqrt{6}\\)",
+          "C. 8\\(\\sqrt{6}\\)",
+          "D. 16\\(\\sqrt{6}\\)"
         ],
         "answer": "C"
       },
       {
         "q": "If P is the set of all prime factors of 30 and Q is the set of all factors of 18 less than 10, find P ∩ Q",
         "options": [
-          "\\(A. {3}\\)",
-          "\\(B. {2,3}\\)",
-          "\\(C. {2,3,5}\\)",
-          "\\(D. {1,2}\\)"
+          "A. {3}",
+          "B. {2,3}",
+          "C. {2,3,5}",
+          "D. {1,2}"
         ],
         "answer": "B"
       },
@@ -913,7 +913,7 @@
         "answer": "A"
       },
       {
-        "q": "\\(Find the remainder when 2x^3 − 11x^2 + 8x − 1 is divided by x + 3\\)",
+        "q": "Find the remainder when 2x\\(^3\\) − 11x\\(^2\\) + 8x − 1 is divided by x + 3",
         "options": [
           "A. −871",
           "B. −781",
@@ -923,7 +923,7 @@
         "answer": "D"
       },
       {
-        "q": "\\(Solve for x and y: x^2 − y^2 = 4, x + y = 2\\)",
+        "q": "Solve for x and y: x\\(^2\\) − y\\(^2\\) = 4, x + y = 2",
         "options": [
           "A. x = 0, y = −2",
           "B. x = 0, y = 2",
@@ -933,9 +933,9 @@
         "answer": "C"
       },
       {
-        "q": "\\(If y varies directly as \\sqrt{n} and y = 4 when n = 4, find y when n = 1\\)",
+        "q": "If y varies directly as \\(\\sqrt{n}\\) and y = 4 when n = 4, find y when n = 1",
         "options": [
-          "\\(A. \\sqrt{17}\\)",
+          "A. \\(\\sqrt{17}\\)",
           "B. 4/3",
           "C. 8/3",
           "D. 2/3"
@@ -984,7 +984,7 @@
         "diagram": "2012_Q17_shaded_region_graph.png"
       },
       {
-        "q": "\\(The nth term of a sequence is n^2 − 6n − 4. Find the sum of the 3rd and 4th terms.\\)",
+        "q": "The nth term of a sequence is n\\(^2\\) − 6n − 4. Find the sum of the 3rd and 4th terms.",
         "options": [
           "A. 24",
           "B. 23",
@@ -1014,7 +1014,7 @@
         "answer": "B"
       },
       {
-        "q": "\\(The binary operation on real numbers is defined by m * n = mn^2 for all m, n ∈ R. If the identity element is 2, find the inverse of −5\\)",
+        "q": "The binary operation on real numbers is defined by m * n = mn\\(^2\\) for all m, n ∈ R. If the identity element is 2, find the inverse of −5",
         "options": [
           "A. −45",
           "B. −25",
@@ -1034,7 +1034,7 @@
         "answer": "C"
       },
       {
-        "q": "\\(Given that I_3 is a unit matrix of order 3, find |I_3|\\)",
+        "q": "Given that I\\(_3\\) is a unit matrix of order 3, find |I\\(_3\\)|",
         "options": [
           "A. −1",
           "B. 0",
@@ -1077,10 +1077,10 @@
       {
         "q": "[See diagram] Find the area of the trapezium (PQ = 7cm, SR = 13cm, height = 6cm).",
         "options": [
-          "\\(A. 91 cm^2\\)",
-          "\\(B. 78 cm^2\\)",
-          "\\(C. 60 cm^2\\)",
-          "\\(D. 19 cm^2\\)"
+          "A. 91 cm\\(^2\\)",
+          "B. 78 cm\\(^2\\)",
+          "C. 60 cm\\(^2\\)",
+          "D. 19 cm\\(^2\\)"
         ],
         "answer": "C",
         "diagram": "2012_Q27_trapezium_PQRS.png"
@@ -1088,20 +1088,20 @@
       {
         "q": "A circular arc subtends angle 150° at the centre of a circle of radius 12 cm. Calculate the area of the sector.",
         "options": [
-          "\\(A. 30π cm^2\\)",
-          "\\(B. 60π cm^2\\)",
-          "\\(C. 120π cm^2\\)",
-          "\\(D. 150π cm^2\\)"
+          "A. 30π cm\\(^2\\)",
+          "B. 60π cm\\(^2\\)",
+          "C. 120π cm\\(^2\\)",
+          "D. 150π cm\\(^2\\)"
         ],
         "answer": "B"
       },
       {
         "q": "Calculate the volume of a cuboid of length 0.76 cm, breadth 2.6 cm and height 0.82 cm.",
         "options": [
-          "\\(A. 3.92 cm^3\\)",
-          "\\(B. 2.13 cm^3\\)",
-          "\\(C. 1.97 cm^3\\)",
-          "\\(D. 1.62 cm^3\\)"
+          "A. 3.92 cm\\(^3\\)",
+          "B. 2.13 cm\\(^3\\)",
+          "C. 1.97 cm\\(^3\\)",
+          "D. 1.62 cm\\(^3\\)"
         ],
         "answer": "D"
       },
@@ -1128,10 +1128,10 @@
       {
         "q": "The distance between the point (4, 3) and the intersection of y = 2x + 4 and y = 7 − x is",
         "options": [
-          "\\(A. \\sqrt{13}\\)",
-          "\\(B. 3\\sqrt{2}\\)",
-          "\\(C. \\sqrt{26}\\)",
-          "\\(D. 10\\sqrt{5}\\)"
+          "A. \\(\\sqrt{13}\\)",
+          "B. 3\\(\\sqrt{2}\\)",
+          "C. \\(\\sqrt{26}\\)",
+          "D. 10\\(\\sqrt{5}\\)"
         ],
         "answer": "B"
       },
@@ -1149,8 +1149,8 @@
         "q": "If angle θ is 135°, evaluate cos θ",
         "options": [
           "A. 1/2",
-          "\\(B. \\sqrt{2}/2\\)",
-          "\\(C. −\\sqrt{2}/2\\)",
+          "B. \\(\\sqrt{2}\\)/2",
+          "C. −\\(\\sqrt{2}\\)/2",
           "D. −1/2"
         ],
         "answer": "C"
@@ -1166,12 +1166,12 @@
         "answer": "B"
       },
       {
-        "q": "\\(If y = x^2 − 1/x, find dy/dx\\)",
+        "q": "If y = x\\(^2\\) − 1/x, find dy/dx",
         "options": [
-          "\\(A. 2x − 1/x^2\\)",
-          "\\(B. 2x + x^2\\)",
-          "\\(C. 2x − x^2\\)",
-          "\\(D. 2x + 1/x^2\\)"
+          "A. 2x − 1/x\\(^2\\)",
+          "B. 2x + x\\(^2\\)",
+          "C. 2x − x\\(^2\\)",
+          "D. 2x + 1/x\\(^2\\)"
         ],
         "answer": "D"
       },
@@ -1186,7 +1186,7 @@
         "answer": "B"
       },
       {
-        "q": "\\(Evaluate ∫₁²(x^2 − 4x) dx\\)",
+        "q": "Evaluate ∫₁²(x\\(^2\\) − 4x) dx",
         "options": [
           "A. 11/3",
           "B. 3/11",
@@ -1196,7 +1196,7 @@
         "answer": "D"
       },
       {
-        "q": "\\(Evaluate ∫₀^(π/4) sec^2θ dθ\\)",
+        "q": "Evaluate ∫₀^(π/4) sec\\(^2\\)θ dθ",
         "options": [
           "A. 1",
           "B. 2",
@@ -1219,12 +1219,12 @@
     ],
     "2013": [
       {
-        "q": "\\(Convert 27_{10} to another number in base three\\)",
+        "q": "Convert 27\\(_{10}\\) to another number in base three",
         "options": [
-          "\\(A. 1100_{3}\\)",
-          "\\(B. 1000_{3}\\)",
-          "\\(C. 1001_{3}\\)",
-          "\\(D. 1010_{3}\\)"
+          "A. 1100\\(_{3}\\)",
+          "B. 1000\\(_{3}\\)",
+          "C. 1001\\(_{3}\\)",
+          "D. 1010\\(_{3}\\)"
         ],
         "answer": "B"
       },
@@ -1259,17 +1259,17 @@
         "answer": "C"
       },
       {
-        "q": "\\(Simplify 3^(−5n+1) × 27^(n+1)\\)",
+        "q": "Simplify 3^(−5n+1) × 27^(n+1)",
         "options": [
-          "\\(A. 3^2\\)",
-          "\\(B. 3^3\\)",
-          "\\(C. 3^5\\)",
+          "A. 3\\(^2\\)",
+          "B. 3\\(^3\\)",
+          "C. 3\\(^5\\)",
           "D. 3"
         ],
         "answer": "B"
       },
       {
-        "q": "\\(If \\log_{10}4 = 0.6021, evaluate \\log_{10}(4^(1/3))\\)",
+        "q": "If \\(\\log_{10} 4\\) = 0.6021, evaluate \\(\\log_{1} ₀\\)(4^(1/3))",
         "options": [
           "A. 1.8063",
           "B. 0.2007",
@@ -1279,7 +1279,7 @@
         "answer": "B"
       },
       {
-        "q": "\\(Simplify \\sqrt{5}(\\sqrt{147} − \\sqrt{12}) / \\sqrt{15}\\)",
+        "q": "Simplify \\(\\sqrt{5}\\)(\\(\\sqrt{147}\\) − \\(\\sqrt{12}\\)) / \\(\\sqrt{15}\\)",
         "options": [
           "A. 1/9",
           "B. 9",
@@ -1300,27 +1300,27 @@
         "diagram": "2013_Q8_venn_PQR.png"
       },
       {
-        "q": "\\(If P = {x: x is odd, −1 < x ≤ 20} and Q = {y: y is prime, −2 < y ≤ 25}, find P ∩ Q\\)",
+        "q": "If P = {x: x is odd, −1 < x ≤ 20} and Q = {y: y is prime, −2 < y ≤ 25}, find P ∩ Q",
         "options": [
-          "\\(A. {3,5,7,11,13,17,19}\\)",
-          "\\(B. {2,3,5,7,11,13,17,19}\\)",
-          "\\(C. {3,5,7,11,17,19}\\)",
-          "\\(D. {3,5,11,13,17,19}\\)"
+          "A. {3,5,7,11,13,17,19}",
+          "B. {2,3,5,7,11,13,17,19}",
+          "C. {3,5,7,11,17,19}",
+          "D. {3,5,11,13,17,19}"
         ],
         "answer": "B"
       },
       {
-        "q": "\\(If \\sqrt{t^2 − 4t + 4} = S, find t in terms of S\\)",
+        "q": "If \\(\\sqrt{t\\(^2\\) − 4t + 4}\\) = S, find t in terms of S",
         "options": [
           "A. S − 2",
-          "\\(B. S^2 + 2\\)",
-          "\\(C. S^2 − 2\\)",
+          "B. S\\(^2\\) + 2",
+          "C. S\\(^2\\) − 2",
           "D. S + 2"
         ],
         "answer": "B"
       },
       {
-        "q": "\\(If x − 4 is a factor of x^2 − x − k, then k is\\)",
+        "q": "If x − 4 is a factor of x\\(^2\\) − x − k, then k is",
         "options": [
           "A. 20",
           "B. 2",
@@ -1330,7 +1330,7 @@
         "answer": "D"
       },
       {
-        "q": "\\(The remainder when 6P^3 − P^2 − 47P + 30 is divided by P − 3 is\\)",
+        "q": "The remainder when 6P\\(^3\\) − P\\(^2\\) − 47P + 30 is divided by P − 3 is",
         "options": [
           "A. 63",
           "B. 18",
@@ -1352,10 +1352,10 @@
       {
         "q": "If r varies inversely as the square root of s and t, how does s vary with r and t?",
         "options": [
-          "\\(A. s varies directly as r^2 and t^2\\)",
+          "A. s varies directly as r\\(^2\\) and t\\(^2\\)",
           "B. s varies directly as r and t",
-          "\\(C. s varies inversely as r and t^2\\)",
-          "\\(D. s varies inversely as r^2 and t\\)"
+          "C. s varies inversely as r and t\\(^2\\)",
+          "D. s varies inversely as r\\(^2\\) and t"
         ],
         "answer": "D"
       },
@@ -1372,10 +1372,10 @@
       {
         "q": "[See diagram] The graph is correctly represented by",
         "options": [
-          "\\(A. y = x^2 − x − 1\\)",
-          "\\(B. y = x^2 + x − 2\\)",
-          "\\(C. y = x^2 − x − 2\\)",
-          "\\(D. y = x^2 − 3x + 2\\)"
+          "A. y = x\\(^2\\) − x − 1",
+          "B. y = x\\(^2\\) + x − 2",
+          "C. y = x\\(^2\\) − x − 2",
+          "D. y = x\\(^2\\) − 3x + 2"
         ],
         "answer": "B",
         "diagram": "2013_Q16_quadratic_graph.png"
@@ -1485,20 +1485,20 @@
       {
         "q": "Find the length of a chord which subtends an angle of 90° at the centre of a circle whose radius is 8 cm.",
         "options": [
-          "\\(A. 8\\sqrt{3} cm\\)",
+          "A. 8\\(\\sqrt{3}\\) cm",
           "B. 4 cm",
           "C. 8 cm",
-          "\\(D. 8\\sqrt{2} cm\\)"
+          "D. 8\\(\\sqrt{2}\\) cm"
         ],
         "answer": "D"
       },
       {
-        "q": "\\(A chord of a circle subtends an angle of 120° at the centre of a circle of diameter 4\\sqrt{3} cm. Calculate the area of the major sector.\\)",
+        "q": "A chord of a circle subtends an angle of 120° at the centre of a circle of diameter 4\\(\\sqrt{3}\\) cm. Calculate the area of the major sector.",
         "options": [
-          "\\(A. 32π cm^2\\)",
-          "\\(B. 4π cm^2\\)",
-          "\\(C. 8π cm^2\\)",
-          "\\(D. 16π cm^2\\)"
+          "A. 32π cm\\(^2\\)",
+          "B. 4π cm\\(^2\\)",
+          "C. 8π cm\\(^2\\)",
+          "D. 16π cm\\(^2\\)"
         ],
         "answer": "B"
       },
@@ -1535,9 +1535,9 @@
       {
         "q": "In triangle PQR, q = 8 cm, r = 6 cm and cos P = 1/12. Find p.",
         "options": [
-          "\\(A. \\sqrt{108} cm\\)",
-          "\\(B. \\sqrt{9} cm\\)",
-          "\\(C. \\sqrt{92} cm\\)",
+          "A. \\(\\sqrt{108}\\) cm",
+          "B. \\(\\sqrt{9}\\) cm",
+          "C. \\(\\sqrt{92}\\) cm",
           "D. 10 cm"
         ],
         "answer": "C"
@@ -1553,11 +1553,11 @@
         "answer": "D"
       },
       {
-        "q": "\\(If y = (2x + 2)^3, find dy/dx\\)",
+        "q": "If y = (2x + 2)\\(^3\\), find dy/dx",
         "options": [
           "A. 3(2x + 2)",
-          "\\(B. 6(2x + 2)^2\\)",
-          "\\(C. 3(2x + 2)^2\\)",
+          "B. 6(2x + 2)\\(^2\\)",
+          "C. 3(2x + 2)\\(^2\\)",
           "D. 6(2x + 2)"
         ],
         "answer": "B"
@@ -1573,27 +1573,27 @@
         "answer": "B"
       },
       {
-        "q": "\\(The radius of a circle is increasing at the rate of 0.02 cms^{-1}. Find the rate at which the area is increasing when the radius is 7 cm.\\)",
+        "q": "The radius of a circle is increasing at the rate of 0.02 cms\\(^{-1}\\). Find the rate at which the area is increasing when the radius is 7 cm.",
         "options": [
-          "\\(A. 0.35 cm^2s^{-1}\\)",
-          "\\(B. 0.88 cm^2s^{-1}\\)",
-          "\\(C. 0.75 cm^2s^{-1}\\)",
-          "\\(D. 0.55 cm^2s^{-1}\\)"
+          "A. 0.35 cm\\(^2\\)s\\(^{-1}\\)",
+          "B. 0.88 cm\\(^2\\)s\\(^{-1}\\)",
+          "C. 0.75 cm\\(^2\\)s\\(^{-1}\\)",
+          "D. 0.55 cm\\(^2\\)s\\(^{-1}\\)"
         ],
         "answer": "B"
       },
       {
-        "q": "\\(Integrate (1 + x)/x^3\\)",
+        "q": "Integrate (1 + x)/x\\(^3\\)",
         "options": [
-          "\\(A. 2x^2 − 1/x + k\\)",
-          "\\(B. −1/(2x^2) − 1/x + k\\)",
-          "\\(C. −x^2/2 − 1/x + k\\)",
-          "\\(D. x^2 − 1/x + k\\)"
+          "A. 2x\\(^2\\) − 1/x + k",
+          "B. −1/(2x\\(^2\\)) − 1/x + k",
+          "C. −x\\(^2\\)/2 − 1/x + k",
+          "D. x\\(^2\\) − 1/x + k"
         ],
         "answer": "B"
       },
       {
-        "q": "\\(Evaluate ∫₀^(π/2) sin x dx\\)",
+        "q": "Evaluate ∫₀^(π/2) sin x dx",
         "options": [
           "A. −2",
           "B. 2",
@@ -1627,12 +1627,12 @@
     ],
     "2014": [
       {
-        "q": "\\(Find the value of 1101111_{2} + 10100_{2}\\)",
+        "q": "Find the value of 1101111\\(_{2}\\) + 10100\\(_{2}\\)",
         "options": [
-          "\\(A. 10011111_{2}\\)",
-          "\\(B. 11010111_{2}\\)",
-          "\\(C. 100101_{2}\\)",
-          "\\(D. 10011111_{2}\\)"
+          "A. 10011111\\(_{2}\\)",
+          "B. 11010111\\(_{2}\\)",
+          "C. 100101\\(_{2}\\)",
+          "D. 10011111\\(_{2}\\)"
         ],
         "answer": "D"
       },
@@ -1650,9 +1650,9 @@
         "q": "Express the product of 0.00043 and 2000 in standard form.",
         "options": [
           "A. 8.6 × 10",
-          "\\(B. 8.3 × 10^{-3}\\)",
-          "\\(C. 8.6 × 10^{-2}\\)",
-          "\\(D. 8.6 × 10^{-1}\\)"
+          "B. 8.3 × 10\\(^{-3}\\)",
+          "C. 8.6 × 10\\(^{-2}\\)",
+          "D. 8.6 × 10\\(^{-1}\\)"
         ],
         "answer": "D"
       },
@@ -1677,7 +1677,7 @@
         "answer": "C"
       },
       {
-        "q": "\\(Solve for x in 8x^{-2} = 2/25\\)",
+        "q": "Solve for x in 8x\\(^{-2}\\) = 2/25",
         "options": [
           "A. 10",
           "B. 4",
@@ -1687,17 +1687,17 @@
         "answer": "A"
       },
       {
-        "q": "\\(Simplify (2\\sqrt{2} − \\sqrt{3}) / (\\sqrt{2} + \\sqrt{3})\\)",
+        "q": "Simplify (2\\(\\sqrt{2}\\) − \\(\\sqrt{3}\\)) / (\\(\\sqrt{2}\\) + \\(\\sqrt{3}\\))",
         "options": [
-          "\\(A. 3\\sqrt{6} + 1\\)",
-          "\\(B. 3\\sqrt{6} − 7\\)",
-          "\\(C. 3\\sqrt{6} + 7\\)",
-          "\\(D. 3\\sqrt{6} − 1\\)"
+          "A. 3\\(\\sqrt{6}\\) + 1",
+          "B. 3\\(\\sqrt{6}\\) − 7",
+          "C. 3\\(\\sqrt{6}\\) + 7",
+          "D. 3\\(\\sqrt{6}\\) − 1"
         ],
         "answer": "B"
       },
       {
-        "q": "\\(Evaluate \\log_{2}8 + \\log_{2}16 − \\log_{2}4\\)",
+        "q": "Evaluate \\(\\log_{2} 8\\) + \\(\\log_{2} 16\\) − \\(\\log_{2} 4\\)",
         "options": [
           "A. 6",
           "B. 3",
@@ -1707,12 +1707,12 @@
         "answer": "D"
       },
       {
-        "q": "\\(If P = {1,2,3,4,5} and P ∪ Q = {1,2,3,4,5,6,7}, list the elements in Q\\)",
+        "q": "If P = {1,2,3,4,5} and P ∪ Q = {1,2,3,4,5,6,7}, list the elements in Q",
         "options": [
-          "\\(A. {5,7}\\)",
-          "\\(B. {6}\\)",
-          "\\(C. {7}\\)",
-          "\\(D. {6,7}\\)"
+          "A. {5,7}",
+          "B. {6}",
+          "C. {7}",
+          "D. {6,7}"
         ],
         "answer": "D"
       },
@@ -1728,17 +1728,17 @@
         "diagram": "2014_Q10_venn_POD.png"
       },
       {
-        "q": "\\(If gt^2 − k − w = 0, make g the subject of the formula\\)",
+        "q": "If gt\\(^2\\) − k − w = 0, make g the subject of the formula",
         "options": [
           "A. (k−w)/t",
-          "\\(B. (k+w)/t^2\\)",
-          "\\(C. (k−w)/t^2\\)",
+          "B. (k+w)/t\\(^2\\)",
+          "C. (k−w)/t\\(^2\\)",
           "D. (k+w)/t"
         ],
         "answer": "B"
       },
       {
-        "q": "\\(Factorise 2y^2 − 15xy + 18x^2\\)",
+        "q": "Factorise 2y\\(^2\\) − 15xy + 18x\\(^2\\)",
         "options": [
           "A. (3y + 2x)(y − 6x)",
           "B. (2y − 3x)(y + 6x)",
@@ -1748,7 +1748,7 @@
         "answer": "C"
       },
       {
-        "q": "\\(Find the value of k if y − 1 is a factor of y^3 + 4y^2 + ky − 6\\)",
+        "q": "Find the value of k if y − 1 is a factor of y\\(^3\\) + 4y\\(^2\\) + ky − 6",
         "options": [
           "A. 0",
           "B. −6",
@@ -1758,7 +1758,7 @@
         "answer": "D"
       },
       {
-        "q": "\\(If y varies directly as w^2. When y = 8, w = 2. Find y when w = 3\\)",
+        "q": "If y varies directly as w\\(^2\\). When y = 8, w = 2. Find y when w = 3",
         "options": [
           "A. 6",
           "B. 18",
@@ -1808,11 +1808,11 @@
         "answer": "D"
       },
       {
-        "q": "\\(What is the common ratio of the G.P. (\\sqrt{10} + \\sqrt{5})(\\sqrt{10} + 2\\sqrt{5}) + ...?\\)",
+        "q": "What is the common ratio of the G.P. (\\(\\sqrt{10}\\) + \\(\\sqrt{5}\\))(\\(\\sqrt{10}\\) + 2\\(\\sqrt{5}\\)) + ...?",
         "options": [
           "A. 5",
-          "\\(B. \\sqrt{2}\\)",
-          "\\(C. \\sqrt{5}\\)",
+          "B. \\(\\sqrt{2}\\)",
+          "C. \\(\\sqrt{5}\\)",
           "D. 3"
         ],
         "answer": "B"
@@ -1892,10 +1892,10 @@
       {
         "q": "[See diagram] Find the value of x in the figure (30° and 60° triangle with 10 cm side)",
         "options": [
-          "\\(A. 4\\sqrt{3} cm\\)",
-          "\\(B. 120\\sqrt{3} cm\\)",
-          "\\(C. 10\\sqrt{3} cm\\)",
-          "\\(D. 5\\sqrt{3} cm\\)"
+          "A. 4\\(\\sqrt{3}\\) cm",
+          "B. 120\\(\\sqrt{3}\\) cm",
+          "C. 10\\(\\sqrt{3}\\) cm",
+          "D. 5\\(\\sqrt{3}\\) cm"
         ],
         "answer": "C",
         "diagram": "2014_Q27_triangle_30_60.png"
@@ -1911,7 +1911,7 @@
         "answer": "C"
       },
       {
-        "q": "\\(A cylindrical tank has a capacity of 6160 m^3. What is the depth of the tank if the radius of its base is 28 cm? [π = 22/7]\\)",
+        "q": "A cylindrical tank has a capacity of 6160 m\\(^3\\). What is the depth of the tank if the radius of its base is 28 cm? [π = 22/7]",
         "options": [
           "A. 8.0 m",
           "B. 7.5 m",
@@ -1992,12 +1992,12 @@
         "answer": "C"
       },
       {
-        "q": "\\(If y = 4x^3 − 2x^2 + x, find dy/dx\\)",
+        "q": "If y = 4x\\(^3\\) − 2x\\(^2\\) + x, find dy/dx",
         "options": [
-          "\\(A. 12x^2 − 4x + 1\\)",
-          "\\(B. 8x^2 − 2x + 1\\)",
-          "\\(C. 8x^2 − 4x + 1\\)",
-          "\\(D. 12x^2 − 2x + 1\\)"
+          "A. 12x\\(^2\\) − 4x + 1",
+          "B. 8x\\(^2\\) − 2x + 1",
+          "C. 8x\\(^2\\) − 4x + 1",
+          "D. 12x\\(^2\\) − 2x + 1"
         ],
         "answer": "A"
       },
@@ -2012,7 +2012,7 @@
         "answer": "A"
       },
       {
-        "q": "\\(Find the minimum value of y = x^2 − 2x − 3\\)",
+        "q": "Find the minimum value of y = x\\(^2\\) − 2x − 3",
         "options": [
           "A. −4",
           "B. 4",
@@ -2034,7 +2034,7 @@
     ],
     "2015": [
       {
-        "q": "\\(The sum of the progression 1 + x + x^2 + ... =\\)",
+        "q": "The sum of the progression 1 + x + x\\(^2\\) + ... =",
         "options": [
           "A. 1/(1−x)",
           "B. 1/(1+x)",
@@ -2044,42 +2044,42 @@
         "answer": "A"
       },
       {
-        "q": "\\(Find a square root of 170 − 20\\sqrt{30}\\)",
+        "q": "Find a square root of 170 − 20\\(\\sqrt{30}\\)",
         "options": [
-          "\\(A. 2\\sqrt{10} − 5\\)",
-          "\\(B. 3\\sqrt{5} − 8\\sqrt{6}\\)",
-          "\\(C. 2\\sqrt{5} − 5\\sqrt{6}\\)",
-          "\\(D. 5\\sqrt{5} − 2\\sqrt{6}\\)"
+          "A. 2\\(\\sqrt{10}\\) − 5",
+          "B. 3\\(\\sqrt{5}\\) − 8\\(\\sqrt{6}\\)",
+          "C. 2\\(\\sqrt{5}\\) − 5\\(\\sqrt{6}\\)",
+          "D. 5\\(\\sqrt{5}\\) − 2\\(\\sqrt{6}\\)"
         ],
         "answer": "C"
       },
       {
-        "q": "\\(Multiply (x + 3y + 5) by (2x^2 + 5y + 2)\\)",
+        "q": "Multiply (x + 3y + 5) by (2x\\(^2\\) + 5y + 2)",
         "options": [
-          "\\(A. 2x^3 + 3yx^2 + 10xy + 15y^2 + 13y + 10x^2 + 2x + 10\\)",
-          "\\(B. 2x^3 + 6yx^2 + 5xy + 15y^2 + 31y + 10x^2 + 2x + 10\\)",
-          "\\(C. 2x^3 + 3yx^2 + 5xy + 10y^2 + 13y + 5x^2 + 2x + 10\\)",
-          "\\(D. 2x^3 + 6yx^2 + 5xy + 15y^2 + 13y + 10x^2 + 2x + 10\\)"
+          "A. 2x\\(^3\\) + 3yx\\(^2\\) + 10xy + 15y\\(^2\\) + 13y + 10x\\(^2\\) + 2x + 10",
+          "B. 2x\\(^3\\) + 6yx\\(^2\\) + 5xy + 15y\\(^2\\) + 31y + 10x\\(^2\\) + 2x + 10",
+          "C. 2x\\(^3\\) + 3yx\\(^2\\) + 5xy + 10y\\(^2\\) + 13y + 5x\\(^2\\) + 2x + 10",
+          "D. 2x\\(^3\\) + 6yx\\(^2\\) + 5xy + 15y\\(^2\\) + 13y + 10x\\(^2\\) + 2x + 10"
         ],
         "answer": "B"
       },
       {
         "q": "A force of 5 units acts on a particle to the east and another force of 4 units acts north-east. The resultant of the two forces is",
         "options": [
-          "\\(A. \\sqrt{3} units\\)",
-          "\\(B. 3\\sqrt{units}\\)",
-          "\\(C. \\sqrt{41 + 20\\sqrt{2}} units\\)",
-          "\\(D. \\sqrt{41 + 202} units\\)"
+          "A. \\(\\sqrt{3}\\) units",
+          "B. 3\\(\\sqrt{units}\\)",
+          "C. \\(\\sqrt{41 + 20\\(\\sqrt{2}\\}\\)) units",
+          "D. \\(\\sqrt{41 + 202}\\) units"
         ],
         "answer": "C"
       },
       {
-        "q": "\\(Simplify [(a − 1/a)(a + 1/a)] / [a^2 − 1/a^2]\\)",
+        "q": "Simplify [(a − 1/a)(a + 1/a)] / [a\\(^2\\) − 1/a\\(^2\\)]",
         "options": [
-          "\\(A. a^(2/3)\\)",
-          "\\(B. a^(−1/2)\\)",
-          "\\(C. a^(1/5)\\)",
-          "\\(D. a^(1/3)\\)"
+          "A. a^(2/3)",
+          "B. a^(−1/2)",
+          "C. a^(1/5)",
+          "D. a^(1/3)"
         ],
         "answer": "D"
       },
@@ -2135,7 +2135,7 @@
         "answer": "C"
       },
       {
-        "q": "\\(A solid cylinder of radius 3 cm has a total surface area of 36π cm^2. Find its height.\\)",
+        "q": "A solid cylinder of radius 3 cm has a total surface area of 36π cm\\(^2\\). Find its height.",
         "options": [
           "A. 2 cm",
           "B. 3 cm",
@@ -2158,8 +2158,8 @@
         "q": "Which formula represents the general terms of the sequence 2/(s-1), −2/(s+1), 2/(s+1), ...?",
         "options": [
           "A. 2/(s−1)",
-          "\\(B. \\left(−\\right)^{s+1} × 2/(s+1)\\)",
-          "\\(C. (−)^s × 2/(s+1)\\)",
+          "B. \\(\\left(−\\right)^{s+1}\\) × 2/(s+1)",
+          "C. (−)^s × 2/(s+1)",
           "D. s/(2s−1)"
         ],
         "answer": "C"
@@ -2236,32 +2236,32 @@
         "answer": "B"
       },
       {
-        "q": "\\(The graphical method of solving x^3 − 3x^2 + 4x − 28 = 0 is by drawing graphs of\\)",
+        "q": "The graphical method of solving x\\(^3\\) − 3x\\(^2\\) + 4x − 28 = 0 is by drawing graphs of",
         "options": [
-          "\\(A. y = x^3 and y = 3x^2 + 4x − 28\\)",
-          "\\(B. y = x^3 + 3x^2 + 4x − 28 and y = 1\\)",
-          "\\(C. y = x^3 + 3x^2 + 4x and y = 28/x\\)",
-          "\\(D. y = x^2 + 3x + 4 and y = 28/x\\)"
+          "A. y = x\\(^3\\) and y = 3x\\(^2\\) + 4x − 28",
+          "B. y = x\\(^3\\) + 3x\\(^2\\) + 4x − 28 and y = 1",
+          "C. y = x\\(^3\\) + 3x\\(^2\\) + 4x and y = 28/x",
+          "D. y = x\\(^2\\) + 3x + 4 and y = 28/x"
         ],
         "answer": "D"
       },
       {
         "q": "A sector of a circle is bounded by two radii 7 cm long and an arc of length 6 cm. Find the area of the sector.",
         "options": [
-          "\\(A. 42 cm^2\\)",
-          "\\(B. 3 cm^2\\)",
-          "\\(C. 21 cm^2\\)",
-          "\\(D. 24 cm^2\\)"
+          "A. 42 cm\\(^2\\)",
+          "B. 3 cm\\(^2\\)",
+          "C. 21 cm\\(^2\\)",
+          "D. 24 cm\\(^2\\)"
         ],
         "answer": "C"
       },
       {
         "q": "Express 150 kilometres per second in metres per hour.",
         "options": [
-          "\\(A. 7.8 × 10^5\\)",
-          "\\(B. 4.5 × 10^6\\)",
+          "A. 7.8 × 10\\(^5\\)",
+          "B. 4.5 × 10\\(^6\\)",
           "C. 7,800,000",
-          "\\(D. 4.68 × 10^8\\)"
+          "D. 4.68 × 10\\(^8\\)"
         ],
         "answer": "C"
       },
@@ -2286,7 +2286,7 @@
         "answer": "B"
       },
       {
-        "q": "\\(Find the sum to infinity of: 1, 9/10, 9/10^2, 9/10^3, ...\\)",
+        "q": "Find the sum to infinity of: 1, 9/10, 9/10\\(^2\\), 9/10\\(^3\\), ...",
         "options": [
           "A. 1/10",
           "B. 9/10",
@@ -2317,7 +2317,7 @@
         "answer": "C"
       },
       {
-        "q": "\\(If f(x) = x^3 + 2x^2 + qx − 6 is divisible by x + 1, find q.\\)",
+        "q": "If f(x) = x\\(^3\\) + 2x\\(^2\\) + qx − 6 is divisible by x + 1, find q.",
         "options": [
           "A. −5",
           "B. −2",
@@ -2327,32 +2327,32 @@
         "answer": "A"
       },
       {
-        "q": "\\(What value of g will make 4x^2 − 18xy + y + g a perfect square?\\)",
+        "q": "What value of g will make 4x\\(^2\\) − 18xy + y + g a perfect square?",
         "options": [
           "A. 9",
-          "\\(B. 9y^2/4\\)",
-          "\\(C. 81y^2\\)",
-          "\\(D. 81y^2/4\\)"
+          "B. 9y\\(^2\\)/4",
+          "C. 81y\\(^2\\)",
+          "D. 81y\\(^2\\)/4"
         ],
         "answer": "D"
       },
       {
         "q": "An arc of a circle subtends 70° at the centre. If the radius is 6 cm, calculate the area of the sector.",
         "options": [
-          "\\(A. 22 cm^2\\)",
-          "\\(B. 44 cm^2\\)",
-          "\\(C. 66 cm^2\\)",
-          "\\(D. 88 cm^2\\)"
+          "A. 22 cm\\(^2\\)",
+          "B. 44 cm\\(^2\\)",
+          "C. 66 cm\\(^2\\)",
+          "D. 88 cm\\(^2\\)"
         ],
         "answer": "A"
       },
       {
         "q": "The angle of elevation of a building is 30°. If the building is 40 m high, how far is the instrument from the foot of the building?",
         "options": [
-          "\\(A. 20/\\sqrt{3} m\\)",
-          "\\(B. 40/\\sqrt{3} m\\)",
-          "\\(C. 20\\sqrt{3} m\\)",
-          "\\(D. 40\\sqrt{3} m\\)"
+          "A. 20/\\(\\sqrt{3}\\) m",
+          "B. 40/\\(\\sqrt{3}\\) m",
+          "C. 20\\(\\sqrt{3}\\) m",
+          "D. 40\\(\\sqrt{3}\\) m"
         ],
         "answer": "D"
       },
@@ -2367,17 +2367,17 @@
         "answer": "B"
       },
       {
-        "q": "\\(d/dx [cos(3x^2 − 2x)] is equal to\\)",
+        "q": "d/dx [cos(3x\\(^2\\) − 2x)] is equal to",
         "options": [
           "A. −sin(6x − 2)",
-          "\\(B. −sin(3x^2 − 2)\\)",
-          "\\(C. (6x − 2) sin(3x^2 − 2x)\\)",
-          "\\(D. −(6x − 2) sin(3x^2 − 2x)\\)"
+          "B. −sin(3x\\(^2\\) − 2)",
+          "C. (6x − 2) sin(3x\\(^2\\) − 2x)",
+          "D. −(6x − 2) sin(3x\\(^2\\) − 2x)"
         ],
         "answer": "D"
       },
       {
-        "q": "\\(If \\log_{8}10 = x, evaluate \\log_{8}5 in terms of x.\\)",
+        "q": "If \\(\\log_{8} 10\\) = x, evaluate \\(\\log_{8} 5\\) in terms of x.",
         "options": [
           "A. 1/(2x)",
           "B. −1/4",
@@ -2427,19 +2427,19 @@
         "answer": "B"
       },
       {
-        "q": "\\(Evaluate ∫^π_4 (sin x − cos x) dx\\)",
+        "q": "Evaluate ∫^π_4 (sin x − cos x) dx",
         "options": [
-          "\\(A. \\sqrt{2} + 1\\)",
-          "\\(B. \\sqrt{2} − 1\\)",
-          "\\(C. −\\sqrt{2} − 1\\)",
-          "\\(D. −\\sqrt{2}\\)"
+          "A. \\(\\sqrt{2}\\) + 1",
+          "B. \\(\\sqrt{2}\\) − 1",
+          "C. −\\(\\sqrt{2}\\) − 1",
+          "D. −\\(\\sqrt{2}\\)"
         ],
         "answer": "B"
       }
     ],
     "2016": [
       {
-        "q": "\\(Without using tables, evaluate \\log_{2}4 + \\log_{4}2 − \\log_{25}5\\)",
+        "q": "Without using tables, evaluate \\(\\log_{2} 4\\) + \\(\\log_{4} 2\\) − \\(\\log_{25} 5\\)",
         "options": [
           "A. 1/2",
           "B. 1/5",
@@ -2449,7 +2449,7 @@
         "answer": "A"
       },
       {
-        "q": "\\(Find the values of p for which x^2 − (p−2)x + 2p + 1 = 0 has equal roots.\\)",
+        "q": "Find the values of p for which x\\(^2\\) − (p−2)x + 2p + 1 = 0 has equal roots.",
         "options": [
           "A. (0, 12)",
           "B. (1, 2)",
@@ -2489,7 +2489,7 @@
         "answer": "B"
       },
       {
-        "q": "\\(Factorise 1 − (a − b)^2\\)",
+        "q": "Factorise 1 − (a − b)\\(^2\\)",
         "options": [
           "A. (1 − a − b)(1 − a + b)",
           "B. (1 − a + b)(1 + a − b)",
@@ -2521,15 +2521,15 @@
       {
         "q": "The gradient of a curve is 2x + 1 and the curve passes through (2, 0). Find the equation of the curve.",
         "options": [
-          "\\(A. y = x^2 + 7x + 9\\)",
-          "\\(B. y = x^2 + 7x − 18\\)",
-          "\\(C. y = x^2 + 7x − 9\\)",
-          "\\(D. y = x^2 + 14x + 11\\)"
+          "A. y = x\\(^2\\) + 7x + 9",
+          "B. y = x\\(^2\\) + 7x − 18",
+          "C. y = x\\(^2\\) + 7x − 9",
+          "D. y = x\\(^2\\) + 14x + 11"
         ],
         "answer": "C"
       },
       {
-        "q": "\\(Differentiate (cos q − sin q)^2 with respect to q\\)",
+        "q": "Differentiate (cos q − sin q)\\(^2\\) with respect to q",
         "options": [
           "A. −2 cos 2q",
           "B. −2 sin 2q",
@@ -2549,7 +2549,7 @@
         "answer": "A"
       },
       {
-        "q": "\\(Find the value of x if kx^2 + x − 5x leaves a remainder 2 when divided by 2x − 1\\)",
+        "q": "Find the value of x if kx\\(^2\\) + x − 5x leaves a remainder 2 when divided by 2x − 1",
         "options": [
           "A. 10",
           "B. 8",
@@ -2559,7 +2559,7 @@
         "answer": "C"
       },
       {
-        "q": "\\(If y = x^2 − x − 12, find the range of values of x for which y ≥ 0.\\)",
+        "q": "If y = x\\(^2\\) − x − 12, find the range of values of x for which y ≥ 0.",
         "options": [
           "A. x < −1 or x > 4",
           "B. x ≤ −1 or x ≥ 4",
@@ -2579,7 +2579,7 @@
         "answer": "C"
       },
       {
-        "q": "\\(Find the radius of a sphere whose surface area is 154 cm^2\\)",
+        "q": "Find the radius of a sphere whose surface area is 154 cm\\(^2\\)",
         "options": [
           "A. 7.00 cm",
           "B. 3.50 cm",
@@ -2619,7 +2619,7 @@
         "answer": "D"
       },
       {
-        "q": "\\(Solve for x in 8x^{-2} = 2/25\\)",
+        "q": "Solve for x in 8x\\(^{-2}\\) = 2/25",
         "options": [
           "A. 10",
           "B. 4",
@@ -2639,12 +2639,12 @@
         "answer": "A"
       },
       {
-        "q": "\\(Rationalize (2\\sqrt{3} + \\sqrt{5}) / (\\sqrt{5} − \\sqrt{3})\\)",
+        "q": "Rationalize (2\\(\\sqrt{3}\\) + \\(\\sqrt{5}\\)) / (\\(\\sqrt{5}\\) − \\(\\sqrt{3}\\))",
         "options": [
-          "\\(A. (3\\sqrt{12} + 11)/2\\)",
-          "\\(B. (3\\sqrt{15} − 11)/2\\)",
-          "\\(C. 3\\sqrt{15} − 11\\)",
-          "\\(D. 3\\sqrt{15} + 11\\)"
+          "A. (3\\(\\sqrt{12}\\) + 11)/2",
+          "B. (3\\(\\sqrt{15}\\) − 11)/2",
+          "C. 3\\(\\sqrt{15}\\) − 11",
+          "D. 3\\(\\sqrt{15}\\) + 11"
         ],
         "answer": "A"
       },
@@ -2661,25 +2661,25 @@
       {
         "q": "A cylindrical pipe 5 cm long with radius 7 m has one end open. What is the total surface area of the pipe?",
         "options": [
-          "\\(A. 100π m^2\\)",
-          "\\(B. 98π m^2\\)",
-          "\\(C. 350π m^2\\)",
-          "\\(D. 749π m^2\\)"
+          "A. 100π m\\(^2\\)",
+          "B. 98π m\\(^2\\)",
+          "C. 350π m\\(^2\\)",
+          "D. 749π m\\(^2\\)"
         ],
         "answer": "D"
       },
       {
         "q": "Find the standard deviation of 2, 3, 5 and 6",
         "options": [
-          "\\(A. \\sqrt{5/2}\\)",
-          "\\(B. \\sqrt{10}\\)",
-          "\\(C. \\sqrt{6}\\)",
-          "\\(D. \\sqrt{2/5}\\)"
+          "A. \\(\\sqrt{5/2}\\)",
+          "B. \\(\\sqrt{10}\\)",
+          "C. \\(\\sqrt{6}\\)",
+          "D. \\(\\sqrt{2/5}\\)"
         ],
         "answer": "A"
       },
       {
-        "q": "\\(Without using tables evaluate \\left(343\\right)^{−1/3} × \\left(0.14\\right)^{−1} × \\left(25\\right)^{−1/2}\\)",
+        "q": "Without using tables evaluate \\(\\left(343\\right)^{−1/3}\\) × \\(\\left(0.14\\right)^{−1}\\) × \\(\\left(25\\right)^{−1/2}\\)",
         "options": [
           "A. 10",
           "B. 12",
@@ -2689,7 +2689,7 @@
         "answer": "A"
       },
       {
-        "q": "\\(Given that \\log_{4}(y − 1) + \\log_{4}(1/2x) = 1 and \\log_{4}(y + 1) + \\log_{4}x = 2, solve for x and y respectively.\\)",
+        "q": "Given that log\\(_4\\)(y − 1) + log\\(_4\\)(1/2x) = 1 and log\\(_4\\)(y + 1) + \\(\\log_{4} x\\) = 2, solve for x and y respectively.",
         "options": [
           "A. 2, 3",
           "B. 3, 2",
@@ -2699,7 +2699,7 @@
         "answer": "C"
       },
       {
-        "q": "\\(When pm^2 + qm + 1 is divided by (m − 1) the remainder is 2, and when divided by (m + 1) the remainder is 4. Find p and q respectively.\\)",
+        "q": "When pm\\(^2\\) + qm + 1 is divided by (m − 1) the remainder is 2, and when divided by (m + 1) the remainder is 4. Find p and q respectively.",
         "options": [
           "A. 2, −1",
           "B. −1, 2",
@@ -2709,12 +2709,12 @@
         "answer": "A"
       },
       {
-        "q": "\\(Divide 2x^3 + 11x^2 + 17x + 6 by 2x + 1\\)",
+        "q": "Divide 2x\\(^3\\) + 11x\\(^2\\) + 17x + 6 by 2x + 1",
         "options": [
-          "\\(A. x^2 + 5x + 6\\)",
-          "\\(B. 2x^2 + 5x + 6\\)",
-          "\\(C. 2x^2 − 5x + 6\\)",
-          "\\(D. x^2 − 5x + 6\\)"
+          "A. x\\(^2\\) + 5x + 6",
+          "B. 2x\\(^2\\) + 5x + 6",
+          "C. 2x\\(^2\\) − 5x + 6",
+          "D. x\\(^2\\) − 5x + 6"
         ],
         "answer": "A"
       },
@@ -2729,12 +2729,12 @@
         "answer": "C"
       },
       {
-        "q": "\\([See diagram] PQST is a parallelogram and TSR is a straight line. If area of △QRS = 20 cm^2, find the area of trapezium PQRT.\\)",
+        "q": "[See diagram] PQST is a parallelogram and TSR is a straight line. If area of △QRS = 20 cm\\(^2\\), find the area of trapezium PQRT.",
         "options": [
-          "\\(A. 35 cm^2\\)",
-          "\\(B. 65 cm^2\\)",
-          "\\(C. 70 cm^2\\)",
-          "\\(D. 140 cm^2\\)"
+          "A. 35 cm\\(^2\\)",
+          "B. 65 cm\\(^2\\)",
+          "C. 70 cm\\(^2\\)",
+          "D. 140 cm\\(^2\\)"
         ],
         "answer": "C",
         "diagram": "2016_Q30_parallelogram_PQST.png"
@@ -2752,10 +2752,10 @@
       {
         "q": "Find the equation of the curve which passes through (2, 5) and whose gradient at any point is 6x − 5",
         "options": [
-          "\\(A. 6x^2 − 5x\\)",
-          "\\(B. 6x^2 − 5x + 5\\)",
-          "\\(C. 3x^2 − 5x − 5\\)",
-          "\\(D. 3x^2 − 5x + 3\\)"
+          "A. 6x\\(^2\\) − 5x",
+          "B. 6x\\(^2\\) − 5x + 5",
+          "C. 3x\\(^2\\) − 5x − 5",
+          "D. 3x\\(^2\\) − 5x + 3"
         ],
         "answer": "D"
       },
@@ -2780,12 +2780,12 @@
         "answer": "C"
       },
       {
-        "q": "\\(Rationalize (5\\sqrt{7} − 7\\sqrt{5}) / (\\sqrt{7} − \\sqrt{5})\\)",
+        "q": "Rationalize (5\\(\\sqrt{7}\\) − 7\\(\\sqrt{5}\\)) / (\\(\\sqrt{7}\\) − \\(\\sqrt{5}\\))",
         "options": [
-          "\\(A. −2\\sqrt{35}\\)",
-          "\\(B. \\sqrt{7} − 6\\sqrt{5}\\)",
-          "\\(C. −\\sqrt{35}\\)",
-          "\\(D. 4\\sqrt{7}\\)"
+          "A. −2\\(\\sqrt{35}\\)",
+          "B. \\(\\sqrt{7}\\) − 6\\(\\sqrt{5}\\)",
+          "C. −\\(\\sqrt{35}\\)",
+          "D. 4\\(\\sqrt{7}\\)"
         ],
         "answer": "C"
       },
@@ -2810,7 +2810,7 @@
         "answer": "B"
       },
       {
-        "q": "\\(Simplify (∛6403)^{-1}\\)",
+        "q": "Simplify (∛6403)\\(^{-1}\\)",
         "options": [
           "A. 80",
           "B. 40",
@@ -2844,15 +2844,15 @@
       {
         "q": "If dy/dx = 2x − 3 and y = 3 when x = 0, find y in terms of x",
         "options": [
-          "\\(A. 2x^2 − 3x\\)",
-          "\\(B. x^2 − 3x\\)",
-          "\\(C. x^2 − 3x − 3\\)",
-          "\\(D. x^2 − 3x + 3\\)"
+          "A. 2x\\(^2\\) − 3x",
+          "B. x\\(^2\\) − 3x",
+          "C. x\\(^2\\) − 3x − 3",
+          "D. x\\(^2\\) − 3x + 3"
         ],
         "answer": "A"
       },
       {
-        "q": "\\(If P = (2  1 / −3  0) and I is a 2×2 unit matrix. Evaluate P^2 − 2P + 4I\\)",
+        "q": "If P = (2  1 / −3  0) and I is a 2×2 unit matrix. Evaluate P\\(^2\\) − 2P + 4I",
         "options": [
           "A. (9  4 / −12  1)",
           "B. (−3  0 / 0  −3)",
@@ -2882,7 +2882,7 @@
         "answer": "B"
       },
       {
-        "q": "\\(The graph of y = x^2 + 4 and a straight line PQ are drawn to solve x^2 + 3x = 0. What is the equation of PQ?\\)",
+        "q": "The graph of y = x\\(^2\\) + 4 and a straight line PQ are drawn to solve x\\(^2\\) + 3x = 0. What is the equation of PQ?",
         "options": [
           "A. y = 3x − 2",
           "B. y = 3x + 2",
@@ -2922,12 +2922,12 @@
         "answer": "B"
       },
       {
-        "q": "\\(Given μ = {even numbers between 0 and 30}, P = {multiples of 6 between 0 and 30}, Q = {multiples of 4 between 0 and 30}. Find (P∪Q)'\\)",
+        "q": "Given μ = {even numbers between 0 and 30}, P = {multiples of 6 between 0 and 30}, Q = {multiples of 4 between 0 and 30}. Find (P∪Q)'",
         "options": [
-          "\\(A. {2, 10, 14, 22, 26}\\)",
-          "\\(B. {2, 10, 14, 22, 26}\\)",
-          "\\(C. {2, 4, 14, 18, 26}\\)",
-          "\\(D. {0, 2, 6, 22, 26}\\)"
+          "A. {2, 10, 14, 22, 26}",
+          "B. {2, 10, 14, 22, 26}",
+          "C. {2, 4, 14, 18, 26}",
+          "D. {0, 2, 6, 22, 26}"
         ],
         "answer": "A"
       },
@@ -2962,7 +2962,7 @@
         "answer": "B"
       },
       {
-        "q": "\\(The shadow of a pole 5\\sqrt{3} m high is 5.5 m. Find the angle of elevation of the sun.\\)",
+        "q": "The shadow of a pole 5\\(\\sqrt{3}\\) m high is 5.5 m. Find the angle of elevation of the sun.",
         "options": [
           "A. 50°",
           "B. 45°",
@@ -2994,10 +2994,10 @@
       {
         "q": "A polynomial in x whose zeros are −2, −1 and 3 is",
         "options": [
-          "\\(A. x^3 − 7x + 6\\)",
-          "\\(B. x^3 + 7x − 6\\)",
-          "\\(C. x^3 + 7x + 6\\)",
-          "\\(D. x^3 − 7x − 6\\)"
+          "A. x\\(^3\\) − 7x + 6",
+          "B. x\\(^3\\) + 7x − 6",
+          "C. x\\(^3\\) + 7x + 6",
+          "D. x\\(^3\\) − 7x − 6"
         ],
         "answer": "D"
       },
@@ -3033,7 +3033,7 @@
         "answer": "C"
       },
       {
-        "q": "\\(What is the probability that an integer x, {1 ≤ x ≤ 20} chosen at random is divisible by both 2 and 3?\\)",
+        "q": "What is the probability that an integer x, {1 ≤ x ≤ 20} chosen at random is divisible by both 2 and 3?",
         "options": [
           "A. 1/20",
           "B. 1/3",
@@ -3104,17 +3104,17 @@
         "answer": "A"
       },
       {
-        "q": "\\(Rationalize (2 − \\sqrt{5}) / (3 − \\sqrt{5})\\)",
+        "q": "Rationalize (2 − \\(\\sqrt{5}\\)) / (3 − \\(\\sqrt{5}\\))",
         "options": [
-          "\\(A. (1 − \\sqrt{5})/2\\)",
-          "\\(B. (1 − \\sqrt{5})/4\\)",
-          "\\(C. (\\sqrt{5} − 1)/2\\)",
-          "\\(D. (1 + \\sqrt{5})/2\\)"
+          "A. (1 − \\(\\sqrt{5}\\))/2",
+          "B. (1 − \\(\\sqrt{5}\\))/4",
+          "C. (\\(\\sqrt{5}\\) − 1)/2",
+          "D. (1 + \\(\\sqrt{5}\\))/2"
         ],
         "answer": "B"
       },
       {
-        "q": "\\(Factorise completely 9y^2 − 16x^2\\)",
+        "q": "Factorise completely 9y\\(^2\\) − 16x\\(^2\\)",
         "options": [
           "A. (3y − 2x)(3y + 4x)",
           "B. (3y + 4x)(3y + 4x)",
@@ -3124,7 +3124,7 @@
         "answer": "D"
       },
       {
-        "q": "\\(Solve the inequalities x^2 + 2x > 15\\)",
+        "q": "Solve the inequalities x\\(^2\\) + 2x > 15",
         "options": [
           "A. x < −3 or x > 5",
           "B. −5 < x < 3",
@@ -3136,15 +3136,15 @@
       {
         "q": "A circle of perimeter 28 cm is opened to form a square. What is the maximum possible area of the square?",
         "options": [
-          "\\(A. 56 cm^2\\)",
-          "\\(B. 49 cm^2\\)",
-          "\\(C. 98 cm^2\\)",
-          "\\(D. 28 cm^2\\)"
+          "A. 56 cm\\(^2\\)",
+          "B. 49 cm\\(^2\\)",
+          "C. 98 cm\\(^2\\)",
+          "D. 28 cm\\(^2\\)"
         ],
         "answer": "B"
       },
       {
-        "q": "\\(If two graphs y = px^2 + q and y = 2x^2 − 1 intersect at x = 2. Find the value of p in terms of q\\)",
+        "q": "If two graphs y = px\\(^2\\) + q and y = 2x\\(^2\\) − 1 intersect at x = 2. Find the value of p in terms of q",
         "options": [
           "A. (7+q)/8",
           "B. (8−q)/2",
@@ -3156,15 +3156,15 @@
       {
         "q": "A straight line makes an angle of 30° with the positive x-axis and cuts the y-axis at y = 5. Find the equation of the straight line.",
         "options": [
-          "\\(A. \\sqrt{3y} = x + 5\\sqrt{3}\\)",
-          "\\(B. \\sqrt{3y} = −x + 5\\sqrt{3}\\)",
+          "A. \\(\\sqrt{3y}\\) = x + 5\\(\\sqrt{3}\\)",
+          "B. \\(\\sqrt{3y}\\) = −x + 5\\(\\sqrt{3}\\)",
           "C. y = x + 5",
           "D. y = (1/10)x + 5"
         ],
         "answer": "A"
       },
       {
-        "q": "\\(Find the area bounded by the curves y = 4 − x^2 and y = x^2 + 1.\\)",
+        "q": "Find the area bounded by the curves y = 4 − x\\(^2\\) and y = x\\(^2\\) + 1.",
         "options": [
           "A. 10⅓ sq. units",
           "B. 10⅔ sq. units",
@@ -3184,7 +3184,7 @@
         "answer": "C"
       },
       {
-        "q": "\\(Find without using a logarithm table the value of [\\log_{3}27 − \\log_{16}4] / \\log_{3}(1/81)\\)",
+        "q": "Find without using a logarithm table the value of [\\(\\log_{3} 27\\) − \\(\\log_{16} 4\\)] / log\\(_3\\)(1/81)",
         "options": [
           "A. 7/4",
           "B. −7/4",
@@ -3218,16 +3218,16 @@
       {
         "q": "[See diagram] What is the volume of the regular three dimensional figure shown (prism: 5cm × 8cm × 4cm)?",
         "options": [
-          "\\(A. 160 cm^3\\)",
-          "\\(B. 48 cm^3\\)",
-          "\\(C. 96 cm^3\\)",
-          "\\(D. 120 cm^3\\)"
+          "A. 160 cm\\(^3\\)",
+          "B. 48 cm\\(^3\\)",
+          "C. 96 cm\\(^3\\)",
+          "D. 120 cm\\(^3\\)"
         ],
         "answer": "B",
         "diagram": "2017_Q38_prism_3d.png"
       },
       {
-        "q": "\\(Find the remainder when x^3 − 2x^2 + 3x − 3 is divided by x^2 + 1.\\)",
+        "q": "Find the remainder when x\\(^3\\) − 2x\\(^2\\) + 3x − 3 is divided by x\\(^2\\) + 1.",
         "options": [
           "A. 2x − 1",
           "B. x + 3",
@@ -3262,34 +3262,34 @@
         "q": "Express the product of 0.00043 and 2000 in standard form",
         "options": [
           "A. 8.6 × 10",
-          "\\(B. 8.6 × 10^{-3}\\)",
-          "\\(C. 8.6 × 10^{-2}\\)",
-          "\\(D. 8.6 × 10^{-1}\\)"
+          "B. 8.6 × 10\\(^{-3}\\)",
+          "C. 8.6 × 10\\(^{-2}\\)",
+          "D. 8.6 × 10\\(^{-1}\\)"
         ],
         "answer": "D"
       },
       {
-        "q": "\\(Simplify (2\\sqrt{2} − \\sqrt{3}) / (\\sqrt{2} + \\sqrt{3})\\)",
+        "q": "Simplify (2\\(\\sqrt{2}\\) − \\(\\sqrt{3}\\)) / (\\(\\sqrt{2}\\) + \\(\\sqrt{3}\\))",
         "options": [
-          "\\(A. 5\\sqrt{5} + 1\\)",
-          "\\(B. 3\\sqrt{6} − 7\\)",
-          "\\(C. 3\\sqrt{6} + 7\\)",
-          "\\(D. 3\\sqrt{6} − 1\\)"
+          "A. 5\\(\\sqrt{5}\\) + 1",
+          "B. 3\\(\\sqrt{6}\\) − 7",
+          "C. 3\\(\\sqrt{6}\\) + 7",
+          "D. 3\\(\\sqrt{6}\\) − 1"
         ],
         "answer": "B"
       },
       {
-        "q": "\\(If gt^2 − u − w = 0, make g the subject of the formula\\)",
+        "q": "If gt\\(^2\\) − u − w = 0, make g the subject of the formula",
         "options": [
           "A. (u−w)/t",
-          "\\(B. (u+w)/t^2\\)",
-          "\\(C. (u−w)/t^2\\)",
+          "B. (u+w)/t\\(^2\\)",
+          "C. (u−w)/t\\(^2\\)",
           "D. (u+w)/t"
         ],
         "answer": "B"
       },
       {
-        "q": "\\(Find the value of y if y − 1 is a factor of y^3 + 4y^2 + 4y − 6\\)",
+        "q": "Find the value of y if y − 1 is a factor of y\\(^3\\) + 4y\\(^2\\) + 4y − 6",
         "options": [
           "A. 0",
           "B. −6",
@@ -3352,7 +3352,7 @@
         "answer": "D"
       },
       {
-        "q": "\\(If x = 1 is the root of x^3 − 2x^2 − 5x + 6, find the other roots\\)",
+        "q": "If x = 1 is the root of x\\(^3\\) − 2x\\(^2\\) − 5x + 6, find the other roots",
         "options": [
           "A. −3 and 2",
           "B. −2 and 2",
@@ -3362,7 +3362,7 @@
         "answer": "C"
       },
       {
-        "q": "\\(If x + 2 and x − 1 are factors of lx^3 + 2kx^2 + 24. Find the values of l and k\\)",
+        "q": "If x + 2 and x − 1 are factors of lx\\(^3\\) + 2kx\\(^2\\) + 24. Find the values of l and k",
         "options": [
           "A. l = −6, k = −2",
           "B. l = −2, k = 1",
@@ -3372,7 +3372,7 @@
         "answer": "B"
       },
       {
-        "q": "\\(Simplify [(x−7)/(x^2−9)] × [(x^2−3x)/(x^2−49)]\\)",
+        "q": "Simplify [(x−7)/(x\\(^2\\)−9)] × [(x\\(^2\\)−3x)/(x\\(^2\\)−49)]",
         "options": [
           "A. x/[(x−3)(x+7)]",
           "B. x/[(x+3)(x+7)]",
@@ -3393,7 +3393,7 @@
         "diagram": "2018_Q14_desk_PQRS_3d.png"
       },
       {
-        "q": "\\(Find the missing value in the table: x: −2, −1, 0, 1, 2, 3 and y = x^3 − x + 3: _, 3, 3, 3, 9, 27\\)",
+        "q": "Find the missing value in the table: x: −2, −1, 0, 1, 2, 3 and y = x\\(^3\\) − x + 3: _, 3, 3, 3, 9, 27",
         "options": [
           "A. −5",
           "B. 3",
@@ -3423,7 +3423,7 @@
         "answer": "B"
       },
       {
-        "q": "\\(If f(x) = 1/(x−1) + (x−1)/(x^2−1), find f(1−x)\\)",
+        "q": "If f(x) = 1/(x−1) + (x−1)/(x\\(^2\\)−1), find f(1−x)",
         "options": [
           "A. 1/x + 1/(x−2)",
           "B. x + 1/(2x−1)",
@@ -3433,12 +3433,12 @@
         "answer": "C"
       },
       {
-        "q": "\\(Convert 241_{5} to base 8\\)",
+        "q": "Convert 241\\(_{5}\\) to base 8",
         "options": [
-          "\\(A. 71_{8}\\)",
-          "\\(B. 107_{8}\\)",
-          "\\(C. 176_{8}\\)",
-          "\\(D. 241_{8}\\)"
+          "A. 71\\(_{8}\\)",
+          "B. 107\\(_{8}\\)",
+          "C. 176\\(_{8}\\)",
+          "D. 241\\(_{8}\\)"
         ],
         "answer": "B"
       },
@@ -3463,22 +3463,22 @@
         "answer": "B"
       },
       {
-        "q": "\\(Simplify without using tables (2\\sqrt{14} × 3\\sqrt{21}) / (7\\sqrt{24} × 2\\sqrt{98})\\)",
+        "q": "Simplify without using tables (2\\(\\sqrt{14}\\) × 3\\(\\sqrt{21}\\)) / (7\\(\\sqrt{24}\\) × 2\\(\\sqrt{98}\\))",
         "options": [
-          "\\(A. 3\\sqrt{14}/4\\)",
-          "\\(B. 3\\sqrt{2}/4\\)",
-          "\\(C. 3\\sqrt{14}/28\\)",
-          "\\(D. 3\\sqrt{2}/28\\)"
+          "A. 3\\(\\sqrt{14}\\)/4",
+          "B. 3\\(\\sqrt{2}\\)/4",
+          "C. 3\\(\\sqrt{14}\\)/28",
+          "D. 3\\(\\sqrt{2}\\)/28"
         ],
         "answer": "C"
       },
       {
-        "q": "\\(Make y the subject of the formula Z = x^2 + 1/y^3\\)",
+        "q": "Make y the subject of the formula Z = x\\(^2\\) + 1/y\\(^3\\)",
         "options": [
-          "\\(A. y = 1/(Z−x^2)^3\\)",
-          "\\(B. y = 1/(Z+x^2)^3\\)",
-          "\\(C. y = 1/\\left(Z−x^2\\right)^{1/3} [cube root]\\)",
-          "\\(D. y = 1/(∛Z − ∛x^2)\\)"
+          "A. y = 1/(Z−x\\(^2\\))\\(^3\\)",
+          "B. y = 1/(Z+x\\(^2\\))\\(^3\\)",
+          "C. y = 1/(Z−x\\(^2\\))^(1/3) [cube root]",
+          "D. y = 1/(∛Z − ∛x\\(^2\\))"
         ],
         "answer": "C"
       },
@@ -3496,10 +3496,10 @@
       {
         "q": "Find the eleventh term of the progression 4, 8, 16, ...",
         "options": [
-          "\\(A. 2^{13}\\)",
-          "\\(B. 2^{12}\\)",
-          "\\(C. 2^{11}\\)",
-          "\\(D. 2^{16}\\)"
+          "A. 2\\(^{13}\\)",
+          "B. 2\\(^{12}\\)",
+          "C. 2\\(^{11}\\)",
+          "D. 2\\(^{16}\\)"
         ],
         "answer": "B"
       },
@@ -3524,7 +3524,7 @@
         "answer": "D"
       },
       {
-        "q": "\\(Find the value of x for which f(x) = 2x^3 − x^2 − 4x + 4 has a maximum value\\)",
+        "q": "Find the value of x for which f(x) = 2x\\(^3\\) − x\\(^2\\) − 4x + 4 has a maximum value",
         "options": [
           "A. 2/3",
           "B. 1",
@@ -3534,12 +3534,12 @@
         "answer": "B"
       },
       {
-        "q": "\\(Make L the subject of the formula d = \\sqrt{42w/5L}\\)",
+        "q": "Make L the subject of the formula d = \\(\\sqrt{42w/5L}\\)",
         "options": [
-          "\\(A. \\sqrt{42w/5d}\\)",
-          "\\(B. \\sqrt{42w/5d^2}\\)",
-          "\\(C. \\sqrt{42/5d^2}\\)",
-          "\\(D. (1/2)\\sqrt{42w/5}\\)"
+          "A. \\(\\sqrt{42w/5d}\\)",
+          "B. \\(\\sqrt{42w/5d\\(^2\\)}\\)",
+          "C. \\(\\sqrt{42/5d\\(^2\\)}\\)",
+          "D. (1/2)\\(\\sqrt{42w/5}\\)"
         ],
         "answer": "B"
       },
@@ -3554,7 +3554,7 @@
         "answer": "B"
       },
       {
-        "q": "\\(Solve the quadratic inequality x^2 − 5x + 6 ≥ 0\\)",
+        "q": "Solve the quadratic inequality x\\(^2\\) − 5x + 6 ≥ 0",
         "options": [
           "A. x ≤ 2, x ≤ 7",
           "B. x ≤ 3, x ≥ 2",
@@ -3585,7 +3585,7 @@
         "answer": "B"
       },
       {
-        "q": "\\(Evaluate ∫^(π/2)_(−π/2) cos x dx\\)",
+        "q": "Evaluate ∫^(π/2)_(−π/2) cos x dx",
         "options": [
           "A. 0",
           "B. 1",
@@ -3605,7 +3605,7 @@
         "answer": "D"
       },
       {
-        "q": "\\(The volume of a hemispherical bowl is 718 2/3 cm^3. Find the radius.\\)",
+        "q": "The volume of a hemispherical bowl is 718 2/3 cm\\(^3\\). Find the radius.",
         "options": [
           "A. 4.0 cm",
           "B. 5.6 cm",
@@ -3615,7 +3615,7 @@
         "answer": "C"
       },
       {
-        "q": "\\(If ⌊x⌋ = 124_{5}, find x\\)",
+        "q": "If ⌊x⌋ = 124\\(_{5}\\), find x",
         "options": [
           "A. 124",
           "B. 121",

@@ -22,12 +22,12 @@
         {
           "id": "2010_1",
           "number": 1,
-          "question": "\\(Two cars moving in the same direction have speeds of 100 kmh^{-1} and 130 kmh^{-1}. What is the velocity of the faster car as measured by an observer in the slower car?\\)",
+          "question": "Two cars moving in the same direction have speeds of 100 kmh\\(^{-1}\\) and 130 kmh\\(^{-1}\\). What is the velocity of the faster car as measured by an observer in the slower car?",
           "options": {
-            "A": "\\(130 kmh^{-1}\\)",
-            "B": "\\(230 kmh^{-1}\\)",
-            "C": "\\(200 kmh^{-1}\\)",
-            "D": "\\(30 kmh^{-1}\\)"
+            "A": "130 kmh\\(^{-1}\\)",
+            "B": "230 kmh\\(^{-1}\\)",
+            "C": "200 kmh\\(^{-1}\\)",
+            "D": "30 kmh\\(^{-1}\\)"
           },
           "answer": "D",
           "has_diagram": false,
@@ -64,12 +64,12 @@
         {
           "id": "2010_4",
           "number": 4,
-          "question": "\\(A car moves with an initial velocity of 25 ms^{-1} and reaches a velocity of 45 ms^{-1} in 10 s. What is the acceleration of the car?\\)",
+          "question": "A car moves with an initial velocity of 25 ms\\(^{-1}\\) and reaches a velocity of 45 ms\\(^{-1}\\) in 10 s. What is the acceleration of the car?",
           "options": {
-            "A": "\\(5 ms^{-2}\\)",
-            "B": "\\(25 ms^{-2}\\)",
-            "C": "\\(20 ms^{-2}\\)",
-            "D": "\\(2 ms^{-2}\\)"
+            "A": "5 ms\\(^{-2}\\)",
+            "B": "25 ms\\(^{-2}\\)",
+            "C": "20 ms\\(^{-2}\\)",
+            "D": "2 ms\\(^{-2}\\)"
           },
           "answer": "D",
           "has_diagram": false,
@@ -162,7 +162,7 @@
         {
           "id": "2010_11",
           "number": 11,
-          "question": "\\(In a hydraulic press, the pump piston exerts a pressure of 100 Pa on the liquid. What force is exerted in the second piston of cross-sectional area 3 m^2?\\)",
+          "question": "In a hydraulic press, the pump piston exerts a pressure of 100 Pa on the liquid. What force is exerted in the second piston of cross-sectional area 3 m\\(^2\\)?",
           "options": {
             "A": "200 N",
             "B": "100 N",
@@ -218,7 +218,7 @@
         {
           "id": "2010_15",
           "number": 15,
-          "question": "\\(Two metals P and Q of lengths l_1 and l_2 are heated through the same temperature difference. If the ratio of the linear expansivities of P to Q is 2:3 and the ratio of their lengths is 3:4, what is the ratio of increase in lengths of P to Q?\\)",
+          "question": "Two metals P and Q of lengths l\\(_1\\) and l\\(_2\\) are heated through the same temperature difference. If the ratio of the linear expansivities of P to Q is 2:3 and the ratio of their lengths is 3:4, what is the ratio of increase in lengths of P to Q?",
           "options": {
             "A": "5:7",
             "B": "2:1",
@@ -232,12 +232,12 @@
         {
           "id": "2010_16",
           "number": 16,
-          "question": "\\(The density of a certain oil on frying becomes 0.4 kgm^{-3} with a volume of 20 m^3. What will be its initial volume when its initial density is 0.8 kgm^{-3} assuming no loss of oil due to spillage?\\)",
+          "question": "The density of a certain oil on frying becomes 0.4 kgm\\(^{-3}\\) with a volume of 20 m\\(^3\\). What will be its initial volume when its initial density is 0.8 kgm\\(^{-3}\\) assuming no loss of oil due to spillage?",
           "options": {
-            "A": "\\(10 kgm^{-3}\\)",
-            "B": "\\(5 kgm^{-3}\\)",
-            "C": "\\(8 kgm^{-3}\\)",
-            "D": "\\(12 kgm^{-3}\\)"
+            "A": "10 kgm\\(^{-3}\\)",
+            "B": "5 kgm\\(^{-3}\\)",
+            "C": "8 kgm\\(^{-3}\\)",
+            "D": "12 kgm\\(^{-3}\\)"
           },
           "answer": "A",
           "has_diagram": false,
@@ -302,12 +302,12 @@
         {
           "id": "2010_21",
           "number": 21,
-          "question": "\\(The pressure of one mole of an ideal gas of volume 10^{-2} m^3 at a temperature of 27°C is [Molar gas constant = 8.3 J mol^{-1} K^{-1}]\\)",
+          "question": "The pressure of one mole of an ideal gas of volume 10\\(^{-2}\\) m\\(^3\\) at a temperature of 27°C is [Molar gas constant = 8.3 J mol\\(^{-1}\\) K\\(^{-1}\\)]",
           "options": {
-            "A": "\\(2.24 × 10^4 Nm^{-2}\\)",
-            "B": "\\(2.24 × 10^5 Nm^{-1}\\)",
-            "C": "\\(2.49 × 10^5 Nm^{-1}\\)",
-            "D": "\\(2.49 × 10^4 Nm^{-1}\\)"
+            "A": "2.24 × 10\\(^4\\) Nm\\(^{-2}\\)",
+            "B": "2.24 × 10\\(^5\\) Nm\\(^{-1}\\)",
+            "C": "2.49 × 10\\(^5\\) Nm\\(^{-1}\\)",
+            "D": "2.49 × 10\\(^4\\) Nm\\(^{-1}\\)"
           },
           "answer": "C",
           "has_diagram": false,
@@ -330,7 +330,7 @@
         {
           "id": "2010_23",
           "number": 23,
-          "question": "\\(The wavelength of a wave travelling with a velocity of 420 ms^{-1} is 42 m. What is its period?\\)",
+          "question": "The wavelength of a wave travelling with a velocity of 420 ms\\(^{-1}\\) is 42 m. What is its period?",
           "options": {
             "A": "1.0 s",
             "B": "0.1 s",
@@ -372,12 +372,12 @@
         {
           "id": "2010_26",
           "number": 26,
-          "question": "\\(The velocity of sound in air at 16°C is 340 ms^{-1}. What will it be when the pressure is doubled and its temperature raised to 127°C?\\)",
+          "question": "The velocity of sound in air at 16°C is 340 ms\\(^{-1}\\). What will it be when the pressure is doubled and its temperature raised to 127°C?",
           "options": {
-            "A": "\\(4,000 ms^{-1}\\)",
-            "B": "\\(160,000 ms^{-1}\\)",
-            "C": "\\(8,000 ms^{-1}\\)",
-            "D": "\\(400 ms^{-1}\\)"
+            "A": "4,000 ms\\(^{-1}\\)",
+            "B": "160,000 ms\\(^{-1}\\)",
+            "C": "8,000 ms\\(^{-1}\\)",
+            "D": "400 ms\\(^{-1}\\)"
           },
           "answer": "D",
           "has_diagram": false,
@@ -472,10 +472,10 @@
           "number": 33,
           "question": "Three capacitors of capacitance 2 μF, 4 μF and 8 μF are connected in parallel and a p.d of 6 V is maintained across each capacitor. The total energy stored is",
           "options": {
-            "A": "\\(6.90 × 10^{-6} J\\)",
-            "B": "\\(6.90 × 10^{-4} J\\)",
-            "C": "\\(2.52 × 10^{-4} J\\)",
-            "D": "\\(2.52 × 10^{-6} J\\)"
+            "A": "6.90 × 10\\(^{-6}\\) J",
+            "B": "6.90 × 10\\(^{-4}\\) J",
+            "C": "2.52 × 10\\(^{-4}\\) J",
+            "D": "2.52 × 10\\(^{-6}\\) J"
           },
           "answer": "C",
           "has_diagram": false,
@@ -588,7 +588,7 @@
         {
           "id": "2011_1",
           "number": 1,
-          "question": "\\(A carpenter on top of a roof 20 m high dropped a hammer of mass 1.5 kg and it fell freely to the ground. The kinetic energy of the hammer just before hitting the ground is [g = 10 ms^{-2}]\\)",
+          "question": "A carpenter on top of a roof 20 m high dropped a hammer of mass 1.5 kg and it fell freely to the ground. The kinetic energy of the hammer just before hitting the ground is [g = 10 ms\\(^{-2}\\)]",
           "options": {
             "A": "450 J",
             "B": "600 J",
@@ -602,7 +602,7 @@
         {
           "id": "2011_2",
           "number": 2,
-          "question": "\\(Two balls X and Y weighing 5 g and 50 kg respectively were thrown up vertically at the same time with a velocity of 100 ms^{-1}. How will their positions be one second later?\\)",
+          "question": "Two balls X and Y weighing 5 g and 50 kg respectively were thrown up vertically at the same time with a velocity of 100 ms\\(^{-1}\\). How will their positions be one second later?",
           "options": {
             "A": "X and Y will both be 500 m from the point of throw",
             "B": "X and Y will be 500 m from each other",
@@ -644,7 +644,7 @@
         {
           "id": "2011_5",
           "number": 5,
-          "question": "\\(An object of mass 2 kg moves with a velocity of 10 ms^{-1} round a circle of radius 4 m. Calculate the centripetal force on the object.\\)",
+          "question": "An object of mass 2 kg moves with a velocity of 10 ms\\(^{-1}\\) round a circle of radius 4 m. Calculate the centripetal force on the object.",
           "options": {
             "A": "40 N",
             "B": "25 N",
@@ -658,7 +658,7 @@
         {
           "id": "2011_6",
           "number": 6,
-          "question": "\\(If it takes an object 3 s to fall freely to the ground from a certain height, what is the distance covered by the object? [g = 10 ms^{-2}]\\)",
+          "question": "If it takes an object 3 s to fall freely to the ground from a certain height, what is the distance covered by the object? [g = 10 ms\\(^{-2}\\)]",
           "options": {
             "A": "60 m",
             "B": "90 m",
@@ -756,7 +756,7 @@
         {
           "id": "2011_13",
           "number": 13,
-          "question": "\\(A block and tackle is used to raise a load of 25 N through a vertical distance of 30 m. What is the efficiency of the system if the work done against friction is 1500 J? [g ≈ 10 ms^{-2}]\\)",
+          "question": "A block and tackle is used to raise a load of 25 N through a vertical distance of 30 m. What is the efficiency of the system if the work done against friction is 1500 J? [g ≈ 10 ms\\(^{-2}\\)]",
           "options": {
             "A": "62.5%",
             "B": "73.3%",
@@ -770,7 +770,7 @@
         {
           "id": "2011_14",
           "number": 14,
-          "question": "\\(An object weighs 22 kg in water and 30 kg in air. What is the upthrust exerted by the liquid on the object? [g = 10 ms^{-2}]\\)",
+          "question": "An object weighs 22 kg in water and 30 kg in air. What is the upthrust exerted by the liquid on the object? [g = 10 ms\\(^{-2}\\)]",
           "options": {
             "A": "80 N",
             "B": "50 N",
@@ -786,10 +786,10 @@
           "number": 15,
           "question": "A block of aluminium is heated electrically by a 30 W heater. If the temperature rises by 100°C in 5 minutes, the heat capacity of the aluminium is",
           "options": {
-            "A": "\\(200 JK^{-1}\\)",
-            "B": "\\(900 JK^{-1}\\)",
-            "C": "\\(90 JK^{-1}\\)",
-            "D": "\\(100 JK^{-1}\\)"
+            "A": "200 JK\\(^{-1}\\)",
+            "B": "900 JK\\(^{-1}\\)",
+            "C": "90 JK\\(^{-1}\\)",
+            "D": "100 JK\\(^{-1}\\)"
           },
           "answer": "C",
           "has_diagram": false,
@@ -882,12 +882,12 @@
         {
           "id": "2011_22",
           "number": 22,
-          "question": "\\(A metal of volume 40 cm^3 is heated from 30°C to 90°C. The increase in volume is [Linear expansivity of the metal = 2.0 × 10^{-5} K^{-1}]\\)",
+          "question": "A metal of volume 40 cm\\(^3\\) is heated from 30°C to 90°C. The increase in volume is [Linear expansivity of the metal = 2.0 × 10\\(^{-5}\\) K\\(^{-1}\\)]",
           "options": {
-            "A": "\\(0.40 cm^3\\)",
-            "B": "\\(0.14 cm^3\\)",
-            "C": "\\(0.12 cm^3\\)",
-            "D": "\\(1.20 cm^3\\)"
+            "A": "0.40 cm\\(^3\\)",
+            "B": "0.14 cm\\(^3\\)",
+            "C": "0.12 cm\\(^3\\)",
+            "D": "1.20 cm\\(^3\\)"
           },
           "answer": "A",
           "has_diagram": false,
@@ -994,7 +994,7 @@
         {
           "id": "2011_30",
           "number": 30,
-          "question": "\\(A cannon is fired from town X. After how long is the sound heard at a town Y 4.95 km away? [velocity of sound in air = 333 ms^{-1}]\\)",
+          "question": "A cannon is fired from town X. After how long is the sound heard at a town Y 4.95 km away? [velocity of sound in air = 333 ms\\(^{-1}\\)]",
           "options": {
             "A": "15 s",
             "B": "0 s",
@@ -1066,10 +1066,10 @@
           "number": 35,
           "question": "The correct expression for the potential at a point, distance r from a charge q, in an electric field is",
           "options": {
-            "A": "\\(q / (4πε₀r^2)\\)",
+            "A": "q / (4πε₀r\\(^2\\))",
             "B": "q / (4πε₀r)",
-            "C": "\\(q^2 / (4πε₀r^2)\\)",
-            "D": "\\(q^2 / (4πε₀r)\\)"
+            "C": "q\\(^2\\) / (4πε₀r\\(^2\\))",
+            "D": "q\\(^2\\) / (4πε₀r)"
           },
           "answer": "B",
           "has_diagram": false,
@@ -1134,12 +1134,12 @@
         {
           "id": "2011_40",
           "number": 40,
-          "question": "\\(A radioactive isotope has a decay constant of 10^{-5} s^{-1}. Calculate its half-life.\\)",
+          "question": "A radioactive isotope has a decay constant of 10\\(^{-5}\\) s\\(^{-1}\\). Calculate its half-life.",
           "options": {
-            "A": "\\(6.93 × 10^4 s\\)",
-            "B": "\\(6.93 × 10^{-6} s\\)",
-            "C": "\\(6.93 × 10^{-5} s\\)",
-            "D": "\\(6.93 × 10^5 s\\)"
+            "A": "6.93 × 10\\(^4\\) s",
+            "B": "6.93 × 10\\(^{-6}\\) s",
+            "C": "6.93 × 10\\(^{-5}\\) s",
+            "D": "6.93 × 10\\(^5\\) s"
           },
           "answer": "A",
           "has_diagram": false,
@@ -1210,7 +1210,7 @@
         {
           "id": "2012_5",
           "number": 5,
-          "question": "\\(Calculate the total distance covered by a train before coming to rest if its initial speed is 30 ms^{-1} with a constant retardation of 0.1 ms^{-2}.\\)",
+          "question": "Calculate the total distance covered by a train before coming to rest if its initial speed is 30 ms\\(^{-1}\\) with a constant retardation of 0.1 ms\\(^{-2}\\).",
           "options": {
             "A": "5500 m",
             "B": "4500 m",
@@ -1224,7 +1224,7 @@
         {
           "id": "2012_6",
           "number": 6,
-          "question": "\\(A car starts from rest and moves with a uniform acceleration of 30 ms^{-2} for 20 s. Calculate the distance covered at the end of the motion.\\)",
+          "question": "A car starts from rest and moves with a uniform acceleration of 30 ms\\(^{-2}\\) for 20 s. Calculate the distance covered at the end of the motion.",
           "options": {
             "A": "6 km",
             "B": "12 km",
@@ -1266,12 +1266,12 @@
         {
           "id": "2012_9",
           "number": 9,
-          "question": "\\(An object moves in a circular path of radius 0.5 m with a speed of 1 ms^{-1}. What is its angular velocity?\\)",
+          "question": "An object moves in a circular path of radius 0.5 m with a speed of 1 ms\\(^{-1}\\). What is its angular velocity?",
           "options": {
-            "A": "\\(8 rads^{-1}\\)",
-            "B": "\\(4 rads^{-1}\\)",
-            "C": "\\(2 rads^{-1}\\)",
-            "D": "\\(1 rads^{-1}\\)"
+            "A": "8 rads\\(^{-1}\\)",
+            "B": "4 rads\\(^{-1}\\)",
+            "C": "2 rads\\(^{-1}\\)",
+            "D": "1 rads\\(^{-1}\\)"
           },
           "answer": "C",
           "has_diagram": false,
@@ -1308,7 +1308,7 @@
         {
           "id": "2012_12",
           "number": 12,
-          "question": "\\(An object of mass 20 kg slides down an inclined plane at an angle of 30° to the horizontal. The coefficient of active friction is [g ≈ 10 ms^{-2}]\\)",
+          "question": "An object of mass 20 kg slides down an inclined plane at an angle of 30° to the horizontal. The coefficient of active friction is [g ≈ 10 ms\\(^{-2}\\)]",
           "options": {
             "A": "0.2",
             "B": "0.3",
@@ -1322,7 +1322,7 @@
         {
           "id": "2012_13",
           "number": 13,
-          "question": "\\(A block and tackle is used to raise a load of 25 N through a vertical distance of 30 m. What is the efficiency of the system if the work done against friction is 1500 J? [g ≈ 10 ms^{-2}]\\)",
+          "question": "A block and tackle is used to raise a load of 25 N through a vertical distance of 30 m. What is the efficiency of the system if the work done against friction is 1500 J? [g ≈ 10 ms\\(^{-2}\\)]",
           "options": {
             "A": "62.5%",
             "B": "73.3%",
@@ -1336,12 +1336,12 @@
         {
           "id": "2012_14",
           "number": 14,
-          "question": "\\(If a load of 1 kg stretches a cord by 1.2 cm, what is the force constant of the cord? [g ≈ 10 ms^{-2}]\\)",
+          "question": "If a load of 1 kg stretches a cord by 1.2 cm, what is the force constant of the cord? [g ≈ 10 ms\\(^{-2}\\)]",
           "options": {
-            "A": "\\(866 Nm^{-1}\\)",
-            "B": "\\(833 Nm^{-1}\\)",
-            "C": "\\(769 Nm^{-1}\\)",
-            "D": "\\(667 Nm^{-1}\\)"
+            "A": "866 Nm\\(^{-1}\\)",
+            "B": "833 Nm\\(^{-1}\\)",
+            "C": "769 Nm\\(^{-1}\\)",
+            "D": "667 Nm\\(^{-1}\\)"
           },
           "answer": "B",
           "has_diagram": false,
@@ -1350,7 +1350,7 @@
         {
           "id": "2012_15",
           "number": 15,
-          "question": "\\(An object of volume 1 m^3 and mass 2 kg is totally immersed in a liquid of density 1 kgm^{-3}. Calculate its apparent weight.\\)",
+          "question": "An object of volume 1 m\\(^3\\) and mass 2 kg is totally immersed in a liquid of density 1 kgm\\(^{-3}\\). Calculate its apparent weight.",
           "options": {
             "A": "20 N",
             "B": "10 N",
@@ -1378,7 +1378,7 @@
         {
           "id": "2012_17",
           "number": 17,
-          "question": "\\(A balloon whose volume is 300 m^3 is filled with hydrogen. If the density of air is 1.3 kgm^{-3}, find the upthrust on the balloon. [g ≈ 10 ms^{-2}]\\)",
+          "question": "A balloon whose volume is 300 m\\(^3\\) is filled with hydrogen. If the density of air is 1.3 kgm\\(^{-3}\\), find the upthrust on the balloon. [g ≈ 10 ms\\(^{-2}\\)]",
           "options": {
             "A": "3000 N",
             "B": "3800 N",
@@ -1420,12 +1420,12 @@
         {
           "id": "2012_20",
           "number": 20,
-          "question": "\\(2000 cm^3 of a gas is collected at 27°C and 700 mmHg. What is the volume of the gas at standard temperature and pressure?\\)",
+          "question": "2000 cm\\(^3\\) of a gas is collected at 27°C and 700 mmHg. What is the volume of the gas at standard temperature and pressure?",
           "options": {
-            "A": "\\(1896.5 cm^3\\)",
-            "B": "\\(1767.3 cm^3\\)",
-            "C": "\\(1676.3 cm^3\\)",
-            "D": "\\(1456.5 cm^3\\)"
+            "A": "1896.5 cm\\(^3\\)",
+            "B": "1767.3 cm\\(^3\\)",
+            "C": "1676.3 cm\\(^3\\)",
+            "D": "1456.5 cm\\(^3\\)"
           },
           "answer": "C",
           "has_diagram": false,
@@ -1434,7 +1434,7 @@
         {
           "id": "2012_21",
           "number": 21,
-          "question": "\\(Calculate the temperature change when 500 J of heat is supplied to 100 g of water. (Specific heat capacity of water = 4200 Jkg^{-1}K^{-1})\\)",
+          "question": "Calculate the temperature change when 500 J of heat is supplied to 100 g of water. (Specific heat capacity of water = 4200 Jkg\\(^{-1}\\)K\\(^{-1}\\))",
           "options": {
             "A": "12.1°C",
             "B": "2.1°C",
@@ -1462,12 +1462,12 @@
         {
           "id": "2012_23",
           "number": 23,
-          "question": "\\(The quantity of heat energy required to melt completely 1 kg of ice at -30°C is [Latent heat of fusion = 3.5 × 10^5 Jkg^{-1}, specific heat capacity of ice = 2.1 × 10^3 Jkg^{-1}K^{-1}]\\)",
+          "question": "The quantity of heat energy required to melt completely 1 kg of ice at -30°C is [Latent heat of fusion = 3.5 × 10\\(^5\\) Jkg\\(^{-1}\\), specific heat capacity of ice = 2.1 × 10\\(^3\\) Jkg\\(^{-1}\\)K\\(^{-1}\\)]",
           "options": {
-            "A": "\\(4.13 × 10^5 J\\)",
-            "B": "\\(4.13 × 10^5 J\\)",
-            "C": "\\(3.56 × 10^4 J\\)",
-            "D": "\\(3.56 × 10^2 J\\)"
+            "A": "4.13 × 10\\(^5\\) J",
+            "B": "4.13 × 10\\(^5\\) J",
+            "C": "3.56 × 10\\(^4\\) J",
+            "D": "3.56 × 10\\(^2\\) J"
           },
           "answer": "B",
           "has_diagram": false,
@@ -1700,12 +1700,12 @@
         {
           "id": "2012_40",
           "number": 40,
-          "question": "\\(A particle carrying a charge of 1.0 × 10^{-8} C enters a magnetic field at 3.0 × 10^2 ms^{-1} at right angles to the field. If the force on this particle is 1.8 × 10^{-8} N, what is the magnitude of the field?\\)",
+          "question": "A particle carrying a charge of 1.0 × 10\\(^{-8}\\) C enters a magnetic field at 3.0 × 10\\(^2\\) ms\\(^{-1}\\) at right angles to the field. If the force on this particle is 1.8 × 10\\(^{-8}\\) N, what is the magnitude of the field?",
           "options": {
-            "A": "\\(6.0 × 10^{-1} T\\)",
-            "B": "\\(6.0 × 10^{-2} T\\)",
-            "C": "\\(6.0 × 10^{-3} T\\)",
-            "D": "\\(6.0 × 10^{-4} T\\)"
+            "A": "6.0 × 10\\(^{-1}\\) T",
+            "B": "6.0 × 10\\(^{-2}\\) T",
+            "C": "6.0 × 10\\(^{-3}\\) T",
+            "D": "6.0 × 10\\(^{-4}\\) T"
           },
           "answer": "C",
           "has_diagram": false,
@@ -1766,8 +1766,8 @@
           "options": {
             "A": "8 s",
             "B": "4 s",
-            "C": "\\(2\\sqrt{2} s\\)",
-            "D": "\\(\\sqrt{2} s\\)"
+            "C": "2\\(\\sqrt{2}\\) s",
+            "D": "\\(\\sqrt{2}\\) s"
           },
           "answer": "C",
           "has_diagram": false,
@@ -1776,7 +1776,7 @@
         {
           "id": "2013_5",
           "number": 5,
-          "question": "\\(A train with an initial velocity of 20 ms^{-1} is subjected to a uniform deceleration of 2 ms^{-2}. The time required to bring the train to a complete halt is\\)",
+          "question": "A train with an initial velocity of 20 ms\\(^{-1}\\) is subjected to a uniform deceleration of 2 ms\\(^{-2}\\). The time required to bring the train to a complete halt is",
           "options": {
             "A": "5 s",
             "B": "10 s",
@@ -1790,7 +1790,7 @@
         {
           "id": "2013_6",
           "number": 6,
-          "question": "\\(Calculate the apparent weight loss of a man weighing 70 kg in an elevator moving downwards with an acceleration of 1.5 ms^{-2}. [g ≈ 10 ms^{-2}]\\)",
+          "question": "Calculate the apparent weight loss of a man weighing 70 kg in an elevator moving downwards with an acceleration of 1.5 ms\\(^{-2}\\). [g ≈ 10 ms\\(^{-2}\\)]",
           "options": {
             "A": "686 N",
             "B": "595 N",
@@ -1804,7 +1804,7 @@
         {
           "id": "2013_7",
           "number": 7,
-          "question": "\\(A piece of cork floats in a liquid. What fraction of its volume will be immersed in the liquid? [Density of the cork = 0.25 × 10^3 kgm^{-3}, density of liquid = 1.0 × 10^3 kgm^{-3}]\\)",
+          "question": "A piece of cork floats in a liquid. What fraction of its volume will be immersed in the liquid? [Density of the cork = 0.25 × 10\\(^3\\) kgm\\(^{-3}\\), density of liquid = 1.0 × 10\\(^3\\) kgm\\(^{-3}\\)]",
           "options": {
             "A": "0.8",
             "B": "0.5",
@@ -1818,7 +1818,7 @@
         {
           "id": "2013_8",
           "number": 8,
-          "question": "\\(An object is moving with a velocity of 5 ms^{-1}. At what height must a similar body be situated to have potential energy equal in value with kinetic energy of the moving body?\\)",
+          "question": "An object is moving with a velocity of 5 ms\\(^{-1}\\). At what height must a similar body be situated to have potential energy equal in value with kinetic energy of the moving body?",
           "options": {
             "A": "25.0 m",
             "B": "20.0 m",
@@ -1834,10 +1834,10 @@
           "number": 9,
           "question": "If a pump is capable of lifting 5000 kg of water through a vertical height of 60 m in 15 min, the power of the pump is",
           "options": {
-            "A": "\\(2.5 × 10^5 Js^{-1}\\)",
-            "B": "\\(2.5 × 10^4 Js^{-1}\\)",
-            "C": "\\(3.3 × 10^3 Js^{-1}\\)",
-            "D": "\\(3.3 × 10^2 Js^{-1}\\)"
+            "A": "2.5 × 10\\(^5\\) Js\\(^{-1}\\)",
+            "B": "2.5 × 10\\(^4\\) Js\\(^{-1}\\)",
+            "C": "3.3 × 10\\(^3\\) Js\\(^{-1}\\)",
+            "D": "3.3 × 10\\(^2\\) Js\\(^{-1}\\)"
           },
           "answer": "C",
           "has_diagram": false,
@@ -1888,7 +1888,7 @@
         {
           "id": "2013_13",
           "number": 13,
-          "question": "\\(At what depth below the sea-level would one experience a change of pressure equal to one atmosphere? [Density of sea water = 1.025 × 10^3 kgm^{-3}, one atmosphere = 1.01 × 10^5 Nm^{-2}, g = 10 ms^{-2}]\\)",
+          "question": "At what depth below the sea-level would one experience a change of pressure equal to one atmosphere? [Density of sea water = 1.025 × 10\\(^3\\) kgm\\(^{-3}\\), one atmosphere = 1.01 × 10\\(^5\\) Nm\\(^{-2}\\), g = 10 ms\\(^{-2}\\)]",
           "options": {
             "A": "0.1 m",
             "B": "1.0 m",
@@ -1902,12 +1902,12 @@
         {
           "id": "2013_14",
           "number": 14,
-          "question": "\\(What volume of alcohol will have the same mass as 4.2 m^3 of petrol?\\)",
+          "question": "What volume of alcohol will have the same mass as 4.2 m\\(^3\\) of petrol?",
           "options": {
-            "A": "\\(0.8 m^3\\)",
-            "B": "\\(1.4 m^3\\)",
-            "C": "\\(3.6 m^3\\)",
-            "D": "\\(4.9 m^3\\)"
+            "A": "0.8 m\\(^3\\)",
+            "B": "1.4 m\\(^3\\)",
+            "C": "3.6 m\\(^3\\)",
+            "D": "4.9 m\\(^3\\)"
           },
           "answer": "C",
           "has_diagram": false,
@@ -1930,7 +1930,7 @@
         {
           "id": "2013_16",
           "number": 16,
-          "question": "\\(A wire of length 100.0 m at 30°C has linear expansivity of 2 × 10^{-5} K^{-1}. Calculate the length of the wire at a temperature of -10°C.\\)",
+          "question": "A wire of length 100.0 m at 30°C has linear expansivity of 2 × 10\\(^{-5}\\) K\\(^{-1}\\). Calculate the length of the wire at a temperature of -10°C.",
           "options": {
             "A": "100.08 m",
             "B": "100.04 m",
@@ -1944,12 +1944,12 @@
         {
           "id": "2013_17",
           "number": 17,
-          "question": "\\(A gas at a pressure of 10^5 Nm^{-2} expands from 0.6 m^3 to 1.2 m^3 at constant temperature. The work done is\\)",
+          "question": "A gas at a pressure of 10\\(^5\\) Nm\\(^{-2}\\) expands from 0.6 m\\(^3\\) to 1.2 m\\(^3\\) at constant temperature. The work done is",
           "options": {
-            "A": "\\(7.0 × 10^6 J\\)",
-            "B": "\\(6.0 × 10^6 J\\)",
-            "C": "\\(6.0 × 10^5 J\\)",
-            "D": "\\(6.0 × 10^4 J\\)"
+            "A": "7.0 × 10\\(^6\\) J",
+            "B": "6.0 × 10\\(^6\\) J",
+            "C": "6.0 × 10\\(^5\\) J",
+            "D": "6.0 × 10\\(^4\\) J"
           },
           "answer": "D",
           "has_diagram": false,
@@ -2070,12 +2070,12 @@
         {
           "id": "2013_26",
           "number": 26,
-          "question": "\\(What is the velocity of sound at 100°C, if the velocity of sound at 0°C is 340 ms^{-1}?\\)",
+          "question": "What is the velocity of sound at 100°C, if the velocity of sound at 0°C is 340 ms\\(^{-1}\\)?",
           "options": {
-            "A": "\\(497 ms^{-1}\\)",
-            "B": "\\(440 ms^{-1}\\)",
-            "C": "\\(397 ms^{-1}\\)",
-            "D": "\\(240 ms^{-1}\\)"
+            "A": "497 ms\\(^{-1}\\)",
+            "B": "440 ms\\(^{-1}\\)",
+            "C": "397 ms\\(^{-1}\\)",
+            "D": "240 ms\\(^{-1}\\)"
           },
           "answer": "B",
           "has_diagram": false,
@@ -2196,12 +2196,12 @@
         {
           "id": "2013_35",
           "number": 35,
-          "question": "\\(Calculate the force acting on an electron of charge 1.5 × 10^{-19} C placed in an electric field of intensity 10^5 Vm^{-1}.\\)",
+          "question": "Calculate the force acting on an electron of charge 1.5 × 10\\(^{-19}\\) C placed in an electric field of intensity 10\\(^5\\) Vm\\(^{-1}\\).",
           "options": {
-            "A": "\\(1.5 × 10^{-11} N\\)",
-            "B": "\\(1.5 × 10^{-12} N\\)",
-            "C": "\\(1.5 × 10^{-13} N\\)",
-            "D": "\\(1.5 × 10^{-14} N\\)"
+            "A": "1.5 × 10\\(^{-11}\\) N",
+            "B": "1.5 × 10\\(^{-12}\\) N",
+            "C": "1.5 × 10\\(^{-13}\\) N",
+            "D": "1.5 × 10\\(^{-14}\\) N"
           },
           "answer": "C",
           "has_diagram": false,
@@ -2300,7 +2300,7 @@
         {
           "id": "2014_2",
           "number": 2,
-          "question": "\\(In a hydraulic press, the pump piston exerts a pressure of 100 Pa on the liquid. What force is exerted in the second piston of cross-sectional area 3 m^2?\\)",
+          "question": "In a hydraulic press, the pump piston exerts a pressure of 100 Pa on the liquid. What force is exerted in the second piston of cross-sectional area 3 m\\(^2\\)?",
           "options": {
             "A": "200 N",
             "B": "100 N",
@@ -2356,7 +2356,7 @@
         {
           "id": "2014_6",
           "number": 6,
-          "question": "\\(Two metals P and Q of lengths l_1 and l_2 are heated through the same temperature difference. If the ratio of the linear expansivities of P to Q is 2:3 and the ratio of their lengths is 3:4, what is the ratio of increase in lengths of P to Q?\\)",
+          "question": "Two metals P and Q of lengths l\\(_1\\) and l\\(_2\\) are heated through the same temperature difference. If the ratio of the linear expansivities of P to Q is 2:3 and the ratio of their lengths is 3:4, what is the ratio of increase in lengths of P to Q?",
           "options": {
             "A": "5:7",
             "B": "2:1",
@@ -2370,12 +2370,12 @@
         {
           "id": "2014_7",
           "number": 7,
-          "question": "\\(The density of a certain oil on frying becomes 0.4 kgm^{-3} with a volume of 20 m^3. What will be its initial volume when its initial density is 0.8 kgm^{-3} assuming no loss of oil due to spillage?\\)",
+          "question": "The density of a certain oil on frying becomes 0.4 kgm\\(^{-3}\\) with a volume of 20 m\\(^3\\). What will be its initial volume when its initial density is 0.8 kgm\\(^{-3}\\) assuming no loss of oil due to spillage?",
           "options": {
-            "A": "\\(10 kgm^{-3}\\)",
-            "B": "\\(5 kgm^{-3}\\)",
-            "C": "\\(8 kgm^{-3}\\)",
-            "D": "\\(12 kgm^{-3}\\)"
+            "A": "10 kgm\\(^{-3}\\)",
+            "B": "5 kgm\\(^{-3}\\)",
+            "C": "8 kgm\\(^{-3}\\)",
+            "D": "12 kgm\\(^{-3}\\)"
           },
           "answer": "A",
           "has_diagram": false,
@@ -2440,12 +2440,12 @@
         {
           "id": "2014_12",
           "number": 12,
-          "question": "\\(The pressure of one mole of an ideal gas of volume 10^{-2} m^3 at a temperature of 27°C is [Molar gas constant = 8.3 J mol^{-1} K^{-1}]\\)",
+          "question": "The pressure of one mole of an ideal gas of volume 10\\(^{-2}\\) m\\(^3\\) at a temperature of 27°C is [Molar gas constant = 8.3 J mol\\(^{-1}\\) K\\(^{-1}\\)]",
           "options": {
-            "A": "\\(2.24 × 10^4 Nm^{-2}\\)",
-            "B": "\\(2.24 × 10^5 Nm^{-1}\\)",
-            "C": "\\(2.49 × 10^5 Nm^{-1}\\)",
-            "D": "\\(2.49 × 10^4 Nm^{-1}\\)"
+            "A": "2.24 × 10\\(^4\\) Nm\\(^{-2}\\)",
+            "B": "2.24 × 10\\(^5\\) Nm\\(^{-1}\\)",
+            "C": "2.49 × 10\\(^5\\) Nm\\(^{-1}\\)",
+            "D": "2.49 × 10\\(^4\\) Nm\\(^{-1}\\)"
           },
           "answer": "C",
           "has_diagram": false,
@@ -2468,7 +2468,7 @@
         {
           "id": "2014_14",
           "number": 14,
-          "question": "\\(The wavelength of a wave travelling with a velocity of 420 ms^{-1} is 42 m. What is its period?\\)",
+          "question": "The wavelength of a wave travelling with a velocity of 420 ms\\(^{-1}\\) is 42 m. What is its period?",
           "options": {
             "A": "1.0 s",
             "B": "0.1 s",
@@ -2510,12 +2510,12 @@
         {
           "id": "2014_17",
           "number": 17,
-          "question": "\\(The velocity of sound in air at 16°C is 340 ms^{-1}. What will it be when the pressure is doubled and its temperature raised to 127°C?\\)",
+          "question": "The velocity of sound in air at 16°C is 340 ms\\(^{-1}\\). What will it be when the pressure is doubled and its temperature raised to 127°C?",
           "options": {
-            "A": "\\(4,000 ms^{-1}\\)",
-            "B": "\\(160,000 ms^{-1}\\)",
-            "C": "\\(8,000 ms^{-1}\\)",
-            "D": "\\(400 ms^{-1}\\)"
+            "A": "4,000 ms\\(^{-1}\\)",
+            "B": "160,000 ms\\(^{-1}\\)",
+            "C": "8,000 ms\\(^{-1}\\)",
+            "D": "400 ms\\(^{-1}\\)"
           },
           "answer": "D",
           "has_diagram": false,
@@ -2610,10 +2610,10 @@
           "number": 24,
           "question": "Three capacitors of capacitance 2 μF, 4 μF and 8 μF are connected in parallel and a p.d of 6 V is maintained across each capacitor. The total energy stored is",
           "options": {
-            "A": "\\(6.90 × 10^{-6} J\\)",
-            "B": "\\(6.90 × 10^{-4} J\\)",
-            "C": "\\(2.52 × 10^{-4} J\\)",
-            "D": "\\(2.52 × 10^{-6} J\\)"
+            "A": "6.90 × 10\\(^{-6}\\) J",
+            "B": "6.90 × 10\\(^{-4}\\) J",
+            "C": "2.52 × 10\\(^{-4}\\) J",
+            "D": "2.52 × 10\\(^{-6}\\) J"
           },
           "answer": "C",
           "has_diagram": false,
@@ -2776,7 +2776,7 @@
         {
           "id": "2014_36",
           "number": 36,
-          "question": "\\(The radioisotope ^{235}U decays by emitting two alpha particles, three beta particles and a gamma ray. What is the mass and atomic numbers of the resulting daughter element?\\)",
+          "question": "The radioisotope ²³⁵U decays by emitting two alpha particles, three beta particles and a gamma ray. What is the mass and atomic numbers of the resulting daughter element?",
           "options": {
             "A": "91 and 227",
             "B": "92 and 238",
@@ -2854,10 +2854,10 @@
           "number": 1,
           "question": "A piece of rubber 10 cm long stretches 6 mm when a load of 100 N is hung from it. What is the strain?",
           "options": {
-            "A": "\\(6 × 10^{-3}\\)",
+            "A": "6 × 10\\(^{-3}\\)",
             "B": "6",
             "C": "60",
-            "D": "\\(6 × 10^3\\)"
+            "D": "6 × 10\\(^3\\)"
           },
           "answer": "A",
           "has_diagram": false,
@@ -2894,7 +2894,7 @@
         {
           "id": "2015_4",
           "number": 4,
-          "question": "\\(A body of mass 6 kg rests on an inclined plane. The normal reaction R and the limiting frictional force is F as shown in the diagram. If F is 30 N and g = 10 ms^{-2}, then the angle of inclination θ is\\)",
+          "question": "A body of mass 6 kg rests on an inclined plane. The normal reaction R and the limiting frictional force is F as shown in the diagram. If F is 30 N and g = 10 ms\\(^{-2}\\), then the angle of inclination θ is",
           "options": {
             "A": "15°",
             "B": "60°",
@@ -2908,12 +2908,12 @@
         {
           "id": "2015_5",
           "number": 5,
-          "question": "\\(The speed of light in air is 3.0 × 10^8 ms^{-1}. Its speed in glass having a refractive index of 1.65 is\\)",
+          "question": "The speed of light in air is 3.0 × 10\\(^8\\) ms\\(^{-1}\\). Its speed in glass having a refractive index of 1.65 is",
           "options": {
-            "A": "\\(1.82 × 10^8 ms^{-1}\\)",
-            "B": "\\(3.00 × 10^8 ms^{-1}\\)",
-            "C": "\\(4.95 × 10^8 ms^{-1}\\)",
-            "D": "\\(1.65 × 10^8 ms^{-1}\\)"
+            "A": "1.82 × 10\\(^8\\) ms\\(^{-1}\\)",
+            "B": "3.00 × 10\\(^8\\) ms\\(^{-1}\\)",
+            "C": "4.95 × 10\\(^8\\) ms\\(^{-1}\\)",
+            "D": "1.65 × 10\\(^8\\) ms\\(^{-1}\\)"
           },
           "answer": "A",
           "has_diagram": false,
@@ -3244,12 +3244,12 @@
         {
           "id": "2015_29",
           "number": 29,
-          "question": "\\(If the uncertainty in the measurement of the position of a particle is 5 × 10^{-10} m, the uncertainty in the momentum of the particle is [h = 6.6 × 10^{-34} J]\\)",
+          "question": "If the uncertainty in the measurement of the position of a particle is 5 × 10\\(^{-10}\\) m, the uncertainty in the momentum of the particle is [h = 6.6 × 10\\(^{-34}\\) J]",
           "options": {
-            "A": "\\(1.32 × 10^{-24} Ns\\)",
-            "B": "\\(3.30 × 10^{-44} Ns\\)",
-            "C": "\\(1.32 × 10^{-44} Ns\\)",
-            "D": "\\(3.30 × 10^{-24} Ns\\)"
+            "A": "1.32 × 10\\(^{-24}\\) Ns",
+            "B": "3.30 × 10\\(^{-44}\\) Ns",
+            "C": "1.32 × 10\\(^{-44}\\) Ns",
+            "D": "3.30 × 10\\(^{-24}\\) Ns"
           },
           "answer": "A",
           "has_diagram": false,
@@ -3258,12 +3258,12 @@
         {
           "id": "2015_30",
           "number": 30,
-          "question": "\\(The change in volume when 450 kg of ice is completely melted is [density of ice = 900 kgm^{-3}, density of water = 1000 kgm^{-3}]\\)",
+          "question": "The change in volume when 450 kg of ice is completely melted is [density of ice = 900 kgm\\(^{-3}\\), density of water = 1000 kgm\\(^{-3}\\)]",
           "options": {
-            "A": "\\(0.50 m^3\\)",
-            "B": "\\(0.45 m^3\\)",
-            "C": "\\(4.50 m^3\\)",
-            "D": "\\(0.05 m^3\\)"
+            "A": "0.50 m\\(^3\\)",
+            "B": "0.45 m\\(^3\\)",
+            "C": "4.50 m\\(^3\\)",
+            "D": "0.05 m\\(^3\\)"
           },
           "answer": "D",
           "has_diagram": false,
@@ -3358,10 +3358,10 @@
           "number": 37,
           "question": "If a pump is capable of lifting 5000 kg of water through a vertical height of 60 m in 50 mins, the power of the pump is",
           "options": {
-            "A": "\\(2.5 × 10^5 Js^{-1}\\)",
-            "B": "\\(3.3 × 10^3 Js^{-1}\\)",
-            "C": "\\(2.5 × 10^4 Js^{-1}\\)",
-            "D": "\\(3.3 × 10^2 Js^{-1}\\)"
+            "A": "2.5 × 10\\(^5\\) Js\\(^{-1}\\)",
+            "B": "3.3 × 10\\(^3\\) Js\\(^{-1}\\)",
+            "C": "2.5 × 10\\(^4\\) Js\\(^{-1}\\)",
+            "D": "3.3 × 10\\(^2\\) Js\\(^{-1}\\)"
           },
           "answer": "B",
           "has_diagram": false,
@@ -3370,12 +3370,12 @@
         {
           "id": "2015_38",
           "number": 38,
-          "question": "\\(The distance between two successive crests of a wave is 15 cm and the velocity is 300 ms^{-1}. Calculate the frequency.\\)",
+          "question": "The distance between two successive crests of a wave is 15 cm and the velocity is 300 ms\\(^{-1}\\). Calculate the frequency.",
           "options": {
-            "A": "\\(4.5 × 10^5 Hz\\)",
-            "B": "\\(4.5 × 10^2 Hz\\)",
-            "C": "\\(2.0 × 10^3 Hz\\)",
-            "D": "\\(2.0 × 10^2 Hz\\)"
+            "A": "4.5 × 10\\(^5\\) Hz",
+            "B": "4.5 × 10\\(^2\\) Hz",
+            "C": "2.0 × 10\\(^3\\) Hz",
+            "D": "2.0 × 10\\(^2\\) Hz"
           },
           "answer": "A",
           "has_diagram": false,
@@ -3386,10 +3386,10 @@
           "number": 39,
           "question": "An electric lamp marked 240 V, 60 Watts is left to operate for an hour. How much energy is generated by the filament?",
           "options": {
-            "A": "\\(3.86 × 10^5 J\\)",
-            "B": "\\(2.16 × 10^5 J\\)",
-            "C": "\\(1.80 × 10^4 J\\)",
-            "D": "\\(3.56 × 10^5 J\\)"
+            "A": "3.86 × 10\\(^5\\) J",
+            "B": "2.16 × 10\\(^5\\) J",
+            "C": "1.80 × 10\\(^4\\) J",
+            "D": "3.56 × 10\\(^5\\) J"
           },
           "answer": "B",
           "has_diagram": false,
@@ -3448,10 +3448,10 @@
           "number": 3,
           "question": "If a pump is capable of lifting 5000 kg of water through a vertical height of 60 m in 15 mins, the power of the pump is",
           "options": {
-            "A": "\\(3.3 × 10^3 Js^{-1}\\)",
-            "B": "\\(2.5 × 10^4 Js^{-1}\\)",
-            "C": "\\(2.5 × 10^5 Js^{-1}\\)",
-            "D": "\\(3.3 × 10^2 Js^{-1}\\)"
+            "A": "3.3 × 10\\(^3\\) Js\\(^{-1}\\)",
+            "B": "2.5 × 10\\(^4\\) Js\\(^{-1}\\)",
+            "C": "2.5 × 10\\(^5\\) Js\\(^{-1}\\)",
+            "D": "3.3 × 10\\(^2\\) Js\\(^{-1}\\)"
           },
           "answer": "A",
           "has_diagram": false,
@@ -3460,7 +3460,7 @@
         {
           "id": "2016_4",
           "number": 4,
-          "question": "\\(Calculate the temperature change when 500 J of heat is supplied to 100 g of water. (Specific heat capacity of water = 4200 Jkg^{-1}K^{-1})\\)",
+          "question": "Calculate the temperature change when 500 J of heat is supplied to 100 g of water. (Specific heat capacity of water = 4200 Jkg\\(^{-1}\\)K\\(^{-1}\\))",
           "options": {
             "A": "12.1°C",
             "B": "2.1°C",
@@ -3530,7 +3530,7 @@
         {
           "id": "2016_9",
           "number": 9,
-          "question": "\\(An object of mass 80 kg is pulled on a horizontal rough ground by a force of 500 N. Find the coefficient of static friction. [g ≈ 10 ms^{-2}]\\)",
+          "question": "An object of mass 80 kg is pulled on a horizontal rough ground by a force of 500 N. Find the coefficient of static friction. [g ≈ 10 ms\\(^{-2}\\)]",
           "options": {
             "A": "0.6",
             "B": "0.4",
@@ -3558,12 +3558,12 @@
         {
           "id": "2016_11",
           "number": 11,
-          "question": "\\(A glass plate 0.9 cm thick has a refractive index of 1.50. How long does it take for a pulse of light to pass through the plate? [c = 3.0 × 10^8 ms^{-1}]\\)",
+          "question": "A glass plate 0.9 cm thick has a refractive index of 1.50. How long does it take for a pulse of light to pass through the plate? [c = 3.0 × 10\\(^8\\) ms\\(^{-1}\\)]",
           "options": {
-            "A": "\\(3.0 × 10^{-10} s\\)",
-            "B": "\\(4.5 × 10^{-11} s\\)",
-            "C": "\\(3.0 × 10^{-11} s\\)",
-            "D": "\\(4.5 × 10^{-10} s\\)"
+            "A": "3.0 × 10\\(^{-10}\\) s",
+            "B": "4.5 × 10\\(^{-11}\\) s",
+            "C": "3.0 × 10\\(^{-11}\\) s",
+            "D": "4.5 × 10\\(^{-10}\\) s"
           },
           "answer": "C",
           "has_diagram": false,
@@ -3588,10 +3588,10 @@
           "number": 13,
           "question": "The energy associated with the emitted photon when a mercury atom changes from one state to another is 3.3 eV. Calculate the frequency of the photon.",
           "options": {
-            "A": "\\(3.2 × 10^{-53} Hz\\)",
-            "B": "\\(3.1 × 10^{-53} Hz\\)",
-            "C": "\\(1.3 × 10^{-53} Hz\\)",
-            "D": "\\(8.0 × 10^{-53} Hz\\)"
+            "A": "3.2 × 10\\(^{-53}\\) Hz",
+            "B": "3.1 × 10\\(^{-53}\\) Hz",
+            "C": "1.3 × 10\\(^{-53}\\) Hz",
+            "D": "8.0 × 10\\(^{-53}\\) Hz"
           },
           "answer": "D",
           "has_diagram": false,
@@ -3600,7 +3600,7 @@
         {
           "id": "2016_14",
           "number": 14,
-          "question": "\\(In the nuclear reaction ^{235}U + ¹n → ¹⁴⁴Ba + ⁹⁰Kr + 2X, X is\\)",
+          "question": "In the nuclear reaction ²³⁵U + ¹n → ¹⁴⁴Ba + ⁹⁰Kr + 2X, X is",
           "options": {
             "A": "electron",
             "B": "neutron",
@@ -3630,9 +3630,9 @@
           "number": 16,
           "question": "The refractive index of the medium M in the diagram is",
           "options": {
-            "A": "\\(2/\\sqrt{3}\\)",
+            "A": "2/\\(\\sqrt{3}\\)",
             "B": "\\(\\sqrt{3}\\)",
-            "C": "\\(1/\\sqrt{3}\\)",
+            "C": "1/\\(\\sqrt{3}\\)",
             "D": "∛2"
           },
           "answer": "B",
@@ -3684,12 +3684,12 @@
         {
           "id": "2016_20",
           "number": 20,
-          "question": "\\(A metal of mass 0.5 kg is heated to 100°C and then transferred to a well-lagged calorimeter of heat capacity 80 Jk^{-1} containing water. The specific heat capacity of the metal is\\)",
+          "question": "A metal of mass 0.5 kg is heated to 100°C and then transferred to a well-lagged calorimeter of heat capacity 80 Jk\\(^{-1}\\) containing water. The specific heat capacity of the metal is",
           "options": {
-            "A": "\\(92 Jkg^{-1}k^{-1}\\)",
-            "B": "\\(286 Jkg^{-1}k^{-1}\\)",
-            "C": "\\(133 Jkg^{-1}k^{-1}\\)",
-            "D": "\\(887 Jkg^{-1}k^{-1}\\)"
+            "A": "92 Jkg\\(^{-1}\\)k\\(^{-1}\\)",
+            "B": "286 Jkg\\(^{-1}\\)k\\(^{-1}\\)",
+            "C": "133 Jkg\\(^{-1}\\)k\\(^{-1}\\)",
+            "D": "887 Jkg\\(^{-1}\\)k\\(^{-1}\\)"
           },
           "answer": "C",
           "has_diagram": false,
@@ -4043,9 +4043,9 @@
           "question": "The correct expression for the potential at a point, distance r from a charge q, in an electric field is",
           "options": {
             "A": "q / (4πε₀r)",
-            "B": "\\(q^2 / (4πε₀r)\\)",
-            "C": "\\(q / (4πε₀r^2)\\)",
-            "D": "\\(q^2 / (4πε₀r)\\)"
+            "B": "q\\(^2\\) / (4πε₀r)",
+            "C": "q / (4πε₀r\\(^2\\))",
+            "D": "q\\(^2\\) / (4πε₀r)"
           },
           "answer": "A",
           "has_diagram": false,
@@ -4126,10 +4126,10 @@
           "number": 11,
           "question": "The spheres of masses 5.0 kg and 10.0 kg are 0.3 m apart. Calculate the force of attraction between them.",
           "options": {
-            "A": "\\(3.57 × 10^{-2} N\\)",
-            "B": "\\(3.71 × 10^{-2} N\\)",
-            "C": "\\(4.00 × 10^{-2} N\\)",
-            "D": "\\(3.50 × 10^{-2} N\\)"
+            "A": "3.57 × 10\\(^{-2}\\) N",
+            "B": "3.71 × 10\\(^{-2}\\) N",
+            "C": "4.00 × 10\\(^{-2}\\) N",
+            "D": "3.50 × 10\\(^{-2}\\) N"
           },
           "answer": "B",
           "has_diagram": false,
@@ -4196,9 +4196,9 @@
           "number": 16,
           "question": "Which of the following graphs shows the correct vector diagram for the series R-L circuit above?",
           "options": {
-            "A": "\\(Graph A (V_L leads V_R, both lead I)\\)",
-            "B": "\\(Graph B (V_R in phase with I, V_L leads)\\)",
-            "C": "\\(Graph C (V_R leads I, V_L in phase)\\)",
+            "A": "Graph A (V_L leads V_R, both lead I)",
+            "B": "Graph B (V_R in phase with I, V_L leads)",
+            "C": "Graph C (V_R leads I, V_L in phase)",
             "D": "Graph D (both lag I)"
           },
           "answer": "A",
@@ -4280,10 +4280,10 @@
           "number": 22,
           "question": "Which of the following is the dimension of pressure?",
           "options": {
-            "A": "\\(ML^2T^{-3}\\)",
-            "B": "\\(MLT^{-2}\\)",
-            "C": "\\(ML^{-1}T^{-2}\\)",
-            "D": "\\(ML^{-3}\\)"
+            "A": "ML\\(^2\\)T\\(^{-3}\\)",
+            "B": "MLT\\(^{-2}\\)",
+            "C": "ML\\(^{-1}\\)T\\(^{-2}\\)",
+            "D": "ML\\(^{-3}\\)"
           },
           "answer": "C",
           "has_diagram": false,
@@ -4294,8 +4294,8 @@
           "number": 23,
           "question": "A capacitor of 8 μF is charged to a potential difference of 100 V. The energy stored by the capacitor is",
           "options": {
-            "A": "\\(1.0 × 10^4 J\\)",
-            "B": "\\(4.0 × 10^{-2} J\\)",
+            "A": "1.0 × 10\\(^4\\) J",
+            "B": "4.0 × 10\\(^{-2}\\) J",
             "C": "1.25 × 10 J",
             "D": "8.0 × 10 J"
           },
@@ -4362,7 +4362,7 @@
         {
           "id": "2017_28",
           "number": 28,
-          "question": "\\(In a sound wave in air, the adjacent rarefactions and compressions are separated by a distance of 17 cm. If the velocity of the sound wave is 340 ms^{-1}, determine the frequency.\\)",
+          "question": "In a sound wave in air, the adjacent rarefactions and compressions are separated by a distance of 17 cm. If the velocity of the sound wave is 340 ms\\(^{-1}\\), determine the frequency.",
           "options": {
             "A": "10 Hz",
             "B": "20 Hz",
@@ -4502,12 +4502,12 @@
         {
           "id": "2017_38",
           "number": 38,
-          "question": "\\(The speed of light in air is 3 × 10^8 ms^{-1}. If the refractive index of light from air-to-water is 4/3, which of the following is the correct value of the speed of light in water?\\)",
+          "question": "The speed of light in air is 3 × 10\\(^8\\) ms\\(^{-1}\\). If the refractive index of light from air-to-water is 4/3, which of the following is the correct value of the speed of light in water?",
           "options": {
-            "A": "\\(4 × 10^8 ms^{-1}\\)",
-            "B": "\\(2.23 × 10^8 ms^{-1}\\)",
-            "C": "\\(2.25 × 10^8 ms^{-1}\\)",
-            "D": "\\(4/9 × 10^8 ms^{-1}\\)"
+            "A": "4 × 10\\(^8\\) ms\\(^{-1}\\)",
+            "B": "2.23 × 10\\(^8\\) ms\\(^{-1}\\)",
+            "C": "2.25 × 10\\(^8\\) ms\\(^{-1}\\)",
+            "D": "4/9 × 10\\(^8\\) ms\\(^{-1}\\)"
           },
           "answer": "B",
           "has_diagram": false,
@@ -4552,10 +4552,10 @@
           "number": 1,
           "question": "A man walks 1 km due east and then 1 km due north. His displacement is",
           "options": {
-            "A": "\\(\\sqrt{2} km N 45° E\\)",
+            "A": "\\(\\sqrt{2}\\) km N 45° E",
             "B": "1 km N 30° E",
             "C": "1 km N 15° E",
-            "D": "\\(\\sqrt{2} km N 60° E\\)"
+            "D": "\\(\\sqrt{2}\\) km N 60° E"
           },
           "answer": "A",
           "has_diagram": false,
@@ -4564,12 +4564,12 @@
         {
           "id": "2018_2",
           "number": 2,
-          "question": "\\(The density of 400 cm^3 of palm oil was 0.9 g/cm^3 before frying. If the density of the oil was 0.6 g/cm^3 after frying, assuming no loss of oil due to spilling, its new volume was\\)",
+          "question": "The density of 400 cm\\(^3\\) of palm oil was 0.9 g/cm\\(^3\\) before frying. If the density of the oil was 0.6 g/cm\\(^3\\) after frying, assuming no loss of oil due to spilling, its new volume was",
           "options": {
-            "A": "\\(360 cm^3\\)",
-            "B": "\\(600 cm^3\\)",
-            "C": "\\(240 cm^3\\)",
-            "D": "\\(800 cm^3\\)"
+            "A": "360 cm\\(^3\\)",
+            "B": "600 cm\\(^3\\)",
+            "C": "240 cm\\(^3\\)",
+            "D": "800 cm\\(^3\\)"
           },
           "answer": "B",
           "has_diagram": false,
@@ -4774,12 +4774,12 @@
         {
           "id": "2018_17",
           "number": 17,
-          "question": "\\(In the diagram above, the hanging mass m_2 is adjusted until m_1 is on the verge of sliding. The coefficient of static friction between mass m_1 and the table is\\)",
+          "question": "In the diagram above, the hanging mass m\\(_2\\) is adjusted until m\\(_1\\) is on the verge of sliding. The coefficient of static friction between mass m\\(_1\\) and the table is",
           "options": {
-            "A": "\\(m_1/m_2\\)",
-            "B": "\\(m_1g/m_2\\)",
-            "C": "\\(m_2/m_1\\)",
-            "D": "\\(m_2g/m_1\\)"
+            "A": "m\\(_1\\)/m\\(_2\\)",
+            "B": "m\\(_1\\)g/m\\(_2\\)",
+            "C": "m\\(_2\\)/m\\(_1\\)",
+            "D": "m\\(_2\\)g/m\\(_1\\)"
           },
           "answer": "D",
           "has_diagram": true,
@@ -4858,12 +4858,12 @@
         {
           "id": "2018_23",
           "number": 23,
-          "question": "\\(The linear expansivity of brass is 2 × 10^{-5} °C^{-1}. If the volume of a piece of brass is 15.00 cm^3 at 0°C, what is the volume at 100°C?\\)",
+          "question": "The linear expansivity of brass is 2 × 10\\(^{-5}\\) °C\\(^{-1}\\). If the volume of a piece of brass is 15.00 cm\\(^3\\) at 0°C, what is the volume at 100°C?",
           "options": {
-            "A": "\\(16.03 cm^3\\)",
-            "B": "\\(15.09 cm^3\\)",
-            "C": "\\(16.00 cm^3\\)",
-            "D": "\\(15.03 cm^3\\)"
+            "A": "16.03 cm\\(^3\\)",
+            "B": "15.09 cm\\(^3\\)",
+            "C": "16.00 cm\\(^3\\)",
+            "D": "15.03 cm\\(^3\\)"
           },
           "answer": "B",
           "has_diagram": false,
@@ -4872,7 +4872,7 @@
         {
           "id": "2018_24",
           "number": 24,
-          "question": "\\(A lead bullet of mass 0.05 kg is fired with a velocity of 200 ms^{-1} into a lead block of mass 0.95 kg. Given that the lead block can move freely, the final kinetic energy after impact is\\)",
+          "question": "A lead bullet of mass 0.05 kg is fired with a velocity of 200 ms\\(^{-1}\\) into a lead block of mass 0.95 kg. Given that the lead block can move freely, the final kinetic energy after impact is",
           "options": {
             "A": "150 J",
             "B": "100 J",
@@ -5068,12 +5068,12 @@
         {
           "id": "2018_38",
           "number": 38,
-          "question": "\\(An object moves in a circular path of radius 0.5 m with a speed of 1 ms^{-1}. What is its angular velocity?\\)",
+          "question": "An object moves in a circular path of radius 0.5 m with a speed of 1 ms\\(^{-1}\\). What is its angular velocity?",
           "options": {
-            "A": "\\(8 rads^{-1}\\)",
-            "B": "\\(4 rads^{-1}\\)",
-            "C": "\\(1 rads^{-1}\\)",
-            "D": "\\(2 rads^{-1}\\)"
+            "A": "8 rads\\(^{-1}\\)",
+            "B": "4 rads\\(^{-1}\\)",
+            "C": "1 rads\\(^{-1}\\)",
+            "D": "2 rads\\(^{-1}\\)"
           },
           "answer": "D",
           "has_diagram": false,
