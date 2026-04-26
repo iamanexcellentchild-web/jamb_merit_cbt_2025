@@ -12,6 +12,22 @@ from datetime import datetime
 import random
 
 # ---------------------------------------------------------------------------
+# Supabase storage — used on Vercel; falls back to local JSON files in dev
+# ---------------------------------------------------------------------------
+_SUPABASE_URL = os.environ.get('SUPABASE_URL')
+_SUPABASE_KEY = os.environ.get('SUPABASE_KEY')
+_USE_SUPABASE = bool(_SUPABASE_URL and _SUPABASE_KEY)
+
+if _USE_SUPABASE:
+    try:
+        from supabase import create_client as _create_client
+        _sb = _create_client(_SUPABASE_URL, _SUPABASE_KEY)
+    except Exception as _e:
+        import sys
+        print(f'WARNING: Could not initialise Supabase client: {_e}', file=sys.stderr)
+        _USE_SUPABASE = False
+
+# ---------------------------------------------------------------------------
 # App setup
 # ---------------------------------------------------------------------------
 
@@ -313,10 +329,19 @@ app.jinja_env.filters['latex_safe'] = latex_safe
 # ---------------------------------------------------------------------------
 
 def _codes_path():
+    # Only used in local dev (no Supabase)
     return os.path.join(os.path.dirname(__file__), 'access_codes.json')
 
 
 def _read_codes():
+    if _USE_SUPABASE:
+        try:
+            rows = _sb.table('access_codes').select('code').execute()
+            return [row['code'] for row in rows.data]
+        except Exception as e:
+            app.logger.error(f'Supabase _read_codes error: {e}')
+            return []
+    # --- local fallback ---
     path = _codes_path()
     if not os.path.exists(path):
         return []
@@ -328,6 +353,18 @@ def _read_codes():
 
 
 def _save_codes(codes):
+    if _USE_SUPABASE:
+        try:
+            # Replace all codes: delete existing then re-insert
+            _sb.table('access_codes').delete().neq('code', '').execute()
+            if codes:
+                _sb.table('access_codes').insert(
+                    [{'code': c} for c in codes]
+                ).execute()
+        except Exception as e:
+            app.logger.error(f'Supabase _save_codes error: {e}')
+        return
+    # --- local fallback ---
     with open(_codes_path(), 'w', encoding='utf-8') as f:
         json.dump(codes, f, indent=2)
 
@@ -356,10 +393,19 @@ def require_access_code():
         return redirect(url_for('access'))
 
 def results_file_path():
+    # Only used in local dev (no Supabase)
     return os.path.join(os.path.dirname(__file__), 'results.json')
 
 
 def read_results():
+    if _USE_SUPABASE:
+        try:
+            rows = _sb.table('results').select('data').order('id').execute()
+            return [row['data'] for row in rows.data]
+        except Exception as e:
+            app.logger.error(f'Supabase read_results error: {e}')
+            return []
+    # --- local fallback ---
     path = results_file_path()
     if not os.path.exists(path):
         return []
@@ -371,6 +417,13 @@ def read_results():
 
 
 def save_result(entry):
+    if _USE_SUPABASE:
+        try:
+            _sb.table('results').insert({'data': entry}).execute()
+        except Exception as e:
+            app.logger.error(f'Supabase save_result error: {e}')
+        return
+    # --- local fallback ---
     path = results_file_path()
     data = read_results()
     data.append(entry)
@@ -789,7 +842,11 @@ def submit_exam():
         'timed_out':   reason == 'timeout',
         'timestamp':   datetime.now().isoformat(),
     }
-    save_result(entry)
+    try:
+        save_result(entry)
+    except Exception as e:
+        app.logger.error(f'Could not save result: {e}')
+        # Result page still renders even if saving fails
 
     # Clear exam state (keep username for history page)
     for key in ('selected_subjects', 'exam_indices', 'exam_answers',
